@@ -1,1 +1,216 @@
-{"id":1113951,"titulo":"Whiteout","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/hrBFCzO6AehdjCJNgP6DB12LAw8.jpg","release_date":"2025-10-16","genres":["drama"],"rating":"5.9","backdrop":"https://image.tmdb.org/t/p/original/qNi4cEFgx8XeAr8r0CGx5QWhDgp.jpg","overview":"Tras escapar de un campo de trabajo ruso, tres hombres deben superar la traicionera naturaleza y superarse unos a otros, ya que su viaje de vuelta a casa se convierte en una brutal lucha por la supervivencia.","trailer":"","runtime":"90","slug":"whiteout","servidores":[{"id":1,"url":"https://streamwish.to/e/lgv23tr8q716","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"lgv23tr8q716","player_url":"https://streamwish.to/e/lgv23tr8q716"},{"id":2,"url":"https://bysejikuar.com/e/uplnid7xk6mk","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"uplnid7xk6mk","player_url":"https://bysejikuar.com/e/uplnid7xk6mk"},{"id":3,"url":"https://vidhidepro.com/v/3py1og5aeeug","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"3py1og5aeeug","player_url":"https://vidhidepro.com/v/3py1og5aeeug"},{"id":4,"url":"https://voe.sx/e/ctzhmkuf9ws8","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ctzhmkuf9ws8","player_url":"https://voe.sx/e/ctzhmkuf9ws8"},{"id":5,"url":"https://doodstream.com/e/tkh3f80aaxm4","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"tkh3f80aaxm4","player_url":"https://doodstream.com/e/tkh3f80aaxm4"},{"id":6,"url":"https://streamwish.to/e/mj74yf55kxxz","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"mj74yf55kxxz","player_url":"https://streamwish.to/e/mj74yf55kxxz"},{"id":7,"url":"https://bysejikuar.com/e/eai9113ggtxc","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"eai9113ggtxc","player_url":"https://bysejikuar.com/e/eai9113ggtxc"},{"id":8,"url":"https://vidhidepro.com/v/t42l7unqh5qs","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"t42l7unqh5qs","player_url":"https://vidhidepro.com/v/t42l7unqh5qs"},{"id":9,"url":"https://voe.sx/e/8gdiv69fbhdp","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"8gdiv69fbhdp","player_url":"https://voe.sx/e/8gdiv69fbhdp"},{"id":10,"url":"https://doodstream.com/e/5hc6gogi53v6","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"5hc6gogi53v6","player_url":"https://doodstream.com/e/5hc6gogi53v6"}]}
+{
+  "id": 1113951,
+  "titulo": "Whiteout",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/hrBFCzO6AehdjCJNgP6DB12LAw8.jpg",
+  "release_date": "2025-10-16",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/qNi4cEFgx8XeAr8r0CGx5QWhDgp.jpg",
+  "overview": "Tras escapar de un campo de trabajo ruso, tres hombres deben superar la traicionera naturaleza y superarse unos a otros, ya que su viaje de vuelta a casa se convierte en una brutal lucha por la supervivencia.",
+  "trailer": "",
+  "runtime": "90",
+  "slug": "whiteout",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/lgv23tr8q716",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lgv23tr8q716",
+      "player_url": "https://streamwish.to/e/lgv23tr8q716"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/uplnid7xk6mk",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "uplnid7xk6mk",
+      "player_url": "https://bysejikuar.com/e/uplnid7xk6mk"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/3py1og5aeeug",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3py1og5aeeug",
+      "player_url": "https://vidhidepro.com/v/3py1og5aeeug"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/ctzhmkuf9ws8",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ctzhmkuf9ws8",
+      "player_url": "https://voe.sx/e/ctzhmkuf9ws8"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/tkh3f80aaxm4",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "tkh3f80aaxm4",
+      "player_url": "https://doodstream.com/e/tkh3f80aaxm4"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/mj74yf55kxxz",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mj74yf55kxxz",
+      "player_url": "https://streamwish.to/e/mj74yf55kxxz"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/eai9113ggtxc",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "eai9113ggtxc",
+      "player_url": "https://bysejikuar.com/e/eai9113ggtxc"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/t42l7unqh5qs",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "t42l7unqh5qs",
+      "player_url": "https://vidhidepro.com/v/t42l7unqh5qs"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/8gdiv69fbhdp",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "8gdiv69fbhdp",
+      "player_url": "https://voe.sx/e/8gdiv69fbhdp"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/5hc6gogi53v6",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "5hc6gogi53v6",
+      "player_url": "https://doodstream.com/e/5hc6gogi53v6"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/xk5tufa62f2s",
+      "player_url": "https://minochinos.com/embed/xk5tufa62f2s",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xk5tufa62f2s"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/01v59dhsrcil",
+      "player_url": "https://hglink.to/e/01v59dhsrcil",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "01v59dhsrcil"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/s0gn6jt4wlo0",
+      "player_url": "https://bysedikamoum.com/e/s0gn6jt4wlo0",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s0gn6jt4wlo0"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/iwsasssl8jw0",
+      "player_url": "https://voe.sx/e/iwsasssl8jw0",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iwsasssl8jw0"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/iwsasssl8jw0/download",
+      "player_url": "https://voe.sx/iwsasssl8jw0/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/hgyxdsrznjap",
+      "player_url": "https://rapidvideo.link/e/hgyxdsrznjap",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hgyxdsrznjap"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/59e4fab41j2c",
+      "player_url": "https://minochinos.com/embed/59e4fab41j2c",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "59e4fab41j2c"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/kr5mpub34d7e",
+      "player_url": "https://hglink.to/e/kr5mpub34d7e",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kr5mpub34d7e"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/qu7n1ezk8hhx",
+      "player_url": "https://bysedikamoum.com/e/qu7n1ezk8hhx",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qu7n1ezk8hhx"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/nylzyevf6fgl",
+      "player_url": "https://voe.sx/e/nylzyevf6fgl",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "nylzyevf6fgl"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/nylzyevf6fgl/download",
+      "player_url": "https://voe.sx/nylzyevf6fgl/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/2x6yri8k1j0g",
+      "player_url": "https://rapidvideo.link/e/2x6yri8k1j0g",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2x6yri8k1j0g"
+    }
+  ]
+}
