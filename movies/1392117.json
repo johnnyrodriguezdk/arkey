@@ -1,1 +1,234 @@
-{"id":1392117,"titulo":"Umami","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/h40GMBkxXmU0aar8IAv9MmM3ZDB.jpg","release_date":"2025-02-11","genres":["drama"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/mnrqxJaBMLGmqJKlq2UfFZFDdSr.jpg","overview":"El chef y dueño Sina Bora enfrenta desafíos personales y profesionales en una de las noches más concurridas de su restaurante. La cirugía de emergencia de su padre, ingredientes faltantes, tensiones entre el personal y los planes de su antiguo mentor Renzo por tomar el control llevan a Sina a tomar decisiones difíciles.","trailer":"","runtime":"120","slug":"umami","servidores":[{"id":1,"url":"https://streamwish.to/e/otdw3yxv1231","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"otdw3yxv1231","player_url":"https://streamwish.to/e/otdw3yxv1231"},{"id":2,"url":"https://vidhidepro.com/v/mu02j7nj3c2b","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"mu02j7nj3c2b","player_url":"https://vidhidepro.com/v/mu02j7nj3c2b"},{"id":3,"url":"https://voe.sx/e/qslgzsuwzbhj","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"qslgzsuwzbhj","player_url":"https://voe.sx/e/qslgzsuwzbhj"},{"id":4,"url":"https://streamwish.to/e/yg9yvdps9s7c","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"yg9yvdps9s7c","player_url":"https://streamwish.to/e/yg9yvdps9s7c"},{"id":5,"url":"https://vidhidepro.com/v/i8ov6r0w2o9m","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"i8ov6r0w2o9m","player_url":"https://vidhidepro.com/v/i8ov6r0w2o9m"},{"id":6,"url":"https://voe.sx/e/ybuiuwlt7vpl","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ybuiuwlt7vpl","player_url":"https://voe.sx/e/ybuiuwlt7vpl"},{"id":7,"url":"https://streamwish.to/e/9pjv2u6upx6w","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"9pjv2u6upx6w","player_url":"https://streamwish.to/e/9pjv2u6upx6w"},{"id":8,"url":"https://vidhidepro.com/v/xtrrt8qcwkas","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"xtrrt8qcwkas","player_url":"https://vidhidepro.com/v/xtrrt8qcwkas"},{"id":9,"url":"https://voe.sx/e/6htlc7u2p90u","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"6htlc7u2p90u","player_url":"https://voe.sx/e/6htlc7u2p90u"}]}
+{
+  "id": 1392117,
+  "titulo": "Umami",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/h40GMBkxXmU0aar8IAv9MmM3ZDB.jpg",
+  "release_date": "2025-02-11",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/mnrqxJaBMLGmqJKlq2UfFZFDdSr.jpg",
+  "overview": "El chef y dueño Sina Bora enfrenta desafíos personales y profesionales en una de las noches más concurridas de su restaurante. La cirugía de emergencia de su padre, ingredientes faltantes, tensiones entre el personal y los planes de su antiguo mentor Renzo por tomar el control llevan a Sina a tomar decisiones difíciles.",
+  "trailer": "",
+  "runtime": "120",
+  "slug": "umami",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/otdw3yxv1231",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "otdw3yxv1231",
+      "player_url": "https://streamwish.to/e/otdw3yxv1231"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/mu02j7nj3c2b",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mu02j7nj3c2b",
+      "player_url": "https://vidhidepro.com/v/mu02j7nj3c2b"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/qslgzsuwzbhj",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qslgzsuwzbhj",
+      "player_url": "https://voe.sx/e/qslgzsuwzbhj"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/yg9yvdps9s7c",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "yg9yvdps9s7c",
+      "player_url": "https://streamwish.to/e/yg9yvdps9s7c"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/i8ov6r0w2o9m",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "i8ov6r0w2o9m",
+      "player_url": "https://vidhidepro.com/v/i8ov6r0w2o9m"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/ybuiuwlt7vpl",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ybuiuwlt7vpl",
+      "player_url": "https://voe.sx/e/ybuiuwlt7vpl"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/9pjv2u6upx6w",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "9pjv2u6upx6w",
+      "player_url": "https://streamwish.to/e/9pjv2u6upx6w"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/xtrrt8qcwkas",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xtrrt8qcwkas",
+      "player_url": "https://vidhidepro.com/v/xtrrt8qcwkas"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/6htlc7u2p90u",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "6htlc7u2p90u",
+      "player_url": "https://voe.sx/e/6htlc7u2p90u"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/nfp361wo2m82",
+      "player_url": "https://minochinos.com/embed/nfp361wo2m82",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nfp361wo2m82"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/ft1k1gm74qpd",
+      "player_url": "https://hglink.to/e/ft1k1gm74qpd",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ft1k1gm74qpd"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/jrinrbn8dmje",
+      "player_url": "https://voe.sx/e/jrinrbn8dmje",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jrinrbn8dmje"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/jrinrbn8dmje/download",
+      "player_url": "https://voe.sx/jrinrbn8dmje/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/pb1mn48ftq59",
+      "player_url": "https://rapidvideo.link/e/pb1mn48ftq59",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pb1mn48ftq59"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/m7e052ldmyq9",
+      "player_url": "https://minochinos.com/embed/m7e052ldmyq9",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m7e052ldmyq9"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/aykifa4esvw4",
+      "player_url": "https://hglink.to/e/aykifa4esvw4",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aykifa4esvw4"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/bg6i4aeivci2",
+      "player_url": "https://voe.sx/e/bg6i4aeivci2",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bg6i4aeivci2"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/imep3v15jdcw",
+      "player_url": "https://rapidvideo.link/e/imep3v15jdcw",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "imep3v15jdcw"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/0vmtpfc46pgu",
+      "player_url": "https://minochinos.com/embed/0vmtpfc46pgu",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0vmtpfc46pgu"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/czz7dd7xx7a9",
+      "player_url": "https://hglink.to/e/czz7dd7xx7a9",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "czz7dd7xx7a9"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/osdwukf9sx2s",
+      "player_url": "https://bysedikamoum.com/e/osdwukf9sx2s",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "osdwukf9sx2s"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/ooslcmrcevnt",
+      "player_url": "https://voe.sx/e/ooslcmrcevnt",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ooslcmrcevnt"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/ooslcmrcevnt/download",
+      "player_url": "https://voe.sx/ooslcmrcevnt/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/tkzgqn2apo4f",
+      "player_url": "https://rapidvideo.link/e/tkzgqn2apo4f",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tkzgqn2apo4f"
+    }
+  ]
+}
