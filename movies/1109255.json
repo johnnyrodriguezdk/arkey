@@ -1,1 +1,198 @@
-{"id":1109255,"titulo":"Parthenope","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/pHeUdYRCv5qw0lPp9R6DP9LNuy4.jpg","release_date":"2024-10-24","genres":["drama"],"rating":"6.7","backdrop":"https://image.tmdb.org/t/p/original/fBUaeRfD2mu6T9vNZ1IR3yhccdP.jpg","overview":"La hermosa Parthenope busca el amor en los veranos embriagadores y calurosos y en las noches interminables de su juventud en Nápoles, Italia, mientras se enamora de los muchos personajes inolvidables de la ciudad y se encuentra a sí misma en las aventuras que conforman toda una vida.","trailer":"","runtime":"137","slug":"parthenope","servidores":[{"id":1,"url":"https://streamwish.to/e/6zkhlam1ii1c","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"6zkhlam1ii1c","player_url":"https://streamwish.to/e/6zkhlam1ii1c"},{"id":2,"url":"https://vidhidepro.com/v/3hnlpdxthl1i","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"3hnlpdxthl1i","player_url":"https://vidhidepro.com/v/3hnlpdxthl1i"},{"id":3,"url":"https://voe.sx/e/pcreb6u9cwww","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"pcreb6u9cwww","player_url":"https://voe.sx/e/pcreb6u9cwww"},{"id":4,"url":"https://doodstream.com/e/4idrcjxuxceb","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"4idrcjxuxceb","player_url":"https://doodstream.com/e/4idrcjxuxceb"},{"id":5,"url":"https://streamwish.to/e/3yn6gpk9p9fw","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"3yn6gpk9p9fw","player_url":"https://streamwish.to/e/3yn6gpk9p9fw"},{"id":6,"url":"https://vidhidepro.com/v/5glx5xt2hetn","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"5glx5xt2hetn","player_url":"https://vidhidepro.com/v/5glx5xt2hetn"},{"id":7,"url":"https://voe.sx/e/iy9o5jsg9hci","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"iy9o5jsg9hci","player_url":"https://voe.sx/e/iy9o5jsg9hci"},{"id":8,"url":"https://doodstream.com/e/fcup6rkohomj","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"fcup6rkohomj","player_url":"https://doodstream.com/e/fcup6rkohomj"}]}
+{
+  "id": 1109255,
+  "titulo": "Parthenope",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/pHeUdYRCv5qw0lPp9R6DP9LNuy4.jpg",
+  "release_date": "2024-10-24",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/fBUaeRfD2mu6T9vNZ1IR3yhccdP.jpg",
+  "overview": "La hermosa Parthenope busca el amor en los veranos embriagadores y calurosos y en las noches interminables de su juventud en Nápoles, Italia, mientras se enamora de los muchos personajes inolvidables de la ciudad y se encuentra a sí misma en las aventuras que conforman toda una vida.",
+  "trailer": "",
+  "runtime": "137",
+  "slug": "parthenope",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/6zkhlam1ii1c",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6zkhlam1ii1c",
+      "player_url": "https://streamwish.to/e/6zkhlam1ii1c"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/3hnlpdxthl1i",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3hnlpdxthl1i",
+      "player_url": "https://vidhidepro.com/v/3hnlpdxthl1i"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/pcreb6u9cwww",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "pcreb6u9cwww",
+      "player_url": "https://voe.sx/e/pcreb6u9cwww"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/4idrcjxuxceb",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "4idrcjxuxceb",
+      "player_url": "https://doodstream.com/e/4idrcjxuxceb"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/3yn6gpk9p9fw",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3yn6gpk9p9fw",
+      "player_url": "https://streamwish.to/e/3yn6gpk9p9fw"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/5glx5xt2hetn",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5glx5xt2hetn",
+      "player_url": "https://vidhidepro.com/v/5glx5xt2hetn"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/iy9o5jsg9hci",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "iy9o5jsg9hci",
+      "player_url": "https://voe.sx/e/iy9o5jsg9hci"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/fcup6rkohomj",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fcup6rkohomj",
+      "player_url": "https://doodstream.com/e/fcup6rkohomj"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/japg65xzhjlr",
+      "player_url": "https://minochinos.com/embed/japg65xzhjlr",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "japg65xzhjlr"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/y4kxbvlqqm6r",
+      "player_url": "https://hglink.to/e/y4kxbvlqqm6r",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y4kxbvlqqm6r"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/j3o0m2csmgt4",
+      "player_url": "https://bysedikamoum.com/e/j3o0m2csmgt4",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j3o0m2csmgt4"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/xtbwlhhtcioy",
+      "player_url": "https://voe.sx/e/xtbwlhhtcioy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xtbwlhhtcioy"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/xtbwlhhtcioy/download",
+      "player_url": "https://voe.sx/xtbwlhhtcioy/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/4rx7nvktq9so",
+      "player_url": "https://rapidvideo.link/e/4rx7nvktq9so",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4rx7nvktq9so"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/jtp4jdt2swva",
+      "player_url": "https://minochinos.com/embed/jtp4jdt2swva",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jtp4jdt2swva"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/px24bxdt2knl",
+      "player_url": "https://hglink.to/e/px24bxdt2knl",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "px24bxdt2knl"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/kc43vypmja13",
+      "player_url": "https://bysedikamoum.com/e/kc43vypmja13",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kc43vypmja13"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/v3gflv51jvfv",
+      "player_url": "https://voe.sx/e/v3gflv51jvfv",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "v3gflv51jvfv"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/v3gflv51jvfv/download",
+      "player_url": "https://voe.sx/v3gflv51jvfv/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/53yq48wvup6x",
+      "player_url": "https://rapidvideo.link/e/53yq48wvup6x",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "53yq48wvup6x"
+    }
+  ]
+}
