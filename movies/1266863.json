@@ -1,1 +1,198 @@
-{"id":1266863,"titulo":"Agente de Kung Fu","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/21Q2KOLQROUkzE4pRz5hjIL80na.jpg","release_date":"2023-10-05","genres":["drama"],"rating":"5.9","backdrop":"https://image.tmdb.org/t/p/original/g5gkWdWyWy2nl8yjhnJgg2eXES8.jpg","overview":"Timuchin es un joven ambicioso que acaba de mudarse a la gran ciudad con el sueño de ingresar en la Academia de Policía. Pero mientras se prepara para afrontar los exámenes de ingreso, se enfrenta a una peligrosa banda local.","trailer":"","runtime":"129","slug":"agente-de-kung-fu","servidores":[{"id":1,"url":"https://streamwish.to/e/ve5kosebifcp","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"ve5kosebifcp","player_url":"https://streamwish.to/e/ve5kosebifcp"},{"id":2,"url":"https://vidhidepro.com/v/vw7kbrp9nfvh","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"vw7kbrp9nfvh","player_url":"https://vidhidepro.com/v/vw7kbrp9nfvh"},{"id":3,"url":"https://voe.sx/e/z92zgbw9th5e","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"z92zgbw9th5e","player_url":"https://voe.sx/e/z92zgbw9th5e"},{"id":4,"url":"https://doodstream.com/e/dqt75a6swtuk","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"dqt75a6swtuk","player_url":"https://doodstream.com/e/dqt75a6swtuk"},{"id":5,"url":"https://streamwish.to/e/hi6ztg5fl41b","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hi6ztg5fl41b","player_url":"https://streamwish.to/e/hi6ztg5fl41b"},{"id":6,"url":"https://vidhidepro.com/v/knyj5hisz3e5","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"knyj5hisz3e5","player_url":"https://vidhidepro.com/v/knyj5hisz3e5"},{"id":7,"url":"https://voe.sx/e/l07etxteiohm","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"l07etxteiohm","player_url":"https://voe.sx/e/l07etxteiohm"},{"id":8,"url":"https://doodstream.com/e/g1yypae8xxx5","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"g1yypae8xxx5","player_url":"https://doodstream.com/e/g1yypae8xxx5"}]}
+{
+  "id": 1266863,
+  "titulo": "Agente de Kung Fu",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/21Q2KOLQROUkzE4pRz5hjIL80na.jpg",
+  "release_date": "2023-10-05",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/g5gkWdWyWy2nl8yjhnJgg2eXES8.jpg",
+  "overview": "Timuchin es un joven ambicioso que acaba de mudarse a la gran ciudad con el sueño de ingresar en la Academia de Policía. Pero mientras se prepara para afrontar los exámenes de ingreso, se enfrenta a una peligrosa banda local.",
+  "trailer": "",
+  "runtime": "129",
+  "slug": "agente-de-kung-fu",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ve5kosebifcp",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ve5kosebifcp",
+      "player_url": "https://streamwish.to/e/ve5kosebifcp"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/vw7kbrp9nfvh",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "vw7kbrp9nfvh",
+      "player_url": "https://vidhidepro.com/v/vw7kbrp9nfvh"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/z92zgbw9th5e",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "z92zgbw9th5e",
+      "player_url": "https://voe.sx/e/z92zgbw9th5e"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/dqt75a6swtuk",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "dqt75a6swtuk",
+      "player_url": "https://doodstream.com/e/dqt75a6swtuk"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/hi6ztg5fl41b",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hi6ztg5fl41b",
+      "player_url": "https://streamwish.to/e/hi6ztg5fl41b"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/knyj5hisz3e5",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "knyj5hisz3e5",
+      "player_url": "https://vidhidepro.com/v/knyj5hisz3e5"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/l07etxteiohm",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "l07etxteiohm",
+      "player_url": "https://voe.sx/e/l07etxteiohm"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/g1yypae8xxx5",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "g1yypae8xxx5",
+      "player_url": "https://doodstream.com/e/g1yypae8xxx5"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/mlia6lhtt51b",
+      "player_url": "https://minochinos.com/embed/mlia6lhtt51b",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mlia6lhtt51b"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/delklaei2dah",
+      "player_url": "https://hglink.to/e/delklaei2dah",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "delklaei2dah"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/k6j3ur9eqdqh",
+      "player_url": "https://bysedikamoum.com/e/k6j3ur9eqdqh",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k6j3ur9eqdqh"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/hkn3i9mpvnlg",
+      "player_url": "https://voe.sx/e/hkn3i9mpvnlg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hkn3i9mpvnlg"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/hkn3i9mpvnlg/download",
+      "player_url": "https://voe.sx/hkn3i9mpvnlg/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/sucx1oitnek2",
+      "player_url": "https://rapidvideo.link/e/sucx1oitnek2",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sucx1oitnek2"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/zht9694ke39u",
+      "player_url": "https://minochinos.com/embed/zht9694ke39u",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zht9694ke39u"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/i83ywirkne8u",
+      "player_url": "https://hglink.to/e/i83ywirkne8u",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "i83ywirkne8u"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/3w3t1zif7mw6",
+      "player_url": "https://bysedikamoum.com/e/3w3t1zif7mw6",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3w3t1zif7mw6"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/u6weoardcnbl",
+      "player_url": "https://voe.sx/e/u6weoardcnbl",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u6weoardcnbl"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/u6weoardcnbl/download",
+      "player_url": "https://voe.sx/u6weoardcnbl/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/le196mfciy4d",
+      "player_url": "https://rapidvideo.link/e/le196mfciy4d",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "le196mfciy4d"
+    }
+  ]
+}
