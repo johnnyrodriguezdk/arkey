@@ -1,1 +1,234 @@
-{"id":1406657,"titulo":"Scarlet","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/q02d53qC6VGL3Di53bAuIR13rYf.jpg","release_date":"2025-11-21","genres":["drama"],"rating":"7.3","backdrop":"https://image.tmdb.org/t/p/original/4ZZiOP4Imzv6ULF9QczvfQ1VdEO.jpg","overview":"En un reino de muertos y locura, la Princesa Scarlet debe vengarse de su enemigo y llegar al \"Lugar Sin Fin\" antes de desvanecerse en la nada. ¿Podrá sobrevivir a su interminable viaje?","trailer":"","runtime":"112","slug":"scarlet","servidores":[{"id":1,"url":"https://streamwish.to/e/cv45iqp1zlv2","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"cv45iqp1zlv2","player_url":"https://streamwish.to/e/cv45iqp1zlv2"},{"id":2,"url":"https://bysejikuar.com/e/dbausvcdpe8a","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"dbausvcdpe8a","player_url":"https://bysejikuar.com/e/dbausvcdpe8a"},{"id":3,"url":"https://vidhidepro.com/v/b5ilwmf2935g","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"b5ilwmf2935g","player_url":"https://vidhidepro.com/v/b5ilwmf2935g"},{"id":4,"url":"https://voe.sx/e/tcndvbiedias","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"tcndvbiedias","player_url":"https://voe.sx/e/tcndvbiedias"},{"id":5,"url":"https://doodstream.com/e/tjaytyflvx96","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"tjaytyflvx96","player_url":"https://doodstream.com/e/tjaytyflvx96"},{"id":6,"url":"https://streamwish.to/e/1jwx2xpij757","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"1jwx2xpij757","player_url":"https://streamwish.to/e/1jwx2xpij757"},{"id":7,"url":"https://bysejikuar.com/e/cdz84japnidc","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"cdz84japnidc","player_url":"https://bysejikuar.com/e/cdz84japnidc"},{"id":8,"url":"https://vidhidepro.com/v/7y47dx82mz37","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"7y47dx82mz37","player_url":"https://vidhidepro.com/v/7y47dx82mz37"},{"id":9,"url":"https://voe.sx/e/j0nycfyfws2d","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"j0nycfyfws2d","player_url":"https://voe.sx/e/j0nycfyfws2d"},{"id":10,"url":"https://doodstream.com/e/1zz8dx3of03i","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"1zz8dx3of03i","player_url":"https://doodstream.com/e/1zz8dx3of03i"}]}
+{
+  "id": 1406657,
+  "titulo": "Scarlet",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/q02d53qC6VGL3Di53bAuIR13rYf.jpg",
+  "release_date": "2025-11-21",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/4ZZiOP4Imzv6ULF9QczvfQ1VdEO.jpg",
+  "overview": "En un reino de muertos y locura, la Princesa Scarlet debe vengarse de su enemigo y llegar al \"Lugar Sin Fin\" antes de desvanecerse en la nada. ¿Podrá sobrevivir a su interminable viaje?",
+  "trailer": "",
+  "runtime": "112",
+  "slug": "scarlet",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/cv45iqp1zlv2",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cv45iqp1zlv2",
+      "player_url": "https://streamwish.to/e/cv45iqp1zlv2"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/dbausvcdpe8a",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "dbausvcdpe8a",
+      "player_url": "https://bysejikuar.com/e/dbausvcdpe8a"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/b5ilwmf2935g",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "b5ilwmf2935g",
+      "player_url": "https://vidhidepro.com/v/b5ilwmf2935g"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/tcndvbiedias",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "tcndvbiedias",
+      "player_url": "https://voe.sx/e/tcndvbiedias"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/tjaytyflvx96",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "tjaytyflvx96",
+      "player_url": "https://doodstream.com/e/tjaytyflvx96"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/1jwx2xpij757",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "1jwx2xpij757",
+      "player_url": "https://streamwish.to/e/1jwx2xpij757"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/cdz84japnidc",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "cdz84japnidc",
+      "player_url": "https://bysejikuar.com/e/cdz84japnidc"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/7y47dx82mz37",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "7y47dx82mz37",
+      "player_url": "https://vidhidepro.com/v/7y47dx82mz37"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/j0nycfyfws2d",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "j0nycfyfws2d",
+      "player_url": "https://voe.sx/e/j0nycfyfws2d"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/1zz8dx3of03i",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "1zz8dx3of03i",
+      "player_url": "https://doodstream.com/e/1zz8dx3of03i"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/cd3ktcza4c6z",
+      "player_url": "https://minochinos.com/embed/cd3ktcza4c6z",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cd3ktcza4c6z"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/2yviixjdlyhm",
+      "player_url": "https://hglink.to/e/2yviixjdlyhm",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2yviixjdlyhm"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/sx5ornibwnjr",
+      "player_url": "https://voe.sx/e/sx5ornibwnjr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sx5ornibwnjr"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/sx5ornibwnjr/download",
+      "player_url": "https://voe.sx/sx5ornibwnjr/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/blyxrnodu41m",
+      "player_url": "https://rapidvideo.link/e/blyxrnodu41m",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "blyxrnodu41m"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/expfmaq7jg8w",
+      "player_url": "https://minochinos.com/embed/expfmaq7jg8w",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "expfmaq7jg8w"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/gmdpipih1dft",
+      "player_url": "https://hglink.to/e/gmdpipih1dft",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gmdpipih1dft"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/b6myzzmu8bcr",
+      "player_url": "https://voe.sx/e/b6myzzmu8bcr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b6myzzmu8bcr"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/fs7l5rjg3doc",
+      "player_url": "https://rapidvideo.link/e/fs7l5rjg3doc",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fs7l5rjg3doc"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/9v4o8nrh9nzm",
+      "player_url": "https://minochinos.com/embed/9v4o8nrh9nzm",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "9v4o8nrh9nzm"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/aq75ifh3wz2t",
+      "player_url": "https://hglink.to/e/aq75ifh3wz2t",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "aq75ifh3wz2t"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/aekhvm3t1dmc",
+      "player_url": "https://voe.sx/e/aekhvm3t1dmc",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "aekhvm3t1dmc"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/aekhvm3t1dmc/download",
+      "player_url": "https://voe.sx/aekhvm3t1dmc/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/ncsfmz659wg8",
+      "player_url": "https://rapidvideo.link/e/ncsfmz659wg8",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "ncsfmz659wg8"
+    }
+  ]
+}
