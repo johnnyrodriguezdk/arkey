@@ -1,1 +1,189 @@
-{"id":1056648,"titulo":"El juicio del perro","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/527ZIC1SSQF9zbLfB7RItgCxgGb.jpg","release_date":"2024-09-11","genres":[],"rating":"6.0","backdrop":"https://image.tmdb.org/t/p/original/cHzalKoJFzw8z1krTYghu2qzHV9.jpg","overview":"Avril, una joven abogada especializada en la defensa de los animales, está dispuesta a todo para salvar a su cliente, un perro reincidente, de la pena capital. Entre la creencia en la justicia y las crecientes dificultades para soportar el desprecio de los humanos por los animales, es este perro quien ayudará a Avril a aceptar su complejidad humana.","trailer":"","runtime":"81","slug":"el-juicio-del-perro","servidores":[{"id":1,"url":"https://streamwish.to/e/yutymcbetyrm","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"yutymcbetyrm","player_url":"https://streamwish.to/e/yutymcbetyrm"},{"id":2,"url":"https://vidhidepro.com/v/y0qo9fwfzhre","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"y0qo9fwfzhre","player_url":"https://vidhidepro.com/v/y0qo9fwfzhre"},{"id":3,"url":"https://voe.sx/e/w5xc3mx6lqwo","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"w5xc3mx6lqwo","player_url":"https://voe.sx/e/w5xc3mx6lqwo"},{"id":4,"url":"https://doodstream.com/e/5yauw05yd9l7","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"5yauw05yd9l7","player_url":"https://doodstream.com/e/5yauw05yd9l7"},{"id":5,"url":"https://streamwish.to/e/mq0g6wa6ehtr","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"mq0g6wa6ehtr","player_url":"https://streamwish.to/e/mq0g6wa6ehtr"},{"id":6,"url":"https://vidhidepro.com/v/yzi5wws73llc","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"yzi5wws73llc","player_url":"https://vidhidepro.com/v/yzi5wws73llc"},{"id":7,"url":"https://doodstream.com/e/vhyborrdseje","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"vhyborrdseje","player_url":"https://doodstream.com/e/vhyborrdseje"}]}
+{
+  "id": 1056648,
+  "titulo": "El juicio del perro",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/527ZIC1SSQF9zbLfB7RItgCxgGb.jpg",
+  "release_date": "2024-09-11",
+  "genres": [
+    "Comedia"
+  ],
+  "rating": "6.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/cHzalKoJFzw8z1krTYghu2qzHV9.jpg",
+  "overview": "Avril, una joven abogada especializada en la defensa de los animales, está dispuesta a todo para salvar a su cliente, un perro reincidente, de la pena capital. Entre la creencia en la justicia y las crecientes dificultades para soportar el desprecio de los humanos por los animales, es este perro quien ayudará a Avril a aceptar su complejidad humana.",
+  "trailer": "",
+  "runtime": "81",
+  "slug": "el-juicio-del-perro",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/yutymcbetyrm",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "yutymcbetyrm",
+      "player_url": "https://streamwish.to/e/yutymcbetyrm"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/y0qo9fwfzhre",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "y0qo9fwfzhre",
+      "player_url": "https://vidhidepro.com/v/y0qo9fwfzhre"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/w5xc3mx6lqwo",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "w5xc3mx6lqwo",
+      "player_url": "https://voe.sx/e/w5xc3mx6lqwo"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/5yauw05yd9l7",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "5yauw05yd9l7",
+      "player_url": "https://doodstream.com/e/5yauw05yd9l7"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/mq0g6wa6ehtr",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mq0g6wa6ehtr",
+      "player_url": "https://streamwish.to/e/mq0g6wa6ehtr"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/yzi5wws73llc",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "yzi5wws73llc",
+      "player_url": "https://vidhidepro.com/v/yzi5wws73llc"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/vhyborrdseje",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "vhyborrdseje",
+      "player_url": "https://doodstream.com/e/vhyborrdseje"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/x5eualko6ed2",
+      "player_url": "https://minochinos.com/embed/x5eualko6ed2",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x5eualko6ed2"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/msv3osaof4sf",
+      "player_url": "https://hglink.to/e/msv3osaof4sf",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "msv3osaof4sf"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/lstdsk9qr57g",
+      "player_url": "https://bysedikamoum.com/e/lstdsk9qr57g",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lstdsk9qr57g"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/5va0wygyq6r4",
+      "player_url": "https://voe.sx/e/5va0wygyq6r4",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5va0wygyq6r4"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/5va0wygyq6r4/download",
+      "player_url": "https://voe.sx/5va0wygyq6r4/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/jc2d5p78hwln",
+      "player_url": "https://rapidvideo.link/e/jc2d5p78hwln",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jc2d5p78hwln"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/0xwb9q424t6o",
+      "player_url": "https://minochinos.com/embed/0xwb9q424t6o",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0xwb9q424t6o"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/xbz3j9oqu8xd",
+      "player_url": "https://hglink.to/e/xbz3j9oqu8xd",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xbz3j9oqu8xd"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/etfvhi6xh9bf",
+      "player_url": "https://bysedikamoum.com/e/etfvhi6xh9bf",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "etfvhi6xh9bf"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/0fzim4w8h3m3",
+      "player_url": "https://voe.sx/e/0fzim4w8h3m3",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0fzim4w8h3m3"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/0fzim4w8h3m3/download",
+      "player_url": "https://voe.sx/0fzim4w8h3m3/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/q1gt5a6wxpsi",
+      "player_url": "https://rapidvideo.link/e/q1gt5a6wxpsi",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "q1gt5a6wxpsi"
+    }
+  ]
+}
