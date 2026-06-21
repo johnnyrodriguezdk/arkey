@@ -1,1 +1,252 @@
-{"id":1097311,"titulo":"Echo Valley","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/1E4WCgTodyS7zo8pSp1gZlPO0th.jpg","release_date":"2025-06-13","genres":["drama"],"rating":"6.4","backdrop":"https://image.tmdb.org/t/p/original/aQ5nvQGT6mM6TliOM5iSgrKVF4C.jpg","overview":"La vida retirada de Kate se ve interrumpida cuando su afligida hija aparece asustada y cubierta en sangre que no es suya. Mientras descubre la verdad, Kate se da cuenta de lo lejos que llega por su hija.","trailer":"","runtime":"105","slug":"echo-valley","servidores":[{"id":1,"url":"https://streamwish.to/e/lfhuk8vjyuxj","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"lfhuk8vjyuxj","player_url":"https://streamwish.to/e/lfhuk8vjyuxj"},{"id":2,"url":"https://vidhidepro.com/v/69gyd1l1qs5m","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"69gyd1l1qs5m","player_url":"https://vidhidepro.com/v/69gyd1l1qs5m"},{"id":3,"url":"https://doodstream.com/e/ob30r8od713m","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"ob30r8od713m","player_url":"https://doodstream.com/e/ob30r8od713m"},{"id":4,"url":"https://streamwish.to/e/4ktq1zr7gywi","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"4ktq1zr7gywi","player_url":"https://streamwish.to/e/4ktq1zr7gywi"},{"id":5,"url":"https://vidhidepro.com/v/jl0am2y8i1x6","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"jl0am2y8i1x6","player_url":"https://vidhidepro.com/v/jl0am2y8i1x6"},{"id":6,"url":"https://doodstream.com/e/pymwctifqnht","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"pymwctifqnht","player_url":"https://doodstream.com/e/pymwctifqnht"},{"id":7,"url":"https://streamwish.to/e/4kbzh8jbq9cy","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"4kbzh8jbq9cy","player_url":"https://streamwish.to/e/4kbzh8jbq9cy"},{"id":8,"url":"https://vidhidepro.com/v/v06or0yl9nse","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"v06or0yl9nse","player_url":"https://vidhidepro.com/v/v06or0yl9nse"},{"id":9,"url":"https://doodstream.com/e/tg48r9yawean","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"tg48r9yawean","player_url":"https://doodstream.com/e/tg48r9yawean"}]}
+{
+  "id": 1097311,
+  "titulo": "Echo Valley",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/1E4WCgTodyS7zo8pSp1gZlPO0th.jpg",
+  "release_date": "2025-06-13",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/aQ5nvQGT6mM6TliOM5iSgrKVF4C.jpg",
+  "overview": "La vida retirada de Kate se ve interrumpida cuando su afligida hija aparece asustada y cubierta en sangre que no es suya. Mientras descubre la verdad, Kate se da cuenta de lo lejos que llega por su hija.",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "echo-valley",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/lfhuk8vjyuxj",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lfhuk8vjyuxj",
+      "player_url": "https://streamwish.to/e/lfhuk8vjyuxj"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/69gyd1l1qs5m",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "69gyd1l1qs5m",
+      "player_url": "https://vidhidepro.com/v/69gyd1l1qs5m"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/ob30r8od713m",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ob30r8od713m",
+      "player_url": "https://doodstream.com/e/ob30r8od713m"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/4ktq1zr7gywi",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4ktq1zr7gywi",
+      "player_url": "https://streamwish.to/e/4ktq1zr7gywi"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/jl0am2y8i1x6",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jl0am2y8i1x6",
+      "player_url": "https://vidhidepro.com/v/jl0am2y8i1x6"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/pymwctifqnht",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "pymwctifqnht",
+      "player_url": "https://doodstream.com/e/pymwctifqnht"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/4kbzh8jbq9cy",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4kbzh8jbq9cy",
+      "player_url": "https://streamwish.to/e/4kbzh8jbq9cy"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/v06or0yl9nse",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "v06or0yl9nse",
+      "player_url": "https://vidhidepro.com/v/v06or0yl9nse"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/tg48r9yawean",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "tg48r9yawean",
+      "player_url": "https://doodstream.com/e/tg48r9yawean"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/j5bnwptnnbds",
+      "player_url": "https://minochinos.com/embed/j5bnwptnnbds",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j5bnwptnnbds"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/ivklg3hl60h9",
+      "player_url": "https://hglink.to/e/ivklg3hl60h9",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ivklg3hl60h9"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/mhc177385s7x",
+      "player_url": "https://bysedikamoum.com/e/mhc177385s7x",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mhc177385s7x"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/6aqpbrg009g9",
+      "player_url": "https://voe.sx/e/6aqpbrg009g9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6aqpbrg009g9"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/6aqpbrg009g9/download",
+      "player_url": "https://voe.sx/6aqpbrg009g9/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/435hbvi1d2ex",
+      "player_url": "https://rapidvideo.link/e/435hbvi1d2ex",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "435hbvi1d2ex"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/yu36ljvfzsfr",
+      "player_url": "https://minochinos.com/embed/yu36ljvfzsfr",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yu36ljvfzsfr"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/zh51srwjgi12",
+      "player_url": "https://hglink.to/e/zh51srwjgi12",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zh51srwjgi12"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/hgvmaa92kyh5",
+      "player_url": "https://bysedikamoum.com/e/hgvmaa92kyh5",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hgvmaa92kyh5"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/xv0tf3bf9nbk",
+      "player_url": "https://voe.sx/e/xv0tf3bf9nbk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xv0tf3bf9nbk"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/9vwn6tl14ckp",
+      "player_url": "https://rapidvideo.link/e/9vwn6tl14ckp",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9vwn6tl14ckp"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/xs98fg9gviyy",
+      "player_url": "https://minochinos.com/embed/xs98fg9gviyy",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xs98fg9gviyy"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/w4v8h4cy48px",
+      "player_url": "https://hglink.to/e/w4v8h4cy48px",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "w4v8h4cy48px"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/anurdrnit4s8",
+      "player_url": "https://bysedikamoum.com/e/anurdrnit4s8",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "anurdrnit4s8"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/h8tvjzqih2vi",
+      "player_url": "https://voe.sx/e/h8tvjzqih2vi",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "h8tvjzqih2vi"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/h8tvjzqih2vi/download",
+      "player_url": "https://voe.sx/h8tvjzqih2vi/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/0bqgvayro23z",
+      "player_url": "https://rapidvideo.link/e/0bqgvayro23z",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0bqgvayro23z"
+    }
+  ]
+}
