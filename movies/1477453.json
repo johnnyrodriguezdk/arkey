@@ -1,1 +1,261 @@
-{"id":1477453,"titulo":"Fiasco total: La tragedia de Astroworld","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/u8E4aR8ghCnc1gWJTyHxXseHvpy.jpg","release_date":"2025-06-09","genres":[],"rating":"6.7","backdrop":"https://image.tmdb.org/t/p/original/dpfVOZygSFYNRrIq7PZOuUH67qy.jpg","overview":"Con entrevistas exclusivas a sobrevivientes, paramédicos, personal del festival, este documental analiza la tragedia de Astroworld en 2021 y sus consecuencias.","trailer":"","runtime":"80","slug":"fiasco-total-la-tragedia-de-astrolworld","servidores":[{"id":1,"url":"https://streamwish.to/e/5jdis08kz3b6","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"5jdis08kz3b6","player_url":"https://streamwish.to/e/5jdis08kz3b6"},{"id":2,"url":"https://vidhidepro.com/v/98we1r52rkgu","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"98we1r52rkgu","player_url":"https://vidhidepro.com/v/98we1r52rkgu"},{"id":3,"url":"https://voe.sx/e/rnu90ybdal7k","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"rnu90ybdal7k","player_url":"https://voe.sx/e/rnu90ybdal7k"},{"id":4,"url":"https://doodstream.com/e/az2l29nc6pho","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"az2l29nc6pho","player_url":"https://doodstream.com/e/az2l29nc6pho"},{"id":5,"url":"https://streamwish.to/e/i8v51toqv3y1","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"i8v51toqv3y1","player_url":"https://streamwish.to/e/i8v51toqv3y1"},{"id":6,"url":"https://vidhidepro.com/v/mhmdirxbysd3","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"mhmdirxbysd3","player_url":"https://vidhidepro.com/v/mhmdirxbysd3"},{"id":7,"url":"https://doodstream.com/e/7lf4bd6avgk9","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"7lf4bd6avgk9","player_url":"https://doodstream.com/e/7lf4bd6avgk9"},{"id":8,"url":"https://streamwish.to/e/77whythb2fnq","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"77whythb2fnq","player_url":"https://streamwish.to/e/77whythb2fnq"},{"id":9,"url":"https://vidhidepro.com/v/jo06xn3l5j0h","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"jo06xn3l5j0h","player_url":"https://vidhidepro.com/v/jo06xn3l5j0h"},{"id":10,"url":"https://doodstream.com/e/p4lxg8tvqm41","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"p4lxg8tvqm41","player_url":"https://doodstream.com/e/p4lxg8tvqm41"}]}
+{
+  "id": 1477453,
+  "titulo": "Fiasco total: La tragedia de Astroworld",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/u8E4aR8ghCnc1gWJTyHxXseHvpy.jpg",
+  "release_date": "2025-06-09",
+  "genres": [
+    "Documental"
+  ],
+  "rating": "6.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/dpfVOZygSFYNRrIq7PZOuUH67qy.jpg",
+  "overview": "Con entrevistas exclusivas a sobrevivientes, paramédicos, personal del festival, este documental analiza la tragedia de Astroworld en 2021 y sus consecuencias.",
+  "trailer": "",
+  "runtime": "80",
+  "slug": "fiasco-total-la-tragedia-de-astrolworld",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/5jdis08kz3b6",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5jdis08kz3b6",
+      "player_url": "https://streamwish.to/e/5jdis08kz3b6"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/98we1r52rkgu",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "98we1r52rkgu",
+      "player_url": "https://vidhidepro.com/v/98we1r52rkgu"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/rnu90ybdal7k",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rnu90ybdal7k",
+      "player_url": "https://voe.sx/e/rnu90ybdal7k"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/az2l29nc6pho",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "az2l29nc6pho",
+      "player_url": "https://doodstream.com/e/az2l29nc6pho"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/i8v51toqv3y1",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "i8v51toqv3y1",
+      "player_url": "https://streamwish.to/e/i8v51toqv3y1"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/mhmdirxbysd3",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mhmdirxbysd3",
+      "player_url": "https://vidhidepro.com/v/mhmdirxbysd3"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/7lf4bd6avgk9",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7lf4bd6avgk9",
+      "player_url": "https://doodstream.com/e/7lf4bd6avgk9"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/77whythb2fnq",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "77whythb2fnq",
+      "player_url": "https://streamwish.to/e/77whythb2fnq"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/jo06xn3l5j0h",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jo06xn3l5j0h",
+      "player_url": "https://vidhidepro.com/v/jo06xn3l5j0h"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/p4lxg8tvqm41",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "p4lxg8tvqm41",
+      "player_url": "https://doodstream.com/e/p4lxg8tvqm41"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/aalxm3gr2rwe",
+      "player_url": "https://minochinos.com/embed/aalxm3gr2rwe",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aalxm3gr2rwe"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/lpewz4f17v3c",
+      "player_url": "https://hglink.to/e/lpewz4f17v3c",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lpewz4f17v3c"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/z3z2ydonax7w",
+      "player_url": "https://bysedikamoum.com/e/z3z2ydonax7w",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z3z2ydonax7w"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/a83wujk8y6kz",
+      "player_url": "https://voe.sx/e/a83wujk8y6kz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a83wujk8y6kz"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/a83wujk8y6kz/download",
+      "player_url": "https://voe.sx/a83wujk8y6kz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/aldvy7t2q3p6",
+      "player_url": "https://rapidvideo.link/e/aldvy7t2q3p6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aldvy7t2q3p6"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/i4oi7paizqrp",
+      "player_url": "https://minochinos.com/embed/i4oi7paizqrp",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i4oi7paizqrp"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/d5amcfp4kpr1",
+      "player_url": "https://hglink.to/e/d5amcfp4kpr1",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d5amcfp4kpr1"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/k2zr1hmf7i5e",
+      "player_url": "https://bysedikamoum.com/e/k2zr1hmf7i5e",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k2zr1hmf7i5e"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/9zzk7qyyym49",
+      "player_url": "https://voe.sx/e/9zzk7qyyym49",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9zzk7qyyym49"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/yw94m7xpiedl",
+      "player_url": "https://rapidvideo.link/e/yw94m7xpiedl",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yw94m7xpiedl"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/tai92sbpc2of",
+      "player_url": "https://minochinos.com/embed/tai92sbpc2of",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tai92sbpc2of"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/c8rfiwdn3var",
+      "player_url": "https://hglink.to/e/c8rfiwdn3var",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c8rfiwdn3var"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/zydij7xv6wqc",
+      "player_url": "https://bysedikamoum.com/e/zydij7xv6wqc",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zydij7xv6wqc"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/ggwtcwaj3a59",
+      "player_url": "https://voe.sx/e/ggwtcwaj3a59",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ggwtcwaj3a59"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/ggwtcwaj3a59/download",
+      "player_url": "https://voe.sx/ggwtcwaj3a59/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/c15pr6snkglb",
+      "player_url": "https://rapidvideo.link/e/c15pr6snkglb",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c15pr6snkglb"
+    }
+  ]
+}
