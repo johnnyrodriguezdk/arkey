@@ -1,1 +1,227 @@
-{"id":1155281,"titulo":"La creación de los dioses 2: Fuerza demoníaca","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/vM42VhcagVqVhl099en5pvMy4sq.jpg","release_date":"2025-01-29","genres":[],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/yujcZMkNKtNXPvRGyTA3e3VCrbx.jpg","overview":"La segunda parte de una emocionante saga de acción y fantasía llena de battallas épicas, criaturas inmortales, dioses y demonios, basada en un clásico de la mitología china del siglo XVI.","trailer":"","runtime":"145","slug":"la-creacion-de-los-dioses-2-fuerza-demoniaca","servidores":[{"id":1,"url":"https://streamwish.to/e/gjoyob1pogx3","idioma":"latino","nombre":"Streamwish","calidad":"SCR","embed_id":"gjoyob1pogx3","player_url":"https://streamwish.to/e/gjoyob1pogx3"},{"id":2,"url":"https://vidhidepro.com/v/4gn6lx75ddje","idioma":"latino","nombre":"Vidhide","calidad":"SCR","embed_id":"4gn6lx75ddje","player_url":"https://vidhidepro.com/v/4gn6lx75ddje"},{"id":3,"url":"https://voe.sx/e/koyk8ob0grsh","idioma":"latino","nombre":"Voesx","calidad":"SCR","embed_id":"koyk8ob0grsh","player_url":"https://voe.sx/e/koyk8ob0grsh"},{"id":4,"url":"https://streamwish.to/e/8e6uyvtwfkhj","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"8e6uyvtwfkhj","player_url":"https://streamwish.to/e/8e6uyvtwfkhj"},{"id":5,"url":"https://vidhidepro.com/v/66p5m13ao88y","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"66p5m13ao88y","player_url":"https://vidhidepro.com/v/66p5m13ao88y"},{"id":6,"url":"https://voe.sx/e/nb81udcdcq9n","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"nb81udcdcq9n","player_url":"https://voe.sx/e/nb81udcdcq9n"},{"id":7,"url":"https://doodstream.com/e/ppp1bdjpdnqc","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"ppp1bdjpdnqc","player_url":"https://doodstream.com/e/ppp1bdjpdnqc"},{"id":8,"url":"https://streamwish.to/e/6riqik3in6m6","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"6riqik3in6m6","player_url":"https://streamwish.to/e/6riqik3in6m6"},{"id":9,"url":"https://vidhidepro.com/v/qr8okssaa7x5","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"qr8okssaa7x5","player_url":"https://vidhidepro.com/v/qr8okssaa7x5"},{"id":10,"url":"https://voe.sx/e/dihm8qigzfn9","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"dihm8qigzfn9","player_url":"https://voe.sx/e/dihm8qigzfn9"},{"id":11,"url":"https://doodstream.com/e/noy3mln316bf","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"noy3mln316bf","player_url":"https://doodstream.com/e/noy3mln316bf"}]}
+{
+  "id": 1155281,
+  "titulo": "La creación de los dioses 2: Fuerza demoníaca",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/vM42VhcagVqVhl099en5pvMy4sq.jpg",
+  "release_date": "2025-01-29",
+  "genres": [
+    "Acción",
+    "Fantasía",
+    "Bélica"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/yujcZMkNKtNXPvRGyTA3e3VCrbx.jpg",
+  "overview": "La segunda parte de una emocionante saga de acción y fantasía llena de battallas épicas, criaturas inmortales, dioses y demonios, basada en un clásico de la mitología china del siglo XVI.",
+  "trailer": "",
+  "runtime": "145",
+  "slug": "la-creacion-de-los-dioses-2-fuerza-demoniaca",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/gjoyob1pogx3",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "SCR",
+      "embed_id": "gjoyob1pogx3",
+      "player_url": "https://streamwish.to/e/gjoyob1pogx3"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/4gn6lx75ddje",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "SCR",
+      "embed_id": "4gn6lx75ddje",
+      "player_url": "https://vidhidepro.com/v/4gn6lx75ddje"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/koyk8ob0grsh",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "SCR",
+      "embed_id": "koyk8ob0grsh",
+      "player_url": "https://voe.sx/e/koyk8ob0grsh"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/8e6uyvtwfkhj",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "8e6uyvtwfkhj",
+      "player_url": "https://streamwish.to/e/8e6uyvtwfkhj"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/66p5m13ao88y",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "66p5m13ao88y",
+      "player_url": "https://vidhidepro.com/v/66p5m13ao88y"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/nb81udcdcq9n",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "nb81udcdcq9n",
+      "player_url": "https://voe.sx/e/nb81udcdcq9n"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/ppp1bdjpdnqc",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ppp1bdjpdnqc",
+      "player_url": "https://doodstream.com/e/ppp1bdjpdnqc"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/6riqik3in6m6",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6riqik3in6m6",
+      "player_url": "https://streamwish.to/e/6riqik3in6m6"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/qr8okssaa7x5",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "qr8okssaa7x5",
+      "player_url": "https://vidhidepro.com/v/qr8okssaa7x5"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/dihm8qigzfn9",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "dihm8qigzfn9",
+      "player_url": "https://voe.sx/e/dihm8qigzfn9"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/noy3mln316bf",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "noy3mln316bf",
+      "player_url": "https://doodstream.com/e/noy3mln316bf"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/d8maoug096ye",
+      "player_url": "https://minochinos.com/embed/d8maoug096ye",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d8maoug096ye"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/lnaox0uyf5qv",
+      "player_url": "https://hglink.to/e/lnaox0uyf5qv",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lnaox0uyf5qv"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/r9yp4ivwvjhq",
+      "player_url": "https://bysedikamoum.com/e/r9yp4ivwvjhq",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r9yp4ivwvjhq"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/hsraibouo4sp",
+      "player_url": "https://voe.sx/e/hsraibouo4sp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hsraibouo4sp"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/hsraibouo4sp/download",
+      "player_url": "https://voe.sx/hsraibouo4sp/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/t6bnfrsecgv7",
+      "player_url": "https://rapidvideo.link/e/t6bnfrsecgv7",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t6bnfrsecgv7"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/1p45plnmhnkz",
+      "player_url": "https://minochinos.com/embed/1p45plnmhnkz",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1p45plnmhnkz"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/1tjdxyacwir7",
+      "player_url": "https://hglink.to/e/1tjdxyacwir7",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1tjdxyacwir7"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/cktwc5jjir4g",
+      "player_url": "https://bysedikamoum.com/e/cktwc5jjir4g",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cktwc5jjir4g"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/7vuzage1brm0",
+      "player_url": "https://voe.sx/e/7vuzage1brm0",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7vuzage1brm0"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/7vuzage1brm0/download",
+      "player_url": "https://voe.sx/7vuzage1brm0/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/j9rnudy763zg",
+      "player_url": "https://rapidvideo.link/e/j9rnudy763zg",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "j9rnudy763zg"
+    }
+  ]
+}
