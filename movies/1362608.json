@@ -1,1 +1,261 @@
-{"id":1362608,"titulo":"En un confín del mundo","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/dI5eWAvq68mddW6JkRodywrOBF.jpg","release_date":"2025-03-20","genres":["drama"],"rating":"5.9","backdrop":"https://image.tmdb.org/t/p/original/2jllAxMf7dTMt1fw9A1slsaj6Fv.jpg","overview":"Un pastor sufre una crisis de fe cuando un meteorito cae sobre su pequeño pueblo en Finlandia, lo cual no solo desata el caos, sino que además incita al delito.","trailer":"","runtime":"105","slug":"en-un-confin-del-mundo","servidores":[{"id":1,"url":"https://streamwish.to/e/h1gcvl14graq","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"h1gcvl14graq","player_url":"https://streamwish.to/e/h1gcvl14graq"},{"id":2,"url":"https://vidhidepro.com/v/yb86ox1piisd","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"yb86ox1piisd","player_url":"https://vidhidepro.com/v/yb86ox1piisd"},{"id":3,"url":"https://voe.sx/e/blg3dpknwquc","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"blg3dpknwquc","player_url":"https://voe.sx/e/blg3dpknwquc"},{"id":4,"url":"https://doodstream.com/e/zd1chp0hm7xa","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"zd1chp0hm7xa","player_url":"https://doodstream.com/e/zd1chp0hm7xa"},{"id":5,"url":"https://streamwish.to/e/qdlw9zyt2u2o","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"qdlw9zyt2u2o","player_url":"https://streamwish.to/e/qdlw9zyt2u2o"},{"id":6,"url":"https://vidhidepro.com/v/ag69qi22raqz","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ag69qi22raqz","player_url":"https://vidhidepro.com/v/ag69qi22raqz"},{"id":7,"url":"https://doodstream.com/e/4ewm6vtwg35p","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"4ewm6vtwg35p","player_url":"https://doodstream.com/e/4ewm6vtwg35p"},{"id":8,"url":"https://streamwish.to/e/6rws679d5xei","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"6rws679d5xei","player_url":"https://streamwish.to/e/6rws679d5xei"},{"id":9,"url":"https://vidhidepro.com/v/adm4ktla4ou4","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"adm4ktla4ou4","player_url":"https://vidhidepro.com/v/adm4ktla4ou4"},{"id":10,"url":"https://doodstream.com/e/vfqnxowuyabp","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"vfqnxowuyabp","player_url":"https://doodstream.com/e/vfqnxowuyabp"}]}
+{
+  "id": 1362608,
+  "titulo": "En un confín del mundo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/dI5eWAvq68mddW6JkRodywrOBF.jpg",
+  "release_date": "2025-03-20",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/2jllAxMf7dTMt1fw9A1slsaj6Fv.jpg",
+  "overview": "Un pastor sufre una crisis de fe cuando un meteorito cae sobre su pequeño pueblo en Finlandia, lo cual no solo desata el caos, sino que además incita al delito.",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "en-un-confin-del-mundo",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/h1gcvl14graq",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "h1gcvl14graq",
+      "player_url": "https://streamwish.to/e/h1gcvl14graq"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/yb86ox1piisd",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "yb86ox1piisd",
+      "player_url": "https://vidhidepro.com/v/yb86ox1piisd"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/blg3dpknwquc",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "blg3dpknwquc",
+      "player_url": "https://voe.sx/e/blg3dpknwquc"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/zd1chp0hm7xa",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "zd1chp0hm7xa",
+      "player_url": "https://doodstream.com/e/zd1chp0hm7xa"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/qdlw9zyt2u2o",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "qdlw9zyt2u2o",
+      "player_url": "https://streamwish.to/e/qdlw9zyt2u2o"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/ag69qi22raqz",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ag69qi22raqz",
+      "player_url": "https://vidhidepro.com/v/ag69qi22raqz"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/4ewm6vtwg35p",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "4ewm6vtwg35p",
+      "player_url": "https://doodstream.com/e/4ewm6vtwg35p"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/6rws679d5xei",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6rws679d5xei",
+      "player_url": "https://streamwish.to/e/6rws679d5xei"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/adm4ktla4ou4",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "adm4ktla4ou4",
+      "player_url": "https://vidhidepro.com/v/adm4ktla4ou4"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/vfqnxowuyabp",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "vfqnxowuyabp",
+      "player_url": "https://doodstream.com/e/vfqnxowuyabp"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/0ednr9m9zj58",
+      "player_url": "https://minochinos.com/embed/0ednr9m9zj58",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0ednr9m9zj58"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/jakr8sqn5tgr",
+      "player_url": "https://hglink.to/e/jakr8sqn5tgr",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jakr8sqn5tgr"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/ht70ay0cu7w4",
+      "player_url": "https://bysedikamoum.com/e/ht70ay0cu7w4",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ht70ay0cu7w4"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/8zhaixrx05rr",
+      "player_url": "https://voe.sx/e/8zhaixrx05rr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8zhaixrx05rr"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/8zhaixrx05rr/download",
+      "player_url": "https://voe.sx/8zhaixrx05rr/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/6dnbcfmrjtwv",
+      "player_url": "https://rapidvideo.link/e/6dnbcfmrjtwv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6dnbcfmrjtwv"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/45a82o5igjtc",
+      "player_url": "https://minochinos.com/embed/45a82o5igjtc",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "45a82o5igjtc"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/gyledl7h6sby",
+      "player_url": "https://hglink.to/e/gyledl7h6sby",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gyledl7h6sby"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/pqggpuo9j9bd",
+      "player_url": "https://bysedikamoum.com/e/pqggpuo9j9bd",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pqggpuo9j9bd"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/ob65h3odd2cb",
+      "player_url": "https://voe.sx/e/ob65h3odd2cb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ob65h3odd2cb"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/1x2ugq8wfiz4",
+      "player_url": "https://rapidvideo.link/e/1x2ugq8wfiz4",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1x2ugq8wfiz4"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/wr5me8hrqzhs",
+      "player_url": "https://minochinos.com/embed/wr5me8hrqzhs",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wr5me8hrqzhs"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/mx2vodz16g00",
+      "player_url": "https://hglink.to/e/mx2vodz16g00",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mx2vodz16g00"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/qw9w6r3bmdr8",
+      "player_url": "https://bysedikamoum.com/e/qw9w6r3bmdr8",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qw9w6r3bmdr8"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/tbd6xxkqqtn3",
+      "player_url": "https://voe.sx/e/tbd6xxkqqtn3",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tbd6xxkqqtn3"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/tbd6xxkqqtn3/download",
+      "player_url": "https://voe.sx/tbd6xxkqqtn3/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/qhe6d85pnofi",
+      "player_url": "https://rapidvideo.link/e/qhe6d85pnofi",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qhe6d85pnofi"
+    }
+  ]
+}
