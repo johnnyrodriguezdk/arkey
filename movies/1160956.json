@@ -1,1 +1,208 @@
-{"id":1160956,"titulo":"Operación Panda: Misión rescate","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/bnfnruEYFhANxt4O5WD8yxjaAPP.jpg","release_date":"2024-10-01","genres":[],"rating":"6.8","backdrop":"https://image.tmdb.org/t/p/original/8cc4AypHsnqcCQeIIpNoh6Wrc5B.jpg","overview":"Poco después de que la legendaria estrella del kung fu Jackie Chan sea invitada a adoptar a un querido panda del zoo llamado Hu Hu, un famoso sindicato del crimen internacional pone sus ojos en el famoso oso y ofrece una enorme recompensa por su captura. Ante esta repentina crisis, Jackie Chan recurre a la ayuda de su agente y del feroz cuidador de Hu Hu, y el trío se embarca en una aventura en la que intentarán ser más listos que los malos en todo momento.","trailer":"","runtime":"99","slug":"panda-plan","servidores":[{"id":1,"url":"https://streamwish.to/e/n53howgc3nut","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"n53howgc3nut","player_url":"https://streamwish.to/e/n53howgc3nut"},{"id":2,"url":"https://vidhidepro.com/v/t1gc3779z9wz","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"t1gc3779z9wz","player_url":"https://vidhidepro.com/v/t1gc3779z9wz"},{"id":3,"url":"https://streamwish.to/e/rm4z8pjf4ksp","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"rm4z8pjf4ksp","player_url":"https://streamwish.to/e/rm4z8pjf4ksp"},{"id":4,"url":"https://vidhidepro.com/v/84wprhm84ydj","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"84wprhm84ydj","player_url":"https://vidhidepro.com/v/84wprhm84ydj"},{"id":5,"url":"https://streamwish.to/e/kti07jwxv8fr","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"kti07jwxv8fr","player_url":"https://streamwish.to/e/kti07jwxv8fr"},{"id":6,"url":"https://bysejikuar.com/e/eo0i30ot5y7s","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"eo0i30ot5y7s","player_url":"https://bysejikuar.com/e/eo0i30ot5y7s"},{"id":7,"url":"https://vidhidepro.com/v/vnaeyu41kgxh","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"vnaeyu41kgxh","player_url":"https://vidhidepro.com/v/vnaeyu41kgxh"},{"id":8,"url":"https://voe.sx/e/qzzr9godmitf","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"qzzr9godmitf","player_url":"https://voe.sx/e/qzzr9godmitf"},{"id":9,"url":"https://doodstream.com/e/v172gh83uep2","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"v172gh83uep2","player_url":"https://doodstream.com/e/v172gh83uep2"}]}
+{
+  "id": 1160956,
+  "titulo": "Operación Panda: Misión rescate",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/bnfnruEYFhANxt4O5WD8yxjaAPP.jpg",
+  "release_date": "2024-10-01",
+  "genres": [
+    "Acción",
+    "Comedia"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/8cc4AypHsnqcCQeIIpNoh6Wrc5B.jpg",
+  "overview": "Poco después de que la legendaria estrella del kung fu Jackie Chan sea invitada a adoptar a un querido panda del zoo llamado Hu Hu, un famoso sindicato del crimen internacional pone sus ojos en el famoso oso y ofrece una enorme recompensa por su captura. Ante esta repentina crisis, Jackie Chan recurre a la ayuda de su agente y del feroz cuidador de Hu Hu, y el trío se embarca en una aventura en la que intentarán ser más listos que los malos en todo momento.",
+  "trailer": "",
+  "runtime": "99",
+  "slug": "panda-plan",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/n53howgc3nut",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "n53howgc3nut",
+      "player_url": "https://streamwish.to/e/n53howgc3nut"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/t1gc3779z9wz",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "t1gc3779z9wz",
+      "player_url": "https://vidhidepro.com/v/t1gc3779z9wz"
+    },
+    {
+      "id": 3,
+      "url": "https://streamwish.to/e/rm4z8pjf4ksp",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "rm4z8pjf4ksp",
+      "player_url": "https://streamwish.to/e/rm4z8pjf4ksp"
+    },
+    {
+      "id": 4,
+      "url": "https://vidhidepro.com/v/84wprhm84ydj",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "84wprhm84ydj",
+      "player_url": "https://vidhidepro.com/v/84wprhm84ydj"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/kti07jwxv8fr",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "kti07jwxv8fr",
+      "player_url": "https://streamwish.to/e/kti07jwxv8fr"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/eo0i30ot5y7s",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "eo0i30ot5y7s",
+      "player_url": "https://bysejikuar.com/e/eo0i30ot5y7s"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/vnaeyu41kgxh",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "vnaeyu41kgxh",
+      "player_url": "https://vidhidepro.com/v/vnaeyu41kgxh"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/qzzr9godmitf",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qzzr9godmitf",
+      "player_url": "https://voe.sx/e/qzzr9godmitf"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/v172gh83uep2",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "v172gh83uep2",
+      "player_url": "https://doodstream.com/e/v172gh83uep2"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/902xbqocv8we",
+      "player_url": "https://minochinos.com/embed/902xbqocv8we",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "902xbqocv8we"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/tc5r8ks0kzen",
+      "player_url": "https://hglink.to/e/tc5r8ks0kzen",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tc5r8ks0kzen"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/gw0xl68ljeaf",
+      "player_url": "https://bysedikamoum.com/e/gw0xl68ljeaf",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gw0xl68ljeaf"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/v2ml4hmy0dhy",
+      "player_url": "https://voe.sx/e/v2ml4hmy0dhy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v2ml4hmy0dhy"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/v2ml4hmy0dhy/download",
+      "player_url": "https://voe.sx/v2ml4hmy0dhy/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/o0mhz8fjy7sd",
+      "player_url": "https://rapidvideo.link/e/o0mhz8fjy7sd",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o0mhz8fjy7sd"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/7i5rw7f2hvy3",
+      "player_url": "https://minochinos.com/embed/7i5rw7f2hvy3",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7i5rw7f2hvy3"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/1pxdsea7qbrw",
+      "player_url": "https://hglink.to/e/1pxdsea7qbrw",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1pxdsea7qbrw"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/8zh0f0q27oz3",
+      "player_url": "https://bysedikamoum.com/e/8zh0f0q27oz3",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8zh0f0q27oz3"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/aa4ncq3ufnqs",
+      "player_url": "https://voe.sx/e/aa4ncq3ufnqs",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "aa4ncq3ufnqs"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/aa4ncq3ufnqs/download",
+      "player_url": "https://voe.sx/aa4ncq3ufnqs/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/wpiu0ofkhe1j",
+      "player_url": "https://rapidvideo.link/e/wpiu0ofkhe1j",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wpiu0ofkhe1j"
+    }
+  ]
+}
