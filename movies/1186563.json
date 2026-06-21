@@ -1,1 +1,234 @@
-{"id":1186563,"titulo":"El Amigo","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/eIb6MTqS8jiYkIlB7bxaJMyooYj.jpg","release_date":"2025-03-28","genres":["drama"],"rating":"6.6","backdrop":"https://image.tmdb.org/t/p/original/ctepmnTOnVKRLQXX4VdD2AsJFnv.jpg","overview":"La escritora y profesora Iris ve alterada su cómoda y solitaria vida neoyorquina cuando su mejor amigo y mentor muere repentinamente y le deja en herencia a su querido gran danés de 45 kilos. A medida que Iris establece un vínculo inesperado con el animal, empieza a aceptar su pasado, su amigo perdido y su propia vida interior creativa.","trailer":"","runtime":"119","slug":"the-friend","servidores":[{"id":1,"url":"https://streamwish.to/e/bs4ube17oua3","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"bs4ube17oua3","player_url":"https://streamwish.to/e/bs4ube17oua3"},{"id":2,"url":"https://vidhidepro.com/v/qkqyxyc5vax4","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"qkqyxyc5vax4","player_url":"https://vidhidepro.com/v/qkqyxyc5vax4"},{"id":3,"url":"https://doodstream.com/e/46jmecmtib78","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"46jmecmtib78","player_url":"https://doodstream.com/e/46jmecmtib78"},{"id":4,"url":"https://streamwish.to/e/mc2o87gdzxln","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"mc2o87gdzxln","player_url":"https://streamwish.to/e/mc2o87gdzxln"},{"id":5,"url":"https://vidhidepro.com/v/ef4zcvzoae11","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ef4zcvzoae11","player_url":"https://vidhidepro.com/v/ef4zcvzoae11"},{"id":6,"url":"https://voe.sx/e/vnfj1ryefpzk","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"vnfj1ryefpzk","player_url":"https://voe.sx/e/vnfj1ryefpzk"},{"id":7,"url":"https://doodstream.com/e/z362f63jj0d9","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"z362f63jj0d9","player_url":"https://doodstream.com/e/z362f63jj0d9"},{"id":8,"url":"https://streamwish.to/e/1qjq8wx7hdjw","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"1qjq8wx7hdjw","player_url":"https://streamwish.to/e/1qjq8wx7hdjw"},{"id":9,"url":"https://bysejikuar.com/e/sf6wo1ep20il","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"sf6wo1ep20il","player_url":"https://bysejikuar.com/e/sf6wo1ep20il"},{"id":10,"url":"https://vidhidepro.com/v/zyqaxy73obkc","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"zyqaxy73obkc","player_url":"https://vidhidepro.com/v/zyqaxy73obkc"},{"id":11,"url":"https://voe.sx/e/ecfhp2v1uww7","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"ecfhp2v1uww7","player_url":"https://voe.sx/e/ecfhp2v1uww7"},{"id":12,"url":"https://doodstream.com/e/ad6606sgf4oj","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"ad6606sgf4oj","player_url":"https://doodstream.com/e/ad6606sgf4oj"}]}
+{
+  "id": 1186563,
+  "titulo": "El Amigo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/eIb6MTqS8jiYkIlB7bxaJMyooYj.jpg",
+  "release_date": "2025-03-28",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/ctepmnTOnVKRLQXX4VdD2AsJFnv.jpg",
+  "overview": "La escritora y profesora Iris ve alterada su cómoda y solitaria vida neoyorquina cuando su mejor amigo y mentor muere repentinamente y le deja en herencia a su querido gran danés de 45 kilos. A medida que Iris establece un vínculo inesperado con el animal, empieza a aceptar su pasado, su amigo perdido y su propia vida interior creativa.",
+  "trailer": "",
+  "runtime": "119",
+  "slug": "the-friend",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/bs4ube17oua3",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "bs4ube17oua3",
+      "player_url": "https://streamwish.to/e/bs4ube17oua3"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/qkqyxyc5vax4",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "qkqyxyc5vax4",
+      "player_url": "https://vidhidepro.com/v/qkqyxyc5vax4"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/46jmecmtib78",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "46jmecmtib78",
+      "player_url": "https://doodstream.com/e/46jmecmtib78"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/mc2o87gdzxln",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mc2o87gdzxln",
+      "player_url": "https://streamwish.to/e/mc2o87gdzxln"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/ef4zcvzoae11",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ef4zcvzoae11",
+      "player_url": "https://vidhidepro.com/v/ef4zcvzoae11"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/vnfj1ryefpzk",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vnfj1ryefpzk",
+      "player_url": "https://voe.sx/e/vnfj1ryefpzk"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/z362f63jj0d9",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "z362f63jj0d9",
+      "player_url": "https://doodstream.com/e/z362f63jj0d9"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/1qjq8wx7hdjw",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "1qjq8wx7hdjw",
+      "player_url": "https://streamwish.to/e/1qjq8wx7hdjw"
+    },
+    {
+      "id": 9,
+      "url": "https://bysejikuar.com/e/sf6wo1ep20il",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "sf6wo1ep20il",
+      "player_url": "https://bysejikuar.com/e/sf6wo1ep20il"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/zyqaxy73obkc",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "zyqaxy73obkc",
+      "player_url": "https://vidhidepro.com/v/zyqaxy73obkc"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/ecfhp2v1uww7",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ecfhp2v1uww7",
+      "player_url": "https://voe.sx/e/ecfhp2v1uww7"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/ad6606sgf4oj",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ad6606sgf4oj",
+      "player_url": "https://doodstream.com/e/ad6606sgf4oj"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/g5c7t0svz2za",
+      "player_url": "https://minochinos.com/embed/g5c7t0svz2za",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g5c7t0svz2za"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/42h8rfni9dht",
+      "player_url": "https://hglink.to/e/42h8rfni9dht",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "42h8rfni9dht"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/9nyglr2mp9dz",
+      "player_url": "https://bysedikamoum.com/e/9nyglr2mp9dz",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9nyglr2mp9dz"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/sov6w2ftrnqx",
+      "player_url": "https://voe.sx/e/sov6w2ftrnqx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sov6w2ftrnqx"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/sov6w2ftrnqx/download",
+      "player_url": "https://voe.sx/sov6w2ftrnqx/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/ml52vz1r4qek",
+      "player_url": "https://rapidvideo.link/e/ml52vz1r4qek",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ml52vz1r4qek"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/p607p4x6u0gp",
+      "player_url": "https://minochinos.com/embed/p607p4x6u0gp",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "p607p4x6u0gp"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/l0znye2khtcs",
+      "player_url": "https://hglink.to/e/l0znye2khtcs",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l0znye2khtcs"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/dwndsur9o445",
+      "player_url": "https://bysedikamoum.com/e/dwndsur9o445",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dwndsur9o445"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/tlk9jwzrowst",
+      "player_url": "https://voe.sx/e/tlk9jwzrowst",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tlk9jwzrowst"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/tlk9jwzrowst/download",
+      "player_url": "https://voe.sx/tlk9jwzrowst/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/03oxp4z5t8vh",
+      "player_url": "https://rapidvideo.link/e/03oxp4z5t8vh",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "03oxp4z5t8vh"
+    }
+  ]
+}
