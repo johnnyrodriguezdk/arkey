@@ -1,1 +1,289 @@
-{"id":399035,"titulo":"El pasajero","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/nd7dKQ1Lpkzlvl4V29gEu2Kg3sX.jpg","release_date":"2018-01-11","genres":[],"rating":"6.4","backdrop":"https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg","overview":"Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.","trailer":"","runtime":"105","slug":"el-pasajero","servidores":[{"id":1,"url":"https://streamwish.to/e/y55peav8r92h","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"y55peav8r92h","player_url":"https://streamwish.to/e/y55peav8r92h"},{"id":2,"url":"https://bysejikuar.com/e/41mnoji9xez8","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"41mnoji9xez8","player_url":"https://bysejikuar.com/e/41mnoji9xez8"},{"id":3,"url":"https://filelions.to/v/i88ghmft43h5","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"i88ghmft43h5","player_url":"https://filelions.to/v/i88ghmft43h5"},{"id":4,"url":"https://voe.sx/e/bqebcuvry3t0","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"bqebcuvry3t0","player_url":"https://voe.sx/e/bqebcuvry3t0"},{"id":5,"url":"https://doodstream.com/e/k5q313zxm259","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"k5q313zxm259","player_url":"https://doodstream.com/e/k5q313zxm259"},{"id":6,"url":"https://streamwish.to/e/vjt3m0nkbj36","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"vjt3m0nkbj36","player_url":"https://streamwish.to/e/vjt3m0nkbj36"},{"id":7,"url":"https://bysejikuar.com/e/u1e9sfxmaii7","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"u1e9sfxmaii7","player_url":"https://bysejikuar.com/e/u1e9sfxmaii7"},{"id":8,"url":"https://voe.sx/e/zlk7vv27v4hr","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"zlk7vv27v4hr","player_url":"https://voe.sx/e/zlk7vv27v4hr"},{"id":9,"url":"https://doodstream.com/e/ur0y9anyq12x","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"ur0y9anyq12x","player_url":"https://doodstream.com/e/ur0y9anyq12x"},{"id":10,"url":"https://streamwish.to/e/asled3czn89j","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"asled3czn89j","player_url":"https://streamwish.to/e/asled3czn89j"},{"id":11,"url":"https://bysejikuar.com/e/lunx8agda2gn","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"lunx8agda2gn","player_url":"https://bysejikuar.com/e/lunx8agda2gn"},{"id":12,"url":"https://voe.sx/e/fwtg0bx8gglf","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"fwtg0bx8gglf","player_url":"https://voe.sx/e/fwtg0bx8gglf"},{"id":13,"url":"https://doodstream.com/e/9h4cs5k6bob7","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"9h4cs5k6bob7","player_url":"https://doodstream.com/e/9h4cs5k6bob7"}]}
+{
+  "id": 399035,
+  "titulo": "El pasajero",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/nd7dKQ1Lpkzlvl4V29gEu2Kg3sX.jpg",
+  "release_date": "2018-01-11",
+  "genres": [
+    "Terror",
+    "Suspense"
+  ],
+  "rating": "6.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg",
+  "overview": "Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "el-pasajero",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/y55peav8r92h",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "y55peav8r92h",
+      "player_url": "https://streamwish.to/e/y55peav8r92h"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/41mnoji9xez8",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "41mnoji9xez8",
+      "player_url": "https://bysejikuar.com/e/41mnoji9xez8"
+    },
+    {
+      "id": 3,
+      "url": "https://filelions.to/v/i88ghmft43h5",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "i88ghmft43h5",
+      "player_url": "https://filelions.to/v/i88ghmft43h5"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/bqebcuvry3t0",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "bqebcuvry3t0",
+      "player_url": "https://voe.sx/e/bqebcuvry3t0"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/k5q313zxm259",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "k5q313zxm259",
+      "player_url": "https://doodstream.com/e/k5q313zxm259"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/vjt3m0nkbj36",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vjt3m0nkbj36",
+      "player_url": "https://streamwish.to/e/vjt3m0nkbj36"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/u1e9sfxmaii7",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "u1e9sfxmaii7",
+      "player_url": "https://bysejikuar.com/e/u1e9sfxmaii7"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/zlk7vv27v4hr",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zlk7vv27v4hr",
+      "player_url": "https://voe.sx/e/zlk7vv27v4hr"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/ur0y9anyq12x",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ur0y9anyq12x",
+      "player_url": "https://doodstream.com/e/ur0y9anyq12x"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/asled3czn89j",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "asled3czn89j",
+      "player_url": "https://streamwish.to/e/asled3czn89j"
+    },
+    {
+      "id": 11,
+      "url": "https://bysejikuar.com/e/lunx8agda2gn",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "lunx8agda2gn",
+      "player_url": "https://bysejikuar.com/e/lunx8agda2gn"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/fwtg0bx8gglf",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "fwtg0bx8gglf",
+      "player_url": "https://voe.sx/e/fwtg0bx8gglf"
+    },
+    {
+      "id": 13,
+      "url": "https://doodstream.com/e/9h4cs5k6bob7",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9h4cs5k6bob7",
+      "player_url": "https://doodstream.com/e/9h4cs5k6bob7"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/alvni74arr54",
+      "player_url": "https://minochinos.com/embed/alvni74arr54",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "alvni74arr54"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/w4wly1bctaic",
+      "player_url": "https://hglink.to/e/w4wly1bctaic",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w4wly1bctaic"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/xpicxel81zxb",
+      "player_url": "https://bysedikamoum.com/e/xpicxel81zxb",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xpicxel81zxb"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/syzvbzv01itr",
+      "player_url": "https://voe.sx/e/syzvbzv01itr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "syzvbzv01itr"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/syzvbzv01itr/download",
+      "player_url": "https://voe.sx/syzvbzv01itr/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/f8nyetk60qdo",
+      "player_url": "https://rapidvideo.link/e/f8nyetk60qdo",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f8nyetk60qdo"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/6i570ucrh9rx",
+      "player_url": "https://minochinos.com/embed/6i570ucrh9rx",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6i570ucrh9rx"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/gguf5yfbb7o6",
+      "player_url": "https://hglink.to/e/gguf5yfbb7o6",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gguf5yfbb7o6"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/3cmmza5opctk",
+      "player_url": "https://bysedikamoum.com/e/3cmmza5opctk",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3cmmza5opctk"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/adzu7kqtyhun",
+      "player_url": "https://voe.sx/e/adzu7kqtyhun",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "adzu7kqtyhun"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/m6rh3o2c1q5e",
+      "player_url": "https://rapidvideo.link/e/m6rh3o2c1q5e",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m6rh3o2c1q5e"
+    },
+    {
+      "id": 25,
+      "url": "https://minochinos.com/embed/1az4plkcyrtg",
+      "player_url": "https://minochinos.com/embed/1az4plkcyrtg",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1az4plkcyrtg"
+    },
+    {
+      "id": 26,
+      "url": "https://hglink.to/e/325s587f8lt7",
+      "player_url": "https://hglink.to/e/325s587f8lt7",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "325s587f8lt7"
+    },
+    {
+      "id": 27,
+      "url": "https://bysedikamoum.com/e/j66s9azfl64p",
+      "player_url": "https://bysedikamoum.com/e/j66s9azfl64p",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "j66s9azfl64p"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/e/usqulspi50hq",
+      "player_url": "https://voe.sx/e/usqulspi50hq",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "usqulspi50hq"
+    },
+    {
+      "id": 29,
+      "url": "https://voe.sx/usqulspi50hq/download",
+      "player_url": "https://voe.sx/usqulspi50hq/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 30,
+      "url": "https://rapidvideo.link/e/0n1k496ayqu5",
+      "player_url": "https://rapidvideo.link/e/0n1k496ayqu5",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0n1k496ayqu5"
+    }
+  ]
+}
