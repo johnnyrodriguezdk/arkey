@@ -12,5 +12,33 @@
   "source": "animejara",
   "type": "movie",
   "iframe_url": "",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://netuplayer.top/e/Q0thNHIrcHBTanN3Zk1rZS81akxmdz09",
+      "player_url": "https://netuplayer.top/e/Q0thNHIrcHBTanN3Zk1rZS81akxmdz09",
+      "nombre": "netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Q0thNHIrcHBTanN3Zk1rZS81akxmdz09"
+    },
+    {
+      "id": 2,
+      "url": "https://streamtape.com/e/dk3Z1Brj01CkXMm",
+      "player_url": "https://streamtape.com/e/dk3Z1Brj01CkXMm",
+      "nombre": "streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dk3Z1Brj01CkXMm"
+    },
+    {
+      "id": 3,
+      "url": "https://dood.so/e/tykl06v72p6lxqlrehrxfxufrch4c6pw",
+      "player_url": "https://dood.so/e/tykl06v72p6lxqlrehrxfxufrch4c6pw",
+      "nombre": "dood",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tykl06v72p6lxqlrehrxfxufrch4c6pw"
+    }
+  ]
 }
