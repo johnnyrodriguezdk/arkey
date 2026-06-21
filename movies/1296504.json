@@ -1,1 +1,263 @@
-{"id":1296504,"titulo":"Stand Your Ground","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/3kliZ6mw8ZgnhfmHw14Zye6GyPS.jpg","release_date":"2025-05-09","genres":[],"rating":"4.5","backdrop":"https://image.tmdb.org/t/p/original/wE1TZtB5G1fdiln3PPnnLhExuCz.jpg","overview":"Un soldado de las fuerzas especiales usa la ley Stand Your Ground para vengarse del asesinato de su familia 6 años atrás.","trailer":"","runtime":"100","slug":"stand-your-ground","servidores":[{"id":1,"url":"https://streamwish.to/e/d86b25610xc4","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"d86b25610xc4","player_url":"https://streamwish.to/e/d86b25610xc4"},{"id":2,"url":"https://doodstream.com/e/g42jfde2m5n6","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"g42jfde2m5n6","player_url":"https://doodstream.com/e/g42jfde2m5n6"},{"id":3,"url":"https://streamwish.to/e/6uzfaib648n7","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"6uzfaib648n7","player_url":"https://streamwish.to/e/6uzfaib648n7"},{"id":4,"url":"https://vidhidepro.com/v/sreck0wt5xri","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"sreck0wt5xri","player_url":"https://vidhidepro.com/v/sreck0wt5xri"},{"id":5,"url":"https://voe.sx/e/ihaibxdzkkz2","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ihaibxdzkkz2","player_url":"https://voe.sx/e/ihaibxdzkkz2"},{"id":6,"url":"https://doodstream.com/e/edkiumcy8ply","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"edkiumcy8ply","player_url":"https://doodstream.com/e/edkiumcy8ply"},{"id":7,"url":"https://streamwish.to/e/nnvf7odr0jn7","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"nnvf7odr0jn7","player_url":"https://streamwish.to/e/nnvf7odr0jn7"},{"id":8,"url":"https://vidhidepro.com/v/aqt5hfivt169","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"aqt5hfivt169","player_url":"https://vidhidepro.com/v/aqt5hfivt169"},{"id":9,"url":"https://voe.sx/e/5di8wmxggue9","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"5di8wmxggue9","player_url":"https://voe.sx/e/5di8wmxggue9"},{"id":10,"url":"https://doodstream.com/e/rqpyok89w995","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"rqpyok89w995","player_url":"https://doodstream.com/e/rqpyok89w995"}]}
+{
+  "id": 1296504,
+  "titulo": "Stand Your Ground",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/3kliZ6mw8ZgnhfmHw14Zye6GyPS.jpg",
+  "release_date": "2025-05-09",
+  "genres": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+  ],
+  "rating": "4.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/wE1TZtB5G1fdiln3PPnnLhExuCz.jpg",
+  "overview": "Un soldado de las fuerzas especiales usa la ley Stand Your Ground para vengarse del asesinato de su familia 6 años atrás.",
+  "trailer": "",
+  "runtime": "100",
+  "slug": "stand-your-ground",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/d86b25610xc4",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "d86b25610xc4",
+      "player_url": "https://streamwish.to/e/d86b25610xc4"
+    },
+    {
+      "id": 2,
+      "url": "https://doodstream.com/e/g42jfde2m5n6",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "g42jfde2m5n6",
+      "player_url": "https://doodstream.com/e/g42jfde2m5n6"
+    },
+    {
+      "id": 3,
+      "url": "https://streamwish.to/e/6uzfaib648n7",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6uzfaib648n7",
+      "player_url": "https://streamwish.to/e/6uzfaib648n7"
+    },
+    {
+      "id": 4,
+      "url": "https://vidhidepro.com/v/sreck0wt5xri",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "sreck0wt5xri",
+      "player_url": "https://vidhidepro.com/v/sreck0wt5xri"
+    },
+    {
+      "id": 5,
+      "url": "https://voe.sx/e/ihaibxdzkkz2",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ihaibxdzkkz2",
+      "player_url": "https://voe.sx/e/ihaibxdzkkz2"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/edkiumcy8ply",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "edkiumcy8ply",
+      "player_url": "https://doodstream.com/e/edkiumcy8ply"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/nnvf7odr0jn7",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "nnvf7odr0jn7",
+      "player_url": "https://streamwish.to/e/nnvf7odr0jn7"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/aqt5hfivt169",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "aqt5hfivt169",
+      "player_url": "https://vidhidepro.com/v/aqt5hfivt169"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/5di8wmxggue9",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "5di8wmxggue9",
+      "player_url": "https://voe.sx/e/5di8wmxggue9"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/rqpyok89w995",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "rqpyok89w995",
+      "player_url": "https://doodstream.com/e/rqpyok89w995"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/in7mdh3g1oc3",
+      "player_url": "https://minochinos.com/embed/in7mdh3g1oc3",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "in7mdh3g1oc3"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/97blme2iy4gi",
+      "player_url": "https://hglink.to/e/97blme2iy4gi",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "97blme2iy4gi"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/nbyeturnrmf7",
+      "player_url": "https://bysedikamoum.com/e/nbyeturnrmf7",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nbyeturnrmf7"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/sqevosjn6dxg",
+      "player_url": "https://voe.sx/e/sqevosjn6dxg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sqevosjn6dxg"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/sqevosjn6dxg/download",
+      "player_url": "https://voe.sx/sqevosjn6dxg/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/jbvypg9i4cq8",
+      "player_url": "https://rapidvideo.link/e/jbvypg9i4cq8",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jbvypg9i4cq8"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/6dk4om5h8jtd",
+      "player_url": "https://minochinos.com/embed/6dk4om5h8jtd",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6dk4om5h8jtd"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/8k37k4n358ta",
+      "player_url": "https://hglink.to/e/8k37k4n358ta",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8k37k4n358ta"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/yfb7y6cewmpu",
+      "player_url": "https://bysedikamoum.com/e/yfb7y6cewmpu",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yfb7y6cewmpu"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/qhwrsyua5nkd",
+      "player_url": "https://voe.sx/e/qhwrsyua5nkd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qhwrsyua5nkd"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/35x69iwmrtvc",
+      "player_url": "https://rapidvideo.link/e/35x69iwmrtvc",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "35x69iwmrtvc"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/om7v74rqcntj",
+      "player_url": "https://minochinos.com/embed/om7v74rqcntj",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "om7v74rqcntj"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/wxww72kjcob6",
+      "player_url": "https://hglink.to/e/wxww72kjcob6",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wxww72kjcob6"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/byj1t4nh3xi4",
+      "player_url": "https://bysedikamoum.com/e/byj1t4nh3xi4",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "byj1t4nh3xi4"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/xyp9rceiorb2",
+      "player_url": "https://voe.sx/e/xyp9rceiorb2",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xyp9rceiorb2"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/xyp9rceiorb2/download",
+      "player_url": "https://voe.sx/xyp9rceiorb2/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/u6e4yl70cagh",
+      "player_url": "https://rapidvideo.link/e/u6e4yl70cagh",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u6e4yl70cagh"
+    }
+  ]
+}
