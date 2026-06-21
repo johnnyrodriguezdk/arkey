@@ -1,1 +1,199 @@
-{"id":800279,"titulo":"Corner Office","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/2JOPMnpaaTBvhy0HCby9uSBkt11.jpg","release_date":"2023-08-04","genres":[],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/5SBgIj4PejTBe3gGMb2zTTCMkXB.jpg","overview":"Orson es un burócrata compulsivo que descubre una habitación secreta que sus compañeros de trabajo niegan que exista.","trailer":"","runtime":"102","slug":"corner-office","servidores":[{"id":1,"url":"https://streamwish.to/e/4sg4xxul8r9y","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"4sg4xxul8r9y","player_url":"https://streamwish.to/e/4sg4xxul8r9y"},{"id":2,"url":"https://vidhidepro.com/v/kqofirupf7jx","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"kqofirupf7jx","player_url":"https://vidhidepro.com/v/kqofirupf7jx"},{"id":3,"url":"https://voe.sx/e/ohfpruq3fqmi","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ohfpruq3fqmi","player_url":"https://voe.sx/e/ohfpruq3fqmi"},{"id":4,"url":"https://doodstream.com/e/3gi0fgdcdh2r","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"3gi0fgdcdh2r","player_url":"https://doodstream.com/e/3gi0fgdcdh2r"},{"id":5,"url":"https://streamwish.to/e/pxlu0nfqbjo5","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"pxlu0nfqbjo5","player_url":"https://streamwish.to/e/pxlu0nfqbjo5"},{"id":6,"url":"https://vidhidepro.com/v/14ig2uaew478","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"14ig2uaew478","player_url":"https://vidhidepro.com/v/14ig2uaew478"},{"id":7,"url":"https://voe.sx/e/fdrkehyebhc8","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"fdrkehyebhc8","player_url":"https://voe.sx/e/fdrkehyebhc8"},{"id":8,"url":"https://doodstream.com/e/nu18o8n13s4o","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"nu18o8n13s4o","player_url":"https://doodstream.com/e/nu18o8n13s4o"}]}
+{
+  "id": 800279,
+  "titulo": "Corner Office",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/2JOPMnpaaTBvhy0HCby9uSBkt11.jpg",
+  "release_date": "2023-08-04",
+  "genres": [
+    "Comedia",
+    "Misterio"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/5SBgIj4PejTBe3gGMb2zTTCMkXB.jpg",
+  "overview": "Orson es un burócrata compulsivo que descubre una habitación secreta que sus compañeros de trabajo niegan que exista.",
+  "trailer": "",
+  "runtime": "102",
+  "slug": "corner-office",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/4sg4xxul8r9y",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4sg4xxul8r9y",
+      "player_url": "https://streamwish.to/e/4sg4xxul8r9y"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/kqofirupf7jx",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "kqofirupf7jx",
+      "player_url": "https://vidhidepro.com/v/kqofirupf7jx"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/ohfpruq3fqmi",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ohfpruq3fqmi",
+      "player_url": "https://voe.sx/e/ohfpruq3fqmi"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/3gi0fgdcdh2r",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "3gi0fgdcdh2r",
+      "player_url": "https://doodstream.com/e/3gi0fgdcdh2r"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/pxlu0nfqbjo5",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "pxlu0nfqbjo5",
+      "player_url": "https://streamwish.to/e/pxlu0nfqbjo5"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/14ig2uaew478",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "14ig2uaew478",
+      "player_url": "https://vidhidepro.com/v/14ig2uaew478"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/fdrkehyebhc8",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "fdrkehyebhc8",
+      "player_url": "https://voe.sx/e/fdrkehyebhc8"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/nu18o8n13s4o",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "nu18o8n13s4o",
+      "player_url": "https://doodstream.com/e/nu18o8n13s4o"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/w8z0xypxfv9d",
+      "player_url": "https://minochinos.com/embed/w8z0xypxfv9d",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w8z0xypxfv9d"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/gfzed78pg28e",
+      "player_url": "https://hglink.to/e/gfzed78pg28e",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gfzed78pg28e"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/al2r9xougaez",
+      "player_url": "https://bysedikamoum.com/e/al2r9xougaez",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "al2r9xougaez"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/xorjecsi032h",
+      "player_url": "https://voe.sx/e/xorjecsi032h",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xorjecsi032h"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/xorjecsi032h/download",
+      "player_url": "https://voe.sx/xorjecsi032h/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/da9fp5k8es4n",
+      "player_url": "https://rapidvideo.link/e/da9fp5k8es4n",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "da9fp5k8es4n"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/zxr3cmfkchy6",
+      "player_url": "https://minochinos.com/embed/zxr3cmfkchy6",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zxr3cmfkchy6"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/d44rzuj8ikss",
+      "player_url": "https://hglink.to/e/d44rzuj8ikss",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "d44rzuj8ikss"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/7nv8bh3vwrto",
+      "player_url": "https://bysedikamoum.com/e/7nv8bh3vwrto",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7nv8bh3vwrto"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/zbuzoawuefup",
+      "player_url": "https://voe.sx/e/zbuzoawuefup",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zbuzoawuefup"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/zbuzoawuefup/download",
+      "player_url": "https://voe.sx/zbuzoawuefup/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/jukio8h3ewx9",
+      "player_url": "https://rapidvideo.link/e/jukio8h3ewx9",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jukio8h3ewx9"
+    }
+  ]
+}
