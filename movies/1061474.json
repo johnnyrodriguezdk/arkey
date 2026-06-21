@@ -1,1 +1,245 @@
-{"id":1061474,"titulo":"Superman","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg","release_date":"2025-07-09","genres":[],"rating":"7.3","backdrop":"https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg","overview":"Mientras el mundo pierde la fe en la bondad, Clark Kent, un periodista en Metrópolis, se embarca en un viaje para reconciliar su herencia kryptoniana con su educación humana como Superman.","trailer":"","runtime":"129","slug":"superman","servidores":[{"id":1,"url":"https://streamwish.to/e/mwgm8bib7dwd","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"mwgm8bib7dwd","player_url":"https://streamwish.to/e/mwgm8bib7dwd"},{"id":2,"url":"https://vidhidepro.com/v/4me9001jsm6k","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"4me9001jsm6k","player_url":"https://vidhidepro.com/v/4me9001jsm6k"},{"id":3,"url":"https://doodstream.com/e/zr5a3tn7pkh1","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"zr5a3tn7pkh1","player_url":"https://doodstream.com/e/zr5a3tn7pkh1"},{"id":4,"url":"https://streamwish.to/e/zgk5itgv132o","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"zgk5itgv132o","player_url":"https://streamwish.to/e/zgk5itgv132o"},{"id":5,"url":"https://vidhidepro.com/v/3y8u065qnll2","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"3y8u065qnll2","player_url":"https://vidhidepro.com/v/3y8u065qnll2"},{"id":6,"url":"https://doodstream.com/e/fru0sf145zoy","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"fru0sf145zoy","player_url":"https://doodstream.com/e/fru0sf145zoy"},{"id":7,"url":"https://streamwish.to/e/1utcimdgdh4v","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"1utcimdgdh4v","player_url":"https://streamwish.to/e/1utcimdgdh4v"},{"id":8,"url":"https://vidhidepro.com/v/kl13gy47x00w","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"kl13gy47x00w","player_url":"https://vidhidepro.com/v/kl13gy47x00w"}]}
+{
+  "id": 1061474,
+  "titulo": "Superman",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg",
+  "release_date": "2025-07-09",
+  "genres": [
+    "Ciencia Ficción",
+    "Aventura",
+    "Acción"
+  ],
+  "rating": "7.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+  "overview": "Mientras el mundo pierde la fe en la bondad, Clark Kent, un periodista en Metrópolis, se embarca en un viaje para reconciliar su herencia kryptoniana con su educación humana como Superman.",
+  "trailer": "",
+  "runtime": "129",
+  "slug": "superman",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/mwgm8bib7dwd",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mwgm8bib7dwd",
+      "player_url": "https://streamwish.to/e/mwgm8bib7dwd"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/4me9001jsm6k",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "4me9001jsm6k",
+      "player_url": "https://vidhidepro.com/v/4me9001jsm6k"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/zr5a3tn7pkh1",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "zr5a3tn7pkh1",
+      "player_url": "https://doodstream.com/e/zr5a3tn7pkh1"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/zgk5itgv132o",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zgk5itgv132o",
+      "player_url": "https://streamwish.to/e/zgk5itgv132o"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/3y8u065qnll2",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3y8u065qnll2",
+      "player_url": "https://vidhidepro.com/v/3y8u065qnll2"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/fru0sf145zoy",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fru0sf145zoy",
+      "player_url": "https://doodstream.com/e/fru0sf145zoy"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/1utcimdgdh4v",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "1utcimdgdh4v",
+      "player_url": "https://streamwish.to/e/1utcimdgdh4v"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/kl13gy47x00w",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "kl13gy47x00w",
+      "player_url": "https://vidhidepro.com/v/kl13gy47x00w"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/09ogcig5dki8",
+      "player_url": "https://minochinos.com/embed/09ogcig5dki8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "09ogcig5dki8"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/b1xb6dcg8agm",
+      "player_url": "https://hglink.to/e/b1xb6dcg8agm",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b1xb6dcg8agm"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/ory727pkm9pt",
+      "player_url": "https://bysedikamoum.com/e/ory727pkm9pt",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ory727pkm9pt"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/haza1eufgfto",
+      "player_url": "https://voe.sx/e/haza1eufgfto",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "haza1eufgfto"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/haza1eufgfto/download",
+      "player_url": "https://voe.sx/haza1eufgfto/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/ksrinco7mf1e",
+      "player_url": "https://rapidvideo.link/e/ksrinco7mf1e",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ksrinco7mf1e"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/5odn6j7f4t0x",
+      "player_url": "https://minochinos.com/embed/5odn6j7f4t0x",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5odn6j7f4t0x"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/bl0jgblxf251",
+      "player_url": "https://hglink.to/e/bl0jgblxf251",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bl0jgblxf251"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/266pz7k50zob",
+      "player_url": "https://bysedikamoum.com/e/266pz7k50zob",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "266pz7k50zob"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/wzsdrupyjlbc",
+      "player_url": "https://voe.sx/e/wzsdrupyjlbc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wzsdrupyjlbc"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/9z1augnqlkhf",
+      "player_url": "https://rapidvideo.link/e/9z1augnqlkhf",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9z1augnqlkhf"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/3f0dg2spo465",
+      "player_url": "https://minochinos.com/embed/3f0dg2spo465",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3f0dg2spo465"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/v4o2nmkgyeht",
+      "player_url": "https://hglink.to/e/v4o2nmkgyeht",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "v4o2nmkgyeht"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/n4lcmn75vhpo",
+      "player_url": "https://bysedikamoum.com/e/n4lcmn75vhpo",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "n4lcmn75vhpo"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/xloodfsomuok",
+      "player_url": "https://voe.sx/e/xloodfsomuok",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xloodfsomuok"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/xloodfsomuok/download",
+      "player_url": "https://voe.sx/xloodfsomuok/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/q0xngivwpo37",
+      "player_url": "https://rapidvideo.link/e/q0xngivwpo37",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "q0xngivwpo37"
+    }
+  ]
+}
