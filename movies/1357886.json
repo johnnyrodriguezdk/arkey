@@ -1,1 +1,198 @@
-{"id":1357886,"titulo":"Django imbatible","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/l33smCkbpVFvNxGLILrx1PEyxyw.jpg","release_date":"2024-04-22","genres":["western"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/nvdLEfAWcfTNn45SpwBnLGBmOR1.jpg","overview":"Decidido a hacer justicia por su cuenta, Django se adentra en un territorio despiadado donde reinan la violencia y la anarquía. Entre duelos y desafíos letales, tendrá que arriesgarlo todo para devolver el orden allí donde ahora sólo parece dominar el caos.","trailer":"","runtime":"84","slug":"django-undisputed","servidores":[{"id":1,"url":"https://streamwish.to/e/dl6y8g2e7zqc","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"dl6y8g2e7zqc","player_url":"https://streamwish.to/e/dl6y8g2e7zqc"},{"id":2,"url":"https://vidhidepro.com/v/xvqolfo9x3xh","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"xvqolfo9x3xh","player_url":"https://vidhidepro.com/v/xvqolfo9x3xh"},{"id":3,"url":"https://voe.sx/e/1neoeije6mix","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"1neoeije6mix","player_url":"https://voe.sx/e/1neoeije6mix"},{"id":4,"url":"https://doodstream.com/e/zn44vqjp06kv","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"zn44vqjp06kv","player_url":"https://doodstream.com/e/zn44vqjp06kv"},{"id":5,"url":"https://streamwish.to/e/df7gdglyw73e","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"df7gdglyw73e","player_url":"https://streamwish.to/e/df7gdglyw73e"},{"id":6,"url":"https://vidhidepro.com/v/1gw3f6q56th7","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"1gw3f6q56th7","player_url":"https://vidhidepro.com/v/1gw3f6q56th7"},{"id":7,"url":"https://voe.sx/e/mdwz7kwsyu2c","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"mdwz7kwsyu2c","player_url":"https://voe.sx/e/mdwz7kwsyu2c"},{"id":8,"url":"https://doodstream.com/e/krwgiq1tqrfd","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"krwgiq1tqrfd","player_url":"https://doodstream.com/e/krwgiq1tqrfd"}]}
+{
+  "id": 1357886,
+  "titulo": "Django imbatible",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/l33smCkbpVFvNxGLILrx1PEyxyw.jpg",
+  "release_date": "2024-04-22",
+  "genres": [
+    "western"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/nvdLEfAWcfTNn45SpwBnLGBmOR1.jpg",
+  "overview": "Decidido a hacer justicia por su cuenta, Django se adentra en un territorio despiadado donde reinan la violencia y la anarquía. Entre duelos y desafíos letales, tendrá que arriesgarlo todo para devolver el orden allí donde ahora sólo parece dominar el caos.",
+  "trailer": "",
+  "runtime": "84",
+  "slug": "django-undisputed",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/dl6y8g2e7zqc",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "dl6y8g2e7zqc",
+      "player_url": "https://streamwish.to/e/dl6y8g2e7zqc"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/xvqolfo9x3xh",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xvqolfo9x3xh",
+      "player_url": "https://vidhidepro.com/v/xvqolfo9x3xh"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/1neoeije6mix",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "1neoeije6mix",
+      "player_url": "https://voe.sx/e/1neoeije6mix"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/zn44vqjp06kv",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "zn44vqjp06kv",
+      "player_url": "https://doodstream.com/e/zn44vqjp06kv"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/df7gdglyw73e",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "df7gdglyw73e",
+      "player_url": "https://streamwish.to/e/df7gdglyw73e"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/1gw3f6q56th7",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1gw3f6q56th7",
+      "player_url": "https://vidhidepro.com/v/1gw3f6q56th7"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/mdwz7kwsyu2c",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "mdwz7kwsyu2c",
+      "player_url": "https://voe.sx/e/mdwz7kwsyu2c"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/krwgiq1tqrfd",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "krwgiq1tqrfd",
+      "player_url": "https://doodstream.com/e/krwgiq1tqrfd"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/z6yin5rlap3y",
+      "player_url": "https://minochinos.com/embed/z6yin5rlap3y",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z6yin5rlap3y"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/v2ryn907zcfe",
+      "player_url": "https://hglink.to/e/v2ryn907zcfe",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v2ryn907zcfe"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/tz2lm66c5fp9",
+      "player_url": "https://bysedikamoum.com/e/tz2lm66c5fp9",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tz2lm66c5fp9"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/bydvsjwjhlzr",
+      "player_url": "https://voe.sx/e/bydvsjwjhlzr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bydvsjwjhlzr"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/bydvsjwjhlzr/download",
+      "player_url": "https://voe.sx/bydvsjwjhlzr/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/4ksd7hgw0bf1",
+      "player_url": "https://rapidvideo.link/e/4ksd7hgw0bf1",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4ksd7hgw0bf1"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/d6sxizdbopfh",
+      "player_url": "https://minochinos.com/embed/d6sxizdbopfh",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "d6sxizdbopfh"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/4zgqzq4ya0nj",
+      "player_url": "https://hglink.to/e/4zgqzq4ya0nj",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4zgqzq4ya0nj"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/0meou0iy0u43",
+      "player_url": "https://bysedikamoum.com/e/0meou0iy0u43",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0meou0iy0u43"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/9ithanrycxhu",
+      "player_url": "https://voe.sx/e/9ithanrycxhu",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9ithanrycxhu"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/9ithanrycxhu/download",
+      "player_url": "https://voe.sx/9ithanrycxhu/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/xo594w806ue3",
+      "player_url": "https://rapidvideo.link/e/xo594w806ue3",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xo594w806ue3"
+    }
+  ]
+}
