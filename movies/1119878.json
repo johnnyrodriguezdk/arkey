@@ -1,1 +1,243 @@
-{"id":1119878,"titulo":"Riesgo bajo cero: Venganza","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/xbUcMjy0fQhDM7YrKHMxsYRHrP4.jpg","release_date":"2025-06-27","genres":["drama"],"rating":"6.2","backdrop":"https://image.tmdb.org/t/p/original/2nwhxEyefcIFKwOrSigiamoIzu2.jpg","overview":"Mike viaja a Nepal para esparcir las cenizas de su hermano en el Everest. Cuando Mike y su guía se topan con mercenarios mientras viajan en un autobús se ven obligados a luchar para salvarse a sí mismos, a los pasajeros y al país.","trailer":"","runtime":"113","slug":"ice-road-vengeance","servidores":[{"id":1,"url":"https://streamwish.to/e/f7q4d886eyup","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"f7q4d886eyup","player_url":"https://streamwish.to/e/f7q4d886eyup"},{"id":2,"url":"https://vidhidepro.com/v/3mptbu1fa956","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"3mptbu1fa956","player_url":"https://vidhidepro.com/v/3mptbu1fa956"},{"id":3,"url":"https://voe.sx/e/wqtqdzak5hhy","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"wqtqdzak5hhy","player_url":"https://voe.sx/e/wqtqdzak5hhy"},{"id":4,"url":"https://doodstream.com/e/kn9lonbrrr6o","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"kn9lonbrrr6o","player_url":"https://doodstream.com/e/kn9lonbrrr6o"},{"id":5,"url":"https://streamwish.to/e/ii7gtq8htilc","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ii7gtq8htilc","player_url":"https://streamwish.to/e/ii7gtq8htilc"},{"id":6,"url":"https://vidhidepro.com/v/nny0ufh4r881","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"nny0ufh4r881","player_url":"https://vidhidepro.com/v/nny0ufh4r881"},{"id":7,"url":"https://voe.sx/e/j82sjes7nm7o","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"j82sjes7nm7o","player_url":"https://voe.sx/e/j82sjes7nm7o"},{"id":8,"url":"https://doodstream.com/e/nt6fxndsyxl9","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"nt6fxndsyxl9","player_url":"https://doodstream.com/e/nt6fxndsyxl9"}]}
+{
+  "id": 1119878,
+  "titulo": "Riesgo bajo cero: Venganza",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/xbUcMjy0fQhDM7YrKHMxsYRHrP4.jpg",
+  "release_date": "2025-06-27",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/2nwhxEyefcIFKwOrSigiamoIzu2.jpg",
+  "overview": "Mike viaja a Nepal para esparcir las cenizas de su hermano en el Everest. Cuando Mike y su guía se topan con mercenarios mientras viajan en un autobús se ven obligados a luchar para salvarse a sí mismos, a los pasajeros y al país.",
+  "trailer": "",
+  "runtime": "113",
+  "slug": "ice-road-vengeance",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/f7q4d886eyup",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "f7q4d886eyup",
+      "player_url": "https://streamwish.to/e/f7q4d886eyup"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/3mptbu1fa956",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3mptbu1fa956",
+      "player_url": "https://vidhidepro.com/v/3mptbu1fa956"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/wqtqdzak5hhy",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "wqtqdzak5hhy",
+      "player_url": "https://voe.sx/e/wqtqdzak5hhy"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/kn9lonbrrr6o",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "kn9lonbrrr6o",
+      "player_url": "https://doodstream.com/e/kn9lonbrrr6o"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/ii7gtq8htilc",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ii7gtq8htilc",
+      "player_url": "https://streamwish.to/e/ii7gtq8htilc"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/nny0ufh4r881",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "nny0ufh4r881",
+      "player_url": "https://vidhidepro.com/v/nny0ufh4r881"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/j82sjes7nm7o",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "j82sjes7nm7o",
+      "player_url": "https://voe.sx/e/j82sjes7nm7o"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/nt6fxndsyxl9",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "nt6fxndsyxl9",
+      "player_url": "https://doodstream.com/e/nt6fxndsyxl9"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/33iv7i4zohdt",
+      "player_url": "https://minochinos.com/embed/33iv7i4zohdt",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "33iv7i4zohdt"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/n359g9edgkqg",
+      "player_url": "https://hglink.to/e/n359g9edgkqg",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n359g9edgkqg"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/q6fkectbqyyk",
+      "player_url": "https://bysedikamoum.com/e/q6fkectbqyyk",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q6fkectbqyyk"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/bntx2yixzmdz",
+      "player_url": "https://voe.sx/e/bntx2yixzmdz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bntx2yixzmdz"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/bntx2yixzmdz/download",
+      "player_url": "https://voe.sx/bntx2yixzmdz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/8dsvj2g0yn7h",
+      "player_url": "https://rapidvideo.link/e/8dsvj2g0yn7h",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8dsvj2g0yn7h"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/s9xafq0l9a6b",
+      "player_url": "https://minochinos.com/embed/s9xafq0l9a6b",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s9xafq0l9a6b"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/29y3f86ou67d",
+      "player_url": "https://hglink.to/e/29y3f86ou67d",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "29y3f86ou67d"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/nze6ag6zvyee",
+      "player_url": "https://bysedikamoum.com/e/nze6ag6zvyee",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nze6ag6zvyee"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/xwav1qb1usts",
+      "player_url": "https://voe.sx/e/xwav1qb1usts",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xwav1qb1usts"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/j04vbizrnp6h",
+      "player_url": "https://rapidvideo.link/e/j04vbizrnp6h",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j04vbizrnp6h"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/g7b9kcfchfoa",
+      "player_url": "https://minochinos.com/embed/g7b9kcfchfoa",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "g7b9kcfchfoa"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/74rmjhvnfq5a",
+      "player_url": "https://hglink.to/e/74rmjhvnfq5a",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "74rmjhvnfq5a"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/azzqq3gsijyy",
+      "player_url": "https://bysedikamoum.com/e/azzqq3gsijyy",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "azzqq3gsijyy"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/zjpyzkpfdb36",
+      "player_url": "https://voe.sx/e/zjpyzkpfdb36",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zjpyzkpfdb36"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/zjpyzkpfdb36/download",
+      "player_url": "https://voe.sx/zjpyzkpfdb36/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/5u2loer0v64b",
+      "player_url": "https://rapidvideo.link/e/5u2loer0v64b",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5u2loer0v64b"
+    }
+  ]
+}
