@@ -1,1 +1,219 @@
-{"id":927254,"titulo":"Los Cretinos","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/fAeHnC35RtbYLm5tRGLveLa0YvH.jpg","release_date":"2025-10-17","genres":[],"rating":"6.0","backdrop":"https://image.tmdb.org/t/p/original/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg","overview":"Cuando una pareja de odiosos y malvados villanos trama un plan para apoderarse de la ciudad, dos niños se alían con una familia de animales mágicos para detenerlos.","trailer":"","runtime":"99","slug":"los-cretinos","servidores":[{"id":1,"url":"https://streamwish.to/e/bxmuug2od574","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"bxmuug2od574","player_url":"https://streamwish.to/e/bxmuug2od574"},{"id":2,"url":"https://vidhidepro.com/v/h78dyq5u0pql","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"h78dyq5u0pql","player_url":"https://vidhidepro.com/v/h78dyq5u0pql"},{"id":3,"url":"https://voe.sx/e/duxwida8py0l","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"duxwida8py0l","player_url":"https://voe.sx/e/duxwida8py0l"},{"id":4,"url":"https://streamwish.to/e/sut3zsdr4an9","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"sut3zsdr4an9","player_url":"https://streamwish.to/e/sut3zsdr4an9"},{"id":5,"url":"https://vidhidepro.com/v/whg3syf7aclh","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"whg3syf7aclh","player_url":"https://vidhidepro.com/v/whg3syf7aclh"},{"id":6,"url":"https://voe.sx/e/70omgi1mdjve","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"70omgi1mdjve","player_url":"https://voe.sx/e/70omgi1mdjve"},{"id":7,"url":"https://doodstream.com/e/iqfovo0dw6fd","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"iqfovo0dw6fd","player_url":"https://doodstream.com/e/iqfovo0dw6fd"},{"id":8,"url":"https://streamwish.to/e/os34y8it6ptd","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"os34y8it6ptd","player_url":"https://streamwish.to/e/os34y8it6ptd"},{"id":9,"url":"https://vidhidepro.com/v/f98uctqcxq8e","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"f98uctqcxq8e","player_url":"https://vidhidepro.com/v/f98uctqcxq8e"},{"id":10,"url":"https://voe.sx/e/kthbnur8ycz1","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"kthbnur8ycz1","player_url":"https://voe.sx/e/kthbnur8ycz1"}]}
+{
+  "id": 927254,
+  "titulo": "Los Cretinos",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/fAeHnC35RtbYLm5tRGLveLa0YvH.jpg",
+  "release_date": "2025-10-17",
+  "genres": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "rating": "6.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+  "overview": "Cuando una pareja de odiosos y malvados villanos trama un plan para apoderarse de la ciudad, dos niños se alían con una familia de animales mágicos para detenerlos.",
+  "trailer": "",
+  "runtime": "99",
+  "slug": "los-cretinos",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/bxmuug2od574",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "bxmuug2od574",
+      "player_url": "https://streamwish.to/e/bxmuug2od574"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/h78dyq5u0pql",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "h78dyq5u0pql",
+      "player_url": "https://vidhidepro.com/v/h78dyq5u0pql"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/duxwida8py0l",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "duxwida8py0l",
+      "player_url": "https://voe.sx/e/duxwida8py0l"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/sut3zsdr4an9",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "sut3zsdr4an9",
+      "player_url": "https://streamwish.to/e/sut3zsdr4an9"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/whg3syf7aclh",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "whg3syf7aclh",
+      "player_url": "https://vidhidepro.com/v/whg3syf7aclh"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/70omgi1mdjve",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "70omgi1mdjve",
+      "player_url": "https://voe.sx/e/70omgi1mdjve"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/iqfovo0dw6fd",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "iqfovo0dw6fd",
+      "player_url": "https://doodstream.com/e/iqfovo0dw6fd"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/os34y8it6ptd",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "os34y8it6ptd",
+      "player_url": "https://streamwish.to/e/os34y8it6ptd"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/f98uctqcxq8e",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "f98uctqcxq8e",
+      "player_url": "https://vidhidepro.com/v/f98uctqcxq8e"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/kthbnur8ycz1",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "kthbnur8ycz1",
+      "player_url": "https://voe.sx/e/kthbnur8ycz1"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/akosbv4p4zsa",
+      "player_url": "https://minochinos.com/embed/akosbv4p4zsa",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "akosbv4p4zsa"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/05dlgzgjoled",
+      "player_url": "https://hglink.to/e/05dlgzgjoled",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "05dlgzgjoled"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/mhlvbpgys0es",
+      "player_url": "https://bysedikamoum.com/e/mhlvbpgys0es",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mhlvbpgys0es"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/zen2ihhm6d7k",
+      "player_url": "https://voe.sx/e/zen2ihhm6d7k",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zen2ihhm6d7k"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/zen2ihhm6d7k/download",
+      "player_url": "https://voe.sx/zen2ihhm6d7k/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/wg8m6or3kl2d",
+      "player_url": "https://rapidvideo.link/e/wg8m6or3kl2d",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wg8m6or3kl2d"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/3rjdncqrrqgo",
+      "player_url": "https://minochinos.com/embed/3rjdncqrrqgo",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3rjdncqrrqgo"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/hrlevsezl6no",
+      "player_url": "https://hglink.to/e/hrlevsezl6no",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hrlevsezl6no"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/k990g04vlhz4",
+      "player_url": "https://bysedikamoum.com/e/k990g04vlhz4",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "k990g04vlhz4"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/3capvbfkbtci",
+      "player_url": "https://voe.sx/e/3capvbfkbtci",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3capvbfkbtci"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/3capvbfkbtci/download",
+      "player_url": "https://voe.sx/3capvbfkbtci/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/smiref8y3d0j",
+      "player_url": "https://rapidvideo.link/e/smiref8y3d0j",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "smiref8y3d0j"
+    }
+  ]
+}
