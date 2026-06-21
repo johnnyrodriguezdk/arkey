@@ -1,1 +1,198 @@
-{"id":1223690,"titulo":"Pretty Thing","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/xWVbtqUvuhAOYzkZV6YDQOnN5fQ.jpg","release_date":"2025-07-03","genres":["drama"],"rating":"5.6","backdrop":"https://image.tmdb.org/t/p/original/mqKClgkLyxtmJWkh4gbUp1I6KXl.jpg","overview":"La historia de un ejecutivo de éxito que lucha con un joven amante despechado que lleva su obsesión demasiado lejos.","trailer":"","runtime":"96","slug":"pretty-thing","servidores":[{"id":1,"url":"https://streamwish.to/e/cydbgh8m0t0h","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"cydbgh8m0t0h","player_url":"https://streamwish.to/e/cydbgh8m0t0h"},{"id":2,"url":"https://vidhidepro.com/v/qe6r2l2d9lv7","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"qe6r2l2d9lv7","player_url":"https://vidhidepro.com/v/qe6r2l2d9lv7"},{"id":3,"url":"https://voe.sx/e/i6qjelp2pscf","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"i6qjelp2pscf","player_url":"https://voe.sx/e/i6qjelp2pscf"},{"id":4,"url":"https://doodstream.com/e/088tg6ia3m68","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"088tg6ia3m68","player_url":"https://doodstream.com/e/088tg6ia3m68"},{"id":5,"url":"https://streamwish.to/e/4m3hkyd51m8z","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"4m3hkyd51m8z","player_url":"https://streamwish.to/e/4m3hkyd51m8z"},{"id":6,"url":"https://vidhidepro.com/v/ve3tm8rr399v","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"ve3tm8rr399v","player_url":"https://vidhidepro.com/v/ve3tm8rr399v"},{"id":7,"url":"https://voe.sx/e/rhb798uvfjzi","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"rhb798uvfjzi","player_url":"https://voe.sx/e/rhb798uvfjzi"},{"id":8,"url":"https://doodstream.com/e/geuid1c2e13d","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"geuid1c2e13d","player_url":"https://doodstream.com/e/geuid1c2e13d"}]}
+{
+  "id": 1223690,
+  "titulo": "Pretty Thing",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/xWVbtqUvuhAOYzkZV6YDQOnN5fQ.jpg",
+  "release_date": "2025-07-03",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/mqKClgkLyxtmJWkh4gbUp1I6KXl.jpg",
+  "overview": "La historia de un ejecutivo de éxito que lucha con un joven amante despechado que lleva su obsesión demasiado lejos.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "pretty-thing",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/cydbgh8m0t0h",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cydbgh8m0t0h",
+      "player_url": "https://streamwish.to/e/cydbgh8m0t0h"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/qe6r2l2d9lv7",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "qe6r2l2d9lv7",
+      "player_url": "https://vidhidepro.com/v/qe6r2l2d9lv7"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/i6qjelp2pscf",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "i6qjelp2pscf",
+      "player_url": "https://voe.sx/e/i6qjelp2pscf"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/088tg6ia3m68",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "088tg6ia3m68",
+      "player_url": "https://doodstream.com/e/088tg6ia3m68"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/4m3hkyd51m8z",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4m3hkyd51m8z",
+      "player_url": "https://streamwish.to/e/4m3hkyd51m8z"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/ve3tm8rr399v",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ve3tm8rr399v",
+      "player_url": "https://vidhidepro.com/v/ve3tm8rr399v"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/rhb798uvfjzi",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rhb798uvfjzi",
+      "player_url": "https://voe.sx/e/rhb798uvfjzi"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/geuid1c2e13d",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "geuid1c2e13d",
+      "player_url": "https://doodstream.com/e/geuid1c2e13d"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/19eizwbiu8ub",
+      "player_url": "https://minochinos.com/embed/19eizwbiu8ub",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "19eizwbiu8ub"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/h093vkpa5ius",
+      "player_url": "https://hglink.to/e/h093vkpa5ius",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h093vkpa5ius"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/3685bef2newy",
+      "player_url": "https://bysedikamoum.com/e/3685bef2newy",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3685bef2newy"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/npoeb8o8yjil",
+      "player_url": "https://voe.sx/e/npoeb8o8yjil",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "npoeb8o8yjil"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/npoeb8o8yjil/download",
+      "player_url": "https://voe.sx/npoeb8o8yjil/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/eauk6cm4qrtn",
+      "player_url": "https://rapidvideo.link/e/eauk6cm4qrtn",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eauk6cm4qrtn"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/tk73p8zl2hsj",
+      "player_url": "https://minochinos.com/embed/tk73p8zl2hsj",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tk73p8zl2hsj"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/6yxhon1l78u2",
+      "player_url": "https://hglink.to/e/6yxhon1l78u2",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6yxhon1l78u2"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/4uv8aeriatzv",
+      "player_url": "https://bysedikamoum.com/e/4uv8aeriatzv",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4uv8aeriatzv"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/cxjefc4dabmm",
+      "player_url": "https://voe.sx/e/cxjefc4dabmm",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cxjefc4dabmm"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/cxjefc4dabmm/download",
+      "player_url": "https://voe.sx/cxjefc4dabmm/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/lvfh07osu6ak",
+      "player_url": "https://rapidvideo.link/e/lvfh07osu6ak",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lvfh07osu6ak"
+    }
+  ]
+}
