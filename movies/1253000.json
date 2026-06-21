@@ -1,1 +1,227 @@
-{"id":1253000,"titulo":"Deathstalker","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/v0m1HewJ9eqSRbldIDzqRlYm16d.jpg","release_date":"2025-10-10","genres":[],"rating":"6.0","backdrop":"https://image.tmdb.org/t/p/original/7aiQebqYUHbs2wZPhsTznuMWyeH.jpg","overview":"El reino de Abraxeon está siendo asediado por los Dreadites, heraldos del hechicero Nekromemnon, muerto hace mucho tiempo. Cuando Deathstalker recupera un amuleto maldito de un campo de batalla sembrado de cadáveres, queda marcado por la magia negra y es perseguido por monstruosos asesinos de todo tipo. Para sobrevivir, debe romper la maldición y enfrentarse al mal naciente.","trailer":"","runtime":"102","slug":"deathstalker","servidores":[{"id":1,"url":"https://streamwish.to/e/co3xd8tmzlth","idioma":"latino","nombre":"Streamwish","calidad":"SCR","embed_id":"co3xd8tmzlth","player_url":"https://streamwish.to/e/co3xd8tmzlth"},{"id":2,"url":"https://vidhidepro.com/v/six1hl9sq3sx","idioma":"latino","nombre":"Vidhide","calidad":"SCR","embed_id":"six1hl9sq3sx","player_url":"https://vidhidepro.com/v/six1hl9sq3sx"},{"id":3,"url":"https://voe.sx/e/cac1uvnrznmi","idioma":"latino","nombre":"Voesx","calidad":"SCR","embed_id":"cac1uvnrznmi","player_url":"https://voe.sx/e/cac1uvnrznmi"},{"id":4,"url":"https://doodstream.com/e/3cujskz7js50","idioma":"latino","nombre":"Doodstream","calidad":"SCR","embed_id":"3cujskz7js50","player_url":"https://doodstream.com/e/3cujskz7js50"},{"id":5,"url":"https://streamwish.to/e/rxuek55o298o","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"rxuek55o298o","player_url":"https://streamwish.to/e/rxuek55o298o"},{"id":6,"url":"https://vidhidepro.com/v/bd969yofk59m","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"bd969yofk59m","player_url":"https://vidhidepro.com/v/bd969yofk59m"},{"id":7,"url":"https://voe.sx/e/dgyhbq3hivam","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"dgyhbq3hivam","player_url":"https://voe.sx/e/dgyhbq3hivam"},{"id":8,"url":"https://doodstream.com/e/lwapy5yblsns","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"lwapy5yblsns","player_url":"https://doodstream.com/e/lwapy5yblsns"},{"id":9,"url":"https://streamwish.to/e/ule4qw4eawa8","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"ule4qw4eawa8","player_url":"https://streamwish.to/e/ule4qw4eawa8"},{"id":10,"url":"https://bysejikuar.com/e/6rodze1g6wry","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"6rodze1g6wry","player_url":"https://bysejikuar.com/e/6rodze1g6wry"},{"id":11,"url":"https://vidhidepro.com/v/gh5bqonz7nsr","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"gh5bqonz7nsr","player_url":"https://vidhidepro.com/v/gh5bqonz7nsr"},{"id":12,"url":"https://voe.sx/e/vjmrpasu7pbs","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"vjmrpasu7pbs","player_url":"https://voe.sx/e/vjmrpasu7pbs"},{"id":13,"url":"https://doodstream.com/e/tgs7t4engnyk","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"tgs7t4engnyk","player_url":"https://doodstream.com/e/tgs7t4engnyk"}]}
+{
+  "id": 1253000,
+  "titulo": "Deathstalker",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/v0m1HewJ9eqSRbldIDzqRlYm16d.jpg",
+  "release_date": "2025-10-10",
+  "genres": [
+    "Fantasía",
+    "Acción",
+    "Aventura"
+  ],
+  "rating": "6.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/7aiQebqYUHbs2wZPhsTznuMWyeH.jpg",
+  "overview": "El reino de Abraxeon está siendo asediado por los Dreadites, heraldos del hechicero Nekromemnon, muerto hace mucho tiempo. Cuando Deathstalker recupera un amuleto maldito de un campo de batalla sembrado de cadáveres, queda marcado por la magia negra y es perseguido por monstruosos asesinos de todo tipo. Para sobrevivir, debe romper la maldición y enfrentarse al mal naciente.",
+  "trailer": "",
+  "runtime": "102",
+  "slug": "deathstalker",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/co3xd8tmzlth",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "SCR",
+      "embed_id": "co3xd8tmzlth",
+      "player_url": "https://streamwish.to/e/co3xd8tmzlth"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/six1hl9sq3sx",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "SCR",
+      "embed_id": "six1hl9sq3sx",
+      "player_url": "https://vidhidepro.com/v/six1hl9sq3sx"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/cac1uvnrznmi",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "SCR",
+      "embed_id": "cac1uvnrznmi",
+      "player_url": "https://voe.sx/e/cac1uvnrznmi"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/3cujskz7js50",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "SCR",
+      "embed_id": "3cujskz7js50",
+      "player_url": "https://doodstream.com/e/3cujskz7js50"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/rxuek55o298o",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "rxuek55o298o",
+      "player_url": "https://streamwish.to/e/rxuek55o298o"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/bd969yofk59m",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "bd969yofk59m",
+      "player_url": "https://vidhidepro.com/v/bd969yofk59m"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/dgyhbq3hivam",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "dgyhbq3hivam",
+      "player_url": "https://voe.sx/e/dgyhbq3hivam"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/lwapy5yblsns",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "lwapy5yblsns",
+      "player_url": "https://doodstream.com/e/lwapy5yblsns"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/ule4qw4eawa8",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ule4qw4eawa8",
+      "player_url": "https://streamwish.to/e/ule4qw4eawa8"
+    },
+    {
+      "id": 10,
+      "url": "https://bysejikuar.com/e/6rodze1g6wry",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "6rodze1g6wry",
+      "player_url": "https://bysejikuar.com/e/6rodze1g6wry"
+    },
+    {
+      "id": 11,
+      "url": "https://vidhidepro.com/v/gh5bqonz7nsr",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "gh5bqonz7nsr",
+      "player_url": "https://vidhidepro.com/v/gh5bqonz7nsr"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/vjmrpasu7pbs",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vjmrpasu7pbs",
+      "player_url": "https://voe.sx/e/vjmrpasu7pbs"
+    },
+    {
+      "id": 13,
+      "url": "https://doodstream.com/e/tgs7t4engnyk",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "tgs7t4engnyk",
+      "player_url": "https://doodstream.com/e/tgs7t4engnyk"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/a5pff3jd3yxw",
+      "player_url": "https://minochinos.com/embed/a5pff3jd3yxw",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a5pff3jd3yxw"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/caat1zq9ir9h",
+      "player_url": "https://hglink.to/e/caat1zq9ir9h",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "caat1zq9ir9h"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/dmsd9a9lkueo",
+      "player_url": "https://voe.sx/e/dmsd9a9lkueo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dmsd9a9lkueo"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/dmsd9a9lkueo/download",
+      "player_url": "https://voe.sx/dmsd9a9lkueo/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/t6sdxvzul0ap",
+      "player_url": "https://rapidvideo.link/e/t6sdxvzul0ap",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t6sdxvzul0ap"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/utq35ikjrsjk",
+      "player_url": "https://minochinos.com/embed/utq35ikjrsjk",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "utq35ikjrsjk"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/p25la3gs6jna",
+      "player_url": "https://hglink.to/e/p25la3gs6jna",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "p25la3gs6jna"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/f3bk47sktd41",
+      "player_url": "https://voe.sx/e/f3bk47sktd41",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "f3bk47sktd41"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/f3bk47sktd41/download",
+      "player_url": "https://voe.sx/f3bk47sktd41/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/3upji6reocqv",
+      "player_url": "https://rapidvideo.link/e/3upji6reocqv",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3upji6reocqv"
+    }
+  ]
+}
