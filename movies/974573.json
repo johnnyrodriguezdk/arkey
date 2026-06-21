@@ -1,1 +1,245 @@
-{"id":974573,"titulo":"Otro pequeño favor","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/pZr2QCUbsekpiLnZ7788twcLpSn.jpg","release_date":"2025-03-07","genres":[],"rating":"5.7","backdrop":"https://image.tmdb.org/t/p/original/b6e5Nss2QNoQM4wJv2VppChswNP.jpg","overview":"Stephanie Smothers y Emily Nelson se reúnen en la hermosa isla de Capri, Italia, para la extravagante boda entre Emily y un rico empresario italiano. Junto a los glamorosos invitados, el asesinato y la traición harán acto de presencia en una boda con más giros y vueltas que la carretera que va de Marina Grande a la plaza municipal de Capri.","trailer":"","runtime":"120","slug":"otro-pequeno-favor","servidores":[{"id":1,"url":"https://streamwish.to/e/m5qhq3hvcujy","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"m5qhq3hvcujy","player_url":"https://streamwish.to/e/m5qhq3hvcujy"},{"id":2,"url":"https://vidhidepro.com/v/1f05tac797di","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"1f05tac797di","player_url":"https://vidhidepro.com/v/1f05tac797di"},{"id":3,"url":"https://streamwish.to/e/4d97wzc1yqp7","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"4d97wzc1yqp7","player_url":"https://streamwish.to/e/4d97wzc1yqp7"},{"id":4,"url":"https://vidhidepro.com/v/f95ppv4rf71d","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"f95ppv4rf71d","player_url":"https://vidhidepro.com/v/f95ppv4rf71d"},{"id":5,"url":"https://voe.sx/e/ihoeghdrwfiz","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ihoeghdrwfiz","player_url":"https://voe.sx/e/ihoeghdrwfiz"},{"id":6,"url":"https://streamwish.to/e/adj14ghd9ljf","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"adj14ghd9ljf","player_url":"https://streamwish.to/e/adj14ghd9ljf"},{"id":7,"url":"https://vidhidepro.com/v/34byd8osszrx","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"34byd8osszrx","player_url":"https://vidhidepro.com/v/34byd8osszrx"},{"id":8,"url":"https://voe.sx/e/sjvl7kqb1y4q","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"sjvl7kqb1y4q","player_url":"https://voe.sx/e/sjvl7kqb1y4q"}]}
+{
+  "id": 974573,
+  "titulo": "Otro pequeño favor",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/pZr2QCUbsekpiLnZ7788twcLpSn.jpg",
+  "release_date": "2025-03-07",
+  "genres": [
+    "Suspense",
+    "Comedia",
+    "Crimen"
+  ],
+  "rating": "5.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/b6e5Nss2QNoQM4wJv2VppChswNP.jpg",
+  "overview": "Stephanie Smothers y Emily Nelson se reúnen en la hermosa isla de Capri, Italia, para la extravagante boda entre Emily y un rico empresario italiano. Junto a los glamorosos invitados, el asesinato y la traición harán acto de presencia en una boda con más giros y vueltas que la carretera que va de Marina Grande a la plaza municipal de Capri.",
+  "trailer": "",
+  "runtime": "120",
+  "slug": "otro-pequeno-favor",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/m5qhq3hvcujy",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "m5qhq3hvcujy",
+      "player_url": "https://streamwish.to/e/m5qhq3hvcujy"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/1f05tac797di",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1f05tac797di",
+      "player_url": "https://vidhidepro.com/v/1f05tac797di"
+    },
+    {
+      "id": 3,
+      "url": "https://streamwish.to/e/4d97wzc1yqp7",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4d97wzc1yqp7",
+      "player_url": "https://streamwish.to/e/4d97wzc1yqp7"
+    },
+    {
+      "id": 4,
+      "url": "https://vidhidepro.com/v/f95ppv4rf71d",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "f95ppv4rf71d",
+      "player_url": "https://vidhidepro.com/v/f95ppv4rf71d"
+    },
+    {
+      "id": 5,
+      "url": "https://voe.sx/e/ihoeghdrwfiz",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ihoeghdrwfiz",
+      "player_url": "https://voe.sx/e/ihoeghdrwfiz"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/adj14ghd9ljf",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "adj14ghd9ljf",
+      "player_url": "https://streamwish.to/e/adj14ghd9ljf"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/34byd8osszrx",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "34byd8osszrx",
+      "player_url": "https://vidhidepro.com/v/34byd8osszrx"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/sjvl7kqb1y4q",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "sjvl7kqb1y4q",
+      "player_url": "https://voe.sx/e/sjvl7kqb1y4q"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/kbuwnox98fi7",
+      "player_url": "https://minochinos.com/embed/kbuwnox98fi7",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kbuwnox98fi7"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/8xkrtagh9qnj",
+      "player_url": "https://hglink.to/e/8xkrtagh9qnj",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8xkrtagh9qnj"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/pnjlwd4yffan",
+      "player_url": "https://bysedikamoum.com/e/pnjlwd4yffan",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pnjlwd4yffan"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/5j4toqn9qjie",
+      "player_url": "https://voe.sx/e/5j4toqn9qjie",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5j4toqn9qjie"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/5j4toqn9qjie/download",
+      "player_url": "https://voe.sx/5j4toqn9qjie/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/4gcqxh2yw8kz",
+      "player_url": "https://rapidvideo.link/e/4gcqxh2yw8kz",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4gcqxh2yw8kz"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/i44wqtiw4i3h",
+      "player_url": "https://minochinos.com/embed/i44wqtiw4i3h",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i44wqtiw4i3h"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/i51kk7u2mtk9",
+      "player_url": "https://hglink.to/e/i51kk7u2mtk9",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i51kk7u2mtk9"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/88rmufvmcob2",
+      "player_url": "https://bysedikamoum.com/e/88rmufvmcob2",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "88rmufvmcob2"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/umzgmx1ie1b6",
+      "player_url": "https://voe.sx/e/umzgmx1ie1b6",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "umzgmx1ie1b6"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/avzpl0k8ws1y",
+      "player_url": "https://rapidvideo.link/e/avzpl0k8ws1y",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "avzpl0k8ws1y"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/c72p7pitfo9a",
+      "player_url": "https://minochinos.com/embed/c72p7pitfo9a",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c72p7pitfo9a"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/2zxpsc0ro1m6",
+      "player_url": "https://hglink.to/e/2zxpsc0ro1m6",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2zxpsc0ro1m6"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/rrf3xps1pkn2",
+      "player_url": "https://bysedikamoum.com/e/rrf3xps1pkn2",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rrf3xps1pkn2"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/j1rne4fydthx",
+      "player_url": "https://voe.sx/e/j1rne4fydthx",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "j1rne4fydthx"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/j1rne4fydthx/download",
+      "player_url": "https://voe.sx/j1rne4fydthx/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/1prsaj7ekut9",
+      "player_url": "https://rapidvideo.link/e/1prsaj7ekut9",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1prsaj7ekut9"
+    }
+  ]
+}
