@@ -1,1 +1,252 @@
-{"id":760497,"titulo":"La partida de go","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/99XUkLH31ArJYf4fqGmu9pmA00u.jpg","release_date":"2025-03-26","genres":["drama"],"rating":"7.3","backdrop":"https://image.tmdb.org/t/p/original/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg","overview":"Es la historia de dos legendarios jugadores de Go, Cho Hun-hyun y su protegido y futuro rival Lee Chang-ho.","trailer":"","runtime":"115","slug":"la-partida-de-go","servidores":[{"id":1,"url":"https://streamwish.to/e/28e7512rnlft","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"28e7512rnlft","player_url":"https://streamwish.to/e/28e7512rnlft"},{"id":2,"url":"https://vidhidepro.com/v/mgabsg4kuysx","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"mgabsg4kuysx","player_url":"https://vidhidepro.com/v/mgabsg4kuysx"},{"id":3,"url":"https://voe.sx/e/ohcgid6hqjji","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ohcgid6hqjji","player_url":"https://voe.sx/e/ohcgid6hqjji"},{"id":4,"url":"https://doodstream.com/e/xotfpsmc3vv2","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"xotfpsmc3vv2","player_url":"https://doodstream.com/e/xotfpsmc3vv2"},{"id":5,"url":"https://streamwish.to/e/1zhrziwlyauz","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"1zhrziwlyauz","player_url":"https://streamwish.to/e/1zhrziwlyauz"},{"id":6,"url":"https://vidhidepro.com/v/z2zyacy6lwjn","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"z2zyacy6lwjn","player_url":"https://vidhidepro.com/v/z2zyacy6lwjn"},{"id":7,"url":"https://voe.sx/e/5pagex1aqlhn","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"5pagex1aqlhn","player_url":"https://voe.sx/e/5pagex1aqlhn"},{"id":8,"url":"https://doodstream.com/e/9w78zln35ozw","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"9w78zln35ozw","player_url":"https://doodstream.com/e/9w78zln35ozw"}]}
+{
+  "id": 760497,
+  "titulo": "La partida de go",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/99XUkLH31ArJYf4fqGmu9pmA00u.jpg",
+  "release_date": "2025-03-26",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg",
+  "overview": "Es la historia de dos legendarios jugadores de Go, Cho Hun-hyun y su protegido y futuro rival Lee Chang-ho.",
+  "trailer": "",
+  "runtime": "115",
+  "slug": "la-partida-de-go",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/28e7512rnlft",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "28e7512rnlft",
+      "player_url": "https://streamwish.to/e/28e7512rnlft"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/mgabsg4kuysx",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mgabsg4kuysx",
+      "player_url": "https://vidhidepro.com/v/mgabsg4kuysx"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/ohcgid6hqjji",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ohcgid6hqjji",
+      "player_url": "https://voe.sx/e/ohcgid6hqjji"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/xotfpsmc3vv2",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "xotfpsmc3vv2",
+      "player_url": "https://doodstream.com/e/xotfpsmc3vv2"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/1zhrziwlyauz",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "1zhrziwlyauz",
+      "player_url": "https://streamwish.to/e/1zhrziwlyauz"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/z2zyacy6lwjn",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "z2zyacy6lwjn",
+      "player_url": "https://vidhidepro.com/v/z2zyacy6lwjn"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/5pagex1aqlhn",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "5pagex1aqlhn",
+      "player_url": "https://voe.sx/e/5pagex1aqlhn"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/9w78zln35ozw",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9w78zln35ozw",
+      "player_url": "https://doodstream.com/e/9w78zln35ozw"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/9ca7g2q1ph3n",
+      "player_url": "https://minochinos.com/embed/9ca7g2q1ph3n",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9ca7g2q1ph3n"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/exqlm4xuxty0",
+      "player_url": "https://hglink.to/e/exqlm4xuxty0",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "exqlm4xuxty0"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/rvtz0d3oyszk",
+      "player_url": "https://bysedikamoum.com/e/rvtz0d3oyszk",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rvtz0d3oyszk"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/1i2ovobmbirq",
+      "player_url": "https://voe.sx/e/1i2ovobmbirq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1i2ovobmbirq"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/1i2ovobmbirq/download",
+      "player_url": "https://voe.sx/1i2ovobmbirq/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/cjtv3ylfb8np",
+      "player_url": "https://rapidvideo.link/e/cjtv3ylfb8np",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cjtv3ylfb8np"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/mwhg36k6oh0r",
+      "player_url": "https://minochinos.com/embed/mwhg36k6oh0r",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mwhg36k6oh0r"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/mh6bjgiarryq",
+      "player_url": "https://hglink.to/e/mh6bjgiarryq",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mh6bjgiarryq"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/wumq67u08dbo",
+      "player_url": "https://bysedikamoum.com/e/wumq67u08dbo",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wumq67u08dbo"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/w3vh9zs7smc6",
+      "player_url": "https://voe.sx/e/w3vh9zs7smc6",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "w3vh9zs7smc6"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/w3vh9zs7smc6/download",
+      "player_url": "https://voe.sx/w3vh9zs7smc6/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/zrf6lhego29y",
+      "player_url": "https://rapidvideo.link/e/zrf6lhego29y",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zrf6lhego29y"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/r27q9oh6k4k0",
+      "player_url": "https://minochinos.com/embed/r27q9oh6k4k0",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "r27q9oh6k4k0"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/ow3lecz367i4",
+      "player_url": "https://hglink.to/e/ow3lecz367i4",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "ow3lecz367i4"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/8dqmbez4ualz",
+      "player_url": "https://bysedikamoum.com/e/8dqmbez4ualz",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "8dqmbez4ualz"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/7om0o2zojpia",
+      "player_url": "https://voe.sx/e/7om0o2zojpia",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "7om0o2zojpia"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/7om0o2zojpia/download",
+      "player_url": "https://voe.sx/7om0o2zojpia/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/7fzti5vd8ymo",
+      "player_url": "https://rapidvideo.link/e/7fzti5vd8ymo",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "7fzti5vd8ymo"
+    }
+  ]
+}
