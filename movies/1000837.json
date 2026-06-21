@@ -1,1 +1,279 @@
-{"id":1000837,"titulo":"Aún estoy aquí","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/pnhi5LYyTY1p9cgug0XwC13xVtk.jpg","release_date":"2024-09-19","genres":["drama"],"rating":"7.9","backdrop":"https://image.tmdb.org/t/p/original/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg","overview":"Una madre se ve obligada al activismo político cuando su marido, el diputado izquierdista Rubens Paiva, fue capturado por el régimen durante la Dictadura militar de Brasil, en 1971. Basada en las memorias de Marcelo Rubens Paiva","trailer":"","runtime":"137","slug":"aun-estoy-aqui","servidores":[{"id":1,"url":"https://streamwish.to/e/7s4az6zhaapc","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"7s4az6zhaapc","player_url":"https://streamwish.to/e/7s4az6zhaapc"},{"id":2,"url":"https://vidhidepro.com/v/59yx238mhfc0","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"59yx238mhfc0","player_url":"https://vidhidepro.com/v/59yx238mhfc0"},{"id":3,"url":"https://voe.sx/e/vb6ue9fhntrj","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"vb6ue9fhntrj","player_url":"https://voe.sx/e/vb6ue9fhntrj"},{"id":4,"url":"https://doodstream.com/e/4s1dhle5v2ye","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"4s1dhle5v2ye","player_url":"https://doodstream.com/e/4s1dhle5v2ye"},{"id":5,"url":"https://streamwish.to/e/rb4ydn8dx2du","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"rb4ydn8dx2du","player_url":"https://streamwish.to/e/rb4ydn8dx2du"},{"id":6,"url":"https://vidhidepro.com/v/devs8va3qtwv","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"devs8va3qtwv","player_url":"https://vidhidepro.com/v/devs8va3qtwv"},{"id":7,"url":"https://voe.sx/e/ig2mt9tcefno","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ig2mt9tcefno","player_url":"https://voe.sx/e/ig2mt9tcefno"},{"id":8,"url":"https://doodstream.com/e/lb95lw43w6go","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"lb95lw43w6go","player_url":"https://doodstream.com/e/lb95lw43w6go"},{"id":9,"url":"https://streamwish.to/e/ycki6tccavzv","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"ycki6tccavzv","player_url":"https://streamwish.to/e/ycki6tccavzv"},{"id":10,"url":"https://vidhidepro.com/v/aqnqpauouk6q","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"aqnqpauouk6q","player_url":"https://vidhidepro.com/v/aqnqpauouk6q"},{"id":11,"url":"https://voe.sx/e/gz1mhawwdamg","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"gz1mhawwdamg","player_url":"https://voe.sx/e/gz1mhawwdamg"},{"id":12,"url":"https://doodstream.com/e/1ykeyt9zpy56","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"1ykeyt9zpy56","player_url":"https://doodstream.com/e/1ykeyt9zpy56"}]}
+{
+  "id": 1000837,
+  "titulo": "Aún estoy aquí",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/pnhi5LYyTY1p9cgug0XwC13xVtk.jpg",
+  "release_date": "2024-09-19",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+  "overview": "Una madre se ve obligada al activismo político cuando su marido, el diputado izquierdista Rubens Paiva, fue capturado por el régimen durante la Dictadura militar de Brasil, en 1971. Basada en las memorias de Marcelo Rubens Paiva",
+  "trailer": "",
+  "runtime": "137",
+  "slug": "aun-estoy-aqui",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/7s4az6zhaapc",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7s4az6zhaapc",
+      "player_url": "https://streamwish.to/e/7s4az6zhaapc"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/59yx238mhfc0",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "59yx238mhfc0",
+      "player_url": "https://vidhidepro.com/v/59yx238mhfc0"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/vb6ue9fhntrj",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vb6ue9fhntrj",
+      "player_url": "https://voe.sx/e/vb6ue9fhntrj"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/4s1dhle5v2ye",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "4s1dhle5v2ye",
+      "player_url": "https://doodstream.com/e/4s1dhle5v2ye"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/rb4ydn8dx2du",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "rb4ydn8dx2du",
+      "player_url": "https://streamwish.to/e/rb4ydn8dx2du"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/devs8va3qtwv",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "devs8va3qtwv",
+      "player_url": "https://vidhidepro.com/v/devs8va3qtwv"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/ig2mt9tcefno",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ig2mt9tcefno",
+      "player_url": "https://voe.sx/e/ig2mt9tcefno"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/lb95lw43w6go",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "lb95lw43w6go",
+      "player_url": "https://doodstream.com/e/lb95lw43w6go"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/ycki6tccavzv",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ycki6tccavzv",
+      "player_url": "https://streamwish.to/e/ycki6tccavzv"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/aqnqpauouk6q",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "aqnqpauouk6q",
+      "player_url": "https://vidhidepro.com/v/aqnqpauouk6q"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/gz1mhawwdamg",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gz1mhawwdamg",
+      "player_url": "https://voe.sx/e/gz1mhawwdamg"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/1ykeyt9zpy56",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "1ykeyt9zpy56",
+      "player_url": "https://doodstream.com/e/1ykeyt9zpy56"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/v07voos7vjw2",
+      "player_url": "https://minochinos.com/embed/v07voos7vjw2",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v07voos7vjw2"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/clhucqweexeb",
+      "player_url": "https://hglink.to/e/clhucqweexeb",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "clhucqweexeb"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/9lyqjbmplmes",
+      "player_url": "https://bysedikamoum.com/e/9lyqjbmplmes",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9lyqjbmplmes"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/e1obmjsgxsjy",
+      "player_url": "https://voe.sx/e/e1obmjsgxsjy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e1obmjsgxsjy"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e1obmjsgxsjy/download",
+      "player_url": "https://voe.sx/e1obmjsgxsjy/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/7l38zcpxay0n",
+      "player_url": "https://rapidvideo.link/e/7l38zcpxay0n",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7l38zcpxay0n"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/6n142e95lhs9",
+      "player_url": "https://minochinos.com/embed/6n142e95lhs9",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6n142e95lhs9"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/xs61zhrnki65",
+      "player_url": "https://hglink.to/e/xs61zhrnki65",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xs61zhrnki65"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/l6d0oxbyn9og",
+      "player_url": "https://bysedikamoum.com/e/l6d0oxbyn9og",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l6d0oxbyn9og"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/rcak1duzlb43",
+      "player_url": "https://voe.sx/e/rcak1duzlb43",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rcak1duzlb43"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/6gbw8c9mdkt4",
+      "player_url": "https://rapidvideo.link/e/6gbw8c9mdkt4",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6gbw8c9mdkt4"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/mtn6yoax2wpk",
+      "player_url": "https://minochinos.com/embed/mtn6yoax2wpk",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mtn6yoax2wpk"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/krzu7dhvbsjq",
+      "player_url": "https://hglink.to/e/krzu7dhvbsjq",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "krzu7dhvbsjq"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/xg43vlv9uztp",
+      "player_url": "https://bysedikamoum.com/e/xg43vlv9uztp",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xg43vlv9uztp"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/ezeelraixcgi",
+      "player_url": "https://voe.sx/e/ezeelraixcgi",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ezeelraixcgi"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/ezeelraixcgi/download",
+      "player_url": "https://voe.sx/ezeelraixcgi/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/tez1ksa7hgml",
+      "player_url": "https://rapidvideo.link/e/tez1ksa7hgml",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tez1ksa7hgml"
+    }
+  ]
+}
