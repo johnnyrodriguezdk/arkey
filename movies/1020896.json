@@ -1,1 +1,243 @@
-{"id":1020896,"titulo":"Descansa en paz","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/k8fSPkP4IUyZrnmAB6oSxtFYuNR.jpg","release_date":"2024-02-09","genres":["drama"],"rating":"5.9","backdrop":"https://image.tmdb.org/t/p/original/c2Gd2QwQx7IITMUoJgcckqMniqd.jpg","overview":"En un caluroso día de verano en Oslo, los muertos despiertan misteriosamente, y tres familias se ven sumidas en el caos cuando sus seres queridos fallecidos vuelven a ellos. ¿Quiénes son y qué quieren?","trailer":"","runtime":"98","slug":"handtering-av-udode","servidores":[{"id":1,"url":"https://streamwish.to/e/1q0k6uacptop","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"1q0k6uacptop","player_url":"https://streamwish.to/e/1q0k6uacptop"},{"id":2,"url":"https://vidhidepro.com/v/34fpgyyhc6ip","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"34fpgyyhc6ip","player_url":"https://vidhidepro.com/v/34fpgyyhc6ip"},{"id":3,"url":"https://voe.sx/e/m4hn3m6umnxv","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"m4hn3m6umnxv","player_url":"https://voe.sx/e/m4hn3m6umnxv"},{"id":4,"url":"https://doodstream.com/e/lzs20newqk4i","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"lzs20newqk4i","player_url":"https://doodstream.com/e/lzs20newqk4i"},{"id":5,"url":"https://streamwish.to/e/cc9u99omczo9","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"cc9u99omczo9","player_url":"https://streamwish.to/e/cc9u99omczo9"},{"id":6,"url":"https://vidhidepro.com/v/9nwq537mpqa2","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"9nwq537mpqa2","player_url":"https://vidhidepro.com/v/9nwq537mpqa2"},{"id":7,"url":"https://voe.sx/e/iqqs24ds1whe","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"iqqs24ds1whe","player_url":"https://voe.sx/e/iqqs24ds1whe"},{"id":8,"url":"https://doodstream.com/e/z0kmlsg9mopg","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"z0kmlsg9mopg","player_url":"https://doodstream.com/e/z0kmlsg9mopg"}]}
+{
+  "id": 1020896,
+  "titulo": "Descansa en paz",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/k8fSPkP4IUyZrnmAB6oSxtFYuNR.jpg",
+  "release_date": "2024-02-09",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/c2Gd2QwQx7IITMUoJgcckqMniqd.jpg",
+  "overview": "En un caluroso día de verano en Oslo, los muertos despiertan misteriosamente, y tres familias se ven sumidas en el caos cuando sus seres queridos fallecidos vuelven a ellos. ¿Quiénes son y qué quieren?",
+  "trailer": "",
+  "runtime": "98",
+  "slug": "handtering-av-udode",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/1q0k6uacptop",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "1q0k6uacptop",
+      "player_url": "https://streamwish.to/e/1q0k6uacptop"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/34fpgyyhc6ip",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "34fpgyyhc6ip",
+      "player_url": "https://vidhidepro.com/v/34fpgyyhc6ip"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/m4hn3m6umnxv",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "m4hn3m6umnxv",
+      "player_url": "https://voe.sx/e/m4hn3m6umnxv"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/lzs20newqk4i",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "lzs20newqk4i",
+      "player_url": "https://doodstream.com/e/lzs20newqk4i"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/cc9u99omczo9",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cc9u99omczo9",
+      "player_url": "https://streamwish.to/e/cc9u99omczo9"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/9nwq537mpqa2",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "9nwq537mpqa2",
+      "player_url": "https://vidhidepro.com/v/9nwq537mpqa2"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/iqqs24ds1whe",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "iqqs24ds1whe",
+      "player_url": "https://voe.sx/e/iqqs24ds1whe"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/z0kmlsg9mopg",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "z0kmlsg9mopg",
+      "player_url": "https://doodstream.com/e/z0kmlsg9mopg"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/wm73z7lw03ga",
+      "player_url": "https://minochinos.com/embed/wm73z7lw03ga",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wm73z7lw03ga"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/1nhp1uakem28",
+      "player_url": "https://hglink.to/e/1nhp1uakem28",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1nhp1uakem28"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/ovbuwqt9t9le",
+      "player_url": "https://bysedikamoum.com/e/ovbuwqt9t9le",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ovbuwqt9t9le"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/zmmo9tshkoaa",
+      "player_url": "https://voe.sx/e/zmmo9tshkoaa",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zmmo9tshkoaa"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/zmmo9tshkoaa/download",
+      "player_url": "https://voe.sx/zmmo9tshkoaa/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/57v9mk4loeu8",
+      "player_url": "https://rapidvideo.link/e/57v9mk4loeu8",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "57v9mk4loeu8"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/bs5l1hon6ylu",
+      "player_url": "https://minochinos.com/embed/bs5l1hon6ylu",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bs5l1hon6ylu"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/8rn36ekwke0e",
+      "player_url": "https://hglink.to/e/8rn36ekwke0e",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8rn36ekwke0e"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/iutx2pt3lp3c",
+      "player_url": "https://bysedikamoum.com/e/iutx2pt3lp3c",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iutx2pt3lp3c"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/glketkb8hcz1",
+      "player_url": "https://voe.sx/e/glketkb8hcz1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "glketkb8hcz1"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/awpm2iyvult3",
+      "player_url": "https://rapidvideo.link/e/awpm2iyvult3",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "awpm2iyvult3"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/veadvel3eu5p",
+      "player_url": "https://minochinos.com/embed/veadvel3eu5p",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "veadvel3eu5p"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/9ao3o5atqpx0",
+      "player_url": "https://hglink.to/e/9ao3o5atqpx0",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9ao3o5atqpx0"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/n7dphkknh8od",
+      "player_url": "https://bysedikamoum.com/e/n7dphkknh8od",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "n7dphkknh8od"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/kvsqn0djflea",
+      "player_url": "https://voe.sx/e/kvsqn0djflea",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kvsqn0djflea"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/kvsqn0djflea/download",
+      "player_url": "https://voe.sx/kvsqn0djflea/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/m9ktagjw3qhb",
+      "player_url": "https://rapidvideo.link/e/m9ktagjw3qhb",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "m9ktagjw3qhb"
+    }
+  ]
+}
