@@ -1,1 +1,234 @@
-{"id":1212142,"titulo":"Algo embarazada","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/lpMXvcdOnEg4rvsIjWEImhHI1aH.jpg","release_date":"2025-02-04","genres":["romance"],"rating":"5.6","backdrop":"https://image.tmdb.org/t/p/original/8qSsnSbgosaCROnvcOzeXyWsxIp.jpg","overview":"Cuando sus planes para sentar cabeza y empezar una familia se vienen abajo, Lainy finge un embarazo... y conoce al hombre de sus sueños por accidente.","trailer":"","runtime":"98","slug":"algo-embarazada","servidores":[{"id":1,"url":"https://streamwish.to/e/2d8d6xg3dbdt","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"2d8d6xg3dbdt","player_url":"https://streamwish.to/e/2d8d6xg3dbdt"},{"id":2,"url":"https://vidhidepro.com/v/q7m1q7zq6dme","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"q7m1q7zq6dme","player_url":"https://vidhidepro.com/v/q7m1q7zq6dme"},{"id":3,"url":"https://voe.sx/e/zuwwbuel0zld","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"zuwwbuel0zld","player_url":"https://voe.sx/e/zuwwbuel0zld"},{"id":4,"url":"https://streamwish.to/e/esz3bxbenagq","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"esz3bxbenagq","player_url":"https://streamwish.to/e/esz3bxbenagq"},{"id":5,"url":"https://vidhidepro.com/v/lqfv5plhz07v","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"lqfv5plhz07v","player_url":"https://vidhidepro.com/v/lqfv5plhz07v"},{"id":6,"url":"https://streamwish.to/e/zrbgdwyza9cq","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"zrbgdwyza9cq","player_url":"https://streamwish.to/e/zrbgdwyza9cq"},{"id":7,"url":"https://vidhidepro.com/v/6aa7u16oeqj5","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"6aa7u16oeqj5","player_url":"https://vidhidepro.com/v/6aa7u16oeqj5"}]}
+{
+  "id": 1212142,
+  "titulo": "Algo embarazada",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/lpMXvcdOnEg4rvsIjWEImhHI1aH.jpg",
+  "release_date": "2025-02-04",
+  "genres": [
+    "romance"
+  ],
+  "rating": "5.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/8qSsnSbgosaCROnvcOzeXyWsxIp.jpg",
+  "overview": "Cuando sus planes para sentar cabeza y empezar una familia se vienen abajo, Lainy finge un embarazo... y conoce al hombre de sus sueños por accidente.",
+  "trailer": "",
+  "runtime": "98",
+  "slug": "algo-embarazada",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/2d8d6xg3dbdt",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "2d8d6xg3dbdt",
+      "player_url": "https://streamwish.to/e/2d8d6xg3dbdt"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/q7m1q7zq6dme",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "q7m1q7zq6dme",
+      "player_url": "https://vidhidepro.com/v/q7m1q7zq6dme"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/zuwwbuel0zld",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zuwwbuel0zld",
+      "player_url": "https://voe.sx/e/zuwwbuel0zld"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/esz3bxbenagq",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "esz3bxbenagq",
+      "player_url": "https://streamwish.to/e/esz3bxbenagq"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/lqfv5plhz07v",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "lqfv5plhz07v",
+      "player_url": "https://vidhidepro.com/v/lqfv5plhz07v"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/zrbgdwyza9cq",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zrbgdwyza9cq",
+      "player_url": "https://streamwish.to/e/zrbgdwyza9cq"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/6aa7u16oeqj5",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "6aa7u16oeqj5",
+      "player_url": "https://vidhidepro.com/v/6aa7u16oeqj5"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/gl1ybcv3zrvj",
+      "player_url": "https://minochinos.com/embed/gl1ybcv3zrvj",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gl1ybcv3zrvj"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/wxprgm08a0yn",
+      "player_url": "https://hglink.to/e/wxprgm08a0yn",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wxprgm08a0yn"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/r5sdgicf1lll",
+      "player_url": "https://bysedikamoum.com/e/r5sdgicf1lll",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r5sdgicf1lll"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/nhbeuygykozk",
+      "player_url": "https://voe.sx/e/nhbeuygykozk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nhbeuygykozk"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/nhbeuygykozk/download",
+      "player_url": "https://voe.sx/nhbeuygykozk/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/eigu72ys84mj",
+      "player_url": "https://rapidvideo.link/e/eigu72ys84mj",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eigu72ys84mj"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/7x8ymzq1q0jn",
+      "player_url": "https://minochinos.com/embed/7x8ymzq1q0jn",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7x8ymzq1q0jn"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/pviv4e4x7kyy",
+      "player_url": "https://hglink.to/e/pviv4e4x7kyy",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pviv4e4x7kyy"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/jm2krvt9ooic",
+      "player_url": "https://bysedikamoum.com/e/jm2krvt9ooic",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jm2krvt9ooic"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/intkakp5ixjv",
+      "player_url": "https://voe.sx/e/intkakp5ixjv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "intkakp5ixjv"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/pdiqa3zro26j",
+      "player_url": "https://rapidvideo.link/e/pdiqa3zro26j",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pdiqa3zro26j"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/17p89fqglsi5",
+      "player_url": "https://minochinos.com/embed/17p89fqglsi5",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "17p89fqglsi5"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/xw0y9rgcmq1e",
+      "player_url": "https://hglink.to/e/xw0y9rgcmq1e",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xw0y9rgcmq1e"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/0y2811shi9z1",
+      "player_url": "https://bysedikamoum.com/e/0y2811shi9z1",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0y2811shi9z1"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/tj5hxzdcfemb",
+      "player_url": "https://voe.sx/e/tj5hxzdcfemb",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tj5hxzdcfemb"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/tj5hxzdcfemb/download",
+      "player_url": "https://voe.sx/tj5hxzdcfemb/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/olt7cd62u54p",
+      "player_url": "https://rapidvideo.link/e/olt7cd62u54p",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "olt7cd62u54p"
+    }
+  ]
+}
