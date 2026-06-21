@@ -1,1 +1,198 @@
-{"id":1097150,"titulo":"El vientre del mal","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/pE3WxXHGf16hCztEqS0TgtP3u80.jpg","release_date":"2023-08-30","genres":[],"rating":"5.5","backdrop":"https://image.tmdb.org/t/p/original/s7JEziJOgV7HsQimPGXSrkwMVas.jpg","overview":"Cuando una monja en un convento remoto afirma tener una concepción inmaculada, el Vaticano envía un equipo de sacerdotes a investigar, preocupados por una antigua profecía que afirma que una mujer dará a luz a dos gemelos: el Mesías y el Anticristo.","trailer":"","runtime":"103","slug":"el-vientre-del-mal","servidores":[{"id":1,"url":"https://streamwish.to/e/3nxy1udktg9a","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"3nxy1udktg9a","player_url":"https://streamwish.to/e/3nxy1udktg9a"},{"id":2,"url":"https://vidhidepro.com/v/srg7n2d5ogkb","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"srg7n2d5ogkb","player_url":"https://vidhidepro.com/v/srg7n2d5ogkb"},{"id":3,"url":"https://voe.sx/e/qf27xotgqgc2","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"qf27xotgqgc2","player_url":"https://voe.sx/e/qf27xotgqgc2"},{"id":4,"url":"https://doodstream.com/e/jumv6exnahz5","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"jumv6exnahz5","player_url":"https://doodstream.com/e/jumv6exnahz5"},{"id":5,"url":"https://streamwish.to/e/okt68zgwu7x4","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"okt68zgwu7x4","player_url":"https://streamwish.to/e/okt68zgwu7x4"},{"id":6,"url":"https://vidhidepro.com/v/788u7m2driay","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"788u7m2driay","player_url":"https://vidhidepro.com/v/788u7m2driay"},{"id":7,"url":"https://voe.sx/e/ruosunhd9uuu","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"ruosunhd9uuu","player_url":"https://voe.sx/e/ruosunhd9uuu"},{"id":8,"url":"https://doodstream.com/e/98jg14lzek06","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"98jg14lzek06","player_url":"https://doodstream.com/e/98jg14lzek06"}]}
+{
+  "id": 1097150,
+  "titulo": "El vientre del mal",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/pE3WxXHGf16hCztEqS0TgtP3u80.jpg",
+  "release_date": "2023-08-30",
+  "genres": [
+    "Terror"
+  ],
+  "rating": "5.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/s7JEziJOgV7HsQimPGXSrkwMVas.jpg",
+  "overview": "Cuando una monja en un convento remoto afirma tener una concepción inmaculada, el Vaticano envía un equipo de sacerdotes a investigar, preocupados por una antigua profecía que afirma que una mujer dará a luz a dos gemelos: el Mesías y el Anticristo.",
+  "trailer": "",
+  "runtime": "103",
+  "slug": "el-vientre-del-mal",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/3nxy1udktg9a",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3nxy1udktg9a",
+      "player_url": "https://streamwish.to/e/3nxy1udktg9a"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/srg7n2d5ogkb",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "srg7n2d5ogkb",
+      "player_url": "https://vidhidepro.com/v/srg7n2d5ogkb"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/qf27xotgqgc2",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qf27xotgqgc2",
+      "player_url": "https://voe.sx/e/qf27xotgqgc2"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/jumv6exnahz5",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "jumv6exnahz5",
+      "player_url": "https://doodstream.com/e/jumv6exnahz5"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/okt68zgwu7x4",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "okt68zgwu7x4",
+      "player_url": "https://streamwish.to/e/okt68zgwu7x4"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/788u7m2driay",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "788u7m2driay",
+      "player_url": "https://vidhidepro.com/v/788u7m2driay"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/ruosunhd9uuu",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ruosunhd9uuu",
+      "player_url": "https://voe.sx/e/ruosunhd9uuu"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/98jg14lzek06",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "98jg14lzek06",
+      "player_url": "https://doodstream.com/e/98jg14lzek06"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/0tzt6f66ice1",
+      "player_url": "https://minochinos.com/embed/0tzt6f66ice1",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0tzt6f66ice1"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/njaeg6ezh9uy",
+      "player_url": "https://hglink.to/e/njaeg6ezh9uy",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "njaeg6ezh9uy"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/zb8s6xdr3epk",
+      "player_url": "https://bysedikamoum.com/e/zb8s6xdr3epk",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zb8s6xdr3epk"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/lipz2cjhwjmg",
+      "player_url": "https://voe.sx/e/lipz2cjhwjmg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lipz2cjhwjmg"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/lipz2cjhwjmg/download",
+      "player_url": "https://voe.sx/lipz2cjhwjmg/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/b92tv7ykr0f8",
+      "player_url": "https://rapidvideo.link/e/b92tv7ykr0f8",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b92tv7ykr0f8"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/9zo72uqpr18p",
+      "player_url": "https://minochinos.com/embed/9zo72uqpr18p",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9zo72uqpr18p"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/qzod02ad53hf",
+      "player_url": "https://hglink.to/e/qzod02ad53hf",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qzod02ad53hf"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/dvxymst57v2p",
+      "player_url": "https://bysedikamoum.com/e/dvxymst57v2p",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dvxymst57v2p"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/ry0wwcxrem7f",
+      "player_url": "https://voe.sx/e/ry0wwcxrem7f",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ry0wwcxrem7f"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/ry0wwcxrem7f/download",
+      "player_url": "https://voe.sx/ry0wwcxrem7f/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/xv9jdpg13i6e",
+      "player_url": "https://rapidvideo.link/e/xv9jdpg13i6e",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xv9jdpg13i6e"
+    }
+  ]
+}
