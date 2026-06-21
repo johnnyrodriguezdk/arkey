@@ -1,1 +1,198 @@
-{"id":667717,"titulo":"Deep Sea. Viaje a las profundidades","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/lzUBwPagRE9lrtlpJOUPU5t8j1.jpg","release_date":"2023-01-22","genres":["drama"],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/71egHDJ8bl2K0t6oIJ9mGA7Xdhl.jpg","overview":"Cuenta la historia de una niña que se realiza un viaje único en la vida, buscando y explorando en un misterioso mundo submarino.","trailer":"","runtime":"112","slug":"shen-hai","servidores":[{"id":1,"url":"https://streamwish.to/e/igqns14o8lhi","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"igqns14o8lhi","player_url":"https://streamwish.to/e/igqns14o8lhi"},{"id":2,"url":"https://vidhidepro.com/v/awgc6a2bktzd","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"awgc6a2bktzd","player_url":"https://vidhidepro.com/v/awgc6a2bktzd"},{"id":3,"url":"https://voe.sx/e/jpxkdrm4awri","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"jpxkdrm4awri","player_url":"https://voe.sx/e/jpxkdrm4awri"},{"id":4,"url":"https://doodstream.com/e/lr37tn3q7ssz","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"lr37tn3q7ssz","player_url":"https://doodstream.com/e/lr37tn3q7ssz"},{"id":5,"url":"https://streamwish.to/e/29by9l8ctlhv","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"29by9l8ctlhv","player_url":"https://streamwish.to/e/29by9l8ctlhv"},{"id":6,"url":"https://vidhidepro.com/v/jlya1zyfhwmg","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"jlya1zyfhwmg","player_url":"https://vidhidepro.com/v/jlya1zyfhwmg"},{"id":7,"url":"https://voe.sx/e/ot6vabesseax","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"ot6vabesseax","player_url":"https://voe.sx/e/ot6vabesseax"},{"id":8,"url":"https://doodstream.com/e/9ernsi7cnps2","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"9ernsi7cnps2","player_url":"https://doodstream.com/e/9ernsi7cnps2"}]}
+{
+  "id": 667717,
+  "titulo": "Deep Sea. Viaje a las profundidades",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/lzUBwPagRE9lrtlpJOUPU5t8j1.jpg",
+  "release_date": "2023-01-22",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/71egHDJ8bl2K0t6oIJ9mGA7Xdhl.jpg",
+  "overview": "Cuenta la historia de una niña que se realiza un viaje único en la vida, buscando y explorando en un misterioso mundo submarino.",
+  "trailer": "",
+  "runtime": "112",
+  "slug": "shen-hai",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/igqns14o8lhi",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "igqns14o8lhi",
+      "player_url": "https://streamwish.to/e/igqns14o8lhi"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/awgc6a2bktzd",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "awgc6a2bktzd",
+      "player_url": "https://vidhidepro.com/v/awgc6a2bktzd"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/jpxkdrm4awri",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jpxkdrm4awri",
+      "player_url": "https://voe.sx/e/jpxkdrm4awri"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/lr37tn3q7ssz",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "lr37tn3q7ssz",
+      "player_url": "https://doodstream.com/e/lr37tn3q7ssz"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/29by9l8ctlhv",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "29by9l8ctlhv",
+      "player_url": "https://streamwish.to/e/29by9l8ctlhv"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/jlya1zyfhwmg",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jlya1zyfhwmg",
+      "player_url": "https://vidhidepro.com/v/jlya1zyfhwmg"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/ot6vabesseax",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ot6vabesseax",
+      "player_url": "https://voe.sx/e/ot6vabesseax"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/9ernsi7cnps2",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9ernsi7cnps2",
+      "player_url": "https://doodstream.com/e/9ernsi7cnps2"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/aw94c21kk8kf",
+      "player_url": "https://minochinos.com/embed/aw94c21kk8kf",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aw94c21kk8kf"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/uy2txjhx6qpw",
+      "player_url": "https://hglink.to/e/uy2txjhx6qpw",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uy2txjhx6qpw"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/w2o3vkivg2fm",
+      "player_url": "https://bysedikamoum.com/e/w2o3vkivg2fm",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w2o3vkivg2fm"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/iznvavmnmlxp",
+      "player_url": "https://voe.sx/e/iznvavmnmlxp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iznvavmnmlxp"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/iznvavmnmlxp/download",
+      "player_url": "https://voe.sx/iznvavmnmlxp/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/5ewq1rl09ng8",
+      "player_url": "https://rapidvideo.link/e/5ewq1rl09ng8",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5ewq1rl09ng8"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/k7zdg61cpz5p",
+      "player_url": "https://minochinos.com/embed/k7zdg61cpz5p",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "k7zdg61cpz5p"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/mkj2ksqrbqju",
+      "player_url": "https://hglink.to/e/mkj2ksqrbqju",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "mkj2ksqrbqju"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/2c1xgjezxyf5",
+      "player_url": "https://bysedikamoum.com/e/2c1xgjezxyf5",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "2c1xgjezxyf5"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/qg69d02rlvjj",
+      "player_url": "https://voe.sx/e/qg69d02rlvjj",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "qg69d02rlvjj"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/qg69d02rlvjj/download",
+      "player_url": "https://voe.sx/qg69d02rlvjj/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/vboksyl7fcw8",
+      "player_url": "https://rapidvideo.link/e/vboksyl7fcw8",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "vboksyl7fcw8"
+    }
+  ]
+}
