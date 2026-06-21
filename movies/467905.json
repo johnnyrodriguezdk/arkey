@@ -1,1 +1,199 @@
-{"id":467905,"titulo":"Jugada Maestra","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/wpAt80FtHAQySEC8SwsDGhFp8MF.jpg","release_date":"2026-02-19","genres":[],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/4SKnHRIHv9SpsR1v45T7Los719O.jpg","overview":"Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.","trailer":"","runtime":"105","slug":"jugada-maestra","servidores":[{"id":1,"url":"https://streamwish.to/e/230tk3oe6ymt","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"230tk3oe6ymt","player_url":"https://streamwish.to/e/230tk3oe6ymt"},{"id":2,"url":"https://bysejikuar.com/e/hnp5l33rn52c","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"hnp5l33rn52c","player_url":"https://bysejikuar.com/e/hnp5l33rn52c"},{"id":3,"url":"https://vidhidepro.com/v/cxldsl5y4f8k","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"cxldsl5y4f8k","player_url":"https://vidhidepro.com/v/cxldsl5y4f8k"},{"id":4,"url":"https://voe.sx/e/nomf2nc4eoql","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"nomf2nc4eoql","player_url":"https://voe.sx/e/nomf2nc4eoql"},{"id":5,"url":"https://doodstream.com/e/yvwmn39tvdzi","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"yvwmn39tvdzi","player_url":"https://doodstream.com/e/yvwmn39tvdzi"},{"id":6,"url":"https://streamwish.to/e/7hwf596n4w4f","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"7hwf596n4w4f","player_url":"https://streamwish.to/e/7hwf596n4w4f"},{"id":7,"url":"https://bysejikuar.com/e/m4n4izg34lfl","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"m4n4izg34lfl","player_url":"https://bysejikuar.com/e/m4n4izg34lfl"},{"id":8,"url":"https://vidhidepro.com/v/89tmzputrvdq","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"89tmzputrvdq","player_url":"https://vidhidepro.com/v/89tmzputrvdq"},{"id":9,"url":"https://voe.sx/e/94pkd5gofsbr","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"94pkd5gofsbr","player_url":"https://voe.sx/e/94pkd5gofsbr"},{"id":10,"url":"https://doodstream.com/e/ib9bzh7eng54","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"ib9bzh7eng54","player_url":"https://doodstream.com/e/ib9bzh7eng54"}]}
+{
+  "id": 467905,
+  "titulo": "Jugada Maestra",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/wpAt80FtHAQySEC8SwsDGhFp8MF.jpg",
+  "release_date": "2026-02-19",
+  "genres": [
+    "Comedia",
+    "Suspense"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/4SKnHRIHv9SpsR1v45T7Los719O.jpg",
+  "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "jugada-maestra",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/230tk3oe6ymt",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "230tk3oe6ymt",
+      "player_url": "https://streamwish.to/e/230tk3oe6ymt"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/hnp5l33rn52c",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "hnp5l33rn52c",
+      "player_url": "https://bysejikuar.com/e/hnp5l33rn52c"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/cxldsl5y4f8k",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "cxldsl5y4f8k",
+      "player_url": "https://vidhidepro.com/v/cxldsl5y4f8k"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/nomf2nc4eoql",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "nomf2nc4eoql",
+      "player_url": "https://voe.sx/e/nomf2nc4eoql"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/yvwmn39tvdzi",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "yvwmn39tvdzi",
+      "player_url": "https://doodstream.com/e/yvwmn39tvdzi"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/7hwf596n4w4f",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7hwf596n4w4f",
+      "player_url": "https://streamwish.to/e/7hwf596n4w4f"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/m4n4izg34lfl",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "m4n4izg34lfl",
+      "player_url": "https://bysejikuar.com/e/m4n4izg34lfl"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/89tmzputrvdq",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "89tmzputrvdq",
+      "player_url": "https://vidhidepro.com/v/89tmzputrvdq"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/94pkd5gofsbr",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "94pkd5gofsbr",
+      "player_url": "https://voe.sx/e/94pkd5gofsbr"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/ib9bzh7eng54",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ib9bzh7eng54",
+      "player_url": "https://doodstream.com/e/ib9bzh7eng54"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/s9h57r9gz3er",
+      "player_url": "https://minochinos.com/embed/s9h57r9gz3er",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s9h57r9gz3er"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/a8x18v5aeq1q",
+      "player_url": "https://hglink.to/e/a8x18v5aeq1q",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a8x18v5aeq1q"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/60ttvpzl8q4x",
+      "player_url": "https://voe.sx/e/60ttvpzl8q4x",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "60ttvpzl8q4x"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/60ttvpzl8q4x/download",
+      "player_url": "https://voe.sx/60ttvpzl8q4x/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/97prq4c5tml6",
+      "player_url": "https://rapidvideo.link/e/97prq4c5tml6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "97prq4c5tml6"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/pw1huaqqjy56",
+      "player_url": "https://minochinos.com/embed/pw1huaqqjy56",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pw1huaqqjy56"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/t3oe413q010n",
+      "player_url": "https://hglink.to/e/t3oe413q010n",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "t3oe413q010n"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/7c701tbiu0jo",
+      "player_url": "https://voe.sx/e/7c701tbiu0jo",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7c701tbiu0jo"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/7c701tbiu0jo/download",
+      "player_url": "https://voe.sx/7c701tbiu0jo/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/24vi315zeq0u",
+      "player_url": "https://rapidvideo.link/e/24vi315zeq0u",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "24vi315zeq0u"
+    }
+  ]
+}
