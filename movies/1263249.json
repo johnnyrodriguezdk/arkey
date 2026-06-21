@@ -1,1 +1,190 @@
-{"id":1263249,"titulo":"Sentinel","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/o5S5MZcjqETfOghSt5ekw78m7gX.jpg","release_date":"2024-03-22","genres":[],"rating":"4.0","backdrop":"https://image.tmdb.org/t/p/original/15alKdhk7Mn2GRmRBKBDAU9eJOu.jpg","overview":"Years after an alien invasion nearly extinguished the human race, three soldiers who survived on a secret moon base are sent to Earth to liberate the survivors from the Sentinel and its army and reclaim Earth at any cost.","trailer":"","runtime":"90","slug":"sentinel","servidores":[{"id":1,"url":"https://bysejikuar.com/e/v2ge6n3d6qar","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"v2ge6n3d6qar","player_url":"https://bysejikuar.com/e/v2ge6n3d6qar"},{"id":2,"url":"https://vidhidepro.com/v/hlw799f9phrg","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"hlw799f9phrg","player_url":"https://vidhidepro.com/v/hlw799f9phrg"},{"id":3,"url":"https://voe.sx/e/qb8zaecds8wl","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"qb8zaecds8wl","player_url":"https://voe.sx/e/qb8zaecds8wl"},{"id":4,"url":"https://doodstream.com/e/i76xoym2bwah","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"i76xoym2bwah","player_url":"https://doodstream.com/e/i76xoym2bwah"},{"id":5,"url":"https://bysejikuar.com/e/hkxby0ijii24","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"hkxby0ijii24","player_url":"https://bysejikuar.com/e/hkxby0ijii24"},{"id":6,"url":"https://voe.sx/e/xokkug7likqq","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"xokkug7likqq","player_url":"https://voe.sx/e/xokkug7likqq"},{"id":7,"url":"https://doodstream.com/e/k9a2kzylceue","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"k9a2kzylceue","player_url":"https://doodstream.com/e/k9a2kzylceue"}]}
+{
+  "id": 1263249,
+  "titulo": "Sentinel",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/o5S5MZcjqETfOghSt5ekw78m7gX.jpg",
+  "release_date": "2024-03-22",
+  "genres": [
+    "Ciencia Ficción",
+    "Acción"
+  ],
+  "rating": "4.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/15alKdhk7Mn2GRmRBKBDAU9eJOu.jpg",
+  "overview": "Years after an alien invasion nearly extinguished the human race, three soldiers who survived on a secret moon base are sent to Earth to liberate the survivors from the Sentinel and its army and reclaim Earth at any cost.",
+  "trailer": "",
+  "runtime": "90",
+  "slug": "sentinel",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://bysejikuar.com/e/v2ge6n3d6qar",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "v2ge6n3d6qar",
+      "player_url": "https://bysejikuar.com/e/v2ge6n3d6qar"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/hlw799f9phrg",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "hlw799f9phrg",
+      "player_url": "https://vidhidepro.com/v/hlw799f9phrg"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/qb8zaecds8wl",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qb8zaecds8wl",
+      "player_url": "https://voe.sx/e/qb8zaecds8wl"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/i76xoym2bwah",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "i76xoym2bwah",
+      "player_url": "https://doodstream.com/e/i76xoym2bwah"
+    },
+    {
+      "id": 5,
+      "url": "https://bysejikuar.com/e/hkxby0ijii24",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "hkxby0ijii24",
+      "player_url": "https://bysejikuar.com/e/hkxby0ijii24"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/xokkug7likqq",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xokkug7likqq",
+      "player_url": "https://voe.sx/e/xokkug7likqq"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/k9a2kzylceue",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "k9a2kzylceue",
+      "player_url": "https://doodstream.com/e/k9a2kzylceue"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/xc6oc84tlif8",
+      "player_url": "https://minochinos.com/embed/xc6oc84tlif8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xc6oc84tlif8"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/lqmwxdsjmdax",
+      "player_url": "https://hglink.to/e/lqmwxdsjmdax",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lqmwxdsjmdax"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/8rmeqyttglxd",
+      "player_url": "https://bysedikamoum.com/e/8rmeqyttglxd",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8rmeqyttglxd"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/u99lpbefkajs",
+      "player_url": "https://voe.sx/e/u99lpbefkajs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u99lpbefkajs"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/u99lpbefkajs/download",
+      "player_url": "https://voe.sx/u99lpbefkajs/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/y6dhx0e3m4jf",
+      "player_url": "https://rapidvideo.link/e/y6dhx0e3m4jf",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y6dhx0e3m4jf"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/852ujk9ztlus",
+      "player_url": "https://minochinos.com/embed/852ujk9ztlus",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "852ujk9ztlus"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/3xt6p2feplcv",
+      "player_url": "https://hglink.to/e/3xt6p2feplcv",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3xt6p2feplcv"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/kioudpjik7d4",
+      "player_url": "https://bysedikamoum.com/e/kioudpjik7d4",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kioudpjik7d4"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/6ocgmhtdluvy",
+      "player_url": "https://voe.sx/e/6ocgmhtdluvy",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6ocgmhtdluvy"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/6ocgmhtdluvy/download",
+      "player_url": "https://voe.sx/6ocgmhtdluvy/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/atfz9xn2v0yo",
+      "player_url": "https://rapidvideo.link/e/atfz9xn2v0yo",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "atfz9xn2v0yo"
+    }
+  ]
+}
