@@ -1,1 +1,262 @@
-{"id":683361,"titulo":"Superbola de pelo salva el futuro","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/pAwqmLvQXoNpePfFIqC9fZkOxzj.jpg","release_date":"2022-10-14","genres":[],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/1kD7E6soGxkNoWrKKniVnrkHNAH.jpg","overview":"Para salvar el mundo, Super Furball tiene que salvar a las abejas, pero para salvar a las abejas, primero tiene que salvar al peor matón del colegio.","trailer":"","runtime":"86","slug":"superbola-de-pelo-salva-el-futuro","servidores":[{"id":1,"url":"https://streamwish.to/e/u8mu39ujpm08","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"u8mu39ujpm08","player_url":"https://streamwish.to/e/u8mu39ujpm08"},{"id":2,"url":"https://vidhidepro.com/v/13jv0fvg2hx7","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"13jv0fvg2hx7","player_url":"https://vidhidepro.com/v/13jv0fvg2hx7"},{"id":3,"url":"https://voe.sx/e/xcvqwiubcthj","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"xcvqwiubcthj","player_url":"https://voe.sx/e/xcvqwiubcthj"},{"id":4,"url":"https://doodstream.com/e/9id7cm90794d","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"9id7cm90794d","player_url":"https://doodstream.com/e/9id7cm90794d"},{"id":5,"url":"https://streamwish.to/e/cg09jpc7pmxd","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"cg09jpc7pmxd","player_url":"https://streamwish.to/e/cg09jpc7pmxd"},{"id":6,"url":"https://doodstream.com/e/gqsxpf2825je","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"gqsxpf2825je","player_url":"https://doodstream.com/e/gqsxpf2825je"},{"id":7,"url":"https://streamtape.com/e/qjOGy1d1a8SzbJp","idioma":"english","nombre":"Streamtape","calidad":"HD","embed_id":"qjOGy1d1a8SzbJp","player_url":"https://streamtape.com/e/qjOGy1d1a8SzbJp"},{"id":8,"url":"https://streamwish.to/e/e77l52t6fank","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"e77l52t6fank","player_url":"https://streamwish.to/e/e77l52t6fank"},{"id":9,"url":"https://doodstream.com/e/h35e0gqptwl7","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"h35e0gqptwl7","player_url":"https://doodstream.com/e/h35e0gqptwl7"},{"id":10,"url":"https://streamtape.com/e/erBkk1b9dlsYVdD","idioma":"spanish","nombre":"Streamtape","calidad":"HD","embed_id":"erBkk1b9dlsYVdD","player_url":"https://streamtape.com/e/erBkk1b9dlsYVdD"}]}
+{
+  "id": 683361,
+  "titulo": "Superbola de pelo salva el futuro",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/pAwqmLvQXoNpePfFIqC9fZkOxzj.jpg",
+  "release_date": "2022-10-14",
+  "genres": [
+    "Familia",
+    "Aventura"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/1kD7E6soGxkNoWrKKniVnrkHNAH.jpg",
+  "overview": "Para salvar el mundo, Super Furball tiene que salvar a las abejas, pero para salvar a las abejas, primero tiene que salvar al peor matón del colegio.",
+  "trailer": "",
+  "runtime": "86",
+  "slug": "superbola-de-pelo-salva-el-futuro",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/u8mu39ujpm08",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "u8mu39ujpm08",
+      "player_url": "https://streamwish.to/e/u8mu39ujpm08"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/13jv0fvg2hx7",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "13jv0fvg2hx7",
+      "player_url": "https://vidhidepro.com/v/13jv0fvg2hx7"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/xcvqwiubcthj",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xcvqwiubcthj",
+      "player_url": "https://voe.sx/e/xcvqwiubcthj"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/9id7cm90794d",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9id7cm90794d",
+      "player_url": "https://doodstream.com/e/9id7cm90794d"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/cg09jpc7pmxd",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cg09jpc7pmxd",
+      "player_url": "https://streamwish.to/e/cg09jpc7pmxd"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/gqsxpf2825je",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "gqsxpf2825je",
+      "player_url": "https://doodstream.com/e/gqsxpf2825je"
+    },
+    {
+      "id": 7,
+      "url": "https://streamtape.com/e/qjOGy1d1a8SzbJp",
+      "idioma": "english",
+      "nombre": "Streamtape",
+      "calidad": "HD",
+      "embed_id": "qjOGy1d1a8SzbJp",
+      "player_url": "https://streamtape.com/e/qjOGy1d1a8SzbJp"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/e77l52t6fank",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "e77l52t6fank",
+      "player_url": "https://streamwish.to/e/e77l52t6fank"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/h35e0gqptwl7",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "h35e0gqptwl7",
+      "player_url": "https://doodstream.com/e/h35e0gqptwl7"
+    },
+    {
+      "id": 10,
+      "url": "https://streamtape.com/e/erBkk1b9dlsYVdD",
+      "idioma": "spanish",
+      "nombre": "Streamtape",
+      "calidad": "HD",
+      "embed_id": "erBkk1b9dlsYVdD",
+      "player_url": "https://streamtape.com/e/erBkk1b9dlsYVdD"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/owlbtqx4y1at",
+      "player_url": "https://minochinos.com/embed/owlbtqx4y1at",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "owlbtqx4y1at"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/sez43j379lzx",
+      "player_url": "https://hglink.to/e/sez43j379lzx",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sez43j379lzx"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/4xoy11pto4q4",
+      "player_url": "https://bysedikamoum.com/e/4xoy11pto4q4",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4xoy11pto4q4"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/ajhncsxmtkpl",
+      "player_url": "https://voe.sx/e/ajhncsxmtkpl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ajhncsxmtkpl"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/ajhncsxmtkpl/download",
+      "player_url": "https://voe.sx/ajhncsxmtkpl/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/nk4dj1sx2afu",
+      "player_url": "https://rapidvideo.link/e/nk4dj1sx2afu",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nk4dj1sx2afu"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/4v7tn4z89g9p",
+      "player_url": "https://minochinos.com/embed/4v7tn4z89g9p",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4v7tn4z89g9p"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/4p1a8y0emavp",
+      "player_url": "https://hglink.to/e/4p1a8y0emavp",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4p1a8y0emavp"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/v7u2t3eit7xy",
+      "player_url": "https://bysedikamoum.com/e/v7u2t3eit7xy",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v7u2t3eit7xy"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/bc1yxalzxhd0",
+      "player_url": "https://voe.sx/e/bc1yxalzxhd0",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bc1yxalzxhd0"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/u30t1naqrmko",
+      "player_url": "https://rapidvideo.link/e/u30t1naqrmko",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u30t1naqrmko"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/uzv5zkiy6hbf",
+      "player_url": "https://minochinos.com/embed/uzv5zkiy6hbf",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "uzv5zkiy6hbf"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/wofv86rf1u3z",
+      "player_url": "https://hglink.to/e/wofv86rf1u3z",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wofv86rf1u3z"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/ihtvjc0u9c0j",
+      "player_url": "https://bysedikamoum.com/e/ihtvjc0u9c0j",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ihtvjc0u9c0j"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/ojkeqm5jxjlq",
+      "player_url": "https://voe.sx/e/ojkeqm5jxjlq",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ojkeqm5jxjlq"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/ojkeqm5jxjlq/download",
+      "player_url": "https://voe.sx/ojkeqm5jxjlq/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/cvx70as2ywb5",
+      "player_url": "https://rapidvideo.link/e/cvx70as2ywb5",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cvx70as2ywb5"
+    }
+  ]
+}
