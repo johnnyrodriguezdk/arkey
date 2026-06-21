@@ -1,1 +1,280 @@
-{"id":1584219711,"titulo":"No es país para solteros","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/vx1obRTbY4PB1v5HJ6HJpl3jMxb.jpg","release_date":"2026-01-01","genres":["romance","comedia"],"rating":"6.8","backdrop":"","overview":"","trailer":"","runtime":"","slug":"no-es-pais-para-solteros-XzlVg4","servidores":[{"id":1,"url":"https://minochinos.com/embed/4jx4osqteb75","idioma":"Latino","nombre":"Vidhide","calidad":"HD","embed_id":"4jx4osqteb75","player_url":"https://minochinos.com/embed/4jx4osqteb75"},{"id":2,"url":"https://hglink.to/e/1y2e096g2iup","idioma":"Latino","nombre":"Streamwish","calidad":"HD","embed_id":"1y2e096g2iup","player_url":"https://hglink.to/e/1y2e096g2iup"},{"id":3,"url":"https://bysedikamoum.com/e/en5kt66kmh72","idioma":"Latino","nombre":"Filemoon","calidad":"HD","embed_id":"en5kt66kmh72","player_url":"https://bysedikamoum.com/e/en5kt66kmh72"},{"id":4,"url":"https://voe.sx/e/cd6p8rfmizvx","idioma":"Latino","nombre":"Voe","calidad":"HD","embed_id":"cd6p8rfmizvx","player_url":"https://voe.sx/e/cd6p8rfmizvx"},{"id":5,"url":"https://minochinos.com/embed/7szor824sytf","idioma":"Castellano","nombre":"Vidhide","calidad":"HD","embed_id":"7szor824sytf","player_url":"https://minochinos.com/embed/7szor824sytf"},{"id":6,"url":"https://hglink.to/e/88bmyng50w01","idioma":"Castellano","nombre":"Streamwish","calidad":"HD","embed_id":"88bmyng50w01","player_url":"https://hglink.to/e/88bmyng50w01"},{"id":7,"url":"https://bysedikamoum.com/e/956nek839w1x","idioma":"Castellano","nombre":"Filemoon","calidad":"HD","embed_id":"956nek839w1x","player_url":"https://bysedikamoum.com/e/956nek839w1x"},{"id":8,"url":"https://voe.sx/e/djm6tb9zkmgw","idioma":"Castellano","nombre":"Voe","calidad":"HD","embed_id":"djm6tb9zkmgw","player_url":"https://voe.sx/e/djm6tb9zkmgw"},{"id":9,"url":"https://minochinos.com/embed/o8aohcvgjiix","idioma":"Subtitulado","nombre":"Vidhide","calidad":"HD","embed_id":"o8aohcvgjiix","player_url":"https://minochinos.com/embed/o8aohcvgjiix"},{"id":10,"url":"https://hglink.to/e/qk96kbgu1god","idioma":"Subtitulado","nombre":"Streamwish","calidad":"HD","embed_id":"qk96kbgu1god","player_url":"https://hglink.to/e/qk96kbgu1god"},{"id":11,"url":"https://bysedikamoum.com/e/duek7q7ww7dp","idioma":"Subtitulado","nombre":"Filemoon","calidad":"HD","embed_id":"duek7q7ww7dp","player_url":"https://bysedikamoum.com/e/duek7q7ww7dp"},{"id":12,"url":"https://voe.sx/e/rnntuqfmm4vd","idioma":"Subtitulado","nombre":"Voe","calidad":"HD","embed_id":"rnntuqfmm4vd","player_url":"https://voe.sx/e/rnntuqfmm4vd"}]}
+{
+  "id": 1584219711,
+  "titulo": "No es país para solteros",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w500/vx1obRTbY4PB1v5HJ6HJpl3jMxb.jpg",
+  "release_date": "2026-01-01",
+  "genres": [
+    "romance",
+    "comedia"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/vx1obRTbY4PB1v5HJ6HJpl3jMxb.jpg",
+  "overview": "Una comedia romántica bien chida sobre segundas oportunidades. Una mujer fuerte y lista pone las cosas en su lugar y empieza de nuevo.",
+  "trailer": "",
+  "runtime": "",
+  "slug": "no-es-pais-para-solteros-XzlVg4",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://minochinos.com/embed/4jx4osqteb75",
+      "idioma": "Latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "4jx4osqteb75",
+      "player_url": "https://minochinos.com/embed/4jx4osqteb75"
+    },
+    {
+      "id": 2,
+      "url": "https://hglink.to/e/1y2e096g2iup",
+      "idioma": "Latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "1y2e096g2iup",
+      "player_url": "https://hglink.to/e/1y2e096g2iup"
+    },
+    {
+      "id": 3,
+      "url": "https://bysedikamoum.com/e/en5kt66kmh72",
+      "idioma": "Latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "en5kt66kmh72",
+      "player_url": "https://bysedikamoum.com/e/en5kt66kmh72"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/cd6p8rfmizvx",
+      "idioma": "Latino",
+      "nombre": "Voe",
+      "calidad": "HD",
+      "embed_id": "cd6p8rfmizvx",
+      "player_url": "https://voe.sx/e/cd6p8rfmizvx"
+    },
+    {
+      "id": 5,
+      "url": "https://minochinos.com/embed/7szor824sytf",
+      "idioma": "Castellano",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "7szor824sytf",
+      "player_url": "https://minochinos.com/embed/7szor824sytf"
+    },
+    {
+      "id": 6,
+      "url": "https://hglink.to/e/88bmyng50w01",
+      "idioma": "Castellano",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "88bmyng50w01",
+      "player_url": "https://hglink.to/e/88bmyng50w01"
+    },
+    {
+      "id": 7,
+      "url": "https://bysedikamoum.com/e/956nek839w1x",
+      "idioma": "Castellano",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "956nek839w1x",
+      "player_url": "https://bysedikamoum.com/e/956nek839w1x"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/djm6tb9zkmgw",
+      "idioma": "Castellano",
+      "nombre": "Voe",
+      "calidad": "HD",
+      "embed_id": "djm6tb9zkmgw",
+      "player_url": "https://voe.sx/e/djm6tb9zkmgw"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/o8aohcvgjiix",
+      "idioma": "Subtitulado",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "o8aohcvgjiix",
+      "player_url": "https://minochinos.com/embed/o8aohcvgjiix"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/qk96kbgu1god",
+      "idioma": "Subtitulado",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "qk96kbgu1god",
+      "player_url": "https://hglink.to/e/qk96kbgu1god"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/duek7q7ww7dp",
+      "idioma": "Subtitulado",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "duek7q7ww7dp",
+      "player_url": "https://bysedikamoum.com/e/duek7q7ww7dp"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/rnntuqfmm4vd",
+      "idioma": "Subtitulado",
+      "nombre": "Voe",
+      "calidad": "HD",
+      "embed_id": "rnntuqfmm4vd",
+      "player_url": "https://voe.sx/e/rnntuqfmm4vd"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/4jx4osqteb75",
+      "player_url": "https://minochinos.com/embed/4jx4osqteb75",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4jx4osqteb75"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/5q15hdnnc0xs",
+      "player_url": "https://hglink.to/e/5q15hdnnc0xs",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5q15hdnnc0xs"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/en5kt66kmh72",
+      "player_url": "https://bysedikamoum.com/e/en5kt66kmh72",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "en5kt66kmh72"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/cd6p8rfmizvx",
+      "player_url": "https://voe.sx/e/cd6p8rfmizvx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cd6p8rfmizvx"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/cd6p8rfmizvx/download",
+      "player_url": "https://voe.sx/cd6p8rfmizvx/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/nda2etcy4osj",
+      "player_url": "https://rapidvideo.link/e/nda2etcy4osj",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nda2etcy4osj"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/7szor824sytf",
+      "player_url": "https://minochinos.com/embed/7szor824sytf",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7szor824sytf"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/4vwpsyzy8hhv",
+      "player_url": "https://hglink.to/e/4vwpsyzy8hhv",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4vwpsyzy8hhv"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/956nek839w1x",
+      "player_url": "https://bysedikamoum.com/e/956nek839w1x",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "956nek839w1x"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/djm6tb9zkmgw",
+      "player_url": "https://voe.sx/e/djm6tb9zkmgw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "djm6tb9zkmgw"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/3i75zjocny0f",
+      "player_url": "https://rapidvideo.link/e/3i75zjocny0f",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3i75zjocny0f"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/o8aohcvgjiix",
+      "player_url": "https://minochinos.com/embed/o8aohcvgjiix",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "o8aohcvgjiix"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/kuoozm0umb64",
+      "player_url": "https://hglink.to/e/kuoozm0umb64",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kuoozm0umb64"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/duek7q7ww7dp",
+      "player_url": "https://bysedikamoum.com/e/duek7q7ww7dp",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "duek7q7ww7dp"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/rnntuqfmm4vd",
+      "player_url": "https://voe.sx/e/rnntuqfmm4vd",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rnntuqfmm4vd"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/rnntuqfmm4vd/download",
+      "player_url": "https://voe.sx/rnntuqfmm4vd/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/mfzrpngs32wc",
+      "player_url": "https://rapidvideo.link/e/mfzrpngs32wc",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mfzrpngs32wc"
+    }
+  ]
+}
