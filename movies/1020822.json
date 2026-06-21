@@ -1,1 +1,198 @@
-{"id":1020822,"titulo":"Animale","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/m8u76d7lV3IZ3rggWoFp83nmnn4.jpg","release_date":"2024-09-20","genres":["drama"],"rating":"6.1","backdrop":"https://image.tmdb.org/t/p/original/9zoWq6v8pqoTTM0n8zf76IfGbTq.jpg","overview":"La Camarga es una región francesa conocida por sus corridas de toros, un ambicioso espectáculo donde se pone a prueba la agilidad y el respeto entre hombres y bestias. Rodeada de hombres, la veinteañera Nejma se entrena sin descanso para conseguir su sueño de ganar la competición anual. Pero cuando la temporada está en pleno apogeo, varias desapariciones preocupan a los lugareños. Pronto se extiende el rumor de que una bestia salvaje está al acecho.","trailer":"","runtime":"98","slug":"animale","servidores":[{"id":1,"url":"https://streamwish.to/e/cvqnm2dfckby","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"cvqnm2dfckby","player_url":"https://streamwish.to/e/cvqnm2dfckby"},{"id":2,"url":"https://vidhidepro.com/v/0ntxzi8de5w7","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"0ntxzi8de5w7","player_url":"https://vidhidepro.com/v/0ntxzi8de5w7"},{"id":3,"url":"https://voe.sx/e/pdl5buxvkyer","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"pdl5buxvkyer","player_url":"https://voe.sx/e/pdl5buxvkyer"},{"id":4,"url":"https://doodstream.com/e/cpd9qde0yhof","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"cpd9qde0yhof","player_url":"https://doodstream.com/e/cpd9qde0yhof"},{"id":5,"url":"https://streamwish.to/e/gwxxfkb7oj3c","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"gwxxfkb7oj3c","player_url":"https://streamwish.to/e/gwxxfkb7oj3c"},{"id":6,"url":"https://vidhidepro.com/v/0a1jl3b9j5ls","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"0a1jl3b9j5ls","player_url":"https://vidhidepro.com/v/0a1jl3b9j5ls"},{"id":7,"url":"https://voe.sx/e/vlqteksmlgur","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"vlqteksmlgur","player_url":"https://voe.sx/e/vlqteksmlgur"},{"id":8,"url":"https://doodstream.com/e/f2e0b6thutx1","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"f2e0b6thutx1","player_url":"https://doodstream.com/e/f2e0b6thutx1"}]}
+{
+  "id": 1020822,
+  "titulo": "Animale",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/m8u76d7lV3IZ3rggWoFp83nmnn4.jpg",
+  "release_date": "2024-09-20",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/9zoWq6v8pqoTTM0n8zf76IfGbTq.jpg",
+  "overview": "La Camarga es una región francesa conocida por sus corridas de toros, un ambicioso espectáculo donde se pone a prueba la agilidad y el respeto entre hombres y bestias. Rodeada de hombres, la veinteañera Nejma se entrena sin descanso para conseguir su sueño de ganar la competición anual. Pero cuando la temporada está en pleno apogeo, varias desapariciones preocupan a los lugareños. Pronto se extiende el rumor de que una bestia salvaje está al acecho.",
+  "trailer": "",
+  "runtime": "98",
+  "slug": "animale",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/cvqnm2dfckby",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cvqnm2dfckby",
+      "player_url": "https://streamwish.to/e/cvqnm2dfckby"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/0ntxzi8de5w7",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0ntxzi8de5w7",
+      "player_url": "https://vidhidepro.com/v/0ntxzi8de5w7"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/pdl5buxvkyer",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "pdl5buxvkyer",
+      "player_url": "https://voe.sx/e/pdl5buxvkyer"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/cpd9qde0yhof",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "cpd9qde0yhof",
+      "player_url": "https://doodstream.com/e/cpd9qde0yhof"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/gwxxfkb7oj3c",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "gwxxfkb7oj3c",
+      "player_url": "https://streamwish.to/e/gwxxfkb7oj3c"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/0a1jl3b9j5ls",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0a1jl3b9j5ls",
+      "player_url": "https://vidhidepro.com/v/0a1jl3b9j5ls"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/vlqteksmlgur",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vlqteksmlgur",
+      "player_url": "https://voe.sx/e/vlqteksmlgur"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/f2e0b6thutx1",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "f2e0b6thutx1",
+      "player_url": "https://doodstream.com/e/f2e0b6thutx1"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/jimzw2unjmci",
+      "player_url": "https://minochinos.com/embed/jimzw2unjmci",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jimzw2unjmci"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/3nvna9u7q0px",
+      "player_url": "https://hglink.to/e/3nvna9u7q0px",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3nvna9u7q0px"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/vw5i8lqo8aeo",
+      "player_url": "https://bysedikamoum.com/e/vw5i8lqo8aeo",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vw5i8lqo8aeo"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/xoodliu2hgsy",
+      "player_url": "https://voe.sx/e/xoodliu2hgsy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xoodliu2hgsy"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/xoodliu2hgsy/download",
+      "player_url": "https://voe.sx/xoodliu2hgsy/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/7n5h3v0siazm",
+      "player_url": "https://rapidvideo.link/e/7n5h3v0siazm",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7n5h3v0siazm"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/hp23gfl1pj4y",
+      "player_url": "https://minochinos.com/embed/hp23gfl1pj4y",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hp23gfl1pj4y"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/pcfe53f9j4kg",
+      "player_url": "https://hglink.to/e/pcfe53f9j4kg",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pcfe53f9j4kg"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/y7etj8454e76",
+      "player_url": "https://bysedikamoum.com/e/y7etj8454e76",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "y7etj8454e76"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/8bipg4vrdahb",
+      "player_url": "https://voe.sx/e/8bipg4vrdahb",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8bipg4vrdahb"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/8bipg4vrdahb/download",
+      "player_url": "https://voe.sx/8bipg4vrdahb/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/6sz1tjdkowgi",
+      "player_url": "https://rapidvideo.link/e/6sz1tjdkowgi",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6sz1tjdkowgi"
+    }
+  ]
+}
