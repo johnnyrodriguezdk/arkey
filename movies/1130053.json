@@ -1,1 +1,271 @@
-{"id":1130053,"titulo":"La maldición de Cenicienta","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/SFewWt1tXEqGq08oZqH1q78gzM.jpg","release_date":"2024-05-31","genres":[],"rating":"5.9","backdrop":"https://image.tmdb.org/t/p/original/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg","overview":"Cenicienta pasará por un infierno del que nadie saldrá fácilmente.","trailer":"","runtime":"82","slug":"la-maldicion-de-cenicienta","servidores":[{"id":1,"url":"https://streamwish.to/e/l7uk0i2djwfv","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"l7uk0i2djwfv","player_url":"https://streamwish.to/e/l7uk0i2djwfv"},{"id":2,"url":"https://vidhidepro.com/v/g7a0ysoylle8","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"g7a0ysoylle8","player_url":"https://vidhidepro.com/v/g7a0ysoylle8"},{"id":3,"url":"https://voe.sx/e/cswoi3avp6zh","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"cswoi3avp6zh","player_url":"https://voe.sx/e/cswoi3avp6zh"},{"id":4,"url":"https://doodstream.com/e/qcsju7wdpo6j","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"qcsju7wdpo6j","player_url":"https://doodstream.com/e/qcsju7wdpo6j"},{"id":5,"url":"https://streamwish.to/e/mfm35027c5wn","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"mfm35027c5wn","player_url":"https://streamwish.to/e/mfm35027c5wn"},{"id":6,"url":"https://vidhidepro.com/v/qklvn06vcmhl","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"qklvn06vcmhl","player_url":"https://vidhidepro.com/v/qklvn06vcmhl"},{"id":7,"url":"https://voe.sx/e/jtrz3jvmeo10","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"jtrz3jvmeo10","player_url":"https://voe.sx/e/jtrz3jvmeo10"},{"id":8,"url":"https://doodstream.com/e/rb173mt29mji","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"rb173mt29mji","player_url":"https://doodstream.com/e/rb173mt29mji"},{"id":9,"url":"https://streamwish.to/e/kk1imuf7ju7c","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"kk1imuf7ju7c","player_url":"https://streamwish.to/e/kk1imuf7ju7c"},{"id":10,"url":"https://vidhidepro.com/v/04ysm5xaeph0","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"04ysm5xaeph0","player_url":"https://vidhidepro.com/v/04ysm5xaeph0"},{"id":11,"url":"https://doodstream.com/e/91rn7gj7xu7r","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"91rn7gj7xu7r","player_url":"https://doodstream.com/e/91rn7gj7xu7r"}]}
+{
+  "id": 1130053,
+  "titulo": "La maldición de Cenicienta",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/SFewWt1tXEqGq08oZqH1q78gzM.jpg",
+  "release_date": "2024-05-31",
+  "genres": [
+    "Terror",
+    "Fantasía"
+  ],
+  "rating": "5.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg",
+  "overview": "Cenicienta pasará por un infierno del que nadie saldrá fácilmente.",
+  "trailer": "",
+  "runtime": "82",
+  "slug": "la-maldicion-de-cenicienta",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/l7uk0i2djwfv",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "l7uk0i2djwfv",
+      "player_url": "https://streamwish.to/e/l7uk0i2djwfv"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/g7a0ysoylle8",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "g7a0ysoylle8",
+      "player_url": "https://vidhidepro.com/v/g7a0ysoylle8"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/cswoi3avp6zh",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "cswoi3avp6zh",
+      "player_url": "https://voe.sx/e/cswoi3avp6zh"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/qcsju7wdpo6j",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "qcsju7wdpo6j",
+      "player_url": "https://doodstream.com/e/qcsju7wdpo6j"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/mfm35027c5wn",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mfm35027c5wn",
+      "player_url": "https://streamwish.to/e/mfm35027c5wn"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/qklvn06vcmhl",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "qklvn06vcmhl",
+      "player_url": "https://vidhidepro.com/v/qklvn06vcmhl"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/jtrz3jvmeo10",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jtrz3jvmeo10",
+      "player_url": "https://voe.sx/e/jtrz3jvmeo10"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/rb173mt29mji",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "rb173mt29mji",
+      "player_url": "https://doodstream.com/e/rb173mt29mji"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/kk1imuf7ju7c",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "kk1imuf7ju7c",
+      "player_url": "https://streamwish.to/e/kk1imuf7ju7c"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/04ysm5xaeph0",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "04ysm5xaeph0",
+      "player_url": "https://vidhidepro.com/v/04ysm5xaeph0"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/91rn7gj7xu7r",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "91rn7gj7xu7r",
+      "player_url": "https://doodstream.com/e/91rn7gj7xu7r"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/t6l4tl23wely",
+      "player_url": "https://minochinos.com/embed/t6l4tl23wely",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t6l4tl23wely"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/daegv2d68vrp",
+      "player_url": "https://hglink.to/e/daegv2d68vrp",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "daegv2d68vrp"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/7omuy701nmkf",
+      "player_url": "https://bysedikamoum.com/e/7omuy701nmkf",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7omuy701nmkf"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/zvifgzslizlu",
+      "player_url": "https://voe.sx/e/zvifgzslizlu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zvifgzslizlu"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/zvifgzslizlu/download",
+      "player_url": "https://voe.sx/zvifgzslizlu/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/au28m1je5cpv",
+      "player_url": "https://rapidvideo.link/e/au28m1je5cpv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "au28m1je5cpv"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/b2wcm7nnwnil",
+      "player_url": "https://minochinos.com/embed/b2wcm7nnwnil",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b2wcm7nnwnil"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/yl0kb9h9ucmv",
+      "player_url": "https://hglink.to/e/yl0kb9h9ucmv",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yl0kb9h9ucmv"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/umyccuncpbbq",
+      "player_url": "https://bysedikamoum.com/e/umyccuncpbbq",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "umyccuncpbbq"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/zuzbee4kbdoe",
+      "player_url": "https://voe.sx/e/zuzbee4kbdoe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zuzbee4kbdoe"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/9pvflej5oi27",
+      "player_url": "https://rapidvideo.link/e/9pvflej5oi27",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9pvflej5oi27"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/gblr07cm6bxu",
+      "player_url": "https://minochinos.com/embed/gblr07cm6bxu",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gblr07cm6bxu"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/vgz37ofdwdge",
+      "player_url": "https://hglink.to/e/vgz37ofdwdge",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vgz37ofdwdge"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/cqq34jmnjk0w",
+      "player_url": "https://bysedikamoum.com/e/cqq34jmnjk0w",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cqq34jmnjk0w"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/juj44mypabz4",
+      "player_url": "https://voe.sx/e/juj44mypabz4",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "juj44mypabz4"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/juj44mypabz4/download",
+      "player_url": "https://voe.sx/juj44mypabz4/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/wp4lx5rgj2ud",
+      "player_url": "https://rapidvideo.link/e/wp4lx5rgj2ud",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wp4lx5rgj2ud"
+    }
+  ]
+}
