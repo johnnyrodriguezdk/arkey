@@ -1,1 +1,198 @@
-{"id":1062421,"titulo":"Sweet Dreams","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/4U2uQVi1OutOigRisqVHGHLTTzV.jpg","release_date":"2024-04-12","genres":[],"rating":"5.4","backdrop":"https://image.tmdb.org/t/p/original/miL1LsOOKGwG7621RPmVPitjW9R.jpg","overview":"Morris se abre camino a través de una estancia obligatoria en el centro de sobriedad Sweet Dreams. En un intento por encauzar su vida, acepta entrenar al equipo de softball de sus compañeros de piso","trailer":"","runtime":"99","slug":"sweet-dreams","servidores":[{"id":1,"url":"https://streamwish.to/e/5d44ilczwk6f","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"5d44ilczwk6f","player_url":"https://streamwish.to/e/5d44ilczwk6f"},{"id":2,"url":"https://vidhidepro.com/v/r06ghpoiojmr","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"r06ghpoiojmr","player_url":"https://vidhidepro.com/v/r06ghpoiojmr"},{"id":3,"url":"https://voe.sx/e/xiy7royimmss","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"xiy7royimmss","player_url":"https://voe.sx/e/xiy7royimmss"},{"id":4,"url":"https://doodstream.com/e/yrofkrg06kw4","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"yrofkrg06kw4","player_url":"https://doodstream.com/e/yrofkrg06kw4"},{"id":5,"url":"https://streamwish.to/e/n6zkkkjfqr9g","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"n6zkkkjfqr9g","player_url":"https://streamwish.to/e/n6zkkkjfqr9g"},{"id":6,"url":"https://vidhidepro.com/v/63h55nu8rda4","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"63h55nu8rda4","player_url":"https://vidhidepro.com/v/63h55nu8rda4"},{"id":7,"url":"https://voe.sx/e/8wzpjiqyfwk5","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"8wzpjiqyfwk5","player_url":"https://voe.sx/e/8wzpjiqyfwk5"},{"id":8,"url":"https://doodstream.com/e/dkymm9t1ogry","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"dkymm9t1ogry","player_url":"https://doodstream.com/e/dkymm9t1ogry"}]}
+{
+  "id": 1062421,
+  "titulo": "Sweet Dreams",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/4U2uQVi1OutOigRisqVHGHLTTzV.jpg",
+  "release_date": "2024-04-12",
+  "genres": [
+    "Comedia"
+  ],
+  "rating": "5.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/miL1LsOOKGwG7621RPmVPitjW9R.jpg",
+  "overview": "Morris se abre camino a través de una estancia obligatoria en el centro de sobriedad Sweet Dreams. En un intento por encauzar su vida, acepta entrenar al equipo de softball de sus compañeros de piso",
+  "trailer": "",
+  "runtime": "99",
+  "slug": "sweet-dreams",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/5d44ilczwk6f",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5d44ilczwk6f",
+      "player_url": "https://streamwish.to/e/5d44ilczwk6f"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/r06ghpoiojmr",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "r06ghpoiojmr",
+      "player_url": "https://vidhidepro.com/v/r06ghpoiojmr"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/xiy7royimmss",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xiy7royimmss",
+      "player_url": "https://voe.sx/e/xiy7royimmss"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/yrofkrg06kw4",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "yrofkrg06kw4",
+      "player_url": "https://doodstream.com/e/yrofkrg06kw4"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/n6zkkkjfqr9g",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "n6zkkkjfqr9g",
+      "player_url": "https://streamwish.to/e/n6zkkkjfqr9g"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/63h55nu8rda4",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "63h55nu8rda4",
+      "player_url": "https://vidhidepro.com/v/63h55nu8rda4"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/8wzpjiqyfwk5",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "8wzpjiqyfwk5",
+      "player_url": "https://voe.sx/e/8wzpjiqyfwk5"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/dkymm9t1ogry",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "dkymm9t1ogry",
+      "player_url": "https://doodstream.com/e/dkymm9t1ogry"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/apiax0e5r87e",
+      "player_url": "https://minochinos.com/embed/apiax0e5r87e",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "apiax0e5r87e"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/t25k13e34poe",
+      "player_url": "https://hglink.to/e/t25k13e34poe",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t25k13e34poe"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/542i1l34q7y0",
+      "player_url": "https://bysedikamoum.com/e/542i1l34q7y0",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "542i1l34q7y0"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/vraa49sb8kuj",
+      "player_url": "https://voe.sx/e/vraa49sb8kuj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vraa49sb8kuj"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/vraa49sb8kuj/download",
+      "player_url": "https://voe.sx/vraa49sb8kuj/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/3qw4blgrmshj",
+      "player_url": "https://rapidvideo.link/e/3qw4blgrmshj",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3qw4blgrmshj"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/lll8dvmvmti4",
+      "player_url": "https://minochinos.com/embed/lll8dvmvmti4",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lll8dvmvmti4"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/167t5zfcqubo",
+      "player_url": "https://hglink.to/e/167t5zfcqubo",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "167t5zfcqubo"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/c3q582jcaskj",
+      "player_url": "https://bysedikamoum.com/e/c3q582jcaskj",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c3q582jcaskj"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/usla6sp1wyoj",
+      "player_url": "https://voe.sx/e/usla6sp1wyoj",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "usla6sp1wyoj"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/usla6sp1wyoj/download",
+      "player_url": "https://voe.sx/usla6sp1wyoj/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/scg1xauz7bj0",
+      "player_url": "https://rapidvideo.link/e/scg1xauz7bj0",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "scg1xauz7bj0"
+    }
+  ]
+}
