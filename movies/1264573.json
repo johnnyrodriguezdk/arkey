@@ -1,1 +1,198 @@
-{"id":1264573,"titulo":"Lurker","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/3rbY3fjXQpt4sQLQvKD7CT6oJsS.jpg","release_date":"2025-08-22","genres":["drama"],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/hBkXSnKqv0qP89t6vTWe3wxC0G3.jpg","overview":"Un empleado de una tienda se infiltra en el círculo íntimo de un artista a punto de alcanzar el estrellato. A medida que aumenta la cercanía con la estrella musical en ciernes, la situación derivará en una cuestión de vida o muerte.","trailer":"","runtime":"100","slug":"lurker","servidores":[{"id":1,"url":"https://streamwish.to/e/5wk0sehdnu0l","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"5wk0sehdnu0l","player_url":"https://streamwish.to/e/5wk0sehdnu0l"},{"id":2,"url":"https://bysejikuar.com/e/yf74oyzizudw","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"yf74oyzizudw","player_url":"https://bysejikuar.com/e/yf74oyzizudw"},{"id":3,"url":"https://vidhidepro.com/v/rvjpc96ncfj3","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"rvjpc96ncfj3","player_url":"https://vidhidepro.com/v/rvjpc96ncfj3"},{"id":4,"url":"https://voe.sx/e/nvixw47qzheg","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"nvixw47qzheg","player_url":"https://voe.sx/e/nvixw47qzheg"},{"id":5,"url":"https://doodstream.com/e/2bz34tkmuzgd","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"2bz34tkmuzgd","player_url":"https://doodstream.com/e/2bz34tkmuzgd"},{"id":6,"url":"https://streamwish.to/e/d11b2jjzfpga","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"d11b2jjzfpga","player_url":"https://streamwish.to/e/d11b2jjzfpga"},{"id":7,"url":"https://bysejikuar.com/e/o768fh9sph02","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"o768fh9sph02","player_url":"https://bysejikuar.com/e/o768fh9sph02"},{"id":8,"url":"https://vidhidepro.com/v/thicyfhxfbwd","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"thicyfhxfbwd","player_url":"https://vidhidepro.com/v/thicyfhxfbwd"},{"id":9,"url":"https://voe.sx/e/tdspwdhk75ax","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"tdspwdhk75ax","player_url":"https://voe.sx/e/tdspwdhk75ax"},{"id":10,"url":"https://doodstream.com/e/s586ufk5e3j3","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"s586ufk5e3j3","player_url":"https://doodstream.com/e/s586ufk5e3j3"}]}
+{
+  "id": 1264573,
+  "titulo": "Lurker",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/3rbY3fjXQpt4sQLQvKD7CT6oJsS.jpg",
+  "release_date": "2025-08-22",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/hBkXSnKqv0qP89t6vTWe3wxC0G3.jpg",
+  "overview": "Un empleado de una tienda se infiltra en el círculo íntimo de un artista a punto de alcanzar el estrellato. A medida que aumenta la cercanía con la estrella musical en ciernes, la situación derivará en una cuestión de vida o muerte.",
+  "trailer": "",
+  "runtime": "100",
+  "slug": "lurker",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/5wk0sehdnu0l",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5wk0sehdnu0l",
+      "player_url": "https://streamwish.to/e/5wk0sehdnu0l"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/yf74oyzizudw",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "yf74oyzizudw",
+      "player_url": "https://bysejikuar.com/e/yf74oyzizudw"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/rvjpc96ncfj3",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rvjpc96ncfj3",
+      "player_url": "https://vidhidepro.com/v/rvjpc96ncfj3"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/nvixw47qzheg",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "nvixw47qzheg",
+      "player_url": "https://voe.sx/e/nvixw47qzheg"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/2bz34tkmuzgd",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "2bz34tkmuzgd",
+      "player_url": "https://doodstream.com/e/2bz34tkmuzgd"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/d11b2jjzfpga",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "d11b2jjzfpga",
+      "player_url": "https://streamwish.to/e/d11b2jjzfpga"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/o768fh9sph02",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "o768fh9sph02",
+      "player_url": "https://bysejikuar.com/e/o768fh9sph02"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/thicyfhxfbwd",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "thicyfhxfbwd",
+      "player_url": "https://vidhidepro.com/v/thicyfhxfbwd"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/tdspwdhk75ax",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "tdspwdhk75ax",
+      "player_url": "https://voe.sx/e/tdspwdhk75ax"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/s586ufk5e3j3",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "s586ufk5e3j3",
+      "player_url": "https://doodstream.com/e/s586ufk5e3j3"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/0awx19i34l29",
+      "player_url": "https://minochinos.com/embed/0awx19i34l29",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0awx19i34l29"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/l74jnyvyzwan",
+      "player_url": "https://hglink.to/e/l74jnyvyzwan",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l74jnyvyzwan"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/h37hnbslhnqq",
+      "player_url": "https://voe.sx/e/h37hnbslhnqq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h37hnbslhnqq"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/h37hnbslhnqq/download",
+      "player_url": "https://voe.sx/h37hnbslhnqq/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/o2wzxbe4h0sl",
+      "player_url": "https://rapidvideo.link/e/o2wzxbe4h0sl",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o2wzxbe4h0sl"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/oufcg7wb649z",
+      "player_url": "https://minochinos.com/embed/oufcg7wb649z",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "oufcg7wb649z"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/qu9p0xkcu3zz",
+      "player_url": "https://hglink.to/e/qu9p0xkcu3zz",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qu9p0xkcu3zz"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/zuxr5ga6jwox",
+      "player_url": "https://voe.sx/e/zuxr5ga6jwox",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zuxr5ga6jwox"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/zuxr5ga6jwox/download",
+      "player_url": "https://voe.sx/zuxr5ga6jwox/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/jdxnkcvs3b9a",
+      "player_url": "https://rapidvideo.link/e/jdxnkcvs3b9a",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jdxnkcvs3b9a"
+    }
+  ]
+}
