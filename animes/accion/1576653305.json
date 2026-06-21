@@ -1,0 +1,38 @@
+{
+  "id": 1576653305,
+  "titulo": "Star Wars: Historias del Imperio",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/cd7030639eb40e5e694216bf29fd0d52.webp",
+  "release_date": "2024-01-01",
+  "genres": [
+    "accion",
+    "animacion",
+    "aventura",
+    "ciencia-ficcion",
+    "fantasia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Tras perderlo todo, la joven Morgan Elsbeth viaja por Imperio Galáctico en expansión y se adentra en una senda de venganza. En una época diferente, la antig",
+  "slug": "star-wars-historias-del-imperio",
+  "iframe_url": "https://lacloud.live/29eafbc077a640fc",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/29eafbc077a640fc/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/29eafbc077a640fc/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "29eafbc077a640fc"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/star-wars-historias-del-imperio?season=1&ep=1"
+    }
+  ]
+}
