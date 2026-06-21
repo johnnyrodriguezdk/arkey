@@ -1,1 +1,334 @@
-{"id":1165642,"titulo":"Lo que le falta a esta estrella","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/6AmW8DglQ5VnOfW1lSMSOyfcwmW.jpg","release_date":"2025-05-30","genres":["romance","drama"],"rating":"7.3","backdrop":"https://image.tmdb.org/t/p/original/drSJ0HVuSNFMPq5VzAEHk37BiEC.jpg","overview":"El vasto espacio divide a dos amantes cuando una astronauta viaja de la Tierra a Marte en este romance animado que recorre todo el cosmos.","trailer":"","runtime":"96","slug":"lo-que-le-falta-a-esta-estrella","servidores":[{"id":1,"url":"https://streamwish.to/e/7ay6q9n0wpuk","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"7ay6q9n0wpuk","player_url":"https://streamwish.to/e/7ay6q9n0wpuk"},{"id":2,"url":"https://vidhidepro.com/v/8hmrpcld25u0","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"8hmrpcld25u0","player_url":"https://vidhidepro.com/v/8hmrpcld25u0"},{"id":3,"url":"https://voe.sx/e/53zasnsfatrq","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"53zasnsfatrq","player_url":"https://voe.sx/e/53zasnsfatrq"},{"id":4,"url":"https://doodstream.com/e/ovk08lq7evbc","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"ovk08lq7evbc","player_url":"https://doodstream.com/e/ovk08lq7evbc"},{"id":5,"url":"https://streamwish.to/e/5ikpmeullzae","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"5ikpmeullzae","player_url":"https://streamwish.to/e/5ikpmeullzae"},{"id":6,"url":"https://vidhidepro.com/v/a2webh8uuvhb","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"a2webh8uuvhb","player_url":"https://vidhidepro.com/v/a2webh8uuvhb"},{"id":7,"url":"https://voe.sx/e/h9n3qpkmuyfj","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"h9n3qpkmuyfj","player_url":"https://voe.sx/e/h9n3qpkmuyfj"},{"id":8,"url":"https://doodstream.com/e/tq5irqah80ji","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"tq5irqah80ji","player_url":"https://doodstream.com/e/tq5irqah80ji"},{"id":9,"url":"https://streamwish.to/e/r0ul1vapoc6c","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"r0ul1vapoc6c","player_url":"https://streamwish.to/e/r0ul1vapoc6c"},{"id":10,"url":"https://vidhidepro.com/v/s2qo7v6gqoj0","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"s2qo7v6gqoj0","player_url":"https://vidhidepro.com/v/s2qo7v6gqoj0"},{"id":11,"url":"https://voe.sx/e/01joqxst7wkd","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"01joqxst7wkd","player_url":"https://voe.sx/e/01joqxst7wkd"},{"id":12,"url":"https://doodstream.com/e/o114fkqoouny","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"o114fkqoouny","player_url":"https://doodstream.com/e/o114fkqoouny"}]}
+{
+  "id": 1165642,
+  "titulo": "Lo que le falta a esta estrella",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/6AmW8DglQ5VnOfW1lSMSOyfcwmW.jpg",
+  "release_date": "2025-05-30",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "7.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/drSJ0HVuSNFMPq5VzAEHk37BiEC.jpg",
+  "overview": "El vasto espacio divide a dos amantes cuando una astronauta viaja de la Tierra a Marte en este romance animado que recorre todo el cosmos.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "lo-que-le-falta-a-esta-estrella",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/7ay6q9n0wpuk",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7ay6q9n0wpuk",
+      "player_url": "https://streamwish.to/e/7ay6q9n0wpuk"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/8hmrpcld25u0",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8hmrpcld25u0",
+      "player_url": "https://vidhidepro.com/v/8hmrpcld25u0"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/53zasnsfatrq",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "53zasnsfatrq",
+      "player_url": "https://voe.sx/e/53zasnsfatrq"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/ovk08lq7evbc",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ovk08lq7evbc",
+      "player_url": "https://doodstream.com/e/ovk08lq7evbc"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/5ikpmeullzae",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5ikpmeullzae",
+      "player_url": "https://streamwish.to/e/5ikpmeullzae"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/a2webh8uuvhb",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "a2webh8uuvhb",
+      "player_url": "https://vidhidepro.com/v/a2webh8uuvhb"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/h9n3qpkmuyfj",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "h9n3qpkmuyfj",
+      "player_url": "https://voe.sx/e/h9n3qpkmuyfj"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/tq5irqah80ji",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "tq5irqah80ji",
+      "player_url": "https://doodstream.com/e/tq5irqah80ji"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/r0ul1vapoc6c",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "r0ul1vapoc6c",
+      "player_url": "https://streamwish.to/e/r0ul1vapoc6c"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/s2qo7v6gqoj0",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "s2qo7v6gqoj0",
+      "player_url": "https://vidhidepro.com/v/s2qo7v6gqoj0"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/01joqxst7wkd",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "01joqxst7wkd",
+      "player_url": "https://voe.sx/e/01joqxst7wkd"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/o114fkqoouny",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "o114fkqoouny",
+      "player_url": "https://doodstream.com/e/o114fkqoouny"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/f2mpe1j7hggp",
+      "player_url": "https://minochinos.com/embed/f2mpe1j7hggp",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f2mpe1j7hggp"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/cjuqzxs5okqb",
+      "player_url": "https://hglink.to/e/cjuqzxs5okqb",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cjuqzxs5okqb"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/y2dw9e1of0ra",
+      "player_url": "https://bysedikamoum.com/e/y2dw9e1of0ra",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y2dw9e1of0ra"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/agts1fzuw5x5",
+      "player_url": "https://voe.sx/e/agts1fzuw5x5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "agts1fzuw5x5"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/agts1fzuw5x5/download",
+      "player_url": "https://voe.sx/agts1fzuw5x5/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/6kgoeljqu4rv",
+      "player_url": "https://rapidvideo.link/e/6kgoeljqu4rv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6kgoeljqu4rv"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/apt3hb5j1aht",
+      "player_url": "https://minochinos.com/embed/apt3hb5j1aht",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "apt3hb5j1aht"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/xk1quzx7fd21",
+      "player_url": "https://hglink.to/e/xk1quzx7fd21",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xk1quzx7fd21"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/rowil0n9mrw0",
+      "player_url": "https://bysedikamoum.com/e/rowil0n9mrw0",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rowil0n9mrw0"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/eb1ld207rkaz",
+      "player_url": "https://voe.sx/e/eb1ld207rkaz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eb1ld207rkaz"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/weo7k0udc965",
+      "player_url": "https://rapidvideo.link/e/weo7k0udc965",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "weo7k0udc965"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/rpa923gvuaau",
+      "player_url": "https://minochinos.com/embed/rpa923gvuaau",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rpa923gvuaau"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/k6nj405cb6pt",
+      "player_url": "https://hglink.to/e/k6nj405cb6pt",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "k6nj405cb6pt"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/1a60ahl2l3jf",
+      "player_url": "https://bysedikamoum.com/e/1a60ahl2l3jf",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1a60ahl2l3jf"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/wxmgxmbjrs9j",
+      "player_url": "https://voe.sx/e/wxmgxmbjrs9j",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wxmgxmbjrs9j"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/wxmgxmbjrs9j/download",
+      "player_url": "https://voe.sx/wxmgxmbjrs9j/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/iwzq4rbtjnc2",
+      "player_url": "https://rapidvideo.link/e/iwzq4rbtjnc2",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "iwzq4rbtjnc2"
+    },
+    {
+      "id": 30,
+      "url": "https://minochinos.com/embed/q42pzcofirpo",
+      "player_url": "https://minochinos.com/embed/q42pzcofirpo",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "q42pzcofirpo"
+    },
+    {
+      "id": 31,
+      "url": "https://hglink.to/e/bjhacjru0pkf",
+      "player_url": "https://hglink.to/e/bjhacjru0pkf",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "bjhacjru0pkf"
+    },
+    {
+      "id": 32,
+      "url": "https://bysedikamoum.com/e/jm42mf1ga7gg",
+      "player_url": "https://bysedikamoum.com/e/jm42mf1ga7gg",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "jm42mf1ga7gg"
+    },
+    {
+      "id": 33,
+      "url": "https://voe.sx/e/uq53wmlqriim",
+      "player_url": "https://voe.sx/e/uq53wmlqriim",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "uq53wmlqriim"
+    },
+    {
+      "id": 34,
+      "url": "https://voe.sx/uq53wmlqriim/download",
+      "player_url": "https://voe.sx/uq53wmlqriim/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 35,
+      "url": "https://rapidvideo.link/e/d4xza53bjeqr",
+      "player_url": "https://rapidvideo.link/e/d4xza53bjeqr",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "d4xza53bjeqr"
+    }
+  ]
+}
