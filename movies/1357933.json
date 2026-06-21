@@ -1,1 +1,198 @@
-{"id":1357933,"titulo":"The Cellar","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/tNUzN0zqewZEmvnmyFSiGUKUS82.jpg","release_date":"2024-10-06","genres":[],"rating":"6.8","backdrop":"https://image.tmdb.org/t/p/original/bQzsMEhWTokZ4VjiS7hx8XxRKuW.jpg","overview":"Una joven se encuentra atrapada en una celda subterránea. Sin recordar cómo llegó allí, debe encontrar una manera de escapar y descubrir los oscuros secretos de cómo se encontró allí en primer lugar, mientras lucha contra sus propios demonios interiores.","trailer":"","runtime":"85","slug":"the-cellar","servidores":[{"id":1,"url":"https://streamwish.to/e/7lhxelg1owp6","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"7lhxelg1owp6","player_url":"https://streamwish.to/e/7lhxelg1owp6"},{"id":2,"url":"https://vidhidepro.com/v/9ue0hicxa92x","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"9ue0hicxa92x","player_url":"https://vidhidepro.com/v/9ue0hicxa92x"},{"id":3,"url":"https://voe.sx/e/drx6tviou09l","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"drx6tviou09l","player_url":"https://voe.sx/e/drx6tviou09l"},{"id":4,"url":"https://doodstream.com/e/fwfh5ficpzok","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"fwfh5ficpzok","player_url":"https://doodstream.com/e/fwfh5ficpzok"},{"id":5,"url":"https://streamwish.to/e/96opblx3eckf","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"96opblx3eckf","player_url":"https://streamwish.to/e/96opblx3eckf"},{"id":6,"url":"https://vidhidepro.com/v/xyrj5zgmf1v3","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"xyrj5zgmf1v3","player_url":"https://vidhidepro.com/v/xyrj5zgmf1v3"},{"id":7,"url":"https://voe.sx/e/rks3mrupnoqu","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"rks3mrupnoqu","player_url":"https://voe.sx/e/rks3mrupnoqu"},{"id":8,"url":"https://doodstream.com/e/87v93sor105m","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"87v93sor105m","player_url":"https://doodstream.com/e/87v93sor105m"}]}
+{
+  "id": 1357933,
+  "titulo": "The Cellar",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/tNUzN0zqewZEmvnmyFSiGUKUS82.jpg",
+  "release_date": "2024-10-06",
+  "genres": [
+    "Terror"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/bQzsMEhWTokZ4VjiS7hx8XxRKuW.jpg",
+  "overview": "Una joven se encuentra atrapada en una celda subterránea. Sin recordar cómo llegó allí, debe encontrar una manera de escapar y descubrir los oscuros secretos de cómo se encontró allí en primer lugar, mientras lucha contra sus propios demonios interiores.",
+  "trailer": "",
+  "runtime": "85",
+  "slug": "the-cellar",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/7lhxelg1owp6",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7lhxelg1owp6",
+      "player_url": "https://streamwish.to/e/7lhxelg1owp6"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/9ue0hicxa92x",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "9ue0hicxa92x",
+      "player_url": "https://vidhidepro.com/v/9ue0hicxa92x"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/drx6tviou09l",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "drx6tviou09l",
+      "player_url": "https://voe.sx/e/drx6tviou09l"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/fwfh5ficpzok",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fwfh5ficpzok",
+      "player_url": "https://doodstream.com/e/fwfh5ficpzok"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/96opblx3eckf",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "96opblx3eckf",
+      "player_url": "https://streamwish.to/e/96opblx3eckf"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/xyrj5zgmf1v3",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xyrj5zgmf1v3",
+      "player_url": "https://vidhidepro.com/v/xyrj5zgmf1v3"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/rks3mrupnoqu",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rks3mrupnoqu",
+      "player_url": "https://voe.sx/e/rks3mrupnoqu"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/87v93sor105m",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "87v93sor105m",
+      "player_url": "https://doodstream.com/e/87v93sor105m"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/mdgayona4h17",
+      "player_url": "https://minochinos.com/embed/mdgayona4h17",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mdgayona4h17"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/s3ej4245hk2e",
+      "player_url": "https://hglink.to/e/s3ej4245hk2e",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s3ej4245hk2e"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/z9q68yor7zhh",
+      "player_url": "https://bysedikamoum.com/e/z9q68yor7zhh",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z9q68yor7zhh"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/otmemnz64ctt",
+      "player_url": "https://voe.sx/e/otmemnz64ctt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "otmemnz64ctt"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/otmemnz64ctt/download",
+      "player_url": "https://voe.sx/otmemnz64ctt/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/ih49lrtmjfyb",
+      "player_url": "https://rapidvideo.link/e/ih49lrtmjfyb",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ih49lrtmjfyb"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/4cpr19tgk2sj",
+      "player_url": "https://minochinos.com/embed/4cpr19tgk2sj",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4cpr19tgk2sj"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/xi3xyp92f6z1",
+      "player_url": "https://hglink.to/e/xi3xyp92f6z1",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xi3xyp92f6z1"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/cc3uzeiwvqh4",
+      "player_url": "https://bysedikamoum.com/e/cc3uzeiwvqh4",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cc3uzeiwvqh4"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/ygjgudngl05o",
+      "player_url": "https://voe.sx/e/ygjgudngl05o",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ygjgudngl05o"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/ygjgudngl05o/download",
+      "player_url": "https://voe.sx/ygjgudngl05o/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/p5ugh4v96klo",
+      "player_url": "https://rapidvideo.link/e/p5ugh4v96klo",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "p5ugh4v96klo"
+    }
+  ]
+}
