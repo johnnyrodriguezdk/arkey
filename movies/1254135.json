@@ -1,1 +1,245 @@
-{"id":1254135,"titulo":"13 Dias, 13 Noches","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/vb4HmgQmjCUBWeY1KvoX7bqYraL.jpg","release_date":"2025-06-27","genres":[],"rating":"6.7","backdrop":"https://image.tmdb.org/t/p/original/1zlHZDtV5KsX5VcBahNy5GDqUVt.jpg","overview":"Narra la caótica evacuación de la embajada francesa en Kabul, Afganistán, en agosto de 2021, cuando los talibanes tomaron el poder; el comandante Mohamed Bida y su equipo luchan contrarreloj para salvar a civiles atrapados, negociando con los talibanes y organizando un convoy hacia el aeropuerto en medio del caos, la violencia y la incertidumbre.","trailer":"","runtime":"111","slug":"13-jours-13-nuits","servidores":[{"id":1,"url":"https://streamwish.to/e/otj5qk86spue","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"otj5qk86spue","player_url":"https://streamwish.to/e/otj5qk86spue"},{"id":2,"url":"https://vidhidepro.com/v/n39k50s84b68","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"n39k50s84b68","player_url":"https://vidhidepro.com/v/n39k50s84b68"},{"id":3,"url":"https://voe.sx/e/gtn0iq0sygo5","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"gtn0iq0sygo5","player_url":"https://voe.sx/e/gtn0iq0sygo5"},{"id":4,"url":"https://doodstream.com/e/ssqy55ndqfl4","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"ssqy55ndqfl4","player_url":"https://doodstream.com/e/ssqy55ndqfl4"},{"id":5,"url":"https://streamwish.to/e/4vy0dzf715zb","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"4vy0dzf715zb","player_url":"https://streamwish.to/e/4vy0dzf715zb"},{"id":6,"url":"https://vidhidepro.com/v/uwy8o0vsy6l9","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"uwy8o0vsy6l9","player_url":"https://vidhidepro.com/v/uwy8o0vsy6l9"},{"id":7,"url":"https://voe.sx/e/0uo0agu9p4yw","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"0uo0agu9p4yw","player_url":"https://voe.sx/e/0uo0agu9p4yw"},{"id":8,"url":"https://doodstream.com/e/7y53cssnc7wm","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"7y53cssnc7wm","player_url":"https://doodstream.com/e/7y53cssnc7wm"}]}
+{
+  "id": 1254135,
+  "titulo": "13 Dias, 13 Noches",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/vb4HmgQmjCUBWeY1KvoX7bqYraL.jpg",
+  "release_date": "2025-06-27",
+  "genres": [
+    "Acción",
+    "Bélica",
+    "Suspense"
+  ],
+  "rating": "6.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/1zlHZDtV5KsX5VcBahNy5GDqUVt.jpg",
+  "overview": "Narra la caótica evacuación de la embajada francesa en Kabul, Afganistán, en agosto de 2021, cuando los talibanes tomaron el poder; el comandante Mohamed Bida y su equipo luchan contrarreloj para salvar a civiles atrapados, negociando con los talibanes y organizando un convoy hacia el aeropuerto en medio del caos, la violencia y la incertidumbre.",
+  "trailer": "",
+  "runtime": "111",
+  "slug": "13-jours-13-nuits",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/otj5qk86spue",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "otj5qk86spue",
+      "player_url": "https://streamwish.to/e/otj5qk86spue"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/n39k50s84b68",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "n39k50s84b68",
+      "player_url": "https://vidhidepro.com/v/n39k50s84b68"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/gtn0iq0sygo5",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gtn0iq0sygo5",
+      "player_url": "https://voe.sx/e/gtn0iq0sygo5"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/ssqy55ndqfl4",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ssqy55ndqfl4",
+      "player_url": "https://doodstream.com/e/ssqy55ndqfl4"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/4vy0dzf715zb",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4vy0dzf715zb",
+      "player_url": "https://streamwish.to/e/4vy0dzf715zb"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/uwy8o0vsy6l9",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "uwy8o0vsy6l9",
+      "player_url": "https://vidhidepro.com/v/uwy8o0vsy6l9"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/0uo0agu9p4yw",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "0uo0agu9p4yw",
+      "player_url": "https://voe.sx/e/0uo0agu9p4yw"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/7y53cssnc7wm",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7y53cssnc7wm",
+      "player_url": "https://doodstream.com/e/7y53cssnc7wm"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/u30iruyyvc8q",
+      "player_url": "https://minochinos.com/embed/u30iruyyvc8q",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u30iruyyvc8q"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/k9qamqrcekrr",
+      "player_url": "https://hglink.to/e/k9qamqrcekrr",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k9qamqrcekrr"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/n6n60dhjeb8f",
+      "player_url": "https://bysedikamoum.com/e/n6n60dhjeb8f",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n6n60dhjeb8f"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/uxgl2clxks9f",
+      "player_url": "https://voe.sx/e/uxgl2clxks9f",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uxgl2clxks9f"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/uxgl2clxks9f/download",
+      "player_url": "https://voe.sx/uxgl2clxks9f/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/5tesgupojbd1",
+      "player_url": "https://rapidvideo.link/e/5tesgupojbd1",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5tesgupojbd1"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/8eeh09jdudk1",
+      "player_url": "https://minochinos.com/embed/8eeh09jdudk1",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8eeh09jdudk1"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/slvcp7jypmsj",
+      "player_url": "https://hglink.to/e/slvcp7jypmsj",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "slvcp7jypmsj"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/caxitmbze7to",
+      "player_url": "https://bysedikamoum.com/e/caxitmbze7to",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "caxitmbze7to"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/xdjtbsykijy9",
+      "player_url": "https://voe.sx/e/xdjtbsykijy9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xdjtbsykijy9"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/q6namuyfil02",
+      "player_url": "https://rapidvideo.link/e/q6namuyfil02",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q6namuyfil02"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/6yqail87k5nm",
+      "player_url": "https://minochinos.com/embed/6yqail87k5nm",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6yqail87k5nm"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/k9m7bk8anvnl",
+      "player_url": "https://hglink.to/e/k9m7bk8anvnl",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "k9m7bk8anvnl"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/m8a9z8bkvxvm",
+      "player_url": "https://bysedikamoum.com/e/m8a9z8bkvxvm",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "m8a9z8bkvxvm"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/qun3zsioy3y9",
+      "player_url": "https://voe.sx/e/qun3zsioy3y9",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qun3zsioy3y9"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/qun3zsioy3y9/download",
+      "player_url": "https://voe.sx/qun3zsioy3y9/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/25taex0dc9ir",
+      "player_url": "https://rapidvideo.link/e/25taex0dc9ir",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "25taex0dc9ir"
+    }
+  ]
+}
