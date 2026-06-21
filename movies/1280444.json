@@ -1,1 +1,189 @@
-{"id":1280444,"titulo":"The Occupant","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/hIhJcFP7QhL85ag401W2eJw9ukL.jpg","release_date":"2025-08-07","genres":["drama"],"rating":"5.7","backdrop":"https://image.tmdb.org/t/p/original/hltwDG1SWl1BqjORA619hIJb4Ui.jpg","overview":"Abby, una geóloga ingeniera llena de culpa en tránsito desde su remota misión, sobrevive a un misterioso accidente de helicóptero y debe intentar escapar del duro entorno. Pero no está sola...","trailer":"","runtime":"104","slug":"the-occupant","servidores":[{"id":1,"url":"https://streamwish.to/e/fyjoti4ljudd","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"fyjoti4ljudd","player_url":"https://streamwish.to/e/fyjoti4ljudd"},{"id":2,"url":"https://vidhidepro.com/v/8wteg4ta261b","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"8wteg4ta261b","player_url":"https://vidhidepro.com/v/8wteg4ta261b"},{"id":3,"url":"https://voe.sx/e/gfdexkdetwpm","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"gfdexkdetwpm","player_url":"https://voe.sx/e/gfdexkdetwpm"},{"id":4,"url":"https://doodstream.com/e/m1co6vvbfuly","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"m1co6vvbfuly","player_url":"https://doodstream.com/e/m1co6vvbfuly"},{"id":5,"url":"https://streamwish.to/e/dbqfcrg2m6vw","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"dbqfcrg2m6vw","player_url":"https://streamwish.to/e/dbqfcrg2m6vw"},{"id":6,"url":"https://bysejikuar.com/e/05o2li0tue85","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"05o2li0tue85","player_url":"https://bysejikuar.com/e/05o2li0tue85"},{"id":7,"url":"https://vidhidepro.com/v/haeqd05kj2qa","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"haeqd05kj2qa","player_url":"https://vidhidepro.com/v/haeqd05kj2qa"},{"id":8,"url":"https://voe.sx/e/l8et5dj1rtwn","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"l8et5dj1rtwn","player_url":"https://voe.sx/e/l8et5dj1rtwn"},{"id":9,"url":"https://doodstream.com/e/2k7hzusd1pop","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"2k7hzusd1pop","player_url":"https://doodstream.com/e/2k7hzusd1pop"}]}
+{
+  "id": 1280444,
+  "titulo": "The Occupant",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/hIhJcFP7QhL85ag401W2eJw9ukL.jpg",
+  "release_date": "2025-08-07",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/hltwDG1SWl1BqjORA619hIJb4Ui.jpg",
+  "overview": "Abby, una geóloga ingeniera llena de culpa en tránsito desde su remota misión, sobrevive a un misterioso accidente de helicóptero y debe intentar escapar del duro entorno. Pero no está sola...",
+  "trailer": "",
+  "runtime": "104",
+  "slug": "the-occupant",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/fyjoti4ljudd",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "fyjoti4ljudd",
+      "player_url": "https://streamwish.to/e/fyjoti4ljudd"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/8wteg4ta261b",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8wteg4ta261b",
+      "player_url": "https://vidhidepro.com/v/8wteg4ta261b"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/gfdexkdetwpm",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gfdexkdetwpm",
+      "player_url": "https://voe.sx/e/gfdexkdetwpm"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/m1co6vvbfuly",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "m1co6vvbfuly",
+      "player_url": "https://doodstream.com/e/m1co6vvbfuly"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/dbqfcrg2m6vw",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "dbqfcrg2m6vw",
+      "player_url": "https://streamwish.to/e/dbqfcrg2m6vw"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/05o2li0tue85",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "05o2li0tue85",
+      "player_url": "https://bysejikuar.com/e/05o2li0tue85"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/haeqd05kj2qa",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "haeqd05kj2qa",
+      "player_url": "https://vidhidepro.com/v/haeqd05kj2qa"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/l8et5dj1rtwn",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "l8et5dj1rtwn",
+      "player_url": "https://voe.sx/e/l8et5dj1rtwn"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/2k7hzusd1pop",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "2k7hzusd1pop",
+      "player_url": "https://doodstream.com/e/2k7hzusd1pop"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/1eee5t5bhhua",
+      "player_url": "https://minochinos.com/embed/1eee5t5bhhua",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1eee5t5bhhua"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/jz7f5ixtotpe",
+      "player_url": "https://hglink.to/e/jz7f5ixtotpe",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jz7f5ixtotpe"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/smrmij8gso2w",
+      "player_url": "https://voe.sx/e/smrmij8gso2w",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "smrmij8gso2w"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/smrmij8gso2w/download",
+      "player_url": "https://voe.sx/smrmij8gso2w/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/l5f69jwh0tar",
+      "player_url": "https://rapidvideo.link/e/l5f69jwh0tar",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l5f69jwh0tar"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/b9t3dwg6xf1c",
+      "player_url": "https://minochinos.com/embed/b9t3dwg6xf1c",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "b9t3dwg6xf1c"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/f2dproly8k2e",
+      "player_url": "https://hglink.to/e/f2dproly8k2e",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "f2dproly8k2e"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/iyd789dkqdys",
+      "player_url": "https://voe.sx/e/iyd789dkqdys",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "iyd789dkqdys"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/iyd789dkqdys/download",
+      "player_url": "https://voe.sx/iyd789dkqdys/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/z4wa39of8j6s",
+      "player_url": "https://rapidvideo.link/e/z4wa39of8j6s",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "z4wa39of8j6s"
+    }
+  ]
+}
