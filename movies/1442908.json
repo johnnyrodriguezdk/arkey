@@ -1,1 +1,216 @@
-{"id":1442908,"titulo":"Los cantores rusos","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/9LRXo5KUGVkNxq9OhLByi3K16YP.jpg","release_date":"2026-02-17","genres":["drama"],"rating":"6.7","backdrop":"https://image.tmdb.org/t/p/original/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg","overview":"En este cortometraje nominado al Oscar®, un concurso de canto improvisado en un bar de mala muerte convierte una noche solitaria en un sincero momento de armonía.","trailer":"","runtime":"18","slug":"los-cantores-rusos","servidores":[{"id":1,"url":"https://streamwish.to/e/84yedyoke8ib","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"84yedyoke8ib","player_url":"https://streamwish.to/e/84yedyoke8ib"},{"id":2,"url":"https://bysejikuar.com/e/ly78nug2s2tm","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"ly78nug2s2tm","player_url":"https://bysejikuar.com/e/ly78nug2s2tm"},{"id":3,"url":"https://vidhidepro.com/v/ies1olx23eum","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"ies1olx23eum","player_url":"https://vidhidepro.com/v/ies1olx23eum"},{"id":4,"url":"https://voe.sx/e/waiu1jv9qehp","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"waiu1jv9qehp","player_url":"https://voe.sx/e/waiu1jv9qehp"},{"id":5,"url":"https://doodstream.com/e/x6yl7p7fzymk","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"x6yl7p7fzymk","player_url":"https://doodstream.com/e/x6yl7p7fzymk"},{"id":6,"url":"https://streamwish.to/e/gking59h1lvv","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"gking59h1lvv","player_url":"https://streamwish.to/e/gking59h1lvv"},{"id":7,"url":"https://bysejikuar.com/e/wfyj0jyqylxf","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"wfyj0jyqylxf","player_url":"https://bysejikuar.com/e/wfyj0jyqylxf"},{"id":8,"url":"https://vidhidepro.com/v/fdpagzbytlvz","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"fdpagzbytlvz","player_url":"https://vidhidepro.com/v/fdpagzbytlvz"},{"id":9,"url":"https://voe.sx/e/qdgnapsgowqc","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"qdgnapsgowqc","player_url":"https://voe.sx/e/qdgnapsgowqc"},{"id":10,"url":"https://doodstream.com/e/srw28u9pwxyc","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"srw28u9pwxyc","player_url":"https://doodstream.com/e/srw28u9pwxyc"}]}
+{
+  "id": 1442908,
+  "titulo": "Los cantores rusos",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/9LRXo5KUGVkNxq9OhLByi3K16YP.jpg",
+  "release_date": "2026-02-17",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
+  "overview": "En este cortometraje nominado al Oscar®, un concurso de canto improvisado en un bar de mala muerte convierte una noche solitaria en un sincero momento de armonía.",
+  "trailer": "",
+  "runtime": "18",
+  "slug": "los-cantores-rusos",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/84yedyoke8ib",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "84yedyoke8ib",
+      "player_url": "https://streamwish.to/e/84yedyoke8ib"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/ly78nug2s2tm",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "ly78nug2s2tm",
+      "player_url": "https://bysejikuar.com/e/ly78nug2s2tm"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/ies1olx23eum",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ies1olx23eum",
+      "player_url": "https://vidhidepro.com/v/ies1olx23eum"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/waiu1jv9qehp",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "waiu1jv9qehp",
+      "player_url": "https://voe.sx/e/waiu1jv9qehp"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/x6yl7p7fzymk",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "x6yl7p7fzymk",
+      "player_url": "https://doodstream.com/e/x6yl7p7fzymk"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/gking59h1lvv",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "gking59h1lvv",
+      "player_url": "https://streamwish.to/e/gking59h1lvv"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/wfyj0jyqylxf",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "wfyj0jyqylxf",
+      "player_url": "https://bysejikuar.com/e/wfyj0jyqylxf"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/fdpagzbytlvz",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fdpagzbytlvz",
+      "player_url": "https://vidhidepro.com/v/fdpagzbytlvz"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/qdgnapsgowqc",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qdgnapsgowqc",
+      "player_url": "https://voe.sx/e/qdgnapsgowqc"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/srw28u9pwxyc",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "srw28u9pwxyc",
+      "player_url": "https://doodstream.com/e/srw28u9pwxyc"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/tf07hs9kiuby",
+      "player_url": "https://minochinos.com/embed/tf07hs9kiuby",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tf07hs9kiuby"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/71n6o75yhq53",
+      "player_url": "https://hglink.to/e/71n6o75yhq53",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "71n6o75yhq53"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/pnnc5h5mo2t0",
+      "player_url": "https://bysedikamoum.com/e/pnnc5h5mo2t0",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pnnc5h5mo2t0"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/d3it1zgluvnf",
+      "player_url": "https://voe.sx/e/d3it1zgluvnf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d3it1zgluvnf"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/d3it1zgluvnf/download",
+      "player_url": "https://voe.sx/d3it1zgluvnf/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/1qailp3fys6v",
+      "player_url": "https://rapidvideo.link/e/1qailp3fys6v",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1qailp3fys6v"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/prr0q91d5u1y",
+      "player_url": "https://minochinos.com/embed/prr0q91d5u1y",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "prr0q91d5u1y"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/zg083446bjh8",
+      "player_url": "https://hglink.to/e/zg083446bjh8",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zg083446bjh8"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/hun2wr12iefx",
+      "player_url": "https://bysedikamoum.com/e/hun2wr12iefx",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hun2wr12iefx"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/mnkwoihvhpcl",
+      "player_url": "https://voe.sx/e/mnkwoihvhpcl",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mnkwoihvhpcl"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/mnkwoihvhpcl/download",
+      "player_url": "https://voe.sx/mnkwoihvhpcl/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/kxsl38jnru4p",
+      "player_url": "https://rapidvideo.link/e/kxsl38jnru4p",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kxsl38jnru4p"
+    }
+  ]
+}
