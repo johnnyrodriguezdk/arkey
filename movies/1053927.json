@@ -1,1 +1,181 @@
-{"id":1053927,"titulo":"Eternal","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/cASxZyI3spiUyMrmEPlNyk7i7YP.jpg","release_date":"2024-07-08","genres":["drama","romance"],"rating":"6.0","backdrop":"https://image.tmdb.org/t/p/original/qi1JnIeecBcj3vh85OKjXd2dWJR.jpg","overview":"Un joven científico especializado en el cambio climático se enamora de una cantante, Anita. Cuando surge la oportunidad de unirse a una misión para investigar una misteriosa fractura en el fondo del océano, deberá elegir entre la ciencia o el amor.","trailer":"","runtime":"99","slug":"eternal","servidores":[{"id":1,"url":"https://streamwish.to/e/hpr3ohhamfjs","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hpr3ohhamfjs","player_url":"https://streamwish.to/e/hpr3ohhamfjs"},{"id":2,"url":"https://vidhidepro.com/v/5m68mpwrpqcg","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"5m68mpwrpqcg","player_url":"https://vidhidepro.com/v/5m68mpwrpqcg"},{"id":3,"url":"https://voe.sx/e/3vtpkbdoymrz","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"3vtpkbdoymrz","player_url":"https://voe.sx/e/3vtpkbdoymrz"},{"id":4,"url":"https://doodstream.com/e/0fi0b3piv5pu","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"0fi0b3piv5pu","player_url":"https://doodstream.com/e/0fi0b3piv5pu"},{"id":5,"url":"https://streamwish.to/e/jc6taupckuih","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"jc6taupckuih","player_url":"https://streamwish.to/e/jc6taupckuih"},{"id":6,"url":"https://vidhidepro.com/v/4ret5e0ozpp2","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"4ret5e0ozpp2","player_url":"https://vidhidepro.com/v/4ret5e0ozpp2"},{"id":7,"url":"https://voe.sx/e/oyhjf8iariy8","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"oyhjf8iariy8","player_url":"https://voe.sx/e/oyhjf8iariy8"},{"id":8,"url":"https://doodstream.com/e/0vf9clzcjemh","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"0vf9clzcjemh","player_url":"https://doodstream.com/e/0vf9clzcjemh"}]}
+{
+  "id": 1053927,
+  "titulo": "Eternal",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/cASxZyI3spiUyMrmEPlNyk7i7YP.jpg",
+  "release_date": "2024-07-08",
+  "genres": [
+    "drama",
+    "romance"
+  ],
+  "rating": "6.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/qi1JnIeecBcj3vh85OKjXd2dWJR.jpg",
+  "overview": "Un joven científico especializado en el cambio climático se enamora de una cantante, Anita. Cuando surge la oportunidad de unirse a una misión para investigar una misteriosa fractura en el fondo del océano, deberá elegir entre la ciencia o el amor.",
+  "trailer": "",
+  "runtime": "99",
+  "slug": "eternal",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/hpr3ohhamfjs",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hpr3ohhamfjs",
+      "player_url": "https://streamwish.to/e/hpr3ohhamfjs"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/5m68mpwrpqcg",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5m68mpwrpqcg",
+      "player_url": "https://vidhidepro.com/v/5m68mpwrpqcg"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/3vtpkbdoymrz",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "3vtpkbdoymrz",
+      "player_url": "https://voe.sx/e/3vtpkbdoymrz"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/0fi0b3piv5pu",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0fi0b3piv5pu",
+      "player_url": "https://doodstream.com/e/0fi0b3piv5pu"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/jc6taupckuih",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "jc6taupckuih",
+      "player_url": "https://streamwish.to/e/jc6taupckuih"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/4ret5e0ozpp2",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "4ret5e0ozpp2",
+      "player_url": "https://vidhidepro.com/v/4ret5e0ozpp2"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/oyhjf8iariy8",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "oyhjf8iariy8",
+      "player_url": "https://voe.sx/e/oyhjf8iariy8"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/0vf9clzcjemh",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0vf9clzcjemh",
+      "player_url": "https://doodstream.com/e/0vf9clzcjemh"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/lb3xfsbrgmn4",
+      "player_url": "https://minochinos.com/embed/lb3xfsbrgmn4",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lb3xfsbrgmn4"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/ub6q7fjw8kwq",
+      "player_url": "https://hglink.to/e/ub6q7fjw8kwq",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ub6q7fjw8kwq"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/frqwlzpcy3ll",
+      "player_url": "https://bysedikamoum.com/e/frqwlzpcy3ll",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "frqwlzpcy3ll"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/1ac9itdxm7eq",
+      "player_url": "https://voe.sx/e/1ac9itdxm7eq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1ac9itdxm7eq"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/1ac9itdxm7eq/download",
+      "player_url": "https://voe.sx/1ac9itdxm7eq/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/u3x6yrt47wvg",
+      "player_url": "https://rapidvideo.link/e/u3x6yrt47wvg",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u3x6yrt47wvg"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/qog99y3aw0nl",
+      "player_url": "https://minochinos.com/embed/qog99y3aw0nl",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qog99y3aw0nl"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/7k6jpdv654la",
+      "player_url": "https://hglink.to/e/7k6jpdv654la",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7k6jpdv654la"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/xitjhzxzdxju",
+      "player_url": "https://bysedikamoum.com/e/xitjhzxzdxju",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xitjhzxzdxju"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/vfc041aitjqb",
+      "player_url": "https://rapidvideo.link/e/vfc041aitjqb",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vfc041aitjqb"
+    }
+  ]
+}
