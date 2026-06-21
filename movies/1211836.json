@@ -1,1 +1,182 @@
-{"id":1211836,"titulo":"Momonsters: la película","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/zHbBH7335CCOcIfBoihHdwVtUSK.jpg","release_date":"2023-12-06","genres":[],"rating":"10.0","backdrop":"https://image.tmdb.org/t/p/original/rE5gIGYl44sMgMG6cdLrLvFQpj1.jpg","overview":"¡Los Momonsters van a pasar sus primeras vacaciones a un campamento en medio de un bosque! Explorar la naturaleza, realizar actividades al aire libre, contar historias de miedo alrededor de una hoguera… Las vacaciones soñadas de cualquier niño. Pero la primera noche, los Momonsters descubren el diario de una antigua campista, donde asegura que hay un Gran Tesoro oculto en el bosque, ¡Supermola!, pero custodiado por un terrible fantasma, Supermola menos…","trailer":"","runtime":"70","slug":"momonsters-la-pelicula","servidores":[{"id":1,"url":"https://streamwish.to/e/36iprdz71xbr","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"36iprdz71xbr","player_url":"https://streamwish.to/e/36iprdz71xbr"},{"id":2,"url":"https://vidhidepro.com/v/lg6ao20zbztp","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"lg6ao20zbztp","player_url":"https://vidhidepro.com/v/lg6ao20zbztp"},{"id":3,"url":"https://streamwish.to/e/s1uo48wefsgg","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"s1uo48wefsgg","player_url":"https://streamwish.to/e/s1uo48wefsgg"},{"id":4,"url":"https://vidhidepro.com/v/xfyq9hds1zot","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"xfyq9hds1zot","player_url":"https://vidhidepro.com/v/xfyq9hds1zot"},{"id":5,"url":"https://voe.sx/e/hzkxr3c36nda","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"hzkxr3c36nda","player_url":"https://voe.sx/e/hzkxr3c36nda"},{"id":6,"url":"https://doodstream.com/e/7xmpuelfww4e","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"7xmpuelfww4e","player_url":"https://doodstream.com/e/7xmpuelfww4e"}]}
+{
+  "id": 1211836,
+  "titulo": "Momonsters: la película",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/zHbBH7335CCOcIfBoihHdwVtUSK.jpg",
+  "release_date": "2023-12-06",
+  "genres": [
+    "Animación",
+    "Familia",
+    "Comedia"
+  ],
+  "rating": "10.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/rE5gIGYl44sMgMG6cdLrLvFQpj1.jpg",
+  "overview": "¡Los Momonsters van a pasar sus primeras vacaciones a un campamento en medio de un bosque! Explorar la naturaleza, realizar actividades al aire libre, contar historias de miedo alrededor de una hoguera… Las vacaciones soñadas de cualquier niño. Pero la primera noche, los Momonsters descubren el diario de una antigua campista, donde asegura que hay un Gran Tesoro oculto en el bosque, ¡Supermola!, pero custodiado por un terrible fantasma, Supermola menos…",
+  "trailer": "",
+  "runtime": "70",
+  "slug": "momonsters-la-pelicula",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/36iprdz71xbr",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "36iprdz71xbr",
+      "player_url": "https://streamwish.to/e/36iprdz71xbr"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/lg6ao20zbztp",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "lg6ao20zbztp",
+      "player_url": "https://vidhidepro.com/v/lg6ao20zbztp"
+    },
+    {
+      "id": 3,
+      "url": "https://streamwish.to/e/s1uo48wefsgg",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "s1uo48wefsgg",
+      "player_url": "https://streamwish.to/e/s1uo48wefsgg"
+    },
+    {
+      "id": 4,
+      "url": "https://vidhidepro.com/v/xfyq9hds1zot",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xfyq9hds1zot",
+      "player_url": "https://vidhidepro.com/v/xfyq9hds1zot"
+    },
+    {
+      "id": 5,
+      "url": "https://voe.sx/e/hzkxr3c36nda",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "hzkxr3c36nda",
+      "player_url": "https://voe.sx/e/hzkxr3c36nda"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/7xmpuelfww4e",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7xmpuelfww4e",
+      "player_url": "https://doodstream.com/e/7xmpuelfww4e"
+    },
+    {
+      "id": 7,
+      "url": "https://minochinos.com/embed/c7z8xjxxnapf",
+      "player_url": "https://minochinos.com/embed/c7z8xjxxnapf",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c7z8xjxxnapf"
+    },
+    {
+      "id": 8,
+      "url": "https://hglink.to/e/dhb4b38cfxma",
+      "player_url": "https://hglink.to/e/dhb4b38cfxma",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dhb4b38cfxma"
+    },
+    {
+      "id": 9,
+      "url": "https://bysedikamoum.com/e/riwfn8vunkcb",
+      "player_url": "https://bysedikamoum.com/e/riwfn8vunkcb",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "riwfn8vunkcb"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/j0egdbk9pp4p",
+      "player_url": "https://voe.sx/e/j0egdbk9pp4p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j0egdbk9pp4p"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/j0egdbk9pp4p/download",
+      "player_url": "https://voe.sx/j0egdbk9pp4p/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 12,
+      "url": "https://rapidvideo.link/e/xcsa9phqvk8f",
+      "player_url": "https://rapidvideo.link/e/xcsa9phqvk8f",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xcsa9phqvk8f"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/7l6ao5pzynwk",
+      "player_url": "https://minochinos.com/embed/7l6ao5pzynwk",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7l6ao5pzynwk"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/ep7ebmglhvkr",
+      "player_url": "https://hglink.to/e/ep7ebmglhvkr",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ep7ebmglhvkr"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/kjhiuxam41sl",
+      "player_url": "https://bysedikamoum.com/e/kjhiuxam41sl",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kjhiuxam41sl"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/9ovp6fy0a9ty",
+      "player_url": "https://voe.sx/e/9ovp6fy0a9ty",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9ovp6fy0a9ty"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/9ovp6fy0a9ty/download",
+      "player_url": "https://voe.sx/9ovp6fy0a9ty/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/l7o5iwardec0",
+      "player_url": "https://rapidvideo.link/e/l7o5iwardec0",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l7o5iwardec0"
+    }
+  ]
+}
