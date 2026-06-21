@@ -1,0 +1,35 @@
+{
+  "id": 1256817259,
+  "titulo": "Los Colorado",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/76ab12f5994611f58427902b1b1d50aa.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "El Chapulín Colorado vuelve y ahora tiene familia. Junto a su esposa, sus hijos y la abuela, deberá salvar Ciudad Caótica mientras enfrenta el caos en casa.",
+  "slug": "los-colorado",
+  "iframe_url": "https://lacloud.live/473139056760b1af",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/473139056760b1af/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/473139056760b1af/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "473139056760b1af"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/los-colorado?season=1&ep=1"
+    }
+  ]
+}
