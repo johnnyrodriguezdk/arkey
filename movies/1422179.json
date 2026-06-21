@@ -1,1 +1,252 @@
-{"id":1422179,"titulo":"Por el mal camino","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/mNCVMaK3UMR6yyAoH0YnOSwlZTd.jpg","release_date":"2025-02-27","genres":["drama"],"rating":"6.6","backdrop":"https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg","overview":"La vida caótica de Emilie toca fondo. Cuando le pide ayuda a su hermano, él tiene un plan brillante: inscribirla en una carrera de esquí de fondo.","trailer":"","runtime":"94","slug":"por-el-mal-camino","servidores":[{"id":1,"url":"https://streamwish.to/e/kzffm46lu3kt","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"kzffm46lu3kt","player_url":"https://streamwish.to/e/kzffm46lu3kt"},{"id":2,"url":"https://vidhidepro.com/v/pdx82cw1bi1b","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"pdx82cw1bi1b","player_url":"https://vidhidepro.com/v/pdx82cw1bi1b"},{"id":3,"url":"https://voe.sx/e/qhxdpqegc4ff","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"qhxdpqegc4ff","player_url":"https://voe.sx/e/qhxdpqegc4ff"},{"id":4,"url":"https://doodstream.com/e/jdeb82so7966","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"jdeb82so7966","player_url":"https://doodstream.com/e/jdeb82so7966"},{"id":5,"url":"https://streamwish.to/e/tb2owtykrf4c","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"tb2owtykrf4c","player_url":"https://streamwish.to/e/tb2owtykrf4c"},{"id":6,"url":"https://vidhidepro.com/v/rfkxhwhmqq1f","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"rfkxhwhmqq1f","player_url":"https://vidhidepro.com/v/rfkxhwhmqq1f"},{"id":7,"url":"https://doodstream.com/e/jt8yq50dd8ma","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"jt8yq50dd8ma","player_url":"https://doodstream.com/e/jt8yq50dd8ma"},{"id":8,"url":"https://streamwish.to/e/ojbgbfr88b0s","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"ojbgbfr88b0s","player_url":"https://streamwish.to/e/ojbgbfr88b0s"},{"id":9,"url":"https://vidhidepro.com/v/7z1hrr57zx17","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"7z1hrr57zx17","player_url":"https://vidhidepro.com/v/7z1hrr57zx17"},{"id":10,"url":"https://doodstream.com/e/zvukfzszxzdk","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"zvukfzszxzdk","player_url":"https://doodstream.com/e/zvukfzszxzdk"}]}
+{
+  "id": 1422179,
+  "titulo": "Por el mal camino",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/mNCVMaK3UMR6yyAoH0YnOSwlZTd.jpg",
+  "release_date": "2025-02-27",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg",
+  "overview": "La vida caótica de Emilie toca fondo. Cuando le pide ayuda a su hermano, él tiene un plan brillante: inscribirla en una carrera de esquí de fondo.",
+  "trailer": "",
+  "runtime": "94",
+  "slug": "por-el-mal-camino",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/kzffm46lu3kt",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "kzffm46lu3kt",
+      "player_url": "https://streamwish.to/e/kzffm46lu3kt"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/pdx82cw1bi1b",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "pdx82cw1bi1b",
+      "player_url": "https://vidhidepro.com/v/pdx82cw1bi1b"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/qhxdpqegc4ff",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qhxdpqegc4ff",
+      "player_url": "https://voe.sx/e/qhxdpqegc4ff"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/jdeb82so7966",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "jdeb82so7966",
+      "player_url": "https://doodstream.com/e/jdeb82so7966"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/tb2owtykrf4c",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "tb2owtykrf4c",
+      "player_url": "https://streamwish.to/e/tb2owtykrf4c"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/rfkxhwhmqq1f",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rfkxhwhmqq1f",
+      "player_url": "https://vidhidepro.com/v/rfkxhwhmqq1f"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/jt8yq50dd8ma",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "jt8yq50dd8ma",
+      "player_url": "https://doodstream.com/e/jt8yq50dd8ma"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/ojbgbfr88b0s",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ojbgbfr88b0s",
+      "player_url": "https://streamwish.to/e/ojbgbfr88b0s"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/7z1hrr57zx17",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "7z1hrr57zx17",
+      "player_url": "https://vidhidepro.com/v/7z1hrr57zx17"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/zvukfzszxzdk",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "zvukfzszxzdk",
+      "player_url": "https://doodstream.com/e/zvukfzszxzdk"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/enlowcwwl2x8",
+      "player_url": "https://minochinos.com/embed/enlowcwwl2x8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "enlowcwwl2x8"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/aiz156z1cmuv",
+      "player_url": "https://hglink.to/e/aiz156z1cmuv",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aiz156z1cmuv"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/9kt71isn4cdm",
+      "player_url": "https://bysedikamoum.com/e/9kt71isn4cdm",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9kt71isn4cdm"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/ugpbtjiyy6kk",
+      "player_url": "https://voe.sx/e/ugpbtjiyy6kk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ugpbtjiyy6kk"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/ugpbtjiyy6kk/download",
+      "player_url": "https://voe.sx/ugpbtjiyy6kk/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/4q1aedi6r7cl",
+      "player_url": "https://rapidvideo.link/e/4q1aedi6r7cl",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4q1aedi6r7cl"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/o7zxm1icl7qv",
+      "player_url": "https://minochinos.com/embed/o7zxm1icl7qv",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o7zxm1icl7qv"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/79nqn7i7rz1x",
+      "player_url": "https://hglink.to/e/79nqn7i7rz1x",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "79nqn7i7rz1x"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/pkwba1dz5dcc",
+      "player_url": "https://voe.sx/e/pkwba1dz5dcc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pkwba1dz5dcc"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/u7kyfv3hrjzq",
+      "player_url": "https://rapidvideo.link/e/u7kyfv3hrjzq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u7kyfv3hrjzq"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/021m2zk9d6ph",
+      "player_url": "https://minochinos.com/embed/021m2zk9d6ph",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "021m2zk9d6ph"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/8zdfnslql3wm",
+      "player_url": "https://hglink.to/e/8zdfnslql3wm",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8zdfnslql3wm"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/0zndbx4gg24n",
+      "player_url": "https://bysedikamoum.com/e/0zndbx4gg24n",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0zndbx4gg24n"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/lplcaieyyb0x",
+      "player_url": "https://voe.sx/e/lplcaieyyb0x",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lplcaieyyb0x"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/lplcaieyyb0x/download",
+      "player_url": "https://voe.sx/lplcaieyyb0x/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/03wh1isungjv",
+      "player_url": "https://rapidvideo.link/e/03wh1isungjv",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "03wh1isungjv"
+    }
+  ]
+}
