@@ -1,1 +1,270 @@
-{"id":1428213,"titulo":"Academia de villanos","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/l99xFEmFgLBYg9FeAfwFEpHgBkN.jpg","release_date":"2025-09-10","genres":[],"rating":"7.1","backdrop":"https://image.tmdb.org/t/p/original/oYPm2zk8fBxm3UBEiaWMzUGHeFW.jpg","overview":"Cuando una TV misteriosa la transporta a una escuela de villanos, una empleada de restaurante encuentra un nuevo propósito... y una forma de vengarse de sus enemigos.","trailer":"","runtime":"108","slug":"academia-de-villanos","servidores":[{"id":1,"url":"https://streamwish.to/e/zlt3eujflmmx","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"zlt3eujflmmx","player_url":"https://streamwish.to/e/zlt3eujflmmx"},{"id":2,"url":"https://vidhidepro.com/v/oudj0fu9bcs5","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"oudj0fu9bcs5","player_url":"https://vidhidepro.com/v/oudj0fu9bcs5"},{"id":3,"url":"https://voe.sx/e/wxftsssghdn9","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"wxftsssghdn9","player_url":"https://voe.sx/e/wxftsssghdn9"},{"id":4,"url":"https://streamwish.to/e/nw5gactbtzrl","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"nw5gactbtzrl","player_url":"https://streamwish.to/e/nw5gactbtzrl"},{"id":5,"url":"https://vidhidepro.com/v/fkdcvdy10neh","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"fkdcvdy10neh","player_url":"https://vidhidepro.com/v/fkdcvdy10neh"},{"id":6,"url":"https://voe.sx/e/oh4ez6qh5tkh","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"oh4ez6qh5tkh","player_url":"https://voe.sx/e/oh4ez6qh5tkh"},{"id":7,"url":"https://doodstream.com/e/rtr4rukmytsp","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"rtr4rukmytsp","player_url":"https://doodstream.com/e/rtr4rukmytsp"},{"id":8,"url":"https://streamwish.to/e/54fx9hto7wmd","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"54fx9hto7wmd","player_url":"https://streamwish.to/e/54fx9hto7wmd"},{"id":9,"url":"https://vidhidepro.com/v/rwyywvxa6xj2","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"rwyywvxa6xj2","player_url":"https://vidhidepro.com/v/rwyywvxa6xj2"},{"id":10,"url":"https://voe.sx/e/rqac0wyug01x","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"rqac0wyug01x","player_url":"https://voe.sx/e/rqac0wyug01x"},{"id":11,"url":"https://doodstream.com/e/aj6o0s55plfk","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"aj6o0s55plfk","player_url":"https://doodstream.com/e/aj6o0s55plfk"}]}
+{
+  "id": 1428213,
+  "titulo": "Academia de villanos",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/l99xFEmFgLBYg9FeAfwFEpHgBkN.jpg",
+  "release_date": "2025-09-10",
+  "genres": [
+    "Comedia"
+  ],
+  "rating": "7.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/oYPm2zk8fBxm3UBEiaWMzUGHeFW.jpg",
+  "overview": "Cuando una TV misteriosa la transporta a una escuela de villanos, una empleada de restaurante encuentra un nuevo propósito... y una forma de vengarse de sus enemigos.",
+  "trailer": "",
+  "runtime": "108",
+  "slug": "academia-de-villanos",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/zlt3eujflmmx",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zlt3eujflmmx",
+      "player_url": "https://streamwish.to/e/zlt3eujflmmx"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/oudj0fu9bcs5",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "oudj0fu9bcs5",
+      "player_url": "https://vidhidepro.com/v/oudj0fu9bcs5"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/wxftsssghdn9",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "wxftsssghdn9",
+      "player_url": "https://voe.sx/e/wxftsssghdn9"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/nw5gactbtzrl",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "nw5gactbtzrl",
+      "player_url": "https://streamwish.to/e/nw5gactbtzrl"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/fkdcvdy10neh",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fkdcvdy10neh",
+      "player_url": "https://vidhidepro.com/v/fkdcvdy10neh"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/oh4ez6qh5tkh",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "oh4ez6qh5tkh",
+      "player_url": "https://voe.sx/e/oh4ez6qh5tkh"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/rtr4rukmytsp",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "rtr4rukmytsp",
+      "player_url": "https://doodstream.com/e/rtr4rukmytsp"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/54fx9hto7wmd",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "54fx9hto7wmd",
+      "player_url": "https://streamwish.to/e/54fx9hto7wmd"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/rwyywvxa6xj2",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rwyywvxa6xj2",
+      "player_url": "https://vidhidepro.com/v/rwyywvxa6xj2"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/rqac0wyug01x",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rqac0wyug01x",
+      "player_url": "https://voe.sx/e/rqac0wyug01x"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/aj6o0s55plfk",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "aj6o0s55plfk",
+      "player_url": "https://doodstream.com/e/aj6o0s55plfk"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/hvix5kik5d7a",
+      "player_url": "https://minochinos.com/embed/hvix5kik5d7a",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hvix5kik5d7a"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/byk57ybz0mo4",
+      "player_url": "https://hglink.to/e/byk57ybz0mo4",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "byk57ybz0mo4"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/3n3fwiaflduf",
+      "player_url": "https://bysedikamoum.com/e/3n3fwiaflduf",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3n3fwiaflduf"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/glvzhevtolcg",
+      "player_url": "https://voe.sx/e/glvzhevtolcg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "glvzhevtolcg"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/glvzhevtolcg/download",
+      "player_url": "https://voe.sx/glvzhevtolcg/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/ijnumsdpay0h",
+      "player_url": "https://rapidvideo.link/e/ijnumsdpay0h",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ijnumsdpay0h"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/k1j9q34oyen2",
+      "player_url": "https://minochinos.com/embed/k1j9q34oyen2",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k1j9q34oyen2"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/7ayi7cihok9i",
+      "player_url": "https://hglink.to/e/7ayi7cihok9i",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7ayi7cihok9i"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/fqo16ffe12y4",
+      "player_url": "https://bysedikamoum.com/e/fqo16ffe12y4",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fqo16ffe12y4"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/c8h9yzfnehah",
+      "player_url": "https://voe.sx/e/c8h9yzfnehah",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c8h9yzfnehah"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/voyx9sn3l6ig",
+      "player_url": "https://rapidvideo.link/e/voyx9sn3l6ig",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "voyx9sn3l6ig"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/mc9ec2iyz2dp",
+      "player_url": "https://minochinos.com/embed/mc9ec2iyz2dp",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mc9ec2iyz2dp"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/dsgif8lm8ste",
+      "player_url": "https://hglink.to/e/dsgif8lm8ste",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dsgif8lm8ste"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/sn4n9b669wf5",
+      "player_url": "https://bysedikamoum.com/e/sn4n9b669wf5",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sn4n9b669wf5"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/ptwkurnlzitm",
+      "player_url": "https://voe.sx/e/ptwkurnlzitm",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ptwkurnlzitm"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/ptwkurnlzitm/download",
+      "player_url": "https://voe.sx/ptwkurnlzitm/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/og6pwi2rjf7h",
+      "player_url": "https://rapidvideo.link/e/og6pwi2rjf7h",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "og6pwi2rjf7h"
+    }
+  ]
+}
