@@ -1,1 +1,147 @@
-{"id":10895,"titulo":"Pinocho","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg","release_date":"1940-02-23","genres":[],"rating":"7.1","backdrop":"https://image.tmdb.org/t/p/original/iFPpb2KIWKwBfyqSJivE4JegFPP.jpg","overview":"Cuando el amoroso Geppetto crea un títere de madera, su deseo se cumple cuando el títere cobra vida y se convierte en un niño de madera. Con su fiel amigo y conciencia, Pepe Grillo, a su lado, Pinocho se embarca en fantásticas aventuras que ponen a prueba su valentía, lealtad y honestidad hasta triunfar en la deseosa búsqueda de su corazón: convertirse en un niño de verdad.","trailer":"","runtime":"88","slug":"pinocho","servidores":[{"id":1,"url":"https://streamwish.to/e/f9g4sm1dhifd","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"f9g4sm1dhifd","player_url":"https://streamwish.to/e/f9g4sm1dhifd"},{"id":2,"url":"https://bysejikuar.com/e/lc8xl3ua3ruh","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"lc8xl3ua3ruh","player_url":"https://bysejikuar.com/e/lc8xl3ua3ruh"},{"id":3,"url":"https://voe.sx/e/jweu1s8g9fmf","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"jweu1s8g9fmf","player_url":"https://voe.sx/e/jweu1s8g9fmf"},{"id":4,"url":"https://doodstream.com/e/4x7g2vvddzc8","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"4x7g2vvddzc8","player_url":"https://doodstream.com/e/4x7g2vvddzc8"},{"id":5,"url":"https://streamwish.to/e/xfbh466ob3ja","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"xfbh466ob3ja","player_url":"https://streamwish.to/e/xfbh466ob3ja"},{"id":6,"url":"https://bysejikuar.com/e/t807p0y2ye2g","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"t807p0y2ye2g","player_url":"https://bysejikuar.com/e/t807p0y2ye2g"},{"id":7,"url":"https://voe.sx/e/7wg226txkxdu","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"7wg226txkxdu","player_url":"https://voe.sx/e/7wg226txkxdu"},{"id":8,"url":"https://doodstream.com/e/g2wqqr8pmzla","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"g2wqqr8pmzla","player_url":"https://doodstream.com/e/g2wqqr8pmzla"}]}
+{
+  "id": 10895,
+  "titulo": "Pinocho",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",
+  "release_date": "1940-02-23",
+  "genres": [
+    "Familia",
+    "Drama",
+    "Aventura",
+    "Fantasía"
+  ],
+  "rating": "7.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/iFPpb2KIWKwBfyqSJivE4JegFPP.jpg",
+  "overview": "Cuando el amoroso Geppetto crea un títere de madera, su deseo se cumple cuando el títere cobra vida y se convierte en un niño de madera. Con su fiel amigo y conciencia, Pepe Grillo, a su lado, Pinocho se embarca en fantásticas aventuras que ponen a prueba su valentía, lealtad y honestidad hasta triunfar en la deseosa búsqueda de su corazón: convertirse en un niño de verdad.",
+  "trailer": "",
+  "runtime": "88",
+  "slug": "pinocho",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/f9g4sm1dhifd",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "f9g4sm1dhifd",
+      "player_url": "https://streamwish.to/e/f9g4sm1dhifd"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/lc8xl3ua3ruh",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "lc8xl3ua3ruh",
+      "player_url": "https://bysejikuar.com/e/lc8xl3ua3ruh"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/jweu1s8g9fmf",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jweu1s8g9fmf",
+      "player_url": "https://voe.sx/e/jweu1s8g9fmf"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/4x7g2vvddzc8",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "4x7g2vvddzc8",
+      "player_url": "https://doodstream.com/e/4x7g2vvddzc8"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/xfbh466ob3ja",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "xfbh466ob3ja",
+      "player_url": "https://streamwish.to/e/xfbh466ob3ja"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/t807p0y2ye2g",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "t807p0y2ye2g",
+      "player_url": "https://bysejikuar.com/e/t807p0y2ye2g"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/7wg226txkxdu",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "7wg226txkxdu",
+      "player_url": "https://voe.sx/e/7wg226txkxdu"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/g2wqqr8pmzla",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "g2wqqr8pmzla",
+      "player_url": "https://doodstream.com/e/g2wqqr8pmzla"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/ryzgpfo7drsi",
+      "player_url": "https://minochinos.com/embed/ryzgpfo7drsi",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ryzgpfo7drsi"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/1a6e0gbx0549",
+      "player_url": "https://hglink.to/e/1a6e0gbx0549",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1a6e0gbx0549"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/mjx9747w4dg8",
+      "player_url": "https://bysedikamoum.com/e/mjx9747w4dg8",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mjx9747w4dg8"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/ycnzga2jth0v",
+      "player_url": "https://voe.sx/e/ycnzga2jth0v",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ycnzga2jth0v"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/ycnzga2jth0v/download",
+      "player_url": "https://voe.sx/ycnzga2jth0v/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/2c0e7sblw4gq",
+      "player_url": "https://rapidvideo.link/e/2c0e7sblw4gq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2c0e7sblw4gq"
+    }
+  ]
+}
