@@ -1,1 +1,282 @@
-{"id":1014505,"titulo":"OVERLORD: El Reino Sagrado","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/sWPhQZZKPDZaxRlx18A9l657vO5.jpg","release_date":"2024-09-20","genres":[],"rating":"7.8","backdrop":"https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg","overview":"Después de doce años de jugar su MMORPG favorito, Momonga inicia sesión por última vez y se ve transportado al mundo del juego indefinidamente. A lo largo de sus aventuras, su avatar asciende al título de Rey Hechicero Ainz Ooal Gown. El Reino Santo, anteriormente próspero pero ahora al borde de la ruina, disfrutó de años de paz después de la construcción de un enorme muro que lo protegió de las invasiones vecinas. Sin embargo, un día esto llega a su fin cuando el Emperador Demonio Jaldabaoth llega con un ejército de malvados semi-humanos. Temiendo la invasión de sus propias tierras, el territorio vecino de la Teocracia Slane se ve obligado a pedir ayuda a sus enemigos del Reino Hechicero. Respondiendo al llamado Ainz, reúne al Reino Hechicero y su ejército de no-muertos para unirse a la lucha junto al Reino Santo y la Teocracia Slane con la esperanza de derrotar al Emperador Demonio Jaldabaoth.","trailer":"","runtime":"128","slug":"overlord-el-reino-sagrado","servidores":[{"id":1,"url":"https://streamwish.to/e/m9jtkgjnvyqe","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"m9jtkgjnvyqe","player_url":"https://streamwish.to/e/m9jtkgjnvyqe"},{"id":2,"url":"https://vidhidepro.com/v/3k5h3mai8wnd","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"3k5h3mai8wnd","player_url":"https://vidhidepro.com/v/3k5h3mai8wnd"},{"id":3,"url":"https://voe.sx/e/8kvxgo8fc0mg","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"8kvxgo8fc0mg","player_url":"https://voe.sx/e/8kvxgo8fc0mg"},{"id":4,"url":"https://doodstream.com/e/kaqqhoct0ats","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"kaqqhoct0ats","player_url":"https://doodstream.com/e/kaqqhoct0ats"},{"id":5,"url":"https://streamwish.to/e/shxw5kwnhyaz","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"shxw5kwnhyaz","player_url":"https://streamwish.to/e/shxw5kwnhyaz"},{"id":6,"url":"https://vidhidepro.com/v/u4yh8175e09o","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"u4yh8175e09o","player_url":"https://vidhidepro.com/v/u4yh8175e09o"},{"id":7,"url":"https://voe.sx/e/122swjqylzlx","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"122swjqylzlx","player_url":"https://voe.sx/e/122swjqylzlx"},{"id":8,"url":"https://doodstream.com/e/5zdhcfrpviuj","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"5zdhcfrpviuj","player_url":"https://doodstream.com/e/5zdhcfrpviuj"},{"id":9,"url":"https://streamwish.to/e/zuc5tyoq2t1u","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"zuc5tyoq2t1u","player_url":"https://streamwish.to/e/zuc5tyoq2t1u"},{"id":10,"url":"https://vidhidepro.com/v/srjbqwv26cr6","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"srjbqwv26cr6","player_url":"https://vidhidepro.com/v/srjbqwv26cr6"},{"id":11,"url":"https://voe.sx/e/6qkrnftmpwkz","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"6qkrnftmpwkz","player_url":"https://voe.sx/e/6qkrnftmpwkz"},{"id":12,"url":"https://doodstream.com/e/v6u9sq5sznri","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"v6u9sq5sznri","player_url":"https://doodstream.com/e/v6u9sq5sznri"}]}
+{
+  "id": 1014505,
+  "titulo": "OVERLORD: El Reino Sagrado",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/sWPhQZZKPDZaxRlx18A9l657vO5.jpg",
+  "release_date": "2024-09-20",
+  "genres": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Fantasía"
+  ],
+  "rating": "7.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+  "overview": "Después de doce años de jugar su MMORPG favorito, Momonga inicia sesión por última vez y se ve transportado al mundo del juego indefinidamente. A lo largo de sus aventuras, su avatar asciende al título de Rey Hechicero Ainz Ooal Gown. El Reino Santo, anteriormente próspero pero ahora al borde de la ruina, disfrutó de años de paz después de la construcción de un enorme muro que lo protegió de las invasiones vecinas. Sin embargo, un día esto llega a su fin cuando el Emperador Demonio Jaldabaoth llega con un ejército de malvados semi-humanos. Temiendo la invasión de sus propias tierras, el territorio vecino de la Teocracia Slane se ve obligado a pedir ayuda a sus enemigos del Reino Hechicero. Respondiendo al llamado Ainz, reúne al Reino Hechicero y su ejército de no-muertos para unirse a la lucha junto al Reino Santo y la Teocracia Slane con la esperanza de derrotar al Emperador Demonio Jaldabaoth.",
+  "trailer": "",
+  "runtime": "128",
+  "slug": "overlord-el-reino-sagrado",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/m9jtkgjnvyqe",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "m9jtkgjnvyqe",
+      "player_url": "https://streamwish.to/e/m9jtkgjnvyqe"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/3k5h3mai8wnd",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3k5h3mai8wnd",
+      "player_url": "https://vidhidepro.com/v/3k5h3mai8wnd"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/8kvxgo8fc0mg",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "8kvxgo8fc0mg",
+      "player_url": "https://voe.sx/e/8kvxgo8fc0mg"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/kaqqhoct0ats",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "kaqqhoct0ats",
+      "player_url": "https://doodstream.com/e/kaqqhoct0ats"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/shxw5kwnhyaz",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "shxw5kwnhyaz",
+      "player_url": "https://streamwish.to/e/shxw5kwnhyaz"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/u4yh8175e09o",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "u4yh8175e09o",
+      "player_url": "https://vidhidepro.com/v/u4yh8175e09o"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/122swjqylzlx",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "122swjqylzlx",
+      "player_url": "https://voe.sx/e/122swjqylzlx"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/5zdhcfrpviuj",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "5zdhcfrpviuj",
+      "player_url": "https://doodstream.com/e/5zdhcfrpviuj"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/zuc5tyoq2t1u",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zuc5tyoq2t1u",
+      "player_url": "https://streamwish.to/e/zuc5tyoq2t1u"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/srjbqwv26cr6",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "srjbqwv26cr6",
+      "player_url": "https://vidhidepro.com/v/srjbqwv26cr6"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/6qkrnftmpwkz",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "6qkrnftmpwkz",
+      "player_url": "https://voe.sx/e/6qkrnftmpwkz"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/v6u9sq5sznri",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "v6u9sq5sznri",
+      "player_url": "https://doodstream.com/e/v6u9sq5sznri"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/ggf8e6wgydm5",
+      "player_url": "https://minochinos.com/embed/ggf8e6wgydm5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ggf8e6wgydm5"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/dlrckvq8okcx",
+      "player_url": "https://hglink.to/e/dlrckvq8okcx",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dlrckvq8okcx"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/mjtb6c0m86v7",
+      "player_url": "https://bysedikamoum.com/e/mjtb6c0m86v7",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mjtb6c0m86v7"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/vqdvipbnog3b",
+      "player_url": "https://voe.sx/e/vqdvipbnog3b",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vqdvipbnog3b"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/vqdvipbnog3b/download",
+      "player_url": "https://voe.sx/vqdvipbnog3b/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/chatkgo8vrd6",
+      "player_url": "https://rapidvideo.link/e/chatkgo8vrd6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "chatkgo8vrd6"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/6bcqcaj4ix16",
+      "player_url": "https://minochinos.com/embed/6bcqcaj4ix16",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6bcqcaj4ix16"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/j8sbeojpot9a",
+      "player_url": "https://hglink.to/e/j8sbeojpot9a",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j8sbeojpot9a"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/z8u46j6wnhcv",
+      "player_url": "https://bysedikamoum.com/e/z8u46j6wnhcv",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z8u46j6wnhcv"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/sull6neioxzw",
+      "player_url": "https://voe.sx/e/sull6neioxzw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sull6neioxzw"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/q5xrjkhumz42",
+      "player_url": "https://rapidvideo.link/e/q5xrjkhumz42",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q5xrjkhumz42"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/3v9vo9kdml5v",
+      "player_url": "https://minochinos.com/embed/3v9vo9kdml5v",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "3v9vo9kdml5v"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/gdkcschbsaly",
+      "player_url": "https://hglink.to/e/gdkcschbsaly",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "gdkcschbsaly"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/c0l8j64n0e8s",
+      "player_url": "https://bysedikamoum.com/e/c0l8j64n0e8s",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "c0l8j64n0e8s"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/pnux0z4u6lon",
+      "player_url": "https://voe.sx/e/pnux0z4u6lon",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "pnux0z4u6lon"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/pnux0z4u6lon/download",
+      "player_url": "https://voe.sx/pnux0z4u6lon/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/fp2n7639yw5m",
+      "player_url": "https://rapidvideo.link/e/fp2n7639yw5m",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "fp2n7639yw5m"
+    }
+  ]
+}
