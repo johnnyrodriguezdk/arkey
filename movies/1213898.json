@@ -1,1 +1,198 @@
-{"id":1213898,"titulo":"Violencia En La Frontera 2","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/bGMxbKjxzOUUnV0YCUYsNdV8db3.jpg","release_date":"2026-01-23","genres":["drama"],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/fzo85eKFEjfmJ781gubJQjpQAwF.jpg","overview":"La trama sigue a jóvenes oficiales del ejército que defienden un puesto fronterizo remoto, enfrentando condiciones de combate extremas y amenazas intensas.","trailer":"","runtime":"201","slug":"border-2","servidores":[{"id":1,"url":"https://streamwish.to/e/dp9naj3ljxsa","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"dp9naj3ljxsa","player_url":"https://streamwish.to/e/dp9naj3ljxsa"},{"id":2,"url":"https://bysejikuar.com/e/p7jf4kt5cxfg","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"p7jf4kt5cxfg","player_url":"https://bysejikuar.com/e/p7jf4kt5cxfg"},{"id":3,"url":"https://vidhidepro.com/v/xtb1g4r1hnox","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"xtb1g4r1hnox","player_url":"https://vidhidepro.com/v/xtb1g4r1hnox"},{"id":4,"url":"https://voe.sx/e/izwwujpdaqby","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"izwwujpdaqby","player_url":"https://voe.sx/e/izwwujpdaqby"},{"id":5,"url":"https://doodstream.com/e/acdbhirtnt4p","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"acdbhirtnt4p","player_url":"https://doodstream.com/e/acdbhirtnt4p"},{"id":6,"url":"https://streamwish.to/e/lfrpkppazgwj","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"lfrpkppazgwj","player_url":"https://streamwish.to/e/lfrpkppazgwj"},{"id":7,"url":"https://bysejikuar.com/e/mpl454fr9dtl","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"mpl454fr9dtl","player_url":"https://bysejikuar.com/e/mpl454fr9dtl"},{"id":8,"url":"https://vidhidepro.com/v/wzqtu2om7nca","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"wzqtu2om7nca","player_url":"https://vidhidepro.com/v/wzqtu2om7nca"},{"id":9,"url":"https://voe.sx/e/wf6p6iwjdph6","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"wf6p6iwjdph6","player_url":"https://voe.sx/e/wf6p6iwjdph6"},{"id":10,"url":"https://doodstream.com/e/9nuolihga09x","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"9nuolihga09x","player_url":"https://doodstream.com/e/9nuolihga09x"}]}
+{
+  "id": 1213898,
+  "titulo": "Violencia En La Frontera 2",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/bGMxbKjxzOUUnV0YCUYsNdV8db3.jpg",
+  "release_date": "2026-01-23",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/fzo85eKFEjfmJ781gubJQjpQAwF.jpg",
+  "overview": "La trama sigue a jóvenes oficiales del ejército que defienden un puesto fronterizo remoto, enfrentando condiciones de combate extremas y amenazas intensas.",
+  "trailer": "",
+  "runtime": "201",
+  "slug": "border-2",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/dp9naj3ljxsa",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "dp9naj3ljxsa",
+      "player_url": "https://streamwish.to/e/dp9naj3ljxsa"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/p7jf4kt5cxfg",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "p7jf4kt5cxfg",
+      "player_url": "https://bysejikuar.com/e/p7jf4kt5cxfg"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/xtb1g4r1hnox",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xtb1g4r1hnox",
+      "player_url": "https://vidhidepro.com/v/xtb1g4r1hnox"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/izwwujpdaqby",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "izwwujpdaqby",
+      "player_url": "https://voe.sx/e/izwwujpdaqby"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/acdbhirtnt4p",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "acdbhirtnt4p",
+      "player_url": "https://doodstream.com/e/acdbhirtnt4p"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/lfrpkppazgwj",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lfrpkppazgwj",
+      "player_url": "https://streamwish.to/e/lfrpkppazgwj"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/mpl454fr9dtl",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "mpl454fr9dtl",
+      "player_url": "https://bysejikuar.com/e/mpl454fr9dtl"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/wzqtu2om7nca",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "wzqtu2om7nca",
+      "player_url": "https://vidhidepro.com/v/wzqtu2om7nca"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/wf6p6iwjdph6",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "wf6p6iwjdph6",
+      "player_url": "https://voe.sx/e/wf6p6iwjdph6"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/9nuolihga09x",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9nuolihga09x",
+      "player_url": "https://doodstream.com/e/9nuolihga09x"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/c718brcqf5i0",
+      "player_url": "https://minochinos.com/embed/c718brcqf5i0",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c718brcqf5i0"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/yqm6n5nys7j3",
+      "player_url": "https://hglink.to/e/yqm6n5nys7j3",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yqm6n5nys7j3"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/hag18q36swrk",
+      "player_url": "https://voe.sx/e/hag18q36swrk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hag18q36swrk"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/hag18q36swrk/download",
+      "player_url": "https://voe.sx/hag18q36swrk/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/6xulogeyvrbf",
+      "player_url": "https://rapidvideo.link/e/6xulogeyvrbf",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6xulogeyvrbf"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/ds38smu9tw1z",
+      "player_url": "https://minochinos.com/embed/ds38smu9tw1z",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ds38smu9tw1z"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/8ej549i66r0g",
+      "player_url": "https://hglink.to/e/8ej549i66r0g",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8ej549i66r0g"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/soywyxqhfdhj",
+      "player_url": "https://voe.sx/e/soywyxqhfdhj",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "soywyxqhfdhj"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/soywyxqhfdhj/download",
+      "player_url": "https://voe.sx/soywyxqhfdhj/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/153x97f0boal",
+      "player_url": "https://rapidvideo.link/e/153x97f0boal",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "153x97f0boal"
+    }
+  ]
+}
