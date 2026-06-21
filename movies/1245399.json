@@ -1,1 +1,236 @@
-{"id":1245399,"titulo":"Hola Frida!","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/fh8qIKgIwaeuDZ215JF4ylugMZs.jpg","release_date":"2025-02-12","genres":[],"rating":"6.4","backdrop":"https://image.tmdb.org/t/p/original/6z9TlQE2HRU1djxoI3e4XNYfcAD.jpg","overview":"Es la historia de una niña que es diferente. Su mundo es Coyoacán, Ciudad de México. Chispeante, vibrante, todo le interesa y cuando surgen dificultades, las afronta con una imaginación desbordante. Esta niña se llama Frida Kahlo.","trailer":"","runtime":"82","slug":"hola-frida","servidores":[{"id":1,"url":"https://streamwish.to/e/vw8l3h2yso3t","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"vw8l3h2yso3t","player_url":"https://streamwish.to/e/vw8l3h2yso3t"},{"id":2,"url":"https://vidhidepro.com/v/5en6tss7m8p5","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"5en6tss7m8p5","player_url":"https://vidhidepro.com/v/5en6tss7m8p5"},{"id":3,"url":"https://voe.sx/e/si661zovnnvz","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"si661zovnnvz","player_url":"https://voe.sx/e/si661zovnnvz"},{"id":4,"url":"https://doodstream.com/e/fank2jxs633d","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"fank2jxs633d","player_url":"https://doodstream.com/e/fank2jxs633d"},{"id":5,"url":"https://streamwish.to/e/4t13zkds8cnb","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"4t13zkds8cnb","player_url":"https://streamwish.to/e/4t13zkds8cnb"},{"id":6,"url":"https://vidhidepro.com/v/i9mhzkwss46l","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"i9mhzkwss46l","player_url":"https://vidhidepro.com/v/i9mhzkwss46l"},{"id":7,"url":"https://voe.sx/e/cgrrsdgybnii","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"cgrrsdgybnii","player_url":"https://voe.sx/e/cgrrsdgybnii"},{"id":8,"url":"https://doodstream.com/e/cfok7nwgcl4g","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"cfok7nwgcl4g","player_url":"https://doodstream.com/e/cfok7nwgcl4g"},{"id":9,"url":"https://streamwish.to/e/fi33oscru22h","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"fi33oscru22h","player_url":"https://streamwish.to/e/fi33oscru22h"},{"id":10,"url":"https://vidhidepro.com/v/gmmeq0vdfl8q","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"gmmeq0vdfl8q","player_url":"https://vidhidepro.com/v/gmmeq0vdfl8q"},{"id":11,"url":"https://voe.sx/e/4oecgvdiosf8","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"4oecgvdiosf8","player_url":"https://voe.sx/e/4oecgvdiosf8"},{"id":12,"url":"https://doodstream.com/e/ggq7vilrqlat","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"ggq7vilrqlat","player_url":"https://doodstream.com/e/ggq7vilrqlat"}]}
+{
+  "id": 1245399,
+  "titulo": "Hola Frida!",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/fh8qIKgIwaeuDZ215JF4ylugMZs.jpg",
+  "release_date": "2025-02-12",
+  "genres": [
+    "Animación",
+    "Familia",
+    "Historia"
+  ],
+  "rating": "6.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/6z9TlQE2HRU1djxoI3e4XNYfcAD.jpg",
+  "overview": "Es la historia de una niña que es diferente. Su mundo es Coyoacán, Ciudad de México. Chispeante, vibrante, todo le interesa y cuando surgen dificultades, las afronta con una imaginación desbordante. Esta niña se llama Frida Kahlo.",
+  "trailer": "",
+  "runtime": "82",
+  "slug": "hola-frida",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/vw8l3h2yso3t",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vw8l3h2yso3t",
+      "player_url": "https://streamwish.to/e/vw8l3h2yso3t"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/5en6tss7m8p5",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5en6tss7m8p5",
+      "player_url": "https://vidhidepro.com/v/5en6tss7m8p5"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/si661zovnnvz",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "si661zovnnvz",
+      "player_url": "https://voe.sx/e/si661zovnnvz"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/fank2jxs633d",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fank2jxs633d",
+      "player_url": "https://doodstream.com/e/fank2jxs633d"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/4t13zkds8cnb",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4t13zkds8cnb",
+      "player_url": "https://streamwish.to/e/4t13zkds8cnb"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/i9mhzkwss46l",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "i9mhzkwss46l",
+      "player_url": "https://vidhidepro.com/v/i9mhzkwss46l"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/cgrrsdgybnii",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "cgrrsdgybnii",
+      "player_url": "https://voe.sx/e/cgrrsdgybnii"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/cfok7nwgcl4g",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "cfok7nwgcl4g",
+      "player_url": "https://doodstream.com/e/cfok7nwgcl4g"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/fi33oscru22h",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "fi33oscru22h",
+      "player_url": "https://streamwish.to/e/fi33oscru22h"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/gmmeq0vdfl8q",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "gmmeq0vdfl8q",
+      "player_url": "https://vidhidepro.com/v/gmmeq0vdfl8q"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/4oecgvdiosf8",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "4oecgvdiosf8",
+      "player_url": "https://voe.sx/e/4oecgvdiosf8"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/ggq7vilrqlat",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ggq7vilrqlat",
+      "player_url": "https://doodstream.com/e/ggq7vilrqlat"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/5eoz7t5lsvwa",
+      "player_url": "https://minochinos.com/embed/5eoz7t5lsvwa",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5eoz7t5lsvwa"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/anixmmh3wijx",
+      "player_url": "https://hglink.to/e/anixmmh3wijx",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "anixmmh3wijx"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/iqhzjvz5scej",
+      "player_url": "https://bysedikamoum.com/e/iqhzjvz5scej",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iqhzjvz5scej"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/gfg65n05cg9c",
+      "player_url": "https://voe.sx/e/gfg65n05cg9c",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gfg65n05cg9c"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/gfg65n05cg9c/download",
+      "player_url": "https://voe.sx/gfg65n05cg9c/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/y5px0zugkdtq",
+      "player_url": "https://rapidvideo.link/e/y5px0zugkdtq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y5px0zugkdtq"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/szwkkbvn585g",
+      "player_url": "https://minochinos.com/embed/szwkkbvn585g",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "szwkkbvn585g"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/pnwtrfcqlj8p",
+      "player_url": "https://hglink.to/e/pnwtrfcqlj8p",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pnwtrfcqlj8p"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/v341ftwt7p0o",
+      "player_url": "https://bysedikamoum.com/e/v341ftwt7p0o",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "v341ftwt7p0o"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/jizlcpuj1saj",
+      "player_url": "https://voe.sx/e/jizlcpuj1saj",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jizlcpuj1saj"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/jizlcpuj1saj/download",
+      "player_url": "https://voe.sx/jizlcpuj1saj/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/lrv39oci0mx2",
+      "player_url": "https://rapidvideo.link/e/lrv39oci0mx2",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lrv39oci0mx2"
+    }
+  ]
+}
