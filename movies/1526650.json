@@ -1,1 +1,271 @@
-{"id":1526650,"titulo":"El muñeco de arcilla","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/zawpsRiy2GFeVsnvEmuJ9TKggIT.jpg","release_date":"2025-10-09","genres":[],"rating":"7.1","backdrop":"https://image.tmdb.org/t/p/original/pmGkvEWKFDapogIzkG7TqB0aeYE.jpg","overview":"Mientras diseña un videojuego de terror, Hsu-Chuan se lleva por error a casa un muñeco de arcilla de la empresa, sin sospechar que alberga un espíritu vengativo que ansía liberarse.","trailer":"","runtime":"111","slug":"mudborn","servidores":[{"id":1,"url":"https://streamwish.to/e/ai499wedx5mr","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"ai499wedx5mr","player_url":"https://streamwish.to/e/ai499wedx5mr"},{"id":2,"url":"https://bysejikuar.com/e/3fy3a81emgjl","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"3fy3a81emgjl","player_url":"https://bysejikuar.com/e/3fy3a81emgjl"},{"id":3,"url":"https://vidhidepro.com/v/k7ne0scd54zl","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"k7ne0scd54zl","player_url":"https://vidhidepro.com/v/k7ne0scd54zl"},{"id":4,"url":"https://voe.sx/e/jd4emyuczoww","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"jd4emyuczoww","player_url":"https://voe.sx/e/jd4emyuczoww"},{"id":5,"url":"https://doodstream.com/e/238mf2do6u27","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"238mf2do6u27","player_url":"https://doodstream.com/e/238mf2do6u27"},{"id":6,"url":"https://streamwish.to/e/904fwhnjos5e","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"904fwhnjos5e","player_url":"https://streamwish.to/e/904fwhnjos5e"},{"id":7,"url":"https://bysejikuar.com/e/xgblutqhjec9","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"xgblutqhjec9","player_url":"https://bysejikuar.com/e/xgblutqhjec9"},{"id":8,"url":"https://vidhidepro.com/v/kbo6lwpf7otw","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"kbo6lwpf7otw","player_url":"https://vidhidepro.com/v/kbo6lwpf7otw"},{"id":9,"url":"https://voe.sx/e/c1tuzakil8sh","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"c1tuzakil8sh","player_url":"https://voe.sx/e/c1tuzakil8sh"},{"id":10,"url":"https://doodstream.com/e/0powuaz7sgpu","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"0powuaz7sgpu","player_url":"https://doodstream.com/e/0powuaz7sgpu"}]}
+{
+  "id": 1526650,
+  "titulo": "El muñeco de arcilla",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/zawpsRiy2GFeVsnvEmuJ9TKggIT.jpg",
+  "release_date": "2025-10-09",
+  "genres": [
+    "Terror",
+    "Suspense"
+  ],
+  "rating": "7.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/pmGkvEWKFDapogIzkG7TqB0aeYE.jpg",
+  "overview": "Mientras diseña un videojuego de terror, Hsu-Chuan se lleva por error a casa un muñeco de arcilla de la empresa, sin sospechar que alberga un espíritu vengativo que ansía liberarse.",
+  "trailer": "",
+  "runtime": "111",
+  "slug": "mudborn",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ai499wedx5mr",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ai499wedx5mr",
+      "player_url": "https://streamwish.to/e/ai499wedx5mr"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/3fy3a81emgjl",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "3fy3a81emgjl",
+      "player_url": "https://bysejikuar.com/e/3fy3a81emgjl"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/k7ne0scd54zl",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "k7ne0scd54zl",
+      "player_url": "https://vidhidepro.com/v/k7ne0scd54zl"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/jd4emyuczoww",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jd4emyuczoww",
+      "player_url": "https://voe.sx/e/jd4emyuczoww"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/238mf2do6u27",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "238mf2do6u27",
+      "player_url": "https://doodstream.com/e/238mf2do6u27"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/904fwhnjos5e",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "904fwhnjos5e",
+      "player_url": "https://streamwish.to/e/904fwhnjos5e"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/xgblutqhjec9",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "xgblutqhjec9",
+      "player_url": "https://bysejikuar.com/e/xgblutqhjec9"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/kbo6lwpf7otw",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "kbo6lwpf7otw",
+      "player_url": "https://vidhidepro.com/v/kbo6lwpf7otw"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/c1tuzakil8sh",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "c1tuzakil8sh",
+      "player_url": "https://voe.sx/e/c1tuzakil8sh"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/0powuaz7sgpu",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0powuaz7sgpu",
+      "player_url": "https://doodstream.com/e/0powuaz7sgpu"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/l7nj2zptuuhk",
+      "player_url": "https://minochinos.com/embed/l7nj2zptuuhk",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l7nj2zptuuhk"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/l1v6fezg3wzd",
+      "player_url": "https://hglink.to/e/l1v6fezg3wzd",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l1v6fezg3wzd"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/uk3fssuahx9a",
+      "player_url": "https://bysedikamoum.com/e/uk3fssuahx9a",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uk3fssuahx9a"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/gwezv9rog7if",
+      "player_url": "https://voe.sx/e/gwezv9rog7if",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gwezv9rog7if"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/gwezv9rog7if/download",
+      "player_url": "https://voe.sx/gwezv9rog7if/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/ashi6yx0148n",
+      "player_url": "https://rapidvideo.link/e/ashi6yx0148n",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ashi6yx0148n"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/v1xtxknxge4b",
+      "player_url": "https://minochinos.com/embed/v1xtxknxge4b",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "v1xtxknxge4b"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/6lz6tae949rb",
+      "player_url": "https://hglink.to/e/6lz6tae949rb",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6lz6tae949rb"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/7hezn4ij4mtg",
+      "player_url": "https://bysedikamoum.com/e/7hezn4ij4mtg",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7hezn4ij4mtg"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/8zenugiapwv7",
+      "player_url": "https://voe.sx/e/8zenugiapwv7",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8zenugiapwv7"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/8zenugiapwv7/download",
+      "player_url": "https://voe.sx/8zenugiapwv7/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/htbjimkqfrd6",
+      "player_url": "https://rapidvideo.link/e/htbjimkqfrd6",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "htbjimkqfrd6"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/z6571l5mvhlk",
+      "player_url": "https://minochinos.com/embed/z6571l5mvhlk",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "z6571l5mvhlk"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/uyzby41lyghg",
+      "player_url": "https://hglink.to/e/uyzby41lyghg",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "uyzby41lyghg"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/38o64asa3gv7",
+      "player_url": "https://bysedikamoum.com/e/38o64asa3gv7",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "38o64asa3gv7"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/ixgte3urjabf",
+      "player_url": "https://voe.sx/e/ixgte3urjabf",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "ixgte3urjabf"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/ixgte3urjabf/download",
+      "player_url": "https://voe.sx/ixgte3urjabf/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/9e6rg2dqayfx",
+      "player_url": "https://rapidvideo.link/e/9e6rg2dqayfx",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "9e6rg2dqayfx"
+    }
+  ]
+}
