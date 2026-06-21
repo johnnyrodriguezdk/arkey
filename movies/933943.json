@@ -1,1 +1,261 @@
-{"id":933943,"titulo":"La sentencia","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/wCSSebfL6wJm1G1jvpBpzybCfA1.jpg","release_date":"2022-07-30","genres":["drama"],"rating":"4.9","backdrop":"https://image.tmdb.org/t/p/original/fIet12tUHmFuH5dX32MqEgKrFM7.jpg","overview":"Viena, década de los años 60. El joven empresario judío Víctor es testigo de cómo el juicio de un crimen nazi contra su familia falla. El sistema político y legal todavía está dirigido por ex nazis y una gran parte de la sociedad sigue estando encadenada en el pasado. Cuando Víctor también pierde a su padre y la familia de su novia se opone a su relación, Víctor comienza a perder la fe en la justicia formal y decide tomar cartas en el asunto","trailer":"","runtime":"105","slug":"schachten","servidores":[{"id":1,"url":"https://streamwish.to/e/ld7xnhfeqdyb","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"ld7xnhfeqdyb","player_url":"https://streamwish.to/e/ld7xnhfeqdyb"},{"id":2,"url":"https://vidhidepro.com/v/u6ftishh8pih","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"u6ftishh8pih","player_url":"https://vidhidepro.com/v/u6ftishh8pih"},{"id":3,"url":"https://voe.sx/e/xd9qiho9yyjr","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"xd9qiho9yyjr","player_url":"https://voe.sx/e/xd9qiho9yyjr"},{"id":4,"url":"https://doodstream.com/e/2tnunix5bgnv","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"2tnunix5bgnv","player_url":"https://doodstream.com/e/2tnunix5bgnv"},{"id":5,"url":"https://streamwish.to/e/aexdkvy1h2vu","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"aexdkvy1h2vu","player_url":"https://streamwish.to/e/aexdkvy1h2vu"},{"id":6,"url":"https://vidhidepro.com/v/vbamq3obo7dd","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"vbamq3obo7dd","player_url":"https://vidhidepro.com/v/vbamq3obo7dd"},{"id":7,"url":"https://doodstream.com/e/hn01i71dluvv","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"hn01i71dluvv","player_url":"https://doodstream.com/e/hn01i71dluvv"},{"id":8,"url":"https://streamwish.to/e/9jwvhof5447e","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"9jwvhof5447e","player_url":"https://streamwish.to/e/9jwvhof5447e"},{"id":9,"url":"https://vidhidepro.com/v/8n2x84d4y9t4","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"8n2x84d4y9t4","player_url":"https://vidhidepro.com/v/8n2x84d4y9t4"},{"id":10,"url":"https://doodstream.com/e/7mo801hz899s","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"7mo801hz899s","player_url":"https://doodstream.com/e/7mo801hz899s"}]}
+{
+  "id": 933943,
+  "titulo": "La sentencia",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/wCSSebfL6wJm1G1jvpBpzybCfA1.jpg",
+  "release_date": "2022-07-30",
+  "genres": [
+    "drama"
+  ],
+  "rating": "4.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/fIet12tUHmFuH5dX32MqEgKrFM7.jpg",
+  "overview": "Viena, década de los años 60. El joven empresario judío Víctor es testigo de cómo el juicio de un crimen nazi contra su familia falla. El sistema político y legal todavía está dirigido por ex nazis y una gran parte de la sociedad sigue estando encadenada en el pasado. Cuando Víctor también pierde a su padre y la familia de su novia se opone a su relación, Víctor comienza a perder la fe en la justicia formal y decide tomar cartas en el asunto",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "schachten",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ld7xnhfeqdyb",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ld7xnhfeqdyb",
+      "player_url": "https://streamwish.to/e/ld7xnhfeqdyb"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/u6ftishh8pih",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "u6ftishh8pih",
+      "player_url": "https://vidhidepro.com/v/u6ftishh8pih"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/xd9qiho9yyjr",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xd9qiho9yyjr",
+      "player_url": "https://voe.sx/e/xd9qiho9yyjr"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/2tnunix5bgnv",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "2tnunix5bgnv",
+      "player_url": "https://doodstream.com/e/2tnunix5bgnv"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/aexdkvy1h2vu",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "aexdkvy1h2vu",
+      "player_url": "https://streamwish.to/e/aexdkvy1h2vu"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/vbamq3obo7dd",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "vbamq3obo7dd",
+      "player_url": "https://vidhidepro.com/v/vbamq3obo7dd"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/hn01i71dluvv",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "hn01i71dluvv",
+      "player_url": "https://doodstream.com/e/hn01i71dluvv"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/9jwvhof5447e",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "9jwvhof5447e",
+      "player_url": "https://streamwish.to/e/9jwvhof5447e"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/8n2x84d4y9t4",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8n2x84d4y9t4",
+      "player_url": "https://vidhidepro.com/v/8n2x84d4y9t4"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/7mo801hz899s",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7mo801hz899s",
+      "player_url": "https://doodstream.com/e/7mo801hz899s"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/9ubsr662oorf",
+      "player_url": "https://minochinos.com/embed/9ubsr662oorf",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9ubsr662oorf"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/sbgaqp9yfl94",
+      "player_url": "https://hglink.to/e/sbgaqp9yfl94",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sbgaqp9yfl94"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/8ebx0q906zzp",
+      "player_url": "https://bysedikamoum.com/e/8ebx0q906zzp",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8ebx0q906zzp"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/g4bwe7bzovrz",
+      "player_url": "https://voe.sx/e/g4bwe7bzovrz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g4bwe7bzovrz"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/g4bwe7bzovrz/download",
+      "player_url": "https://voe.sx/g4bwe7bzovrz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/wxqig6oetuyp",
+      "player_url": "https://rapidvideo.link/e/wxqig6oetuyp",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wxqig6oetuyp"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/ymn3n1y8shm6",
+      "player_url": "https://minochinos.com/embed/ymn3n1y8shm6",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ymn3n1y8shm6"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/wpjkpuvkqwh0",
+      "player_url": "https://hglink.to/e/wpjkpuvkqwh0",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wpjkpuvkqwh0"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/izsw4gqryzdd",
+      "player_url": "https://bysedikamoum.com/e/izsw4gqryzdd",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "izsw4gqryzdd"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/aiu1gnxgz5hy",
+      "player_url": "https://voe.sx/e/aiu1gnxgz5hy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aiu1gnxgz5hy"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/rlv29ihtb04y",
+      "player_url": "https://rapidvideo.link/e/rlv29ihtb04y",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rlv29ihtb04y"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/b56i1k4q9k58",
+      "player_url": "https://minochinos.com/embed/b56i1k4q9k58",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "b56i1k4q9k58"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/oy34ptngrfm7",
+      "player_url": "https://hglink.to/e/oy34ptngrfm7",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "oy34ptngrfm7"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/perb4e9ula5k",
+      "player_url": "https://bysedikamoum.com/e/perb4e9ula5k",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "perb4e9ula5k"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/ndzv5e668dna",
+      "player_url": "https://voe.sx/e/ndzv5e668dna",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ndzv5e668dna"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/ndzv5e668dna/download",
+      "player_url": "https://voe.sx/ndzv5e668dna/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/ep53wtz8x2fd",
+      "player_url": "https://rapidvideo.link/e/ep53wtz8x2fd",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ep53wtz8x2fd"
+    }
+  ]
+}
