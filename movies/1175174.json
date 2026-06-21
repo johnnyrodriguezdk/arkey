@@ -1,1 +1,199 @@
-{"id":1175174,"titulo":"Fackham Hall","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg","release_date":"2025-12-05","genres":[],"rating":"6.7","backdrop":"https://image.tmdb.org/t/p/original/jlqan4iTqliIjIRivtqDDRJh2H5.jpg","overview":"Fackham Hall es una comedia sátira ambientada en la Inglaterra de los años 30 que combina el estilo de Downton Abbey con el humor absurdo de Airplane! y Monty Python. La historia sigue a Eric Noone, un encantador carterista que consigue un empleo como portero en una mansión inglesa donde forma una relación poco común con Rose Davenport, la hija menor de una familia aristocrática. Entre las rivalidades familiares, un desastroso intento de boda y un asesinato inesperado, Eric es acusado y su futuro junto a Rose queda en juego, en medio de una divertida mezcla de intrigas, secretos y disparates.","trailer":"","runtime":"97","slug":"fackham-hall","servidores":[{"id":1,"url":"https://streamwish.to/e/fyr7i5n47zep","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"fyr7i5n47zep","player_url":"https://streamwish.to/e/fyr7i5n47zep"},{"id":2,"url":"https://bysejikuar.com/e/4bc2kd96habh","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"4bc2kd96habh","player_url":"https://bysejikuar.com/e/4bc2kd96habh"},{"id":3,"url":"https://vidhidepro.com/v/gyv5foi8kbzf","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"gyv5foi8kbzf","player_url":"https://vidhidepro.com/v/gyv5foi8kbzf"},{"id":4,"url":"https://voe.sx/e/9ql7mope6cin","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"9ql7mope6cin","player_url":"https://voe.sx/e/9ql7mope6cin"},{"id":5,"url":"https://doodstream.com/e/a298fk5ziy07","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"a298fk5ziy07","player_url":"https://doodstream.com/e/a298fk5ziy07"},{"id":6,"url":"https://streamwish.to/e/mouwjkwz1awn","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"mouwjkwz1awn","player_url":"https://streamwish.to/e/mouwjkwz1awn"},{"id":7,"url":"https://bysejikuar.com/e/xquhjemtbqi4","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"xquhjemtbqi4","player_url":"https://bysejikuar.com/e/xquhjemtbqi4"},{"id":8,"url":"https://vidhidepro.com/v/npajib8ozfq3","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"npajib8ozfq3","player_url":"https://vidhidepro.com/v/npajib8ozfq3"},{"id":9,"url":"https://voe.sx/e/f5vxs2yjdv8a","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"f5vxs2yjdv8a","player_url":"https://voe.sx/e/f5vxs2yjdv8a"},{"id":10,"url":"https://doodstream.com/e/0x7fx6pxtlof","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"0x7fx6pxtlof","player_url":"https://doodstream.com/e/0x7fx6pxtlof"}]}
+{
+  "id": 1175174,
+  "titulo": "Fackham Hall",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+  "release_date": "2025-12-05",
+  "genres": [
+    "Comedia",
+    "Historia"
+  ],
+  "rating": "6.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/jlqan4iTqliIjIRivtqDDRJh2H5.jpg",
+  "overview": "Fackham Hall es una comedia sátira ambientada en la Inglaterra de los años 30 que combina el estilo de Downton Abbey con el humor absurdo de Airplane! y Monty Python. La historia sigue a Eric Noone, un encantador carterista que consigue un empleo como portero en una mansión inglesa donde forma una relación poco común con Rose Davenport, la hija menor de una familia aristocrática. Entre las rivalidades familiares, un desastroso intento de boda y un asesinato inesperado, Eric es acusado y su futuro junto a Rose queda en juego, en medio de una divertida mezcla de intrigas, secretos y disparates.",
+  "trailer": "",
+  "runtime": "97",
+  "slug": "fackham-hall",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/fyr7i5n47zep",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "fyr7i5n47zep",
+      "player_url": "https://streamwish.to/e/fyr7i5n47zep"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/4bc2kd96habh",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "4bc2kd96habh",
+      "player_url": "https://bysejikuar.com/e/4bc2kd96habh"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/gyv5foi8kbzf",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "gyv5foi8kbzf",
+      "player_url": "https://vidhidepro.com/v/gyv5foi8kbzf"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/9ql7mope6cin",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "9ql7mope6cin",
+      "player_url": "https://voe.sx/e/9ql7mope6cin"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/a298fk5ziy07",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "a298fk5ziy07",
+      "player_url": "https://doodstream.com/e/a298fk5ziy07"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/mouwjkwz1awn",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mouwjkwz1awn",
+      "player_url": "https://streamwish.to/e/mouwjkwz1awn"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/xquhjemtbqi4",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "xquhjemtbqi4",
+      "player_url": "https://bysejikuar.com/e/xquhjemtbqi4"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/npajib8ozfq3",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "npajib8ozfq3",
+      "player_url": "https://vidhidepro.com/v/npajib8ozfq3"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/f5vxs2yjdv8a",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "f5vxs2yjdv8a",
+      "player_url": "https://voe.sx/e/f5vxs2yjdv8a"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/0x7fx6pxtlof",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0x7fx6pxtlof",
+      "player_url": "https://doodstream.com/e/0x7fx6pxtlof"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/1pwbvxcuh2cq",
+      "player_url": "https://minochinos.com/embed/1pwbvxcuh2cq",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1pwbvxcuh2cq"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/yrdx4oi8azwi",
+      "player_url": "https://hglink.to/e/yrdx4oi8azwi",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yrdx4oi8azwi"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/furinn0pm3jm",
+      "player_url": "https://voe.sx/e/furinn0pm3jm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "furinn0pm3jm"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/furinn0pm3jm/download",
+      "player_url": "https://voe.sx/furinn0pm3jm/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/u1ohbmgctjiv",
+      "player_url": "https://rapidvideo.link/e/u1ohbmgctjiv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u1ohbmgctjiv"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/10ww9wk6onrs",
+      "player_url": "https://minochinos.com/embed/10ww9wk6onrs",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "10ww9wk6onrs"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/qmxk53kuozf8",
+      "player_url": "https://hglink.to/e/qmxk53kuozf8",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qmxk53kuozf8"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/gpki2rbykkvo",
+      "player_url": "https://voe.sx/e/gpki2rbykkvo",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gpki2rbykkvo"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/gpki2rbykkvo/download",
+      "player_url": "https://voe.sx/gpki2rbykkvo/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/mdczftu923as",
+      "player_url": "https://rapidvideo.link/e/mdczftu923as",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mdczftu923as"
+    }
+  ]
+}
