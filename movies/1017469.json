@@ -1,1 +1,199 @@
-{"id":1017469,"titulo":"Forever Mine","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/hQ9jTVAbJlKsPHS0kJFi70H8wqW.jpg","release_date":"2022-09-06","genres":[],"rating":"4.7","backdrop":"https://image.tmdb.org/t/p/original/v7xeEH5mQE81zdvSVSXhHpAEeE3.jpg","overview":"Vincent marries Erica, planning to make her his victim, but discovers she’s a black widow. A deadly game of survival begins.","trailer":"","runtime":"95","slug":"forever-mine","servidores":[{"id":1,"url":"https://streamwish.to/e/0hy522d8vvr4","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"0hy522d8vvr4","player_url":"https://streamwish.to/e/0hy522d8vvr4"},{"id":2,"url":"https://vidhidepro.com/v/wglmlv1j9t7f","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"wglmlv1j9t7f","player_url":"https://vidhidepro.com/v/wglmlv1j9t7f"},{"id":3,"url":"https://voe.sx/e/qxbkignhyzdt","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"qxbkignhyzdt","player_url":"https://voe.sx/e/qxbkignhyzdt"},{"id":4,"url":"https://doodstream.com/e/gh9dll7358mg","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"gh9dll7358mg","player_url":"https://doodstream.com/e/gh9dll7358mg"},{"id":5,"url":"https://streamwish.to/e/3dnjkw22iy3r","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"3dnjkw22iy3r","player_url":"https://streamwish.to/e/3dnjkw22iy3r"},{"id":6,"url":"https://vidhidepro.com/v/foxjphtm3ogf","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"foxjphtm3ogf","player_url":"https://vidhidepro.com/v/foxjphtm3ogf"},{"id":7,"url":"https://voe.sx/e/oeb1rdkbrwex","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"oeb1rdkbrwex","player_url":"https://voe.sx/e/oeb1rdkbrwex"},{"id":8,"url":"https://doodstream.com/e/g03mw7rczd2e","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"g03mw7rczd2e","player_url":"https://doodstream.com/e/g03mw7rczd2e"}]}
+{
+  "id": 1017469,
+  "titulo": "Forever Mine",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/hQ9jTVAbJlKsPHS0kJFi70H8wqW.jpg",
+  "release_date": "2022-09-06",
+  "genres": [
+    "Terror",
+    "Suspense"
+  ],
+  "rating": "4.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/v7xeEH5mQE81zdvSVSXhHpAEeE3.jpg",
+  "overview": "Vincent marries Erica, planning to make her his victim, but discovers she’s a black widow. A deadly game of survival begins.",
+  "trailer": "",
+  "runtime": "95",
+  "slug": "forever-mine",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/0hy522d8vvr4",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "0hy522d8vvr4",
+      "player_url": "https://streamwish.to/e/0hy522d8vvr4"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/wglmlv1j9t7f",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "wglmlv1j9t7f",
+      "player_url": "https://vidhidepro.com/v/wglmlv1j9t7f"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/qxbkignhyzdt",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qxbkignhyzdt",
+      "player_url": "https://voe.sx/e/qxbkignhyzdt"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/gh9dll7358mg",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "gh9dll7358mg",
+      "player_url": "https://doodstream.com/e/gh9dll7358mg"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/3dnjkw22iy3r",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3dnjkw22iy3r",
+      "player_url": "https://streamwish.to/e/3dnjkw22iy3r"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/foxjphtm3ogf",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "foxjphtm3ogf",
+      "player_url": "https://vidhidepro.com/v/foxjphtm3ogf"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/oeb1rdkbrwex",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "oeb1rdkbrwex",
+      "player_url": "https://voe.sx/e/oeb1rdkbrwex"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/g03mw7rczd2e",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "g03mw7rczd2e",
+      "player_url": "https://doodstream.com/e/g03mw7rczd2e"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/i8wm29ccohs6",
+      "player_url": "https://minochinos.com/embed/i8wm29ccohs6",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i8wm29ccohs6"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/gzk53jklbyop",
+      "player_url": "https://hglink.to/e/gzk53jklbyop",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gzk53jklbyop"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/9et1ttfdeak8",
+      "player_url": "https://bysedikamoum.com/e/9et1ttfdeak8",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9et1ttfdeak8"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/wmatcgyk5dvw",
+      "player_url": "https://voe.sx/e/wmatcgyk5dvw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wmatcgyk5dvw"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/wmatcgyk5dvw/download",
+      "player_url": "https://voe.sx/wmatcgyk5dvw/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/4vun2fgmdlz1",
+      "player_url": "https://rapidvideo.link/e/4vun2fgmdlz1",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4vun2fgmdlz1"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/h7e5yongvc9z",
+      "player_url": "https://minochinos.com/embed/h7e5yongvc9z",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "h7e5yongvc9z"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/ds0hgx1ggqs8",
+      "player_url": "https://hglink.to/e/ds0hgx1ggqs8",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ds0hgx1ggqs8"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/5caw0d37fr22",
+      "player_url": "https://bysedikamoum.com/e/5caw0d37fr22",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5caw0d37fr22"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/owezmbc2ljaz",
+      "player_url": "https://voe.sx/e/owezmbc2ljaz",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "owezmbc2ljaz"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/owezmbc2ljaz/download",
+      "player_url": "https://voe.sx/owezmbc2ljaz/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/vt2k834ybhum",
+      "player_url": "https://rapidvideo.link/e/vt2k834ybhum",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vt2k834ybhum"
+    }
+  ]
+}
