@@ -1,1 +1,145 @@
-{"id":1187417,"titulo":"Rumours","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/a7Ijn4fEnYjGl45OoyxBOnFy7Hc.jpg","release_date":"2024-07-01","genres":[],"rating":"4.9","backdrop":"https://image.tmdb.org/t/p/original/zai0upX7orgi1G8ZOTyq2CPUVJD.jpg","overview":"Los líderes de siete democracias mas ricas del mundo se pierden en un bosque, al tiempo que tratan de redactar una declaración sobre una crisis mundial, enfrentándose a peligros mientras intentan encontrar la salida.","trailer":"","runtime":"104","slug":"rumours","servidores":[{"id":1,"url":"https://streamwish.to/e/bayv83mrmyw8","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"bayv83mrmyw8","player_url":"https://streamwish.to/e/bayv83mrmyw8"},{"id":2,"url":"https://vidhidepro.com/v/sfcbkvd8hy1b","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"sfcbkvd8hy1b","player_url":"https://vidhidepro.com/v/sfcbkvd8hy1b"},{"id":3,"url":"https://voe.sx/e/prez1banyboa","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"prez1banyboa","player_url":"https://voe.sx/e/prez1banyboa"},{"id":4,"url":"https://doodstream.com/e/uo9gsh1alcgl","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"uo9gsh1alcgl","player_url":"https://doodstream.com/e/uo9gsh1alcgl"},{"id":5,"url":"https://streamwish.to/e/jaflx30lx3i7","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"jaflx30lx3i7","player_url":"https://streamwish.to/e/jaflx30lx3i7"},{"id":6,"url":"https://vidhidepro.com/v/a88tls7r6nbr","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"a88tls7r6nbr","player_url":"https://vidhidepro.com/v/a88tls7r6nbr"},{"id":7,"url":"https://voe.sx/e/9ohukvbbgnhp","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"9ohukvbbgnhp","player_url":"https://voe.sx/e/9ohukvbbgnhp"},{"id":8,"url":"https://doodstream.com/e/2kh9z67cmlno","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"2kh9z67cmlno","player_url":"https://doodstream.com/e/2kh9z67cmlno"}]}
+{
+  "id": 1187417,
+  "titulo": "Rumours",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/a7Ijn4fEnYjGl45OoyxBOnFy7Hc.jpg",
+  "release_date": "2024-07-01",
+  "genres": [
+    "Comedia",
+    "Terror"
+  ],
+  "rating": "4.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/zai0upX7orgi1G8ZOTyq2CPUVJD.jpg",
+  "overview": "Los líderes de siete democracias mas ricas del mundo se pierden en un bosque, al tiempo que tratan de redactar una declaración sobre una crisis mundial, enfrentándose a peligros mientras intentan encontrar la salida.",
+  "trailer": "",
+  "runtime": "104",
+  "slug": "rumours",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/bayv83mrmyw8",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "bayv83mrmyw8",
+      "player_url": "https://streamwish.to/e/bayv83mrmyw8"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/sfcbkvd8hy1b",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "sfcbkvd8hy1b",
+      "player_url": "https://vidhidepro.com/v/sfcbkvd8hy1b"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/prez1banyboa",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "prez1banyboa",
+      "player_url": "https://voe.sx/e/prez1banyboa"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/uo9gsh1alcgl",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "uo9gsh1alcgl",
+      "player_url": "https://doodstream.com/e/uo9gsh1alcgl"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/jaflx30lx3i7",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "jaflx30lx3i7",
+      "player_url": "https://streamwish.to/e/jaflx30lx3i7"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/a88tls7r6nbr",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "a88tls7r6nbr",
+      "player_url": "https://vidhidepro.com/v/a88tls7r6nbr"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/9ohukvbbgnhp",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "9ohukvbbgnhp",
+      "player_url": "https://voe.sx/e/9ohukvbbgnhp"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/2kh9z67cmlno",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "2kh9z67cmlno",
+      "player_url": "https://doodstream.com/e/2kh9z67cmlno"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/w3lqxq1p72w1",
+      "player_url": "https://minochinos.com/embed/w3lqxq1p72w1",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w3lqxq1p72w1"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/tdyzc3dliqnd",
+      "player_url": "https://hglink.to/e/tdyzc3dliqnd",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tdyzc3dliqnd"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/fcunop87ulnv",
+      "player_url": "https://bysedikamoum.com/e/fcunop87ulnv",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fcunop87ulnv"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/qcdsnj5vigny",
+      "player_url": "https://voe.sx/e/qcdsnj5vigny",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qcdsnj5vigny"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/qcdsnj5vigny/download",
+      "player_url": "https://voe.sx/qcdsnj5vigny/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/2nzf8d60uepb",
+      "player_url": "https://rapidvideo.link/e/2nzf8d60uepb",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2nzf8d60uepb"
+    }
+  ]
+}
