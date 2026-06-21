@@ -1,1 +1,180 @@
-{"id":1179231,"titulo":"Hombres Duros","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/bbGBUoFyhNerVKICgV2lsNW3jyq.jpg","release_date":"2024-10-18","genres":["drama"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/yeZefPtGWmhkK1G4tTd2Ae390Xl.jpg","overview":"Swansea, Gales, año 1994. Cinco hombres corrientes galeses se enfrentan a sus sueños y mentiras cuando se embarcan en uno de los primeros ensayos clínicos del mundo del fármaco que se convertiría en la Viagra. Uno de ellos es Meurig (Iwan Rheon), un hombre que sufre impotencia a causa de su diabetes y que además está afrontando la enfermedad de su esposa Ffion (Alex Roach). También está Tommy (Paul Rhys), un gay que logra participar en estos ensayos a pesar de que en principio están dirigidos a hombres heterosexuales. Colin (Steffan Rhodri) tiene miedo de no estar a la altura cuando se vea en persona a la mujer a la que ha conocido en un servicio de citas telefónicas. Pete (Phaldut Sharma) busca recuperar la pasión perdida junto a su esposa. Y Eddie (Mark Lewis Jones) parece un hombre fuerte, pero debajo de esa fachada esconde una profunda vulnerabilidad.","trailer":"","runtime":"87","slug":"hombres-duros","servidores":[{"id":1,"url":"https://streamwish.to/e/yul37x0gcav5","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"yul37x0gcav5","player_url":"https://streamwish.to/e/yul37x0gcav5"},{"id":2,"url":"https://vidhidepro.com/v/0nhfgxvovx59","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"0nhfgxvovx59","player_url":"https://vidhidepro.com/v/0nhfgxvovx59"},{"id":3,"url":"https://doodstream.com/e/yyxyaejom2gq","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"yyxyaejom2gq","player_url":"https://doodstream.com/e/yyxyaejom2gq"},{"id":4,"url":"https://streamwish.to/e/cmnbbdtxqs4x","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"cmnbbdtxqs4x","player_url":"https://streamwish.to/e/cmnbbdtxqs4x"},{"id":5,"url":"https://vidhidepro.com/v/ddu7fppgw3pk","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"ddu7fppgw3pk","player_url":"https://vidhidepro.com/v/ddu7fppgw3pk"},{"id":6,"url":"https://doodstream.com/e/xqqws70qg67a","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"xqqws70qg67a","player_url":"https://doodstream.com/e/xqqws70qg67a"}]}
+{
+  "id": 1179231,
+  "titulo": "Hombres Duros",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/bbGBUoFyhNerVKICgV2lsNW3jyq.jpg",
+  "release_date": "2024-10-18",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/yeZefPtGWmhkK1G4tTd2Ae390Xl.jpg",
+  "overview": "Swansea, Gales, año 1994. Cinco hombres corrientes galeses se enfrentan a sus sueños y mentiras cuando se embarcan en uno de los primeros ensayos clínicos del mundo del fármaco que se convertiría en la Viagra. Uno de ellos es Meurig (Iwan Rheon), un hombre que sufre impotencia a causa de su diabetes y que además está afrontando la enfermedad de su esposa Ffion (Alex Roach). También está Tommy (Paul Rhys), un gay que logra participar en estos ensayos a pesar de que en principio están dirigidos a hombres heterosexuales. Colin (Steffan Rhodri) tiene miedo de no estar a la altura cuando se vea en persona a la mujer a la que ha conocido en un servicio de citas telefónicas. Pete (Phaldut Sharma) busca recuperar la pasión perdida junto a su esposa. Y Eddie (Mark Lewis Jones) parece un hombre fuerte, pero debajo de esa fachada esconde una profunda vulnerabilidad.",
+  "trailer": "",
+  "runtime": "87",
+  "slug": "hombres-duros",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/yul37x0gcav5",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "yul37x0gcav5",
+      "player_url": "https://streamwish.to/e/yul37x0gcav5"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/0nhfgxvovx59",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0nhfgxvovx59",
+      "player_url": "https://vidhidepro.com/v/0nhfgxvovx59"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/yyxyaejom2gq",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "yyxyaejom2gq",
+      "player_url": "https://doodstream.com/e/yyxyaejom2gq"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/cmnbbdtxqs4x",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cmnbbdtxqs4x",
+      "player_url": "https://streamwish.to/e/cmnbbdtxqs4x"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/ddu7fppgw3pk",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ddu7fppgw3pk",
+      "player_url": "https://vidhidepro.com/v/ddu7fppgw3pk"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/xqqws70qg67a",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "xqqws70qg67a",
+      "player_url": "https://doodstream.com/e/xqqws70qg67a"
+    },
+    {
+      "id": 7,
+      "url": "https://minochinos.com/embed/qpcv5ufz9irr",
+      "player_url": "https://minochinos.com/embed/qpcv5ufz9irr",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qpcv5ufz9irr"
+    },
+    {
+      "id": 8,
+      "url": "https://hglink.to/e/jh52b7ev5ryd",
+      "player_url": "https://hglink.to/e/jh52b7ev5ryd",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jh52b7ev5ryd"
+    },
+    {
+      "id": 9,
+      "url": "https://bysedikamoum.com/e/72ik0u9ze9hk",
+      "player_url": "https://bysedikamoum.com/e/72ik0u9ze9hk",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "72ik0u9ze9hk"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/dhplrfuzs7nf",
+      "player_url": "https://voe.sx/e/dhplrfuzs7nf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dhplrfuzs7nf"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/dhplrfuzs7nf/download",
+      "player_url": "https://voe.sx/dhplrfuzs7nf/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 12,
+      "url": "https://rapidvideo.link/e/5s69f2lz0i7b",
+      "player_url": "https://rapidvideo.link/e/5s69f2lz0i7b",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5s69f2lz0i7b"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/vmjtmisnf4pp",
+      "player_url": "https://minochinos.com/embed/vmjtmisnf4pp",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vmjtmisnf4pp"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/vqk70cv5zuwg",
+      "player_url": "https://hglink.to/e/vqk70cv5zuwg",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vqk70cv5zuwg"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/0a1oykmwcwxy",
+      "player_url": "https://bysedikamoum.com/e/0a1oykmwcwxy",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0a1oykmwcwxy"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/z88iifjgwoqs",
+      "player_url": "https://voe.sx/e/z88iifjgwoqs",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "z88iifjgwoqs"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/z88iifjgwoqs/download",
+      "player_url": "https://voe.sx/z88iifjgwoqs/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/j6c8ib2yhpnd",
+      "player_url": "https://rapidvideo.link/e/j6c8ib2yhpnd",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "j6c8ib2yhpnd"
+    }
+  ]
+}
