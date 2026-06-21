@@ -1,1 +1,243 @@
-{"id":1045938,"titulo":"G20","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg","release_date":"2025-04-10","genres":["drama"],"rating":"6.4","backdrop":"https://image.tmdb.org/t/p/original/k32XKMjmXMGeydykD32jfER3BVI.jpg","overview":"Cuando atacan la cumbre del G20, la presidenta de los Estados Unidos, Danielle Sutton, se convierte en el principal objetivo. Luego de evitar que la capturen, deberá ser más inteligente que el enemigo para proteger a su familia, defender a su país y resguardar a los líderes mundiales.","trailer":"","runtime":"108","slug":"g20","servidores":[{"id":1,"url":"https://streamwish.to/e/9zf1o6s8illh","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"9zf1o6s8illh","player_url":"https://streamwish.to/e/9zf1o6s8illh"},{"id":2,"url":"https://vidhidepro.com/v/6gmi5jzrmaar","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"6gmi5jzrmaar","player_url":"https://vidhidepro.com/v/6gmi5jzrmaar"},{"id":3,"url":"https://streamwish.to/e/4mtq3pf7swvo","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"4mtq3pf7swvo","player_url":"https://streamwish.to/e/4mtq3pf7swvo"},{"id":4,"url":"https://vidhidepro.com/v/ojvrax5df14c","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ojvrax5df14c","player_url":"https://vidhidepro.com/v/ojvrax5df14c"},{"id":5,"url":"https://voe.sx/e/ikvkrakdfont","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ikvkrakdfont","player_url":"https://voe.sx/e/ikvkrakdfont"},{"id":6,"url":"https://streamwish.to/e/cm00n5777mcb","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"cm00n5777mcb","player_url":"https://streamwish.to/e/cm00n5777mcb"},{"id":7,"url":"https://vidhidepro.com/v/b7ltnxuvmcoz","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"b7ltnxuvmcoz","player_url":"https://vidhidepro.com/v/b7ltnxuvmcoz"},{"id":8,"url":"https://voe.sx/e/0c3qtxh7m45w","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"0c3qtxh7m45w","player_url":"https://voe.sx/e/0c3qtxh7m45w"}]}
+{
+  "id": 1045938,
+  "titulo": "G20",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg",
+  "release_date": "2025-04-10",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/k32XKMjmXMGeydykD32jfER3BVI.jpg",
+  "overview": "Cuando atacan la cumbre del G20, la presidenta de los Estados Unidos, Danielle Sutton, se convierte en el principal objetivo. Luego de evitar que la capturen, deberá ser más inteligente que el enemigo para proteger a su familia, defender a su país y resguardar a los líderes mundiales.",
+  "trailer": "",
+  "runtime": "108",
+  "slug": "g20",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/9zf1o6s8illh",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "9zf1o6s8illh",
+      "player_url": "https://streamwish.to/e/9zf1o6s8illh"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/6gmi5jzrmaar",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "6gmi5jzrmaar",
+      "player_url": "https://vidhidepro.com/v/6gmi5jzrmaar"
+    },
+    {
+      "id": 3,
+      "url": "https://streamwish.to/e/4mtq3pf7swvo",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4mtq3pf7swvo",
+      "player_url": "https://streamwish.to/e/4mtq3pf7swvo"
+    },
+    {
+      "id": 4,
+      "url": "https://vidhidepro.com/v/ojvrax5df14c",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ojvrax5df14c",
+      "player_url": "https://vidhidepro.com/v/ojvrax5df14c"
+    },
+    {
+      "id": 5,
+      "url": "https://voe.sx/e/ikvkrakdfont",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ikvkrakdfont",
+      "player_url": "https://voe.sx/e/ikvkrakdfont"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/cm00n5777mcb",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cm00n5777mcb",
+      "player_url": "https://streamwish.to/e/cm00n5777mcb"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/b7ltnxuvmcoz",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "b7ltnxuvmcoz",
+      "player_url": "https://vidhidepro.com/v/b7ltnxuvmcoz"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/0c3qtxh7m45w",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "0c3qtxh7m45w",
+      "player_url": "https://voe.sx/e/0c3qtxh7m45w"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/u9qs8lhwhbs3",
+      "player_url": "https://minochinos.com/embed/u9qs8lhwhbs3",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u9qs8lhwhbs3"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/qhidgo0e5hbb",
+      "player_url": "https://hglink.to/e/qhidgo0e5hbb",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qhidgo0e5hbb"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/kvfd8jvntf38",
+      "player_url": "https://bysedikamoum.com/e/kvfd8jvntf38",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kvfd8jvntf38"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/8r1ys5duphlf",
+      "player_url": "https://voe.sx/e/8r1ys5duphlf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8r1ys5duphlf"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/8r1ys5duphlf/download",
+      "player_url": "https://voe.sx/8r1ys5duphlf/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/m0jfva7w43gn",
+      "player_url": "https://rapidvideo.link/e/m0jfva7w43gn",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m0jfva7w43gn"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/beb5k55vvszd",
+      "player_url": "https://minochinos.com/embed/beb5k55vvszd",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "beb5k55vvszd"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/4donxapfv0la",
+      "player_url": "https://hglink.to/e/4donxapfv0la",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4donxapfv0la"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/y324nnv2nuey",
+      "player_url": "https://bysedikamoum.com/e/y324nnv2nuey",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y324nnv2nuey"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/zovsvvnpcmt3",
+      "player_url": "https://voe.sx/e/zovsvvnpcmt3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zovsvvnpcmt3"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/1u2kmxrpgec7",
+      "player_url": "https://rapidvideo.link/e/1u2kmxrpgec7",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1u2kmxrpgec7"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/lnq0vqkiuyuf",
+      "player_url": "https://minochinos.com/embed/lnq0vqkiuyuf",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lnq0vqkiuyuf"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/0o0y7qhj48ts",
+      "player_url": "https://hglink.to/e/0o0y7qhj48ts",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0o0y7qhj48ts"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/laz6y93wqsf9",
+      "player_url": "https://bysedikamoum.com/e/laz6y93wqsf9",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "laz6y93wqsf9"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/kasyo2dcarch",
+      "player_url": "https://voe.sx/e/kasyo2dcarch",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kasyo2dcarch"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/kasyo2dcarch/download",
+      "player_url": "https://voe.sx/kasyo2dcarch/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/3e5z7k9r8ybq",
+      "player_url": "https://rapidvideo.link/e/3e5z7k9r8ybq",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3e5z7k9r8ybq"
+    }
+  ]
+}
