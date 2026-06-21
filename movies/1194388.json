@@ -1,1 +1,219 @@
-{"id":1194388,"titulo":"Vari","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/2nWljN5d5VC6Zxur7ToDRpSHCoR.jpg","release_date":"2024-10-18","genres":[],"rating":"6.0","backdrop":"https://image.tmdb.org/t/p/original/cJEfGBcVQElkQwD6nop9AcZy8X.jpg","overview":"Juhan Liiv, un poeta luchador y un improbable detective que padece las primeras fases de la esquizofrenia, resuelve truculentos casos de asesinato en la Estonia de la década de 1890, bajo la sombra del tiránico Imperio ruso.","trailer":"","runtime":"93","slug":"vari","servidores":[{"id":1,"url":"https://streamwish.to/e/3nlch9mqrykb","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"3nlch9mqrykb","player_url":"https://streamwish.to/e/3nlch9mqrykb"},{"id":2,"url":"https://bysejikuar.com/e/nr67agow86hx","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"nr67agow86hx","player_url":"https://bysejikuar.com/e/nr67agow86hx"},{"id":3,"url":"https://vidhidepro.com/v/eud01h0n8qsq","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"eud01h0n8qsq","player_url":"https://vidhidepro.com/v/eud01h0n8qsq"},{"id":4,"url":"https://voe.sx/e/gnusdnbvegsn","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"gnusdnbvegsn","player_url":"https://voe.sx/e/gnusdnbvegsn"},{"id":5,"url":"https://doodstream.com/e/hod9amos2b3t","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"hod9amos2b3t","player_url":"https://doodstream.com/e/hod9amos2b3t"},{"id":6,"url":"https://streamwish.to/e/kdkbgp00m48l","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"kdkbgp00m48l","player_url":"https://streamwish.to/e/kdkbgp00m48l"},{"id":7,"url":"https://bysejikuar.com/e/110g80mxr9l7","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"110g80mxr9l7","player_url":"https://bysejikuar.com/e/110g80mxr9l7"},{"id":8,"url":"https://vidhidepro.com/v/fa1y22zk0mdp","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"fa1y22zk0mdp","player_url":"https://vidhidepro.com/v/fa1y22zk0mdp"},{"id":9,"url":"https://voe.sx/e/xerlz580dckt","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"xerlz580dckt","player_url":"https://voe.sx/e/xerlz580dckt"},{"id":10,"url":"https://doodstream.com/e/gyqkk9ukmoxt","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"gyqkk9ukmoxt","player_url":"https://doodstream.com/e/gyqkk9ukmoxt"}]}
+{
+  "id": 1194388,
+  "titulo": "Vari",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/2nWljN5d5VC6Zxur7ToDRpSHCoR.jpg",
+  "release_date": "2024-10-18",
+  "genres": [
+    "Crimen",
+    "Suspense",
+    "Terror",
+    "Misterio"
+  ],
+  "rating": "6.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/cJEfGBcVQElkQwD6nop9AcZy8X.jpg",
+  "overview": "Juhan Liiv, un poeta luchador y un improbable detective que padece las primeras fases de la esquizofrenia, resuelve truculentos casos de asesinato en la Estonia de la década de 1890, bajo la sombra del tiránico Imperio ruso.",
+  "trailer": "",
+  "runtime": "93",
+  "slug": "vari",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/3nlch9mqrykb",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3nlch9mqrykb",
+      "player_url": "https://streamwish.to/e/3nlch9mqrykb"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/nr67agow86hx",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "nr67agow86hx",
+      "player_url": "https://bysejikuar.com/e/nr67agow86hx"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/eud01h0n8qsq",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "eud01h0n8qsq",
+      "player_url": "https://vidhidepro.com/v/eud01h0n8qsq"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/gnusdnbvegsn",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gnusdnbvegsn",
+      "player_url": "https://voe.sx/e/gnusdnbvegsn"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/hod9amos2b3t",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "hod9amos2b3t",
+      "player_url": "https://doodstream.com/e/hod9amos2b3t"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/kdkbgp00m48l",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "kdkbgp00m48l",
+      "player_url": "https://streamwish.to/e/kdkbgp00m48l"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/110g80mxr9l7",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "110g80mxr9l7",
+      "player_url": "https://bysejikuar.com/e/110g80mxr9l7"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/fa1y22zk0mdp",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fa1y22zk0mdp",
+      "player_url": "https://vidhidepro.com/v/fa1y22zk0mdp"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/xerlz580dckt",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xerlz580dckt",
+      "player_url": "https://voe.sx/e/xerlz580dckt"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/gyqkk9ukmoxt",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "gyqkk9ukmoxt",
+      "player_url": "https://doodstream.com/e/gyqkk9ukmoxt"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/5ja1wzvbor5x",
+      "player_url": "https://minochinos.com/embed/5ja1wzvbor5x",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5ja1wzvbor5x"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/kdd3je1cqphj",
+      "player_url": "https://hglink.to/e/kdd3je1cqphj",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kdd3je1cqphj"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/swyrgcgyoesb",
+      "player_url": "https://bysedikamoum.com/e/swyrgcgyoesb",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "swyrgcgyoesb"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/cxvtfbl3zr7x",
+      "player_url": "https://voe.sx/e/cxvtfbl3zr7x",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cxvtfbl3zr7x"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/cxvtfbl3zr7x/download",
+      "player_url": "https://voe.sx/cxvtfbl3zr7x/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/g0m1vphlnik6",
+      "player_url": "https://rapidvideo.link/e/g0m1vphlnik6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g0m1vphlnik6"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/hlz3k2cl3rdx",
+      "player_url": "https://minochinos.com/embed/hlz3k2cl3rdx",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hlz3k2cl3rdx"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/vz2052a9nky3",
+      "player_url": "https://hglink.to/e/vz2052a9nky3",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vz2052a9nky3"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/jb19omxk640s",
+      "player_url": "https://bysedikamoum.com/e/jb19omxk640s",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jb19omxk640s"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/pl5aahil3yob",
+      "player_url": "https://voe.sx/e/pl5aahil3yob",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pl5aahil3yob"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/pl5aahil3yob/download",
+      "player_url": "https://voe.sx/pl5aahil3yob/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/g71h6udz0kxe",
+      "player_url": "https://rapidvideo.link/e/g71h6udz0kxe",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "g71h6udz0kxe"
+    }
+  ]
+}
