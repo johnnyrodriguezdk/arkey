@@ -1,1 +1,199 @@
-{"id":1396558,"titulo":"Bloody Axe Wound","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/9317wkGixfbrGjU2YdAWmC8y1lO.jpg","release_date":"2024-12-27","genres":[],"rating":"5.3","backdrop":"https://image.tmdb.org/t/p/original/bVQe2nzhh4AvI3yDu22hDK6fTfo.jpg","overview":"Abbie Bladecut, una adolescente de Clover Falls, se enfrenta al dilema de continuar con la tradición familiar de grabar asesinatos reales para vender las cintas o dejarse guiar por sus nuevos sentimientos y seguir un nuevo rumbo.","trailer":"","runtime":"83","slug":"bloody-axe-wound","servidores":[{"id":1,"url":"https://streamwish.to/e/thfthpqedagw","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"thfthpqedagw","player_url":"https://streamwish.to/e/thfthpqedagw"},{"id":2,"url":"https://vidhidepro.com/v/dh1ry9gxb1y8","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"dh1ry9gxb1y8","player_url":"https://vidhidepro.com/v/dh1ry9gxb1y8"},{"id":3,"url":"https://voe.sx/e/pzmp1rc9a0ff","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"pzmp1rc9a0ff","player_url":"https://voe.sx/e/pzmp1rc9a0ff"},{"id":4,"url":"https://doodstream.com/e/z7jiyzs95jc7","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"z7jiyzs95jc7","player_url":"https://doodstream.com/e/z7jiyzs95jc7"},{"id":5,"url":"https://streamwish.to/e/66z001hs0wcz","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"66z001hs0wcz","player_url":"https://streamwish.to/e/66z001hs0wcz"},{"id":6,"url":"https://vidhidepro.com/v/o5az71hb7psr","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"o5az71hb7psr","player_url":"https://vidhidepro.com/v/o5az71hb7psr"},{"id":7,"url":"https://voe.sx/e/yknztcm8jec9","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"yknztcm8jec9","player_url":"https://voe.sx/e/yknztcm8jec9"},{"id":8,"url":"https://doodstream.com/e/2spcdraemdjw","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"2spcdraemdjw","player_url":"https://doodstream.com/e/2spcdraemdjw"}]}
+{
+  "id": 1396558,
+  "titulo": "Bloody Axe Wound",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/9317wkGixfbrGjU2YdAWmC8y1lO.jpg",
+  "release_date": "2024-12-27",
+  "genres": [
+    "Terror",
+    "Comedia"
+  ],
+  "rating": "5.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/bVQe2nzhh4AvI3yDu22hDK6fTfo.jpg",
+  "overview": "Abbie Bladecut, una adolescente de Clover Falls, se enfrenta al dilema de continuar con la tradición familiar de grabar asesinatos reales para vender las cintas o dejarse guiar por sus nuevos sentimientos y seguir un nuevo rumbo.",
+  "trailer": "",
+  "runtime": "83",
+  "slug": "bloody-axe-wound",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/thfthpqedagw",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "thfthpqedagw",
+      "player_url": "https://streamwish.to/e/thfthpqedagw"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/dh1ry9gxb1y8",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "dh1ry9gxb1y8",
+      "player_url": "https://vidhidepro.com/v/dh1ry9gxb1y8"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/pzmp1rc9a0ff",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "pzmp1rc9a0ff",
+      "player_url": "https://voe.sx/e/pzmp1rc9a0ff"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/z7jiyzs95jc7",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "z7jiyzs95jc7",
+      "player_url": "https://doodstream.com/e/z7jiyzs95jc7"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/66z001hs0wcz",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "66z001hs0wcz",
+      "player_url": "https://streamwish.to/e/66z001hs0wcz"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/o5az71hb7psr",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "o5az71hb7psr",
+      "player_url": "https://vidhidepro.com/v/o5az71hb7psr"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/yknztcm8jec9",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "yknztcm8jec9",
+      "player_url": "https://voe.sx/e/yknztcm8jec9"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/2spcdraemdjw",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "2spcdraemdjw",
+      "player_url": "https://doodstream.com/e/2spcdraemdjw"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/cuigbwttr1eg",
+      "player_url": "https://minochinos.com/embed/cuigbwttr1eg",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cuigbwttr1eg"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/97ks6w2dq7jo",
+      "player_url": "https://hglink.to/e/97ks6w2dq7jo",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "97ks6w2dq7jo"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/gtp7aa1pvt3t",
+      "player_url": "https://bysedikamoum.com/e/gtp7aa1pvt3t",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gtp7aa1pvt3t"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/oinaox5qvwge",
+      "player_url": "https://voe.sx/e/oinaox5qvwge",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oinaox5qvwge"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/oinaox5qvwge/download",
+      "player_url": "https://voe.sx/oinaox5qvwge/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/m10ij7gh32yu",
+      "player_url": "https://rapidvideo.link/e/m10ij7gh32yu",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m10ij7gh32yu"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/abi3b8zqom5g",
+      "player_url": "https://minochinos.com/embed/abi3b8zqom5g",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "abi3b8zqom5g"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/jgwf5h8e4orn",
+      "player_url": "https://hglink.to/e/jgwf5h8e4orn",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jgwf5h8e4orn"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/wc8ksgnjb3u5",
+      "player_url": "https://bysedikamoum.com/e/wc8ksgnjb3u5",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wc8ksgnjb3u5"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/mgu946qmn3es",
+      "player_url": "https://voe.sx/e/mgu946qmn3es",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mgu946qmn3es"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/mgu946qmn3es/download",
+      "player_url": "https://voe.sx/mgu946qmn3es/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/x70yvnlafih9",
+      "player_url": "https://rapidvideo.link/e/x70yvnlafih9",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "x70yvnlafih9"
+    }
+  ]
+}
