@@ -1,1 +1,198 @@
-{"id":1248893,"titulo":"De Break-Up Club","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/cWrD4EmV26yuAoxkzonaiQTf4EC.jpg","release_date":"2024-09-12","genres":[],"rating":"5.0","backdrop":"https://image.tmdb.org/t/p/original/eZ9cDoozzDg4ssjjFgmxrWgKb4.jpg","overview":"Dylan, a young man with a beautiful and carefree life, runs, along with his best friend Mike, the \"Break-Up Club\", a private club that offers assistance to help cope with the breakup. Things are going well until Zoë, a journalist and former employee of the club, starts writing a compromising article about the \"Break-Up Club\".","trailer":"","runtime":"0","slug":"de-break-up-club","servidores":[{"id":1,"url":"https://streamwish.to/e/9avvt6sb6cqz","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"9avvt6sb6cqz","player_url":"https://streamwish.to/e/9avvt6sb6cqz"},{"id":2,"url":"https://vidhidepro.com/v/3ymfhp5lej2k","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"3ymfhp5lej2k","player_url":"https://vidhidepro.com/v/3ymfhp5lej2k"},{"id":3,"url":"https://voe.sx/e/bygam05ivo3n","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"bygam05ivo3n","player_url":"https://voe.sx/e/bygam05ivo3n"},{"id":4,"url":"https://doodstream.com/e/pm5jzou42ok9","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"pm5jzou42ok9","player_url":"https://doodstream.com/e/pm5jzou42ok9"},{"id":5,"url":"https://streamwish.to/e/7hxfrstlozey","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"7hxfrstlozey","player_url":"https://streamwish.to/e/7hxfrstlozey"},{"id":6,"url":"https://vidhidepro.com/v/ypjfwgqfqjl5","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ypjfwgqfqjl5","player_url":"https://vidhidepro.com/v/ypjfwgqfqjl5"},{"id":7,"url":"https://voe.sx/e/j27oxrmw1hzr","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"j27oxrmw1hzr","player_url":"https://voe.sx/e/j27oxrmw1hzr"},{"id":8,"url":"https://doodstream.com/e/miiwhgrhh2hq","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"miiwhgrhh2hq","player_url":"https://doodstream.com/e/miiwhgrhh2hq"}]}
+{
+  "id": 1248893,
+  "titulo": "De Break-Up Club",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/cWrD4EmV26yuAoxkzonaiQTf4EC.jpg",
+  "release_date": "2024-09-12",
+  "genres": [
+    "Comedia"
+  ],
+  "rating": "5.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/eZ9cDoozzDg4ssjjFgmxrWgKb4.jpg",
+  "overview": "Dylan, a young man with a beautiful and carefree life, runs, along with his best friend Mike, the \"Break-Up Club\", a private club that offers assistance to help cope with the breakup. Things are going well until Zoë, a journalist and former employee of the club, starts writing a compromising article about the \"Break-Up Club\".",
+  "trailer": "",
+  "runtime": "0",
+  "slug": "de-break-up-club",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/9avvt6sb6cqz",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "9avvt6sb6cqz",
+      "player_url": "https://streamwish.to/e/9avvt6sb6cqz"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/3ymfhp5lej2k",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3ymfhp5lej2k",
+      "player_url": "https://vidhidepro.com/v/3ymfhp5lej2k"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/bygam05ivo3n",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "bygam05ivo3n",
+      "player_url": "https://voe.sx/e/bygam05ivo3n"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/pm5jzou42ok9",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "pm5jzou42ok9",
+      "player_url": "https://doodstream.com/e/pm5jzou42ok9"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/7hxfrstlozey",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7hxfrstlozey",
+      "player_url": "https://streamwish.to/e/7hxfrstlozey"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/ypjfwgqfqjl5",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ypjfwgqfqjl5",
+      "player_url": "https://vidhidepro.com/v/ypjfwgqfqjl5"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/j27oxrmw1hzr",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "j27oxrmw1hzr",
+      "player_url": "https://voe.sx/e/j27oxrmw1hzr"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/miiwhgrhh2hq",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "miiwhgrhh2hq",
+      "player_url": "https://doodstream.com/e/miiwhgrhh2hq"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/bxjlixruzbmx",
+      "player_url": "https://minochinos.com/embed/bxjlixruzbmx",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bxjlixruzbmx"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/ppzjh5f1nwjx",
+      "player_url": "https://hglink.to/e/ppzjh5f1nwjx",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ppzjh5f1nwjx"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/jlh6ux8h12a5",
+      "player_url": "https://bysedikamoum.com/e/jlh6ux8h12a5",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jlh6ux8h12a5"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/gmstzwdv1iin",
+      "player_url": "https://voe.sx/e/gmstzwdv1iin",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gmstzwdv1iin"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/gmstzwdv1iin/download",
+      "player_url": "https://voe.sx/gmstzwdv1iin/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/iofuwcl7h5bd",
+      "player_url": "https://rapidvideo.link/e/iofuwcl7h5bd",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iofuwcl7h5bd"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/oam73ohul1p5",
+      "player_url": "https://minochinos.com/embed/oam73ohul1p5",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "oam73ohul1p5"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/zls3tovtmyp3",
+      "player_url": "https://hglink.to/e/zls3tovtmyp3",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zls3tovtmyp3"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/5bkgdz84qj7w",
+      "player_url": "https://bysedikamoum.com/e/5bkgdz84qj7w",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5bkgdz84qj7w"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/xqbzs8c89ira",
+      "player_url": "https://voe.sx/e/xqbzs8c89ira",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xqbzs8c89ira"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/xqbzs8c89ira/download",
+      "player_url": "https://voe.sx/xqbzs8c89ira/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/ibrfws9p2a5h",
+      "player_url": "https://rapidvideo.link/e/ibrfws9p2a5h",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ibrfws9p2a5h"
+    }
+  ]
+}
