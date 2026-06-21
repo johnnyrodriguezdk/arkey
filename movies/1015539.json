@@ -1,1 +1,200 @@
-{"id":1015539,"titulo":"Santastein","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/zUY57i43vmIbp7xod8BdE3MxQ0c.jpg","release_date":"2024-11-25","genres":[],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/atwY0qa1ZK5ZmDR7E943xiYG9a4.jpg","overview":"Cuando Max Causey tenía seis años, accidentalmente mató a Santa. 12 años después, Max rectifica su error al resucitarlo, pero pronto se da cuenta de que la criatura que creó es un asesino sediento de sangre y se dirige directamente a la fiesta de Navidad de su amigo.","trailer":"","runtime":"88","slug":"santastein","servidores":[{"id":1,"url":"https://streamwish.to/e/h8j7cdowu2ae","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"h8j7cdowu2ae","player_url":"https://streamwish.to/e/h8j7cdowu2ae"},{"id":2,"url":"https://vidhidepro.com/v/rozl2rxrktta","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"rozl2rxrktta","player_url":"https://vidhidepro.com/v/rozl2rxrktta"},{"id":3,"url":"https://voe.sx/e/mhm4p22qoo8z","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"mhm4p22qoo8z","player_url":"https://voe.sx/e/mhm4p22qoo8z"},{"id":4,"url":"https://doodstream.com/e/xmbwnw2bgl3q","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"xmbwnw2bgl3q","player_url":"https://doodstream.com/e/xmbwnw2bgl3q"},{"id":5,"url":"https://streamwish.to/e/zb9qwftr0gmf","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"zb9qwftr0gmf","player_url":"https://streamwish.to/e/zb9qwftr0gmf"},{"id":6,"url":"https://vidhidepro.com/v/93kzxpw4yhfv","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"93kzxpw4yhfv","player_url":"https://vidhidepro.com/v/93kzxpw4yhfv"},{"id":7,"url":"https://voe.sx/e/jqi9bjmldatr","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"jqi9bjmldatr","player_url":"https://voe.sx/e/jqi9bjmldatr"},{"id":8,"url":"https://doodstream.com/e/s607smf54ken","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"s607smf54ken","player_url":"https://doodstream.com/e/s607smf54ken"}]}
+{
+  "id": 1015539,
+  "titulo": "Santastein",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/zUY57i43vmIbp7xod8BdE3MxQ0c.jpg",
+  "release_date": "2024-11-25",
+  "genres": [
+    "Terror",
+    "Comedia",
+    "Fantasía"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/atwY0qa1ZK5ZmDR7E943xiYG9a4.jpg",
+  "overview": "Cuando Max Causey tenía seis años, accidentalmente mató a Santa. 12 años después, Max rectifica su error al resucitarlo, pero pronto se da cuenta de que la criatura que creó es un asesino sediento de sangre y se dirige directamente a la fiesta de Navidad de su amigo.",
+  "trailer": "",
+  "runtime": "88",
+  "slug": "santastein",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/h8j7cdowu2ae",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "h8j7cdowu2ae",
+      "player_url": "https://streamwish.to/e/h8j7cdowu2ae"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/rozl2rxrktta",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rozl2rxrktta",
+      "player_url": "https://vidhidepro.com/v/rozl2rxrktta"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/mhm4p22qoo8z",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "mhm4p22qoo8z",
+      "player_url": "https://voe.sx/e/mhm4p22qoo8z"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/xmbwnw2bgl3q",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "xmbwnw2bgl3q",
+      "player_url": "https://doodstream.com/e/xmbwnw2bgl3q"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/zb9qwftr0gmf",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zb9qwftr0gmf",
+      "player_url": "https://streamwish.to/e/zb9qwftr0gmf"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/93kzxpw4yhfv",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "93kzxpw4yhfv",
+      "player_url": "https://vidhidepro.com/v/93kzxpw4yhfv"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/jqi9bjmldatr",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jqi9bjmldatr",
+      "player_url": "https://voe.sx/e/jqi9bjmldatr"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/s607smf54ken",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "s607smf54ken",
+      "player_url": "https://doodstream.com/e/s607smf54ken"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/5yp7kztvg0i5",
+      "player_url": "https://minochinos.com/embed/5yp7kztvg0i5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5yp7kztvg0i5"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/23mtcb28eupg",
+      "player_url": "https://hglink.to/e/23mtcb28eupg",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "23mtcb28eupg"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/g62eoh2g24ic",
+      "player_url": "https://bysedikamoum.com/e/g62eoh2g24ic",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g62eoh2g24ic"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/rbal4mr8apih",
+      "player_url": "https://voe.sx/e/rbal4mr8apih",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rbal4mr8apih"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/rbal4mr8apih/download",
+      "player_url": "https://voe.sx/rbal4mr8apih/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/6zghjbiap7n2",
+      "player_url": "https://rapidvideo.link/e/6zghjbiap7n2",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6zghjbiap7n2"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/wgte6iu3egjx",
+      "player_url": "https://minochinos.com/embed/wgte6iu3egjx",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wgte6iu3egjx"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/41znyda91d0t",
+      "player_url": "https://hglink.to/e/41znyda91d0t",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "41znyda91d0t"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/6zqjrt8ai0sl",
+      "player_url": "https://bysedikamoum.com/e/6zqjrt8ai0sl",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6zqjrt8ai0sl"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/isfgr9nbjuqo",
+      "player_url": "https://voe.sx/e/isfgr9nbjuqo",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "isfgr9nbjuqo"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/isfgr9nbjuqo/download",
+      "player_url": "https://voe.sx/isfgr9nbjuqo/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/50ho8put39bs",
+      "player_url": "https://rapidvideo.link/e/50ho8put39bs",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "50ho8put39bs"
+    }
+  ]
+}
