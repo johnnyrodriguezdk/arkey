@@ -1,1 +1,216 @@
-{"id":1295166,"titulo":"The Exorcism of Saint Patrick","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/rbAxqGzCOk7lY8xuSOUnuwmm12i.jpg","release_date":"2024-08-29","genres":[],"rating":"4.1","backdrop":"https://image.tmdb.org/t/p/original/i4TJpMxph9RXx81uEM4sZpfl5LU.jpg","overview":"A pastor takes a young gay teen to a cabin to perform conversion therapy, but the ghosts of his previous victims are waiting for him.","trailer":"","runtime":"90","slug":"the-exorcism-of-saint-patrick","servidores":[{"id":1,"url":"https://streamwish.to/e/46gr7n3jwt3t","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"46gr7n3jwt3t","player_url":"https://streamwish.to/e/46gr7n3jwt3t"},{"id":2,"url":"https://bysejikuar.com/e/nwcxnodtqaxh","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"nwcxnodtqaxh","player_url":"https://bysejikuar.com/e/nwcxnodtqaxh"},{"id":3,"url":"https://vidhidepro.com/v/tx7zuql2chwn","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"tx7zuql2chwn","player_url":"https://vidhidepro.com/v/tx7zuql2chwn"},{"id":4,"url":"https://voe.sx/e/n7l9bzx3vt6n","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"n7l9bzx3vt6n","player_url":"https://voe.sx/e/n7l9bzx3vt6n"},{"id":5,"url":"https://doodstream.com/e/kjon2otvmt9h","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"kjon2otvmt9h","player_url":"https://doodstream.com/e/kjon2otvmt9h"},{"id":6,"url":"https://streamwish.to/e/cqsyfg7tb9y1","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"cqsyfg7tb9y1","player_url":"https://streamwish.to/e/cqsyfg7tb9y1"},{"id":7,"url":"https://bysejikuar.com/e/5d4prra0b397","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"5d4prra0b397","player_url":"https://bysejikuar.com/e/5d4prra0b397"},{"id":8,"url":"https://vidhidepro.com/v/ld11p0gj3cmg","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ld11p0gj3cmg","player_url":"https://vidhidepro.com/v/ld11p0gj3cmg"},{"id":9,"url":"https://voe.sx/e/zgg76jawfesm","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"zgg76jawfesm","player_url":"https://voe.sx/e/zgg76jawfesm"},{"id":10,"url":"https://doodstream.com/e/dz7ryfr4uskr","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"dz7ryfr4uskr","player_url":"https://doodstream.com/e/dz7ryfr4uskr"}]}
+{
+  "id": 1295166,
+  "titulo": "The Exorcism of Saint Patrick",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/rbAxqGzCOk7lY8xuSOUnuwmm12i.jpg",
+  "release_date": "2024-08-29",
+  "genres": [
+    "Terror"
+  ],
+  "rating": "4.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/i4TJpMxph9RXx81uEM4sZpfl5LU.jpg",
+  "overview": "A pastor takes a young gay teen to a cabin to perform conversion therapy, but the ghosts of his previous victims are waiting for him.",
+  "trailer": "",
+  "runtime": "90",
+  "slug": "the-exorcism-of-saint-patrick",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/46gr7n3jwt3t",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "46gr7n3jwt3t",
+      "player_url": "https://streamwish.to/e/46gr7n3jwt3t"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/nwcxnodtqaxh",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "nwcxnodtqaxh",
+      "player_url": "https://bysejikuar.com/e/nwcxnodtqaxh"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/tx7zuql2chwn",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "tx7zuql2chwn",
+      "player_url": "https://vidhidepro.com/v/tx7zuql2chwn"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/n7l9bzx3vt6n",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "n7l9bzx3vt6n",
+      "player_url": "https://voe.sx/e/n7l9bzx3vt6n"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/kjon2otvmt9h",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "kjon2otvmt9h",
+      "player_url": "https://doodstream.com/e/kjon2otvmt9h"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/cqsyfg7tb9y1",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cqsyfg7tb9y1",
+      "player_url": "https://streamwish.to/e/cqsyfg7tb9y1"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/5d4prra0b397",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "5d4prra0b397",
+      "player_url": "https://bysejikuar.com/e/5d4prra0b397"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/ld11p0gj3cmg",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ld11p0gj3cmg",
+      "player_url": "https://vidhidepro.com/v/ld11p0gj3cmg"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/zgg76jawfesm",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zgg76jawfesm",
+      "player_url": "https://voe.sx/e/zgg76jawfesm"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/dz7ryfr4uskr",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "dz7ryfr4uskr",
+      "player_url": "https://doodstream.com/e/dz7ryfr4uskr"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/dex19n5j1f7m",
+      "player_url": "https://minochinos.com/embed/dex19n5j1f7m",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dex19n5j1f7m"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/zylsoks73dg9",
+      "player_url": "https://hglink.to/e/zylsoks73dg9",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zylsoks73dg9"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/4slzgayjyacy",
+      "player_url": "https://bysedikamoum.com/e/4slzgayjyacy",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4slzgayjyacy"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/c2drlw6ghn48",
+      "player_url": "https://voe.sx/e/c2drlw6ghn48",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c2drlw6ghn48"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/c2drlw6ghn48/download",
+      "player_url": "https://voe.sx/c2drlw6ghn48/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/4vuzhj2lr6s3",
+      "player_url": "https://rapidvideo.link/e/4vuzhj2lr6s3",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4vuzhj2lr6s3"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/4ksikbffjz7a",
+      "player_url": "https://minochinos.com/embed/4ksikbffjz7a",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4ksikbffjz7a"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/c4rd60glabaz",
+      "player_url": "https://hglink.to/e/c4rd60glabaz",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c4rd60glabaz"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/gaay2idec79u",
+      "player_url": "https://bysedikamoum.com/e/gaay2idec79u",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gaay2idec79u"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/mja03vq4irub",
+      "player_url": "https://voe.sx/e/mja03vq4irub",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mja03vq4irub"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/mja03vq4irub/download",
+      "player_url": "https://voe.sx/mja03vq4irub/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/ftvnuy76agm9",
+      "player_url": "https://rapidvideo.link/e/ftvnuy76agm9",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ftvnuy76agm9"
+    }
+  ]
+}
