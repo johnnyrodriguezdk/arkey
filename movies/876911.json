@@ -1,1 +1,198 @@
-{"id":876911,"titulo":"Parallel","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/4RQ2xOgRjw00ge7f2srg3bBAwZp.jpg","release_date":"2024-02-23","genres":["drama"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/zky1xbkgDwCMiNOLFoPRyjHMo2w.jpg","overview":"Sigue el viaje de Vanessa, una mujer afligida que misteriosamente se encuentra navegando entre espacios paralelos.","trailer":"","runtime":"88","slug":"parallel","servidores":[{"id":1,"url":"https://streamwish.to/e/anb2d0tond0m","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"anb2d0tond0m","player_url":"https://streamwish.to/e/anb2d0tond0m"},{"id":2,"url":"https://vidhidepro.com/v/u8o107n9ejzb","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"u8o107n9ejzb","player_url":"https://vidhidepro.com/v/u8o107n9ejzb"},{"id":3,"url":"https://voe.sx/e/umvmrxfs4b1q","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"umvmrxfs4b1q","player_url":"https://voe.sx/e/umvmrxfs4b1q"},{"id":4,"url":"https://doodstream.com/e/8qee3zbs192h","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"8qee3zbs192h","player_url":"https://doodstream.com/e/8qee3zbs192h"},{"id":5,"url":"https://streamwish.to/e/i7tisqfhntn4","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"i7tisqfhntn4","player_url":"https://streamwish.to/e/i7tisqfhntn4"},{"id":6,"url":"https://vidhidepro.com/v/y5uq6jkwom10","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"y5uq6jkwom10","player_url":"https://vidhidepro.com/v/y5uq6jkwom10"},{"id":7,"url":"https://voe.sx/e/0ounjsvpvl38","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"0ounjsvpvl38","player_url":"https://voe.sx/e/0ounjsvpvl38"},{"id":8,"url":"https://doodstream.com/e/buudom09klrd","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"buudom09klrd","player_url":"https://doodstream.com/e/buudom09klrd"}]}
+{
+  "id": 876911,
+  "titulo": "Parallel",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/4RQ2xOgRjw00ge7f2srg3bBAwZp.jpg",
+  "release_date": "2024-02-23",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/zky1xbkgDwCMiNOLFoPRyjHMo2w.jpg",
+  "overview": "Sigue el viaje de Vanessa, una mujer afligida que misteriosamente se encuentra navegando entre espacios paralelos.",
+  "trailer": "",
+  "runtime": "88",
+  "slug": "parallel",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/anb2d0tond0m",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "anb2d0tond0m",
+      "player_url": "https://streamwish.to/e/anb2d0tond0m"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/u8o107n9ejzb",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "u8o107n9ejzb",
+      "player_url": "https://vidhidepro.com/v/u8o107n9ejzb"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/umvmrxfs4b1q",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "umvmrxfs4b1q",
+      "player_url": "https://voe.sx/e/umvmrxfs4b1q"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/8qee3zbs192h",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "8qee3zbs192h",
+      "player_url": "https://doodstream.com/e/8qee3zbs192h"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/i7tisqfhntn4",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "i7tisqfhntn4",
+      "player_url": "https://streamwish.to/e/i7tisqfhntn4"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/y5uq6jkwom10",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "y5uq6jkwom10",
+      "player_url": "https://vidhidepro.com/v/y5uq6jkwom10"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/0ounjsvpvl38",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "0ounjsvpvl38",
+      "player_url": "https://voe.sx/e/0ounjsvpvl38"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/buudom09klrd",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "buudom09klrd",
+      "player_url": "https://doodstream.com/e/buudom09klrd"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/731ksqyrh42m",
+      "player_url": "https://minochinos.com/embed/731ksqyrh42m",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "731ksqyrh42m"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/i0b552nj25u5",
+      "player_url": "https://hglink.to/e/i0b552nj25u5",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i0b552nj25u5"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/h3uz7k2z85hv",
+      "player_url": "https://bysedikamoum.com/e/h3uz7k2z85hv",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h3uz7k2z85hv"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/kctppcldz89i",
+      "player_url": "https://voe.sx/e/kctppcldz89i",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kctppcldz89i"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/kctppcldz89i/download",
+      "player_url": "https://voe.sx/kctppcldz89i/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/m8xq0wdjn7ur",
+      "player_url": "https://rapidvideo.link/e/m8xq0wdjn7ur",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m8xq0wdjn7ur"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/uy8om8d4e74m",
+      "player_url": "https://minochinos.com/embed/uy8om8d4e74m",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "uy8om8d4e74m"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/wx0sdnmust9c",
+      "player_url": "https://hglink.to/e/wx0sdnmust9c",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wx0sdnmust9c"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/ubuzd4gyogev",
+      "player_url": "https://bysedikamoum.com/e/ubuzd4gyogev",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ubuzd4gyogev"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/ymswimj3zy2r",
+      "player_url": "https://voe.sx/e/ymswimj3zy2r",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ymswimj3zy2r"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/ymswimj3zy2r/download",
+      "player_url": "https://voe.sx/ymswimj3zy2r/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/fb2pa4iozuys",
+      "player_url": "https://rapidvideo.link/e/fb2pa4iozuys",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fb2pa4iozuys"
+    }
+  ]
+}
