@@ -1,1 +1,261 @@
-{"id":1495723,"titulo":"Un hombre abandonado","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/4QmaKQgU7wXOcMeOb5HvJY1Eusz.jpg","release_date":"2025-08-22","genres":["drama"],"rating":"7.4","backdrop":"https://image.tmdb.org/t/p/original/j5FNYFaSXmD3T0WAYDAvguEPVOv.jpg","overview":"Tras cumplir una condena en prisión por un crimen de su hermano, un hombre se reencuentra con su familia, y el rencor se transforma en sanación cuando conoce a su sobrina.","trailer":"","runtime":"91","slug":"un-hombre-abandonado","servidores":[{"id":1,"url":"https://streamwish.to/e/33cx3mfm263i","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"33cx3mfm263i","player_url":"https://streamwish.to/e/33cx3mfm263i"},{"id":2,"url":"https://vidhidepro.com/v/evlzddtcafu5","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"evlzddtcafu5","player_url":"https://vidhidepro.com/v/evlzddtcafu5"},{"id":3,"url":"https://voe.sx/e/cnh7ftjxgbzl","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"cnh7ftjxgbzl","player_url":"https://voe.sx/e/cnh7ftjxgbzl"},{"id":4,"url":"https://doodstream.com/e/qd0js59p4ytk","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"qd0js59p4ytk","player_url":"https://doodstream.com/e/qd0js59p4ytk"},{"id":5,"url":"https://streamwish.to/e/ed1j6ruiq52j","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ed1j6ruiq52j","player_url":"https://streamwish.to/e/ed1j6ruiq52j"},{"id":6,"url":"https://vidhidepro.com/v/tp9izmpegvhq","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"tp9izmpegvhq","player_url":"https://vidhidepro.com/v/tp9izmpegvhq"},{"id":7,"url":"https://voe.sx/e/x8sdpwqamhx8","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"x8sdpwqamhx8","player_url":"https://voe.sx/e/x8sdpwqamhx8"},{"id":8,"url":"https://streamwish.to/e/vd2lxl7a7b56","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"vd2lxl7a7b56","player_url":"https://streamwish.to/e/vd2lxl7a7b56"},{"id":9,"url":"https://vidhidepro.com/v/qsfvkff2meeo","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"qsfvkff2meeo","player_url":"https://vidhidepro.com/v/qsfvkff2meeo"},{"id":10,"url":"https://voe.sx/e/gzun2cmpayx1","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"gzun2cmpayx1","player_url":"https://voe.sx/e/gzun2cmpayx1"}]}
+{
+  "id": 1495723,
+  "titulo": "Un hombre abandonado",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/4QmaKQgU7wXOcMeOb5HvJY1Eusz.jpg",
+  "release_date": "2025-08-22",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/j5FNYFaSXmD3T0WAYDAvguEPVOv.jpg",
+  "overview": "Tras cumplir una condena en prisión por un crimen de su hermano, un hombre se reencuentra con su familia, y el rencor se transforma en sanación cuando conoce a su sobrina.",
+  "trailer": "",
+  "runtime": "91",
+  "slug": "un-hombre-abandonado",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/33cx3mfm263i",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "33cx3mfm263i",
+      "player_url": "https://streamwish.to/e/33cx3mfm263i"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/evlzddtcafu5",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "evlzddtcafu5",
+      "player_url": "https://vidhidepro.com/v/evlzddtcafu5"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/cnh7ftjxgbzl",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "cnh7ftjxgbzl",
+      "player_url": "https://voe.sx/e/cnh7ftjxgbzl"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/qd0js59p4ytk",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "qd0js59p4ytk",
+      "player_url": "https://doodstream.com/e/qd0js59p4ytk"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/ed1j6ruiq52j",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ed1j6ruiq52j",
+      "player_url": "https://streamwish.to/e/ed1j6ruiq52j"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/tp9izmpegvhq",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "tp9izmpegvhq",
+      "player_url": "https://vidhidepro.com/v/tp9izmpegvhq"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/x8sdpwqamhx8",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "x8sdpwqamhx8",
+      "player_url": "https://voe.sx/e/x8sdpwqamhx8"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/vd2lxl7a7b56",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vd2lxl7a7b56",
+      "player_url": "https://streamwish.to/e/vd2lxl7a7b56"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/qsfvkff2meeo",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "qsfvkff2meeo",
+      "player_url": "https://vidhidepro.com/v/qsfvkff2meeo"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/gzun2cmpayx1",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gzun2cmpayx1",
+      "player_url": "https://voe.sx/e/gzun2cmpayx1"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/zgfc2ih6nyi0",
+      "player_url": "https://minochinos.com/embed/zgfc2ih6nyi0",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zgfc2ih6nyi0"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/k83r7n5plok7",
+      "player_url": "https://hglink.to/e/k83r7n5plok7",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k83r7n5plok7"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/7tkobhzyoeh4",
+      "player_url": "https://bysedikamoum.com/e/7tkobhzyoeh4",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7tkobhzyoeh4"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/aoa8brlflhkl",
+      "player_url": "https://voe.sx/e/aoa8brlflhkl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aoa8brlflhkl"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/aoa8brlflhkl/download",
+      "player_url": "https://voe.sx/aoa8brlflhkl/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/ljmo26zqfh08",
+      "player_url": "https://rapidvideo.link/e/ljmo26zqfh08",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ljmo26zqfh08"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/mcchylafsldz",
+      "player_url": "https://minochinos.com/embed/mcchylafsldz",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mcchylafsldz"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/a0gfd3qampfi",
+      "player_url": "https://hglink.to/e/a0gfd3qampfi",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a0gfd3qampfi"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/c0yzgf0m1x5q",
+      "player_url": "https://bysedikamoum.com/e/c0yzgf0m1x5q",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c0yzgf0m1x5q"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/nwpkzjzmvusm",
+      "player_url": "https://voe.sx/e/nwpkzjzmvusm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nwpkzjzmvusm"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/h98uz0v5jroc",
+      "player_url": "https://rapidvideo.link/e/h98uz0v5jroc",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h98uz0v5jroc"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/5f3xw0jrla06",
+      "player_url": "https://minochinos.com/embed/5f3xw0jrla06",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5f3xw0jrla06"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/qzl1gj5ielw4",
+      "player_url": "https://hglink.to/e/qzl1gj5ielw4",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qzl1gj5ielw4"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/sgwb89a6brfy",
+      "player_url": "https://bysedikamoum.com/e/sgwb89a6brfy",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sgwb89a6brfy"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/avhiwk3eyteo",
+      "player_url": "https://voe.sx/e/avhiwk3eyteo",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "avhiwk3eyteo"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/avhiwk3eyteo/download",
+      "player_url": "https://voe.sx/avhiwk3eyteo/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/02eg5wcd9paf",
+      "player_url": "https://rapidvideo.link/e/02eg5wcd9paf",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "02eg5wcd9paf"
+    }
+  ]
+}
