@@ -1,1 +1,297 @@
-{"id":1276073,"titulo":"Pánico en el tren bala","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/qDyJuHpn0Sh19fMv52vRTwGBx4g.jpg","release_date":"2025-04-23","genres":["drama"],"rating":"6.8","backdrop":"https://image.tmdb.org/t/p/original/zHP9pMtYuMZBluNZNBP9i5fX2US.jpg","overview":"El pánico cunde en un tren bala con destino a Tokio que explotará si baja la velocidad a menos de 100 km/h, y las autoridades deben apresurarse para salvar a todos los pasajeros.","trailer":"","runtime":"134","slug":"panico-en-el-tren-bala","servidores":[{"id":1,"url":"https://streamwish.to/e/i40a75m8pdv1","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"i40a75m8pdv1","player_url":"https://streamwish.to/e/i40a75m8pdv1"},{"id":2,"url":"https://vidhidepro.com/v/srbkp2nzg6oq","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"srbkp2nzg6oq","player_url":"https://vidhidepro.com/v/srbkp2nzg6oq"},{"id":3,"url":"https://voe.sx/e/cfoby5ujmkkx","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"cfoby5ujmkkx","player_url":"https://voe.sx/e/cfoby5ujmkkx"},{"id":4,"url":"https://doodstream.com/e/lpsrpflatxjw","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"lpsrpflatxjw","player_url":"https://doodstream.com/e/lpsrpflatxjw"},{"id":5,"url":"https://streamwish.to/e/2o88iomiwdwy","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"2o88iomiwdwy","player_url":"https://streamwish.to/e/2o88iomiwdwy"},{"id":6,"url":"https://vidhidepro.com/v/fb4l47c0thwr","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"fb4l47c0thwr","player_url":"https://vidhidepro.com/v/fb4l47c0thwr"},{"id":7,"url":"https://voe.sx/e/foa0ujpbdriy","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"foa0ujpbdriy","player_url":"https://voe.sx/e/foa0ujpbdriy"},{"id":8,"url":"https://doodstream.com/e/fyaiuh9pyvmx","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"fyaiuh9pyvmx","player_url":"https://doodstream.com/e/fyaiuh9pyvmx"}]}
+{
+  "id": 1276073,
+  "titulo": "Pánico en el tren bala",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/qDyJuHpn0Sh19fMv52vRTwGBx4g.jpg",
+  "release_date": "2025-04-23",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/zHP9pMtYuMZBluNZNBP9i5fX2US.jpg",
+  "overview": "El pánico cunde en un tren bala con destino a Tokio que explotará si baja la velocidad a menos de 100 km/h, y las autoridades deben apresurarse para salvar a todos los pasajeros.",
+  "trailer": "",
+  "runtime": "134",
+  "slug": "panico-en-el-tren-bala",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/i40a75m8pdv1",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "i40a75m8pdv1",
+      "player_url": "https://streamwish.to/e/i40a75m8pdv1"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/srbkp2nzg6oq",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "srbkp2nzg6oq",
+      "player_url": "https://vidhidepro.com/v/srbkp2nzg6oq"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/cfoby5ujmkkx",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "cfoby5ujmkkx",
+      "player_url": "https://voe.sx/e/cfoby5ujmkkx"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/lpsrpflatxjw",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "lpsrpflatxjw",
+      "player_url": "https://doodstream.com/e/lpsrpflatxjw"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/2o88iomiwdwy",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "2o88iomiwdwy",
+      "player_url": "https://streamwish.to/e/2o88iomiwdwy"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/fb4l47c0thwr",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fb4l47c0thwr",
+      "player_url": "https://vidhidepro.com/v/fb4l47c0thwr"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/foa0ujpbdriy",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "foa0ujpbdriy",
+      "player_url": "https://voe.sx/e/foa0ujpbdriy"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/fyaiuh9pyvmx",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fyaiuh9pyvmx",
+      "player_url": "https://doodstream.com/e/fyaiuh9pyvmx"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/c76vnrvs4asj",
+      "player_url": "https://minochinos.com/embed/c76vnrvs4asj",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c76vnrvs4asj"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/r70jtwwd8p1j",
+      "player_url": "https://hglink.to/e/r70jtwwd8p1j",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r70jtwwd8p1j"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/2e2fvu6v413n",
+      "player_url": "https://bysedikamoum.com/e/2e2fvu6v413n",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2e2fvu6v413n"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/nweovg0vyumn",
+      "player_url": "https://voe.sx/e/nweovg0vyumn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nweovg0vyumn"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/nweovg0vyumn/download",
+      "player_url": "https://voe.sx/nweovg0vyumn/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/gvy7fbmqhile",
+      "player_url": "https://rapidvideo.link/e/gvy7fbmqhile",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gvy7fbmqhile"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/12h7vlvh7og8",
+      "player_url": "https://minochinos.com/embed/12h7vlvh7og8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "12h7vlvh7og8"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/yv9k9ysguon8",
+      "player_url": "https://hglink.to/e/yv9k9ysguon8",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yv9k9ysguon8"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/b295ulxni9b6",
+      "player_url": "https://bysedikamoum.com/e/b295ulxni9b6",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b295ulxni9b6"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/ri9odccwykqa",
+      "player_url": "https://voe.sx/e/ri9odccwykqa",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ri9odccwykqa"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/y7m3xl0fsuia",
+      "player_url": "https://rapidvideo.link/e/y7m3xl0fsuia",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y7m3xl0fsuia"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/mlpyv61ap1fm",
+      "player_url": "https://minochinos.com/embed/mlpyv61ap1fm",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mlpyv61ap1fm"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/chm8o5500pk2",
+      "player_url": "https://hglink.to/e/chm8o5500pk2",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "chm8o5500pk2"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/sptni8o6mg2l",
+      "player_url": "https://bysedikamoum.com/e/sptni8o6mg2l",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sptni8o6mg2l"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/baiw7hqv6ylq",
+      "player_url": "https://voe.sx/e/baiw7hqv6ylq",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "baiw7hqv6ylq"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/baiw7hqv6ylq/download",
+      "player_url": "https://voe.sx/baiw7hqv6ylq/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/qdlp0osvyfkb",
+      "player_url": "https://rapidvideo.link/e/qdlp0osvyfkb",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qdlp0osvyfkb"
+    },
+    {
+      "id": 26,
+      "url": "https://minochinos.com/embed/nrttpztdsjso",
+      "player_url": "https://minochinos.com/embed/nrttpztdsjso",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "nrttpztdsjso"
+    },
+    {
+      "id": 27,
+      "url": "https://hglink.to/e/cjdkxrdrog2q",
+      "player_url": "https://hglink.to/e/cjdkxrdrog2q",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "cjdkxrdrog2q"
+    },
+    {
+      "id": 28,
+      "url": "https://bysedikamoum.com/e/zojmx9zke050",
+      "player_url": "https://bysedikamoum.com/e/zojmx9zke050",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "zojmx9zke050"
+    },
+    {
+      "id": 29,
+      "url": "https://voe.sx/e/7zwhxigssyhq",
+      "player_url": "https://voe.sx/e/7zwhxigssyhq",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "7zwhxigssyhq"
+    },
+    {
+      "id": 30,
+      "url": "https://voe.sx/7zwhxigssyhq/download",
+      "player_url": "https://voe.sx/7zwhxigssyhq/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 31,
+      "url": "https://rapidvideo.link/e/v5yaznm6wqud",
+      "player_url": "https://rapidvideo.link/e/v5yaznm6wqud",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "v5yaznm6wqud"
+    }
+  ]
+}
