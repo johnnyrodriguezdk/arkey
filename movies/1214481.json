@@ -1,1 +1,244 @@
-{"id":1214481,"titulo":"El caos está en el aire","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/7DBLmQ1Dy3PqWJV5FWzo9i3RMGd.jpg","release_date":"2025-02-13","genres":["romance","drama"],"rating":"5.2","backdrop":"https://image.tmdb.org/t/p/original/e8npsTfpBZa8T0TQqyZSwD9RNu2.jpg","overview":"Una pareja de Estocolmo planea casarse en la isla de Gotlandia, pero las tradiciones impuestas por sus familias convierten el gran día en un desastre.","trailer":"","runtime":"96","slug":"el-caos-esta-en-el-aire","servidores":[{"id":1,"url":"https://streamwish.to/e/0mvx39w6f4yu","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"0mvx39w6f4yu","player_url":"https://streamwish.to/e/0mvx39w6f4yu"},{"id":2,"url":"https://vidhidepro.com/v/1xy3eryh0vk4","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"1xy3eryh0vk4","player_url":"https://vidhidepro.com/v/1xy3eryh0vk4"},{"id":3,"url":"https://voe.sx/e/2eabe5i2j8c4","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"2eabe5i2j8c4","player_url":"https://voe.sx/e/2eabe5i2j8c4"},{"id":4,"url":"https://doodstream.com/e/52dzu1535vu8","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"52dzu1535vu8","player_url":"https://doodstream.com/e/52dzu1535vu8"},{"id":5,"url":"https://streamwish.to/e/62adcj30oiwi","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"62adcj30oiwi","player_url":"https://streamwish.to/e/62adcj30oiwi"},{"id":6,"url":"https://vidhidepro.com/v/fpyjdf47gbll","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"fpyjdf47gbll","player_url":"https://vidhidepro.com/v/fpyjdf47gbll"},{"id":7,"url":"https://streamwish.to/e/2qatvfv5mv7i","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"2qatvfv5mv7i","player_url":"https://streamwish.to/e/2qatvfv5mv7i"},{"id":8,"url":"https://vidhidepro.com/v/hspfbw3v6lpr","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"hspfbw3v6lpr","player_url":"https://vidhidepro.com/v/hspfbw3v6lpr"}]}
+{
+  "id": 1214481,
+  "titulo": "El caos está en el aire",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/7DBLmQ1Dy3PqWJV5FWzo9i3RMGd.jpg",
+  "release_date": "2025-02-13",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "5.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/e8npsTfpBZa8T0TQqyZSwD9RNu2.jpg",
+  "overview": "Una pareja de Estocolmo planea casarse en la isla de Gotlandia, pero las tradiciones impuestas por sus familias convierten el gran día en un desastre.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "el-caos-esta-en-el-aire",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/0mvx39w6f4yu",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "0mvx39w6f4yu",
+      "player_url": "https://streamwish.to/e/0mvx39w6f4yu"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/1xy3eryh0vk4",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1xy3eryh0vk4",
+      "player_url": "https://vidhidepro.com/v/1xy3eryh0vk4"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/2eabe5i2j8c4",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "2eabe5i2j8c4",
+      "player_url": "https://voe.sx/e/2eabe5i2j8c4"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/52dzu1535vu8",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "52dzu1535vu8",
+      "player_url": "https://doodstream.com/e/52dzu1535vu8"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/62adcj30oiwi",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "62adcj30oiwi",
+      "player_url": "https://streamwish.to/e/62adcj30oiwi"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/fpyjdf47gbll",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fpyjdf47gbll",
+      "player_url": "https://vidhidepro.com/v/fpyjdf47gbll"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/2qatvfv5mv7i",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "2qatvfv5mv7i",
+      "player_url": "https://streamwish.to/e/2qatvfv5mv7i"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/hspfbw3v6lpr",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "hspfbw3v6lpr",
+      "player_url": "https://vidhidepro.com/v/hspfbw3v6lpr"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/qiu6fw4hamjj",
+      "player_url": "https://minochinos.com/embed/qiu6fw4hamjj",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qiu6fw4hamjj"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/1dqfjtfz2t4p",
+      "player_url": "https://hglink.to/e/1dqfjtfz2t4p",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1dqfjtfz2t4p"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/sjl22oujd6wm",
+      "player_url": "https://bysedikamoum.com/e/sjl22oujd6wm",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sjl22oujd6wm"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/iylbsy66h4t9",
+      "player_url": "https://voe.sx/e/iylbsy66h4t9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iylbsy66h4t9"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/iylbsy66h4t9/download",
+      "player_url": "https://voe.sx/iylbsy66h4t9/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/yjobnwh1xsp0",
+      "player_url": "https://rapidvideo.link/e/yjobnwh1xsp0",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yjobnwh1xsp0"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/nme1nsyw3h91",
+      "player_url": "https://minochinos.com/embed/nme1nsyw3h91",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nme1nsyw3h91"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/k7g2e47203ij",
+      "player_url": "https://hglink.to/e/k7g2e47203ij",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k7g2e47203ij"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/4j78ukuysghn",
+      "player_url": "https://bysedikamoum.com/e/4j78ukuysghn",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4j78ukuysghn"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/mat8cx2t8stn",
+      "player_url": "https://voe.sx/e/mat8cx2t8stn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mat8cx2t8stn"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/qmp3je5c1uzy",
+      "player_url": "https://rapidvideo.link/e/qmp3je5c1uzy",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qmp3je5c1uzy"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/l410q4fxu9nj",
+      "player_url": "https://minochinos.com/embed/l410q4fxu9nj",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l410q4fxu9nj"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/51h5450k5l0r",
+      "player_url": "https://hglink.to/e/51h5450k5l0r",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "51h5450k5l0r"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/c3ko2jj8k2w2",
+      "player_url": "https://bysedikamoum.com/e/c3ko2jj8k2w2",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c3ko2jj8k2w2"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/zzs6q0ppbzo7",
+      "player_url": "https://voe.sx/e/zzs6q0ppbzo7",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zzs6q0ppbzo7"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/zzs6q0ppbzo7/download",
+      "player_url": "https://voe.sx/zzs6q0ppbzo7/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/et30g9vnrc51",
+      "player_url": "https://rapidvideo.link/e/et30g9vnrc51",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "et30g9vnrc51"
+    }
+  ]
+}
