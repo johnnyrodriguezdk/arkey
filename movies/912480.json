@@ -1,1 +1,236 @@
-{"id":912480,"titulo":"Las habitaciones rojas","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/wQKose0NbeQzWwun2qr4hClnxi0.jpg","release_date":"2023-08-11","genres":[],"rating":"7.1","backdrop":"https://image.tmdb.org/t/p/original/83g3gkDw6oc2mxkyB8DSoXQZJHl.jpg","overview":"El sonado caso del asesino en serie Ludovic Chevalier acaba de llegar a juicio y Kelly-Anne está obsesionada. Cuando la realidad se mezcla con sus fantasías morbosas, se adentra en un oscuro camino para buscar la última pieza del rompecabezas: el vídeo desaparecido de una niña de 13 años asesinada, con la que Kelly-Anne guarda un inquietante parecido.","trailer":"","runtime":"118","slug":"las-habitaciones-rojas","servidores":[{"id":1,"url":"https://streamwish.to/e/pgzct135bx56","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"pgzct135bx56","player_url":"https://streamwish.to/e/pgzct135bx56"},{"id":2,"url":"https://vidhidepro.com/v/hdbkgkibm617","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"hdbkgkibm617","player_url":"https://vidhidepro.com/v/hdbkgkibm617"},{"id":3,"url":"https://voe.sx/e/iv8qxa5ms8sq","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"iv8qxa5ms8sq","player_url":"https://voe.sx/e/iv8qxa5ms8sq"},{"id":4,"url":"https://streamwish.to/e/o17aig3pvljs","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"o17aig3pvljs","player_url":"https://streamwish.to/e/o17aig3pvljs"},{"id":5,"url":"https://vidhidepro.com/v/vdujdi9spf5b","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"vdujdi9spf5b","player_url":"https://vidhidepro.com/v/vdujdi9spf5b"},{"id":6,"url":"https://doodstream.com/e/dtoj9u2icfkc","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"dtoj9u2icfkc","player_url":"https://doodstream.com/e/dtoj9u2icfkc"},{"id":7,"url":"https://streamwish.to/e/37uuujg68kdj","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"37uuujg68kdj","player_url":"https://streamwish.to/e/37uuujg68kdj"},{"id":8,"url":"https://vidhidepro.com/v/rvg5b89tpyxe","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"rvg5b89tpyxe","player_url":"https://vidhidepro.com/v/rvg5b89tpyxe"},{"id":9,"url":"https://voe.sx/e/g46lwowshrli","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"g46lwowshrli","player_url":"https://voe.sx/e/g46lwowshrli"}]}
+{
+  "id": 912480,
+  "titulo": "Las habitaciones rojas",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/wQKose0NbeQzWwun2qr4hClnxi0.jpg",
+  "release_date": "2023-08-11",
+  "genres": [
+    "Drama",
+    "Crimen",
+    "Suspense"
+  ],
+  "rating": "7.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/83g3gkDw6oc2mxkyB8DSoXQZJHl.jpg",
+  "overview": "El sonado caso del asesino en serie Ludovic Chevalier acaba de llegar a juicio y Kelly-Anne está obsesionada. Cuando la realidad se mezcla con sus fantasías morbosas, se adentra en un oscuro camino para buscar la última pieza del rompecabezas: el vídeo desaparecido de una niña de 13 años asesinada, con la que Kelly-Anne guarda un inquietante parecido.",
+  "trailer": "",
+  "runtime": "118",
+  "slug": "las-habitaciones-rojas",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/pgzct135bx56",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "pgzct135bx56",
+      "player_url": "https://streamwish.to/e/pgzct135bx56"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/hdbkgkibm617",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "hdbkgkibm617",
+      "player_url": "https://vidhidepro.com/v/hdbkgkibm617"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/iv8qxa5ms8sq",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "iv8qxa5ms8sq",
+      "player_url": "https://voe.sx/e/iv8qxa5ms8sq"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/o17aig3pvljs",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "o17aig3pvljs",
+      "player_url": "https://streamwish.to/e/o17aig3pvljs"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/vdujdi9spf5b",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "vdujdi9spf5b",
+      "player_url": "https://vidhidepro.com/v/vdujdi9spf5b"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/dtoj9u2icfkc",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "dtoj9u2icfkc",
+      "player_url": "https://doodstream.com/e/dtoj9u2icfkc"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/37uuujg68kdj",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "37uuujg68kdj",
+      "player_url": "https://streamwish.to/e/37uuujg68kdj"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/rvg5b89tpyxe",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rvg5b89tpyxe",
+      "player_url": "https://vidhidepro.com/v/rvg5b89tpyxe"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/g46lwowshrli",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "g46lwowshrli",
+      "player_url": "https://voe.sx/e/g46lwowshrli"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/mpmm53fh2ccy",
+      "player_url": "https://minochinos.com/embed/mpmm53fh2ccy",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mpmm53fh2ccy"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/izkqyse8t9b3",
+      "player_url": "https://hglink.to/e/izkqyse8t9b3",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "izkqyse8t9b3"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/nev47rj080s5",
+      "player_url": "https://bysedikamoum.com/e/nev47rj080s5",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nev47rj080s5"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/py17e3mllsum",
+      "player_url": "https://voe.sx/e/py17e3mllsum",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "py17e3mllsum"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/py17e3mllsum/download",
+      "player_url": "https://voe.sx/py17e3mllsum/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/0gmp1x654coq",
+      "player_url": "https://rapidvideo.link/e/0gmp1x654coq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0gmp1x654coq"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/jnei1j3envwy",
+      "player_url": "https://minochinos.com/embed/jnei1j3envwy",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jnei1j3envwy"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/v4tvdvt6gj5a",
+      "player_url": "https://hglink.to/e/v4tvdvt6gj5a",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v4tvdvt6gj5a"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/cq9k77r9ccba",
+      "player_url": "https://bysedikamoum.com/e/cq9k77r9ccba",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cq9k77r9ccba"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/gzkrv6r6wry5",
+      "player_url": "https://voe.sx/e/gzkrv6r6wry5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gzkrv6r6wry5"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/b1nuxge8h45r",
+      "player_url": "https://rapidvideo.link/e/b1nuxge8h45r",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b1nuxge8h45r"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/twcigo611cat",
+      "player_url": "https://minochinos.com/embed/twcigo611cat",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "twcigo611cat"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/mjsogcqyzzlp",
+      "player_url": "https://hglink.to/e/mjsogcqyzzlp",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mjsogcqyzzlp"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/d7738wre92kl",
+      "player_url": "https://bysedikamoum.com/e/d7738wre92kl",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "d7738wre92kl"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/wzsc3gj4viqk",
+      "player_url": "https://rapidvideo.link/e/wzsc3gj4viqk",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wzsc3gj4viqk"
+    }
+  ]
+}
