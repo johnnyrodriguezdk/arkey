@@ -1,1 +1,198 @@
-{"id":1153110,"titulo":"Bookworm","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/w4KGquFKtWVfrioAfRpssnDEEYg.jpg","release_date":"2024-07-04","genres":["drama"],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/wDfpKEENIW5j65n08LHorrfItk.jpg","overview":"La vida de Mildred, una niña espabilada y curiosa, da un giro inesperado cuando su padre, un mago venido a menos, reaparece y la arrastra a una extraña aventura. Juntos se embarcan en un campamento con una misión insólita: encontrar a la legendaria pantera de Canterbury. Una historia de magia, reencuentros y criaturas imposibles.","trailer":"","runtime":"104","slug":"bookworm","servidores":[{"id":1,"url":"https://streamwish.to/e/vbcb4awgvaa8","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"vbcb4awgvaa8","player_url":"https://streamwish.to/e/vbcb4awgvaa8"},{"id":2,"url":"https://vidhidepro.com/v/ws4q6la5so80","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ws4q6la5so80","player_url":"https://vidhidepro.com/v/ws4q6la5so80"},{"id":3,"url":"https://voe.sx/e/am4lokgivrif","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"am4lokgivrif","player_url":"https://voe.sx/e/am4lokgivrif"},{"id":4,"url":"https://doodstream.com/e/oajfoma5oaj2","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"oajfoma5oaj2","player_url":"https://doodstream.com/e/oajfoma5oaj2"},{"id":5,"url":"https://streamwish.to/e/8872jzuvj41i","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"8872jzuvj41i","player_url":"https://streamwish.to/e/8872jzuvj41i"},{"id":6,"url":"https://vidhidepro.com/v/dals32ww5qwv","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"dals32ww5qwv","player_url":"https://vidhidepro.com/v/dals32ww5qwv"},{"id":7,"url":"https://voe.sx/e/vpbracxy0err","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"vpbracxy0err","player_url":"https://voe.sx/e/vpbracxy0err"},{"id":8,"url":"https://doodstream.com/e/wiyxayd4lzfo","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"wiyxayd4lzfo","player_url":"https://doodstream.com/e/wiyxayd4lzfo"}]}
+{
+  "id": 1153110,
+  "titulo": "Bookworm",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/w4KGquFKtWVfrioAfRpssnDEEYg.jpg",
+  "release_date": "2024-07-04",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/wDfpKEENIW5j65n08LHorrfItk.jpg",
+  "overview": "La vida de Mildred, una niña espabilada y curiosa, da un giro inesperado cuando su padre, un mago venido a menos, reaparece y la arrastra a una extraña aventura. Juntos se embarcan en un campamento con una misión insólita: encontrar a la legendaria pantera de Canterbury. Una historia de magia, reencuentros y criaturas imposibles.",
+  "trailer": "",
+  "runtime": "104",
+  "slug": "bookworm",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/vbcb4awgvaa8",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vbcb4awgvaa8",
+      "player_url": "https://streamwish.to/e/vbcb4awgvaa8"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/ws4q6la5so80",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ws4q6la5so80",
+      "player_url": "https://vidhidepro.com/v/ws4q6la5so80"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/am4lokgivrif",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "am4lokgivrif",
+      "player_url": "https://voe.sx/e/am4lokgivrif"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/oajfoma5oaj2",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "oajfoma5oaj2",
+      "player_url": "https://doodstream.com/e/oajfoma5oaj2"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/8872jzuvj41i",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "8872jzuvj41i",
+      "player_url": "https://streamwish.to/e/8872jzuvj41i"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/dals32ww5qwv",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "dals32ww5qwv",
+      "player_url": "https://vidhidepro.com/v/dals32ww5qwv"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/vpbracxy0err",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vpbracxy0err",
+      "player_url": "https://voe.sx/e/vpbracxy0err"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/wiyxayd4lzfo",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "wiyxayd4lzfo",
+      "player_url": "https://doodstream.com/e/wiyxayd4lzfo"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/3wzt3vs6zpsr",
+      "player_url": "https://minochinos.com/embed/3wzt3vs6zpsr",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3wzt3vs6zpsr"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/r1z6584s4wms",
+      "player_url": "https://hglink.to/e/r1z6584s4wms",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r1z6584s4wms"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/cpulks35zb2e",
+      "player_url": "https://bysedikamoum.com/e/cpulks35zb2e",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cpulks35zb2e"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/8s7csuec4wgo",
+      "player_url": "https://voe.sx/e/8s7csuec4wgo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8s7csuec4wgo"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/8s7csuec4wgo/download",
+      "player_url": "https://voe.sx/8s7csuec4wgo/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/8ga1njlw0me9",
+      "player_url": "https://rapidvideo.link/e/8ga1njlw0me9",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8ga1njlw0me9"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/tbvw9awa4p16",
+      "player_url": "https://minochinos.com/embed/tbvw9awa4p16",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tbvw9awa4p16"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/5bat8aywwmvn",
+      "player_url": "https://hglink.to/e/5bat8aywwmvn",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5bat8aywwmvn"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/zp684wmxkwnu",
+      "player_url": "https://bysedikamoum.com/e/zp684wmxkwnu",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zp684wmxkwnu"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/gaar1g55qm3r",
+      "player_url": "https://voe.sx/e/gaar1g55qm3r",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gaar1g55qm3r"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/gaar1g55qm3r/download",
+      "player_url": "https://voe.sx/gaar1g55qm3r/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/92kwx7l8j4ov",
+      "player_url": "https://rapidvideo.link/e/92kwx7l8j4ov",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "92kwx7l8j4ov"
+    }
+  ]
+}
