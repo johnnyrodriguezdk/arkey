@@ -1,1 +1,209 @@
-{"id":1217379,"titulo":"Perro de pelea","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/n0njyECtGMZmaNk1It44yVE8zEB.jpg","release_date":"2024-06-20","genres":[],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/mhKQ5ntqlXyck0TWh1pCpn42aAx.jpg","overview":"Antes de jubilarse, un asesino a sueldo acepta una misión y emprende un camino violento.","trailer":"","runtime":"103","slug":"hellhound","servidores":[{"id":1,"url":"https://streamwish.to/e/le6yqnrxqiba","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"le6yqnrxqiba","player_url":"https://streamwish.to/e/le6yqnrxqiba"},{"id":2,"url":"https://bysejikuar.com/e/gbbcn01or89l","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"gbbcn01or89l","player_url":"https://bysejikuar.com/e/gbbcn01or89l"},{"id":3,"url":"https://vidhidepro.com/v/2hm9rco4k6xx","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"2hm9rco4k6xx","player_url":"https://vidhidepro.com/v/2hm9rco4k6xx"},{"id":4,"url":"https://voe.sx/e/v4ziwcgk3i7o","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"v4ziwcgk3i7o","player_url":"https://voe.sx/e/v4ziwcgk3i7o"},{"id":5,"url":"https://doodstream.com/e/i4g474eyhvts","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"i4g474eyhvts","player_url":"https://doodstream.com/e/i4g474eyhvts"},{"id":6,"url":"https://streamwish.to/e/w0of9nu4049y","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"w0of9nu4049y","player_url":"https://streamwish.to/e/w0of9nu4049y"},{"id":7,"url":"https://vidhidepro.com/v/9w1saz53xvp8","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"9w1saz53xvp8","player_url":"https://vidhidepro.com/v/9w1saz53xvp8"},{"id":8,"url":"https://voe.sx/e/zgdbgrjnh4nr","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"zgdbgrjnh4nr","player_url":"https://voe.sx/e/zgdbgrjnh4nr"},{"id":9,"url":"https://doodstream.com/e/wpu9u2x2fq1a","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"wpu9u2x2fq1a","player_url":"https://doodstream.com/e/wpu9u2x2fq1a"}]}
+{
+  "id": 1217379,
+  "titulo": "Perro de pelea",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/n0njyECtGMZmaNk1It44yVE8zEB.jpg",
+  "release_date": "2024-06-20",
+  "genres": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/mhKQ5ntqlXyck0TWh1pCpn42aAx.jpg",
+  "overview": "Antes de jubilarse, un asesino a sueldo acepta una misión y emprende un camino violento.",
+  "trailer": "",
+  "runtime": "103",
+  "slug": "hellhound",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/le6yqnrxqiba",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "le6yqnrxqiba",
+      "player_url": "https://streamwish.to/e/le6yqnrxqiba"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/gbbcn01or89l",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "gbbcn01or89l",
+      "player_url": "https://bysejikuar.com/e/gbbcn01or89l"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/2hm9rco4k6xx",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2hm9rco4k6xx",
+      "player_url": "https://vidhidepro.com/v/2hm9rco4k6xx"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/v4ziwcgk3i7o",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "v4ziwcgk3i7o",
+      "player_url": "https://voe.sx/e/v4ziwcgk3i7o"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/i4g474eyhvts",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "i4g474eyhvts",
+      "player_url": "https://doodstream.com/e/i4g474eyhvts"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/w0of9nu4049y",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "w0of9nu4049y",
+      "player_url": "https://streamwish.to/e/w0of9nu4049y"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/9w1saz53xvp8",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "9w1saz53xvp8",
+      "player_url": "https://vidhidepro.com/v/9w1saz53xvp8"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/zgdbgrjnh4nr",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zgdbgrjnh4nr",
+      "player_url": "https://voe.sx/e/zgdbgrjnh4nr"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/wpu9u2x2fq1a",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "wpu9u2x2fq1a",
+      "player_url": "https://doodstream.com/e/wpu9u2x2fq1a"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/l8pkg0m3z4vq",
+      "player_url": "https://minochinos.com/embed/l8pkg0m3z4vq",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l8pkg0m3z4vq"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/db2l4h9dydyk",
+      "player_url": "https://hglink.to/e/db2l4h9dydyk",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "db2l4h9dydyk"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/91ytoagw0un8",
+      "player_url": "https://bysedikamoum.com/e/91ytoagw0un8",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "91ytoagw0un8"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/kia4g99umapy",
+      "player_url": "https://voe.sx/e/kia4g99umapy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kia4g99umapy"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/kia4g99umapy/download",
+      "player_url": "https://voe.sx/kia4g99umapy/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/mzxnl0g3rdtp",
+      "player_url": "https://rapidvideo.link/e/mzxnl0g3rdtp",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mzxnl0g3rdtp"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/xr73vjedkr10",
+      "player_url": "https://minochinos.com/embed/xr73vjedkr10",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xr73vjedkr10"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/ut39fx50ks28",
+      "player_url": "https://hglink.to/e/ut39fx50ks28",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ut39fx50ks28"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/4p2ey8iaokdw",
+      "player_url": "https://bysedikamoum.com/e/4p2ey8iaokdw",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4p2ey8iaokdw"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/7lnxuzz0yqlf",
+      "player_url": "https://voe.sx/e/7lnxuzz0yqlf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7lnxuzz0yqlf"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/7lnxuzz0yqlf/download",
+      "player_url": "https://voe.sx/7lnxuzz0yqlf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/chfv9a621kg5",
+      "player_url": "https://rapidvideo.link/e/chfv9a621kg5",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "chfv9a621kg5"
+    }
+  ]
+}
