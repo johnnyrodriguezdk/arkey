@@ -1,1 +1,198 @@
-{"id":1416391,"titulo":"La tostadora","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/2tTUscTlshVovvUnk1qlkQrkbum.jpg","release_date":"2026-04-15","genres":[],"rating":"5.5","backdrop":"https://image.tmdb.org/t/p/original/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg","overview":"Un hombre tacaño intenta recuperar la tostadora que le regaló a una pareja que canceló su boda, pero, sin buscarlo, queda implicado en un asesinato.","trailer":"","runtime":"126","slug":"la-tostadora","servidores":[{"id":1,"url":"https://bysejikuar.com/e/p6yhxej0v1gd","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"p6yhxej0v1gd","player_url":"https://bysejikuar.com/e/p6yhxej0v1gd"},{"id":2,"url":"https://vidhidepro.com/v/wfsusrpseis7","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"wfsusrpseis7","player_url":"https://vidhidepro.com/v/wfsusrpseis7"},{"id":3,"url":"https://voe.sx/e/rewcuoq9rlen","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"rewcuoq9rlen","player_url":"https://voe.sx/e/rewcuoq9rlen"},{"id":4,"url":"https://doodstream.com/e/akh4x7gef3a6","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"akh4x7gef3a6","player_url":"https://doodstream.com/e/akh4x7gef3a6"},{"id":5,"url":"https://bysejikuar.com/e/41ty67aemud6","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"41ty67aemud6","player_url":"https://bysejikuar.com/e/41ty67aemud6"},{"id":6,"url":"https://vidhidepro.com/v/sasefviwf7qx","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"sasefviwf7qx","player_url":"https://vidhidepro.com/v/sasefviwf7qx"},{"id":7,"url":"https://voe.sx/e/omawans0gpdf","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"omawans0gpdf","player_url":"https://voe.sx/e/omawans0gpdf"},{"id":8,"url":"https://doodstream.com/e/ezsyexrdstpv","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"ezsyexrdstpv","player_url":"https://doodstream.com/e/ezsyexrdstpv"}]}
+{
+  "id": 1416391,
+  "titulo": "La tostadora",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/2tTUscTlshVovvUnk1qlkQrkbum.jpg",
+  "release_date": "2026-04-15",
+  "genres": [
+    "Comedia"
+  ],
+  "rating": "5.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
+  "overview": "Un hombre tacaño intenta recuperar la tostadora que le regaló a una pareja que canceló su boda, pero, sin buscarlo, queda implicado en un asesinato.",
+  "trailer": "",
+  "runtime": "126",
+  "slug": "la-tostadora",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://bysejikuar.com/e/p6yhxej0v1gd",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "p6yhxej0v1gd",
+      "player_url": "https://bysejikuar.com/e/p6yhxej0v1gd"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/wfsusrpseis7",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "wfsusrpseis7",
+      "player_url": "https://vidhidepro.com/v/wfsusrpseis7"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/rewcuoq9rlen",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rewcuoq9rlen",
+      "player_url": "https://voe.sx/e/rewcuoq9rlen"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/akh4x7gef3a6",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "akh4x7gef3a6",
+      "player_url": "https://doodstream.com/e/akh4x7gef3a6"
+    },
+    {
+      "id": 5,
+      "url": "https://bysejikuar.com/e/41ty67aemud6",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "41ty67aemud6",
+      "player_url": "https://bysejikuar.com/e/41ty67aemud6"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/sasefviwf7qx",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "sasefviwf7qx",
+      "player_url": "https://vidhidepro.com/v/sasefviwf7qx"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/omawans0gpdf",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "omawans0gpdf",
+      "player_url": "https://voe.sx/e/omawans0gpdf"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/ezsyexrdstpv",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ezsyexrdstpv",
+      "player_url": "https://doodstream.com/e/ezsyexrdstpv"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/8obn7iytt2cp",
+      "player_url": "https://minochinos.com/embed/8obn7iytt2cp",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8obn7iytt2cp"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/umw300f8q9l9",
+      "player_url": "https://hglink.to/e/umw300f8q9l9",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "umw300f8q9l9"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/ndfmspecx9f7",
+      "player_url": "https://bysedikamoum.com/e/ndfmspecx9f7",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ndfmspecx9f7"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/3giqt8cd166q",
+      "player_url": "https://voe.sx/e/3giqt8cd166q",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3giqt8cd166q"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/3giqt8cd166q/download",
+      "player_url": "https://voe.sx/3giqt8cd166q/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/gpoxr7un48mv",
+      "player_url": "https://rapidvideo.link/e/gpoxr7un48mv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gpoxr7un48mv"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/m5y04yguycqz",
+      "player_url": "https://minochinos.com/embed/m5y04yguycqz",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "m5y04yguycqz"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/9ds2acyja9zq",
+      "player_url": "https://hglink.to/e/9ds2acyja9zq",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9ds2acyja9zq"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/fvujsovggesh",
+      "player_url": "https://bysedikamoum.com/e/fvujsovggesh",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fvujsovggesh"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/nqcmmvwr5lxt",
+      "player_url": "https://voe.sx/e/nqcmmvwr5lxt",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "nqcmmvwr5lxt"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/nqcmmvwr5lxt/download",
+      "player_url": "https://voe.sx/nqcmmvwr5lxt/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/sr7okfu5vjye",
+      "player_url": "https://rapidvideo.link/e/sr7okfu5vjye",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sr7okfu5vjye"
+    }
+  ]
+}
