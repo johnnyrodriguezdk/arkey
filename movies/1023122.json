@@ -1,1 +1,198 @@
-{"id":1023122,"titulo":"El Lobo de Estepa","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/1arCaBrvZwQD9GKKWd9IlRZmVN5.jpg","release_date":"2024-08-15","genres":[],"rating":"5.5","backdrop":"https://image.tmdb.org/t/p/original/2J6DSeuMQqVyoPGPg5wW8Eh9XHo.jpg","overview":"En una ciudad violenta, Tamara contrata a un investigador para que busque a su hijo desaparecido. A pesar de los crueles métodos y la dudosa moral del profesional, Tamara está decidida a encontrar a su hijo cueste lo que cueste.","trailer":"","runtime":"102","slug":"dala-khaskhyry","servidores":[{"id":1,"url":"https://streamwish.to/e/tv677pxi3i8x","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"tv677pxi3i8x","player_url":"https://streamwish.to/e/tv677pxi3i8x"},{"id":2,"url":"https://vidhidepro.com/v/i8toxmhejhp5","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"i8toxmhejhp5","player_url":"https://vidhidepro.com/v/i8toxmhejhp5"},{"id":3,"url":"https://voe.sx/e/x4c5nst3yyr3","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"x4c5nst3yyr3","player_url":"https://voe.sx/e/x4c5nst3yyr3"},{"id":4,"url":"https://doodstream.com/e/6xwrtmv4x735","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"6xwrtmv4x735","player_url":"https://doodstream.com/e/6xwrtmv4x735"},{"id":5,"url":"https://streamwish.to/e/ei005e9oa681","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ei005e9oa681","player_url":"https://streamwish.to/e/ei005e9oa681"},{"id":6,"url":"https://vidhidepro.com/v/0tdn35h8x36i","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"0tdn35h8x36i","player_url":"https://vidhidepro.com/v/0tdn35h8x36i"},{"id":7,"url":"https://voe.sx/e/whnhnydejhyy","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"whnhnydejhyy","player_url":"https://voe.sx/e/whnhnydejhyy"},{"id":8,"url":"https://doodstream.com/e/zltp1eu1k8oe","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"zltp1eu1k8oe","player_url":"https://doodstream.com/e/zltp1eu1k8oe"}]}
+{
+  "id": 1023122,
+  "titulo": "El Lobo de Estepa",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/1arCaBrvZwQD9GKKWd9IlRZmVN5.jpg",
+  "release_date": "2024-08-15",
+  "genres": [
+    "Suspense"
+  ],
+  "rating": "5.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/2J6DSeuMQqVyoPGPg5wW8Eh9XHo.jpg",
+  "overview": "En una ciudad violenta, Tamara contrata a un investigador para que busque a su hijo desaparecido. A pesar de los crueles métodos y la dudosa moral del profesional, Tamara está decidida a encontrar a su hijo cueste lo que cueste.",
+  "trailer": "",
+  "runtime": "102",
+  "slug": "dala-khaskhyry",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/tv677pxi3i8x",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "tv677pxi3i8x",
+      "player_url": "https://streamwish.to/e/tv677pxi3i8x"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/i8toxmhejhp5",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "i8toxmhejhp5",
+      "player_url": "https://vidhidepro.com/v/i8toxmhejhp5"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/x4c5nst3yyr3",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "x4c5nst3yyr3",
+      "player_url": "https://voe.sx/e/x4c5nst3yyr3"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/6xwrtmv4x735",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "6xwrtmv4x735",
+      "player_url": "https://doodstream.com/e/6xwrtmv4x735"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/ei005e9oa681",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ei005e9oa681",
+      "player_url": "https://streamwish.to/e/ei005e9oa681"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/0tdn35h8x36i",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0tdn35h8x36i",
+      "player_url": "https://vidhidepro.com/v/0tdn35h8x36i"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/whnhnydejhyy",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "whnhnydejhyy",
+      "player_url": "https://voe.sx/e/whnhnydejhyy"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/zltp1eu1k8oe",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "zltp1eu1k8oe",
+      "player_url": "https://doodstream.com/e/zltp1eu1k8oe"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/jyffhisobsv4",
+      "player_url": "https://minochinos.com/embed/jyffhisobsv4",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jyffhisobsv4"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/i6obuc9hmsvf",
+      "player_url": "https://hglink.to/e/i6obuc9hmsvf",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i6obuc9hmsvf"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/cju03aqx2skw",
+      "player_url": "https://bysedikamoum.com/e/cju03aqx2skw",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cju03aqx2skw"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/spr19rojk8kk",
+      "player_url": "https://voe.sx/e/spr19rojk8kk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "spr19rojk8kk"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/spr19rojk8kk/download",
+      "player_url": "https://voe.sx/spr19rojk8kk/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/lsxdgvq6748j",
+      "player_url": "https://rapidvideo.link/e/lsxdgvq6748j",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lsxdgvq6748j"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/kqttxqxui9u5",
+      "player_url": "https://minochinos.com/embed/kqttxqxui9u5",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kqttxqxui9u5"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/d0xtmjebgmx5",
+      "player_url": "https://hglink.to/e/d0xtmjebgmx5",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "d0xtmjebgmx5"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/lcgr7yiyo2iq",
+      "player_url": "https://bysedikamoum.com/e/lcgr7yiyo2iq",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lcgr7yiyo2iq"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/v8r4pxnrtwsd",
+      "player_url": "https://voe.sx/e/v8r4pxnrtwsd",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "v8r4pxnrtwsd"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/v8r4pxnrtwsd/download",
+      "player_url": "https://voe.sx/v8r4pxnrtwsd/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/ofqjxigl03p5",
+      "player_url": "https://rapidvideo.link/e/ofqjxigl03p5",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ofqjxigl03p5"
+    }
+  ]
+}
