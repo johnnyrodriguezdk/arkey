@@ -1,1 +1,288 @@
-{"id":1364608,"titulo":"Anémona","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/A7H6u0NKvh2pYaNtwOCHRJOXG29.jpg","release_date":"2025-10-02","genres":["drama"],"rating":"6.1","backdrop":"https://image.tmdb.org/t/p/original/4nExMuYsypZasoX8ri3t0lYLfAF.jpg","overview":"Jem Stoker se adentra en el bosque para reencontrarse con su hermano Ray, convertido en ermitaño tras años de aislamiento. Mientras Jem intenta persuadirlo para que regrese con la familia, el trauma no resuelto de su pasado —especialmente de su servicio militar y sus consecuencias— se impone con fuerza. Por su parte, Brian, hijo de Jem, sufre de acoso escolar y teme estar reproduciendo los mismos errores que cometieron su padre y su tío. La película aborda los vínculos tensos entre hermanos, padres e hijos, y cómo la violencia del pasado continúa proyectándose sobre el presente.","trailer":"","runtime":"121","slug":"anemone","servidores":[{"id":1,"url":"https://streamwish.to/e/jte8x7owtgs9","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"jte8x7owtgs9","player_url":"https://streamwish.to/e/jte8x7owtgs9"},{"id":2,"url":"https://bysejikuar.com/e/1nss78v6pd0t","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"1nss78v6pd0t","player_url":"https://bysejikuar.com/e/1nss78v6pd0t"},{"id":3,"url":"https://vidhidepro.com/v/2xug0di097wu","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"2xug0di097wu","player_url":"https://vidhidepro.com/v/2xug0di097wu"},{"id":4,"url":"https://voe.sx/e/lwfxgdzdxysu","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"lwfxgdzdxysu","player_url":"https://voe.sx/e/lwfxgdzdxysu"},{"id":5,"url":"https://doodstream.com/e/osgohjvg6acv","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"osgohjvg6acv","player_url":"https://doodstream.com/e/osgohjvg6acv"},{"id":6,"url":"https://streamwish.to/e/ptzv1im996xy","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ptzv1im996xy","player_url":"https://streamwish.to/e/ptzv1im996xy"},{"id":7,"url":"https://vidhidepro.com/v/3dlciik046hm","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"3dlciik046hm","player_url":"https://vidhidepro.com/v/3dlciik046hm"},{"id":8,"url":"https://voe.sx/e/em9h6jh914xa","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"em9h6jh914xa","player_url":"https://voe.sx/e/em9h6jh914xa"},{"id":9,"url":"https://doodstream.com/e/4qxdmc0tpwye","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"4qxdmc0tpwye","player_url":"https://doodstream.com/e/4qxdmc0tpwye"},{"id":10,"url":"https://streamwish.to/e/lx0ar6nwsjvt","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"lx0ar6nwsjvt","player_url":"https://streamwish.to/e/lx0ar6nwsjvt"},{"id":11,"url":"https://bysejikuar.com/e/t7pw1q6of4ce","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"t7pw1q6of4ce","player_url":"https://bysejikuar.com/e/t7pw1q6of4ce"},{"id":12,"url":"https://vidhidepro.com/v/6lb8ovbqrap2","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"6lb8ovbqrap2","player_url":"https://vidhidepro.com/v/6lb8ovbqrap2"},{"id":13,"url":"https://voe.sx/e/z9a4kk2aynz2","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"z9a4kk2aynz2","player_url":"https://voe.sx/e/z9a4kk2aynz2"},{"id":14,"url":"https://doodstream.com/e/8vgy94xlg9t2","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"8vgy94xlg9t2","player_url":"https://doodstream.com/e/8vgy94xlg9t2"}]}
+{
+  "id": 1364608,
+  "titulo": "Anémona",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/A7H6u0NKvh2pYaNtwOCHRJOXG29.jpg",
+  "release_date": "2025-10-02",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/4nExMuYsypZasoX8ri3t0lYLfAF.jpg",
+  "overview": "Jem Stoker se adentra en el bosque para reencontrarse con su hermano Ray, convertido en ermitaño tras años de aislamiento. Mientras Jem intenta persuadirlo para que regrese con la familia, el trauma no resuelto de su pasado —especialmente de su servicio militar y sus consecuencias— se impone con fuerza. Por su parte, Brian, hijo de Jem, sufre de acoso escolar y teme estar reproduciendo los mismos errores que cometieron su padre y su tío. La película aborda los vínculos tensos entre hermanos, padres e hijos, y cómo la violencia del pasado continúa proyectándose sobre el presente.",
+  "trailer": "",
+  "runtime": "121",
+  "slug": "anemone",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/jte8x7owtgs9",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "jte8x7owtgs9",
+      "player_url": "https://streamwish.to/e/jte8x7owtgs9"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/1nss78v6pd0t",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "1nss78v6pd0t",
+      "player_url": "https://bysejikuar.com/e/1nss78v6pd0t"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/2xug0di097wu",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2xug0di097wu",
+      "player_url": "https://vidhidepro.com/v/2xug0di097wu"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/lwfxgdzdxysu",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "lwfxgdzdxysu",
+      "player_url": "https://voe.sx/e/lwfxgdzdxysu"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/osgohjvg6acv",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "osgohjvg6acv",
+      "player_url": "https://doodstream.com/e/osgohjvg6acv"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/ptzv1im996xy",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ptzv1im996xy",
+      "player_url": "https://streamwish.to/e/ptzv1im996xy"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/3dlciik046hm",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3dlciik046hm",
+      "player_url": "https://vidhidepro.com/v/3dlciik046hm"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/em9h6jh914xa",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "em9h6jh914xa",
+      "player_url": "https://voe.sx/e/em9h6jh914xa"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/4qxdmc0tpwye",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "4qxdmc0tpwye",
+      "player_url": "https://doodstream.com/e/4qxdmc0tpwye"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/lx0ar6nwsjvt",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lx0ar6nwsjvt",
+      "player_url": "https://streamwish.to/e/lx0ar6nwsjvt"
+    },
+    {
+      "id": 11,
+      "url": "https://bysejikuar.com/e/t7pw1q6of4ce",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "t7pw1q6of4ce",
+      "player_url": "https://bysejikuar.com/e/t7pw1q6of4ce"
+    },
+    {
+      "id": 12,
+      "url": "https://vidhidepro.com/v/6lb8ovbqrap2",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "6lb8ovbqrap2",
+      "player_url": "https://vidhidepro.com/v/6lb8ovbqrap2"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/z9a4kk2aynz2",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "z9a4kk2aynz2",
+      "player_url": "https://voe.sx/e/z9a4kk2aynz2"
+    },
+    {
+      "id": 14,
+      "url": "https://doodstream.com/e/8vgy94xlg9t2",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "8vgy94xlg9t2",
+      "player_url": "https://doodstream.com/e/8vgy94xlg9t2"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/tonueizlx9v5",
+      "player_url": "https://minochinos.com/embed/tonueizlx9v5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tonueizlx9v5"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/2fuiybijyjh6",
+      "player_url": "https://hglink.to/e/2fuiybijyjh6",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2fuiybijyjh6"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/p1iutvvvkaun",
+      "player_url": "https://bysedikamoum.com/e/p1iutvvvkaun",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p1iutvvvkaun"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/7xgodgeyptff",
+      "player_url": "https://voe.sx/e/7xgodgeyptff",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7xgodgeyptff"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/7xgodgeyptff/download",
+      "player_url": "https://voe.sx/7xgodgeyptff/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/4rdj8tgucyxe",
+      "player_url": "https://rapidvideo.link/e/4rdj8tgucyxe",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4rdj8tgucyxe"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/unfkl1x9ib5o",
+      "player_url": "https://minochinos.com/embed/unfkl1x9ib5o",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "unfkl1x9ib5o"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/87ce0lr00p4j",
+      "player_url": "https://hglink.to/e/87ce0lr00p4j",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "87ce0lr00p4j"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/r82cw6o82a0g",
+      "player_url": "https://voe.sx/e/r82cw6o82a0g",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r82cw6o82a0g"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/wjrio31etpm5",
+      "player_url": "https://rapidvideo.link/e/wjrio31etpm5",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wjrio31etpm5"
+    },
+    {
+      "id": 25,
+      "url": "https://minochinos.com/embed/ie3ihrbatrev",
+      "player_url": "https://minochinos.com/embed/ie3ihrbatrev",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ie3ihrbatrev"
+    },
+    {
+      "id": 26,
+      "url": "https://hglink.to/e/q83yr9vdff3f",
+      "player_url": "https://hglink.to/e/q83yr9vdff3f",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "q83yr9vdff3f"
+    },
+    {
+      "id": 27,
+      "url": "https://bysedikamoum.com/e/543u7x79jlfp",
+      "player_url": "https://bysedikamoum.com/e/543u7x79jlfp",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "543u7x79jlfp"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/e/g43lnz4fm5fv",
+      "player_url": "https://voe.sx/e/g43lnz4fm5fv",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "g43lnz4fm5fv"
+    },
+    {
+      "id": 29,
+      "url": "https://voe.sx/g43lnz4fm5fv/download",
+      "player_url": "https://voe.sx/g43lnz4fm5fv/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 30,
+      "url": "https://rapidvideo.link/e/xeuqhn7pcrba",
+      "player_url": "https://rapidvideo.link/e/xeuqhn7pcrba",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xeuqhn7pcrba"
+    }
+  ]
+}
