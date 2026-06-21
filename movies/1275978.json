@@ -1,1 +1,216 @@
-{"id":1275978,"titulo":"El Cuchillo","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/xpJC5diwcPhJi0gy3bXD5SUhbG8.jpg","release_date":"2025-08-15","genres":["drama"],"rating":"7.2","backdrop":"https://image.tmdb.org/t/p/original/zTh1HBgTDsAZ3QKgb5X2JQ0J7r4.jpg","overview":"La historia de un suceso que trastoca la dinámica de una familia y empieza a desmantelar las ilusiones de sus vidas.","trailer":"","runtime":"82","slug":"el-cuchillo","servidores":[{"id":1,"url":"https://streamwish.to/e/l746zyveb9ud","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"l746zyveb9ud","player_url":"https://streamwish.to/e/l746zyveb9ud"},{"id":2,"url":"https://bysejikuar.com/e/0l2kktdrmyuc","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"0l2kktdrmyuc","player_url":"https://bysejikuar.com/e/0l2kktdrmyuc"},{"id":3,"url":"https://vidhidepro.com/v/1c6uwzrl9c80","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"1c6uwzrl9c80","player_url":"https://vidhidepro.com/v/1c6uwzrl9c80"},{"id":4,"url":"https://voe.sx/e/j5nibavefgtn","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"j5nibavefgtn","player_url":"https://voe.sx/e/j5nibavefgtn"},{"id":5,"url":"https://doodstream.com/e/gu3x0dpfeplr","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"gu3x0dpfeplr","player_url":"https://doodstream.com/e/gu3x0dpfeplr"},{"id":6,"url":"https://streamwish.to/e/zelnlt8ykvkc","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"zelnlt8ykvkc","player_url":"https://streamwish.to/e/zelnlt8ykvkc"},{"id":7,"url":"https://bysejikuar.com/e/36wf2bg441xh","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"36wf2bg441xh","player_url":"https://bysejikuar.com/e/36wf2bg441xh"},{"id":8,"url":"https://vidhidepro.com/v/7yebr5hb9xfr","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"7yebr5hb9xfr","player_url":"https://vidhidepro.com/v/7yebr5hb9xfr"},{"id":9,"url":"https://voe.sx/e/wbghpf6imvu1","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"wbghpf6imvu1","player_url":"https://voe.sx/e/wbghpf6imvu1"},{"id":10,"url":"https://doodstream.com/e/olb3dvkbymxj","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"olb3dvkbymxj","player_url":"https://doodstream.com/e/olb3dvkbymxj"}]}
+{
+  "id": 1275978,
+  "titulo": "El Cuchillo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/xpJC5diwcPhJi0gy3bXD5SUhbG8.jpg",
+  "release_date": "2025-08-15",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/zTh1HBgTDsAZ3QKgb5X2JQ0J7r4.jpg",
+  "overview": "La historia de un suceso que trastoca la dinámica de una familia y empieza a desmantelar las ilusiones de sus vidas.",
+  "trailer": "",
+  "runtime": "82",
+  "slug": "el-cuchillo",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/l746zyveb9ud",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "l746zyveb9ud",
+      "player_url": "https://streamwish.to/e/l746zyveb9ud"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/0l2kktdrmyuc",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "0l2kktdrmyuc",
+      "player_url": "https://bysejikuar.com/e/0l2kktdrmyuc"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/1c6uwzrl9c80",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1c6uwzrl9c80",
+      "player_url": "https://vidhidepro.com/v/1c6uwzrl9c80"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/j5nibavefgtn",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "j5nibavefgtn",
+      "player_url": "https://voe.sx/e/j5nibavefgtn"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/gu3x0dpfeplr",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "gu3x0dpfeplr",
+      "player_url": "https://doodstream.com/e/gu3x0dpfeplr"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/zelnlt8ykvkc",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zelnlt8ykvkc",
+      "player_url": "https://streamwish.to/e/zelnlt8ykvkc"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/36wf2bg441xh",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "36wf2bg441xh",
+      "player_url": "https://bysejikuar.com/e/36wf2bg441xh"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/7yebr5hb9xfr",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "7yebr5hb9xfr",
+      "player_url": "https://vidhidepro.com/v/7yebr5hb9xfr"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/wbghpf6imvu1",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "wbghpf6imvu1",
+      "player_url": "https://voe.sx/e/wbghpf6imvu1"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/olb3dvkbymxj",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "olb3dvkbymxj",
+      "player_url": "https://doodstream.com/e/olb3dvkbymxj"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/i1fxoo235yvq",
+      "player_url": "https://minochinos.com/embed/i1fxoo235yvq",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i1fxoo235yvq"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/opbw0temnknl",
+      "player_url": "https://hglink.to/e/opbw0temnknl",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "opbw0temnknl"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/kz5vhhcmpbx7",
+      "player_url": "https://bysedikamoum.com/e/kz5vhhcmpbx7",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kz5vhhcmpbx7"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/pjz0uazl6qmo",
+      "player_url": "https://voe.sx/e/pjz0uazl6qmo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pjz0uazl6qmo"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/pjz0uazl6qmo/download",
+      "player_url": "https://voe.sx/pjz0uazl6qmo/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/lcnhef5qvi84",
+      "player_url": "https://rapidvideo.link/e/lcnhef5qvi84",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lcnhef5qvi84"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/xz9247fh2bi2",
+      "player_url": "https://minochinos.com/embed/xz9247fh2bi2",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xz9247fh2bi2"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/u0shkj4j1gxt",
+      "player_url": "https://hglink.to/e/u0shkj4j1gxt",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u0shkj4j1gxt"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/dcq2pa85k2d0",
+      "player_url": "https://bysedikamoum.com/e/dcq2pa85k2d0",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dcq2pa85k2d0"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/0uxq75zhxviv",
+      "player_url": "https://voe.sx/e/0uxq75zhxviv",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0uxq75zhxviv"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/0uxq75zhxviv/download",
+      "player_url": "https://voe.sx/0uxq75zhxviv/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/zxlmtkqbdacw",
+      "player_url": "https://rapidvideo.link/e/zxlmtkqbdacw",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zxlmtkqbdacw"
+    }
+  ]
+}
