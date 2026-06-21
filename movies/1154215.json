@@ -1,1 +1,199 @@
-{"id":1154215,"titulo":"Elyas, el protector","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/yDeTQU7Sb3Tc7GQOAKZgthJXW5j.jpg","release_date":"2024-07-03","genres":[],"rating":"6.2","backdrop":"https://image.tmdb.org/t/p/original/b4vPyaCEP53fVDBj0HqFukICiyk.jpg","overview":"Elyas, un exsoldado de las Fuerzas Especiales, solitario y paranoico, se convierte en guardaespaldas de Nour, de 13 años, y de su madre Amina, procedentes de Oriente Medio. Mientras el ex militar y la joven se conocen, un misterioso comando les ataca. Elyas no se detendrá ante nada para salvarla.","trailer":"","runtime":"99","slug":"elyas","servidores":[{"id":1,"url":"https://streamwish.to/e/hi9ffxwxgzvs","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hi9ffxwxgzvs","player_url":"https://streamwish.to/e/hi9ffxwxgzvs"},{"id":2,"url":"https://vidhidepro.com/v/fn3kho7jsldp","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"fn3kho7jsldp","player_url":"https://vidhidepro.com/v/fn3kho7jsldp"},{"id":3,"url":"https://voe.sx/e/7llg9gcdifcf","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"7llg9gcdifcf","player_url":"https://voe.sx/e/7llg9gcdifcf"},{"id":4,"url":"https://doodstream.com/e/e40lgthmm4yi","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"e40lgthmm4yi","player_url":"https://doodstream.com/e/e40lgthmm4yi"},{"id":5,"url":"https://streamwish.to/e/tf53qhs6lzdz","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"tf53qhs6lzdz","player_url":"https://streamwish.to/e/tf53qhs6lzdz"},{"id":6,"url":"https://vidhidepro.com/v/zl7p39td4iln","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"zl7p39td4iln","player_url":"https://vidhidepro.com/v/zl7p39td4iln"},{"id":7,"url":"https://voe.sx/e/rujked4dtndl","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"rujked4dtndl","player_url":"https://voe.sx/e/rujked4dtndl"},{"id":8,"url":"https://doodstream.com/e/s3laf3rb8u7k","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"s3laf3rb8u7k","player_url":"https://doodstream.com/e/s3laf3rb8u7k"}]}
+{
+  "id": 1154215,
+  "titulo": "Elyas, el protector",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/yDeTQU7Sb3Tc7GQOAKZgthJXW5j.jpg",
+  "release_date": "2024-07-03",
+  "genres": [
+    "Acción",
+    "Suspense"
+  ],
+  "rating": "6.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/b4vPyaCEP53fVDBj0HqFukICiyk.jpg",
+  "overview": "Elyas, un exsoldado de las Fuerzas Especiales, solitario y paranoico, se convierte en guardaespaldas de Nour, de 13 años, y de su madre Amina, procedentes de Oriente Medio. Mientras el ex militar y la joven se conocen, un misterioso comando les ataca. Elyas no se detendrá ante nada para salvarla.",
+  "trailer": "",
+  "runtime": "99",
+  "slug": "elyas",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/hi9ffxwxgzvs",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hi9ffxwxgzvs",
+      "player_url": "https://streamwish.to/e/hi9ffxwxgzvs"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/fn3kho7jsldp",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fn3kho7jsldp",
+      "player_url": "https://vidhidepro.com/v/fn3kho7jsldp"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/7llg9gcdifcf",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "7llg9gcdifcf",
+      "player_url": "https://voe.sx/e/7llg9gcdifcf"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/e40lgthmm4yi",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "e40lgthmm4yi",
+      "player_url": "https://doodstream.com/e/e40lgthmm4yi"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/tf53qhs6lzdz",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "tf53qhs6lzdz",
+      "player_url": "https://streamwish.to/e/tf53qhs6lzdz"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/zl7p39td4iln",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "zl7p39td4iln",
+      "player_url": "https://vidhidepro.com/v/zl7p39td4iln"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/rujked4dtndl",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rujked4dtndl",
+      "player_url": "https://voe.sx/e/rujked4dtndl"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/s3laf3rb8u7k",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "s3laf3rb8u7k",
+      "player_url": "https://doodstream.com/e/s3laf3rb8u7k"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/yv64cipe49qg",
+      "player_url": "https://minochinos.com/embed/yv64cipe49qg",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yv64cipe49qg"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/b02piw1ij2e5",
+      "player_url": "https://hglink.to/e/b02piw1ij2e5",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b02piw1ij2e5"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/ujegejod4w8m",
+      "player_url": "https://bysedikamoum.com/e/ujegejod4w8m",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ujegejod4w8m"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/gsfzqwj3agui",
+      "player_url": "https://voe.sx/e/gsfzqwj3agui",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gsfzqwj3agui"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/gsfzqwj3agui/download",
+      "player_url": "https://voe.sx/gsfzqwj3agui/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/znihv7sp4rqx",
+      "player_url": "https://rapidvideo.link/e/znihv7sp4rqx",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "znihv7sp4rqx"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/5mq4zbk017qu",
+      "player_url": "https://minochinos.com/embed/5mq4zbk017qu",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5mq4zbk017qu"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/q43qihbbl9f6",
+      "player_url": "https://hglink.to/e/q43qihbbl9f6",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "q43qihbbl9f6"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/ytaxhcp06tyv",
+      "player_url": "https://bysedikamoum.com/e/ytaxhcp06tyv",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ytaxhcp06tyv"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/e1v0pevi25wy",
+      "player_url": "https://voe.sx/e/e1v0pevi25wy",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "e1v0pevi25wy"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e1v0pevi25wy/download",
+      "player_url": "https://voe.sx/e1v0pevi25wy/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/vxfbigjkqnr3",
+      "player_url": "https://rapidvideo.link/e/vxfbigjkqnr3",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vxfbigjkqnr3"
+    }
+  ]
+}
