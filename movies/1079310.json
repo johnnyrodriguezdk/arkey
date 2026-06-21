@@ -1,1 +1,198 @@
-{"id":1079310,"titulo":"La receta perfecta","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/8anwcpV8rQuB6l7aOw0VHfZ2fxA.jpg","release_date":"2024-12-11","genres":["drama"],"rating":"6.9","backdrop":"https://image.tmdb.org/t/p/original/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg","overview":"Totone, de 18 años, pasa la mayor parte del tiempo bebiendo cerveza y yendo de fiesta con sus amigos a la región del Jura. Pero la realidad la atrapa: debe buscarse la vida y cuidar a su hermana de 7 años. Es entonces cuando se propone fabricar el mejor queso Comté de la región, lo que le podría hacer ganar la medalla de oro al concurso agrícola y 30.000 euros.","trailer":"","runtime":"92","slug":"la-receta-perfecta","servidores":[{"id":1,"url":"https://streamwish.to/e/frny7izd4mb6","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"frny7izd4mb6","player_url":"https://streamwish.to/e/frny7izd4mb6"},{"id":2,"url":"https://vidhidepro.com/v/r5s4puq582i3","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"r5s4puq582i3","player_url":"https://vidhidepro.com/v/r5s4puq582i3"},{"id":3,"url":"https://voe.sx/e/gnx1nj63tv5k","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"gnx1nj63tv5k","player_url":"https://voe.sx/e/gnx1nj63tv5k"},{"id":4,"url":"https://doodstream.com/e/mlq3f576g6bj","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"mlq3f576g6bj","player_url":"https://doodstream.com/e/mlq3f576g6bj"},{"id":5,"url":"https://streamwish.to/e/mt7swglz51qe","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"mt7swglz51qe","player_url":"https://streamwish.to/e/mt7swglz51qe"},{"id":6,"url":"https://vidhidepro.com/v/o1ixs6zjev0f","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"o1ixs6zjev0f","player_url":"https://vidhidepro.com/v/o1ixs6zjev0f"},{"id":7,"url":"https://voe.sx/e/d3bsjjr6ecnr","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"d3bsjjr6ecnr","player_url":"https://voe.sx/e/d3bsjjr6ecnr"},{"id":8,"url":"https://doodstream.com/e/ipkrnvj60k7s","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"ipkrnvj60k7s","player_url":"https://doodstream.com/e/ipkrnvj60k7s"}]}
+{
+  "id": 1079310,
+  "titulo": "La receta perfecta",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/8anwcpV8rQuB6l7aOw0VHfZ2fxA.jpg",
+  "release_date": "2024-12-11",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
+  "overview": "Totone, de 18 años, pasa la mayor parte del tiempo bebiendo cerveza y yendo de fiesta con sus amigos a la región del Jura. Pero la realidad la atrapa: debe buscarse la vida y cuidar a su hermana de 7 años. Es entonces cuando se propone fabricar el mejor queso Comté de la región, lo que le podría hacer ganar la medalla de oro al concurso agrícola y 30.000 euros.",
+  "trailer": "",
+  "runtime": "92",
+  "slug": "la-receta-perfecta",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/frny7izd4mb6",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "frny7izd4mb6",
+      "player_url": "https://streamwish.to/e/frny7izd4mb6"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/r5s4puq582i3",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "r5s4puq582i3",
+      "player_url": "https://vidhidepro.com/v/r5s4puq582i3"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/gnx1nj63tv5k",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gnx1nj63tv5k",
+      "player_url": "https://voe.sx/e/gnx1nj63tv5k"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/mlq3f576g6bj",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "mlq3f576g6bj",
+      "player_url": "https://doodstream.com/e/mlq3f576g6bj"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/mt7swglz51qe",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mt7swglz51qe",
+      "player_url": "https://streamwish.to/e/mt7swglz51qe"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/o1ixs6zjev0f",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "o1ixs6zjev0f",
+      "player_url": "https://vidhidepro.com/v/o1ixs6zjev0f"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/d3bsjjr6ecnr",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "d3bsjjr6ecnr",
+      "player_url": "https://voe.sx/e/d3bsjjr6ecnr"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/ipkrnvj60k7s",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ipkrnvj60k7s",
+      "player_url": "https://doodstream.com/e/ipkrnvj60k7s"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/nonkdpagn8zi",
+      "player_url": "https://minochinos.com/embed/nonkdpagn8zi",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nonkdpagn8zi"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/tft9bsoh0hi9",
+      "player_url": "https://hglink.to/e/tft9bsoh0hi9",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tft9bsoh0hi9"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/p4k3umc4ld5t",
+      "player_url": "https://bysedikamoum.com/e/p4k3umc4ld5t",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p4k3umc4ld5t"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/oabjrsdogsga",
+      "player_url": "https://voe.sx/e/oabjrsdogsga",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oabjrsdogsga"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/oabjrsdogsga/download",
+      "player_url": "https://voe.sx/oabjrsdogsga/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/32nf8b0d94ya",
+      "player_url": "https://rapidvideo.link/e/32nf8b0d94ya",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "32nf8b0d94ya"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/v9qjb4e9d5j6",
+      "player_url": "https://minochinos.com/embed/v9qjb4e9d5j6",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "v9qjb4e9d5j6"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/ws555co5s52l",
+      "player_url": "https://hglink.to/e/ws555co5s52l",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ws555co5s52l"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/mzqnd09fbsha",
+      "player_url": "https://bysedikamoum.com/e/mzqnd09fbsha",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mzqnd09fbsha"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/r1np65bgzvwk",
+      "player_url": "https://voe.sx/e/r1np65bgzvwk",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "r1np65bgzvwk"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/r1np65bgzvwk/download",
+      "player_url": "https://voe.sx/r1np65bgzvwk/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/w213zbkvhyrt",
+      "player_url": "https://rapidvideo.link/e/w213zbkvhyrt",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "w213zbkvhyrt"
+    }
+  ]
+}
