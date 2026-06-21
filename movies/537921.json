@@ -1,1 +1,271 @@
-{"id":537921,"titulo":"Despelote","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg","release_date":"2025-08-13","genres":[],"rating":"6.2","backdrop":"https://image.tmdb.org/t/p/original/vmWgToiWzgWxzGtdbeQFrtuS2BN.jpg","overview":"Un perro soltero intenta hacer que su noche sea la mejor después de enterarse de que lo van a esterilizar y castrar.","trailer":"","runtime":"87","slug":"despelote","servidores":[{"id":1,"url":"https://streamwish.to/e/p6770cr7evqu","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"p6770cr7evqu","player_url":"https://streamwish.to/e/p6770cr7evqu"},{"id":2,"url":"https://vidhidepro.com/v/iue0jye66o59","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"iue0jye66o59","player_url":"https://vidhidepro.com/v/iue0jye66o59"},{"id":3,"url":"https://voe.sx/e/ytfhvfi9mhk0","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ytfhvfi9mhk0","player_url":"https://voe.sx/e/ytfhvfi9mhk0"},{"id":4,"url":"https://streamwish.to/e/7xqcao025w23","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"7xqcao025w23","player_url":"https://streamwish.to/e/7xqcao025w23"},{"id":5,"url":"https://vidhidepro.com/v/km3qb28ofzju","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"km3qb28ofzju","player_url":"https://vidhidepro.com/v/km3qb28ofzju"},{"id":6,"url":"https://voe.sx/e/jvosgjcvdita","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"jvosgjcvdita","player_url":"https://voe.sx/e/jvosgjcvdita"},{"id":7,"url":"https://doodstream.com/e/7kb5s2td561s","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"7kb5s2td561s","player_url":"https://doodstream.com/e/7kb5s2td561s"},{"id":8,"url":"https://streamwish.to/e/z6rb6c1h1wbz","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"z6rb6c1h1wbz","player_url":"https://streamwish.to/e/z6rb6c1h1wbz"},{"id":9,"url":"https://vidhidepro.com/v/ncidkudsoag9","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"ncidkudsoag9","player_url":"https://vidhidepro.com/v/ncidkudsoag9"},{"id":10,"url":"https://voe.sx/e/ynnjzvvnto14","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"ynnjzvvnto14","player_url":"https://voe.sx/e/ynnjzvvnto14"},{"id":11,"url":"https://doodstream.com/e/znpnyhwwljg4","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"znpnyhwwljg4","player_url":"https://doodstream.com/e/znpnyhwwljg4"}]}
+{
+  "id": 537921,
+  "titulo": "Despelote",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
+  "release_date": "2025-08-13",
+  "genres": [
+    "Animación",
+    "Comedia"
+  ],
+  "rating": "6.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/vmWgToiWzgWxzGtdbeQFrtuS2BN.jpg",
+  "overview": "Un perro soltero intenta hacer que su noche sea la mejor después de enterarse de que lo van a esterilizar y castrar.",
+  "trailer": "",
+  "runtime": "87",
+  "slug": "despelote",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/p6770cr7evqu",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "p6770cr7evqu",
+      "player_url": "https://streamwish.to/e/p6770cr7evqu"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/iue0jye66o59",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "iue0jye66o59",
+      "player_url": "https://vidhidepro.com/v/iue0jye66o59"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/ytfhvfi9mhk0",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ytfhvfi9mhk0",
+      "player_url": "https://voe.sx/e/ytfhvfi9mhk0"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/7xqcao025w23",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7xqcao025w23",
+      "player_url": "https://streamwish.to/e/7xqcao025w23"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/km3qb28ofzju",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "km3qb28ofzju",
+      "player_url": "https://vidhidepro.com/v/km3qb28ofzju"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/jvosgjcvdita",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jvosgjcvdita",
+      "player_url": "https://voe.sx/e/jvosgjcvdita"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/7kb5s2td561s",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7kb5s2td561s",
+      "player_url": "https://doodstream.com/e/7kb5s2td561s"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/z6rb6c1h1wbz",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "z6rb6c1h1wbz",
+      "player_url": "https://streamwish.to/e/z6rb6c1h1wbz"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/ncidkudsoag9",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ncidkudsoag9",
+      "player_url": "https://vidhidepro.com/v/ncidkudsoag9"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/ynnjzvvnto14",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ynnjzvvnto14",
+      "player_url": "https://voe.sx/e/ynnjzvvnto14"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/znpnyhwwljg4",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "znpnyhwwljg4",
+      "player_url": "https://doodstream.com/e/znpnyhwwljg4"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/p9811ah6gyll",
+      "player_url": "https://minochinos.com/embed/p9811ah6gyll",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p9811ah6gyll"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/44wzr6fyv8ik",
+      "player_url": "https://hglink.to/e/44wzr6fyv8ik",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "44wzr6fyv8ik"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/hfa8nno93eb0",
+      "player_url": "https://bysedikamoum.com/e/hfa8nno93eb0",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa8nno93eb0"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/aydc8mxsxexj",
+      "player_url": "https://voe.sx/e/aydc8mxsxexj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aydc8mxsxexj"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/aydc8mxsxexj/download",
+      "player_url": "https://voe.sx/aydc8mxsxexj/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/fhc8itznl9mv",
+      "player_url": "https://rapidvideo.link/e/fhc8itznl9mv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fhc8itznl9mv"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/qd7pp8qae68c",
+      "player_url": "https://minochinos.com/embed/qd7pp8qae68c",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qd7pp8qae68c"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/8932d33tqryy",
+      "player_url": "https://hglink.to/e/8932d33tqryy",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8932d33tqryy"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/7kinf7o5ho98",
+      "player_url": "https://bysedikamoum.com/e/7kinf7o5ho98",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7kinf7o5ho98"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/twntgvkoqaeb",
+      "player_url": "https://voe.sx/e/twntgvkoqaeb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "twntgvkoqaeb"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/d80a457ofpwm",
+      "player_url": "https://rapidvideo.link/e/d80a457ofpwm",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d80a457ofpwm"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/sk2ayuoek7if",
+      "player_url": "https://minochinos.com/embed/sk2ayuoek7if",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sk2ayuoek7if"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/h0csqj3u2f3o",
+      "player_url": "https://hglink.to/e/h0csqj3u2f3o",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "h0csqj3u2f3o"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/7pr9f4f9nadd",
+      "player_url": "https://bysedikamoum.com/e/7pr9f4f9nadd",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7pr9f4f9nadd"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/ghn9ebc2br6b",
+      "player_url": "https://voe.sx/e/ghn9ebc2br6b",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ghn9ebc2br6b"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/ghn9ebc2br6b/download",
+      "player_url": "https://voe.sx/ghn9ebc2br6b/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/oqjflxkdimes",
+      "player_url": "https://rapidvideo.link/e/oqjflxkdimes",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "oqjflxkdimes"
+    }
+  ]
+}
