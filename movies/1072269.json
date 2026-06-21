@@ -1,1 +1,189 @@
-{"id":1072269,"titulo":"El sucesor","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/e5q9HN0ZKMqMQtCrPB7CZU2PxwQ.jpg","release_date":"2023-11-07","genres":["drama"],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/yWXFxxqNDKJsbWaNv1CSG6JLXoo.jpg","overview":"Ellias Barnès, de 30 años, acaba de ser nombrado nuevo director artístico de una famosa casa de moda parisina. Pero cuando las expectativas son altas, empieza a sentir dolores en el pecho. De repente, le reclaman en Montreal para organizar el funeral de su padre, del que está distanciado, y descubre que puede haber heredado algo mucho peor que su débil corazón.","trailer":"","runtime":"112","slug":"el-sucesor","servidores":[{"id":1,"url":"https://streamwish.to/e/zal8vrddhmrv","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"zal8vrddhmrv","player_url":"https://streamwish.to/e/zal8vrddhmrv"},{"id":2,"url":"https://vidhidepro.com/v/n9bekpo1a1ew","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"n9bekpo1a1ew","player_url":"https://vidhidepro.com/v/n9bekpo1a1ew"},{"id":3,"url":"https://voe.sx/e/czpuscwh8gyy","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"czpuscwh8gyy","player_url":"https://voe.sx/e/czpuscwh8gyy"},{"id":4,"url":"https://doodstream.com/e/nv24pgms4prr","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"nv24pgms4prr","player_url":"https://doodstream.com/e/nv24pgms4prr"},{"id":5,"url":"https://streamwish.to/e/p4igp2nqtulx","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"p4igp2nqtulx","player_url":"https://streamwish.to/e/p4igp2nqtulx"},{"id":6,"url":"https://vidhidepro.com/v/5ar9dyhar8zw","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"5ar9dyhar8zw","player_url":"https://vidhidepro.com/v/5ar9dyhar8zw"},{"id":7,"url":"https://doodstream.com/e/48tey2gs5sr5","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"48tey2gs5sr5","player_url":"https://doodstream.com/e/48tey2gs5sr5"}]}
+{
+  "id": 1072269,
+  "titulo": "El sucesor",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/e5q9HN0ZKMqMQtCrPB7CZU2PxwQ.jpg",
+  "release_date": "2023-11-07",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/yWXFxxqNDKJsbWaNv1CSG6JLXoo.jpg",
+  "overview": "Ellias Barnès, de 30 años, acaba de ser nombrado nuevo director artístico de una famosa casa de moda parisina. Pero cuando las expectativas son altas, empieza a sentir dolores en el pecho. De repente, le reclaman en Montreal para organizar el funeral de su padre, del que está distanciado, y descubre que puede haber heredado algo mucho peor que su débil corazón.",
+  "trailer": "",
+  "runtime": "112",
+  "slug": "el-sucesor",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/zal8vrddhmrv",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zal8vrddhmrv",
+      "player_url": "https://streamwish.to/e/zal8vrddhmrv"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/n9bekpo1a1ew",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "n9bekpo1a1ew",
+      "player_url": "https://vidhidepro.com/v/n9bekpo1a1ew"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/czpuscwh8gyy",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "czpuscwh8gyy",
+      "player_url": "https://voe.sx/e/czpuscwh8gyy"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/nv24pgms4prr",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "nv24pgms4prr",
+      "player_url": "https://doodstream.com/e/nv24pgms4prr"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/p4igp2nqtulx",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "p4igp2nqtulx",
+      "player_url": "https://streamwish.to/e/p4igp2nqtulx"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/5ar9dyhar8zw",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5ar9dyhar8zw",
+      "player_url": "https://vidhidepro.com/v/5ar9dyhar8zw"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/48tey2gs5sr5",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "48tey2gs5sr5",
+      "player_url": "https://doodstream.com/e/48tey2gs5sr5"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/kmiww6dq7pg8",
+      "player_url": "https://minochinos.com/embed/kmiww6dq7pg8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kmiww6dq7pg8"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/egybrcthemou",
+      "player_url": "https://hglink.to/e/egybrcthemou",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "egybrcthemou"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/zi1naooc4mgj",
+      "player_url": "https://bysedikamoum.com/e/zi1naooc4mgj",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zi1naooc4mgj"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/ga8kgxb3nsoe",
+      "player_url": "https://voe.sx/e/ga8kgxb3nsoe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ga8kgxb3nsoe"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/ga8kgxb3nsoe/download",
+      "player_url": "https://voe.sx/ga8kgxb3nsoe/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/rv6yf4oeczb5",
+      "player_url": "https://rapidvideo.link/e/rv6yf4oeczb5",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rv6yf4oeczb5"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/27f3mbwu0zl8",
+      "player_url": "https://minochinos.com/embed/27f3mbwu0zl8",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "27f3mbwu0zl8"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/v83ece39rz29",
+      "player_url": "https://hglink.to/e/v83ece39rz29",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "v83ece39rz29"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/ofad9807c081",
+      "player_url": "https://bysedikamoum.com/e/ofad9807c081",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ofad9807c081"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/kmwp2plia9bf",
+      "player_url": "https://voe.sx/e/kmwp2plia9bf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kmwp2plia9bf"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/kmwp2plia9bf/download",
+      "player_url": "https://voe.sx/kmwp2plia9bf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/9j4l0wz1dhsk",
+      "player_url": "https://rapidvideo.link/e/9j4l0wz1dhsk",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9j4l0wz1dhsk"
+    }
+  ]
+}
