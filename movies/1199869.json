@@ -1,1 +1,216 @@
-{"id":1199869,"titulo":"Ojo por Ojo","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/msozC7mBPKH2E5sb2g6ItfGHYXD.jpg","release_date":"2025-07-03","genres":[],"rating":"5.5","backdrop":"https://image.tmdb.org/t/p/original/tTDfDHqGkRgBTL4Tw8mU0iwkW8T.jpg","overview":"Tras ser cómplice de un acto de acoso, una joven se ve atormentada por una vengativa fuerza sobrenatural a través de sus sueños.","trailer":"","runtime":"101","slug":"ojo-por-ojo","servidores":[{"id":1,"url":"https://streamwish.to/e/hs91zsudl2ug","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"hs91zsudl2ug","player_url":"https://streamwish.to/e/hs91zsudl2ug"},{"id":2,"url":"https://bysejikuar.com/e/zrgjpmdmy350","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"zrgjpmdmy350","player_url":"https://bysejikuar.com/e/zrgjpmdmy350"},{"id":3,"url":"https://vidhidepro.com/v/ecbwnxo70giw","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"ecbwnxo70giw","player_url":"https://vidhidepro.com/v/ecbwnxo70giw"},{"id":4,"url":"https://voe.sx/e/gciud5hwzyeh","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"gciud5hwzyeh","player_url":"https://voe.sx/e/gciud5hwzyeh"},{"id":5,"url":"https://doodstream.com/e/rnr22o6x2poa","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"rnr22o6x2poa","player_url":"https://doodstream.com/e/rnr22o6x2poa"},{"id":6,"url":"https://streamwish.to/e/yz7s18o29m32","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"yz7s18o29m32","player_url":"https://streamwish.to/e/yz7s18o29m32"},{"id":7,"url":"https://bysejikuar.com/e/mushen9qznqa","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"mushen9qznqa","player_url":"https://bysejikuar.com/e/mushen9qznqa"},{"id":8,"url":"https://vidhidepro.com/v/c1qx4q7hh64n","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"c1qx4q7hh64n","player_url":"https://vidhidepro.com/v/c1qx4q7hh64n"},{"id":9,"url":"https://voe.sx/e/ai3fuvzdlyr1","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ai3fuvzdlyr1","player_url":"https://voe.sx/e/ai3fuvzdlyr1"},{"id":10,"url":"https://doodstream.com/e/jaonb7810bwo","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"jaonb7810bwo","player_url":"https://doodstream.com/e/jaonb7810bwo"}]}
+{
+  "id": 1199869,
+  "titulo": "Ojo por Ojo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/msozC7mBPKH2E5sb2g6ItfGHYXD.jpg",
+  "release_date": "2025-07-03",
+  "genres": [
+    "Terror"
+  ],
+  "rating": "5.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/tTDfDHqGkRgBTL4Tw8mU0iwkW8T.jpg",
+  "overview": "Tras ser cómplice de un acto de acoso, una joven se ve atormentada por una vengativa fuerza sobrenatural a través de sus sueños.",
+  "trailer": "",
+  "runtime": "101",
+  "slug": "ojo-por-ojo",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/hs91zsudl2ug",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hs91zsudl2ug",
+      "player_url": "https://streamwish.to/e/hs91zsudl2ug"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/zrgjpmdmy350",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "zrgjpmdmy350",
+      "player_url": "https://bysejikuar.com/e/zrgjpmdmy350"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/ecbwnxo70giw",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ecbwnxo70giw",
+      "player_url": "https://vidhidepro.com/v/ecbwnxo70giw"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/gciud5hwzyeh",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gciud5hwzyeh",
+      "player_url": "https://voe.sx/e/gciud5hwzyeh"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/rnr22o6x2poa",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "rnr22o6x2poa",
+      "player_url": "https://doodstream.com/e/rnr22o6x2poa"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/yz7s18o29m32",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "yz7s18o29m32",
+      "player_url": "https://streamwish.to/e/yz7s18o29m32"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/mushen9qznqa",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "mushen9qznqa",
+      "player_url": "https://bysejikuar.com/e/mushen9qznqa"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/c1qx4q7hh64n",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "c1qx4q7hh64n",
+      "player_url": "https://vidhidepro.com/v/c1qx4q7hh64n"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/ai3fuvzdlyr1",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ai3fuvzdlyr1",
+      "player_url": "https://voe.sx/e/ai3fuvzdlyr1"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/jaonb7810bwo",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "jaonb7810bwo",
+      "player_url": "https://doodstream.com/e/jaonb7810bwo"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/t0fr8me26cmm",
+      "player_url": "https://minochinos.com/embed/t0fr8me26cmm",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t0fr8me26cmm"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/6y8k17rklrqe",
+      "player_url": "https://hglink.to/e/6y8k17rklrqe",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6y8k17rklrqe"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/8yejcvbbbxsb",
+      "player_url": "https://bysedikamoum.com/e/8yejcvbbbxsb",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8yejcvbbbxsb"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/dbm1gbcx4c96",
+      "player_url": "https://voe.sx/e/dbm1gbcx4c96",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dbm1gbcx4c96"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/dbm1gbcx4c96/download",
+      "player_url": "https://voe.sx/dbm1gbcx4c96/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/trg1fyh23e85",
+      "player_url": "https://rapidvideo.link/e/trg1fyh23e85",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "trg1fyh23e85"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/eo1tjhnu2c83",
+      "player_url": "https://minochinos.com/embed/eo1tjhnu2c83",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "eo1tjhnu2c83"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/j53cxx051sh0",
+      "player_url": "https://hglink.to/e/j53cxx051sh0",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "j53cxx051sh0"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/7ks631kzzyf8",
+      "player_url": "https://bysedikamoum.com/e/7ks631kzzyf8",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7ks631kzzyf8"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/7doomkjfscsr",
+      "player_url": "https://voe.sx/e/7doomkjfscsr",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7doomkjfscsr"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/7doomkjfscsr/download",
+      "player_url": "https://voe.sx/7doomkjfscsr/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/19wlkop6m4a3",
+      "player_url": "https://rapidvideo.link/e/19wlkop6m4a3",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "19wlkop6m4a3"
+    }
+  ]
+}
