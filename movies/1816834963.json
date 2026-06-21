@@ -12,5 +12,33 @@
   "source": "animejara",
   "type": "movie",
   "iframe_url": "",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://netuplayer.top/e/Yi9ERVkvMlpXbkQ4Y2laQmQ5QVcvZz09",
+      "player_url": "https://netuplayer.top/e/Yi9ERVkvMlpXbkQ4Y2laQmQ5QVcvZz09",
+      "nombre": "netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Yi9ERVkvMlpXbkQ4Y2laQmQ5QVcvZz09"
+    },
+    {
+      "id": 2,
+      "url": "https://streamtape.com/e/74e64Bm7WlsAXyK/%5BAnimeOnlineNinja%5D_Violet_Evergarden_Gaiden_Latino.mp4",
+      "player_url": "https://streamtape.com/e/74e64Bm7WlsAXyK/%5BAnimeOnlineNinja%5D_Violet_Evergarden_Gaiden_Latino.mp4",
+      "nombre": "streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "%5BAnimeOnlineNinja%5D_Violet_Evergarden_Gaiden_Latino.mp4"
+    },
+    {
+      "id": 3,
+      "url": "https://dood.cx/e/jscagchmfphqg6y786aun300y1wxcc5z",
+      "player_url": "https://dood.cx/e/jscagchmfphqg6y786aun300y1wxcc5z",
+      "nombre": "dood",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jscagchmfphqg6y786aun300y1wxcc5z"
+    }
+  ]
 }
