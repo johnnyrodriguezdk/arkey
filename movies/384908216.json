@@ -12,5 +12,60 @@
   "source": "animejara",
   "type": "movie",
   "iframe_url": "",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://voe.sx/e/b57rahjscjh7",
+      "player_url": "https://voe.sx/e/b57rahjscjh7",
+      "nombre": "voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b57rahjscjh7"
+    },
+    {
+      "id": 2,
+      "url": "https://netuplayer.top/e/c0F4UzRTbm8vSytYcVNjc0hEU2JRQT09",
+      "player_url": "https://netuplayer.top/e/c0F4UzRTbm8vSytYcVNjc0hEU2JRQT09",
+      "nombre": "netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c0F4UzRTbm8vSytYcVNjc0hEU2JRQT09"
+    },
+    {
+      "id": 3,
+      "url": "https://uqload.com/embed-j3zrzarhhoxx.html",
+      "player_url": "https://uqload.com/embed-j3zrzarhhoxx.html",
+      "nombre": "uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mbed-j3zrzarhhoxx.html"
+    },
+    {
+      "id": 4,
+      "url": "https://streamtape.com/e/LOjRJ7pBxZcRmO8",
+      "player_url": "https://streamtape.com/e/LOjRJ7pBxZcRmO8",
+      "nombre": "streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "LOjRJ7pBxZcRmO8"
+    },
+    {
+      "id": 5,
+      "url": "https://dood.ws/e/olc65bmu1ht73exjzoji0dqza389iv6x",
+      "player_url": "https://dood.ws/e/olc65bmu1ht73exjzoji0dqza389iv6x",
+      "nombre": "dood",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "olc65bmu1ht73exjzoji0dqza389iv6x"
+    },
+    {
+      "id": 6,
+      "url": "https://mixdropjmk.pw/e/xo63d3o6twmewd",
+      "player_url": "https://mixdropjmk.pw/e/xo63d3o6twmewd",
+      "nombre": "mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xo63d3o6twmewd"
+    }
+  ]
 }
