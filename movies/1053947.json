@@ -1,1 +1,198 @@
-{"id":1053947,"titulo":"Solitude","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/JVdsDqEeh2HArVcHzUgspLebIz.jpg","release_date":"2024-04-03","genres":["drama"],"rating":"7.2","backdrop":"https://image.tmdb.org/t/p/original/2mfm2BbNW2bdpcu6udajKHBB2rn.jpg","overview":"Gunner es un anciano granjero obligado por el Estado a vender su hogar rural y mudarse a la capital, Reikiavik. Allí encuentra una amistad inesperada con un joven repartidor de periódicos, Ari. Juntos, descubren el increíble poder de la conexión humana en medio de la soledad.","trailer":"","runtime":"75","slug":"solitude","servidores":[{"id":1,"url":"https://streamwish.to/e/zg6bq7vz60ey","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"zg6bq7vz60ey","player_url":"https://streamwish.to/e/zg6bq7vz60ey"},{"id":2,"url":"https://vidhidepro.com/v/jocbuv832prn","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"jocbuv832prn","player_url":"https://vidhidepro.com/v/jocbuv832prn"},{"id":3,"url":"https://voe.sx/e/zbeqsh8phytr","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"zbeqsh8phytr","player_url":"https://voe.sx/e/zbeqsh8phytr"},{"id":4,"url":"https://doodstream.com/e/e8dlyi472k37","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"e8dlyi472k37","player_url":"https://doodstream.com/e/e8dlyi472k37"},{"id":5,"url":"https://streamwish.to/e/qgwpblygs7v1","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"qgwpblygs7v1","player_url":"https://streamwish.to/e/qgwpblygs7v1"},{"id":6,"url":"https://vidhidepro.com/v/puqb1fxb3shl","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"puqb1fxb3shl","player_url":"https://vidhidepro.com/v/puqb1fxb3shl"},{"id":7,"url":"https://voe.sx/e/axqf2cwm9x3j","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"axqf2cwm9x3j","player_url":"https://voe.sx/e/axqf2cwm9x3j"},{"id":8,"url":"https://doodstream.com/e/nlfg5ty9k72k","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"nlfg5ty9k72k","player_url":"https://doodstream.com/e/nlfg5ty9k72k"}]}
+{
+  "id": 1053947,
+  "titulo": "Solitude",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/JVdsDqEeh2HArVcHzUgspLebIz.jpg",
+  "release_date": "2024-04-03",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/2mfm2BbNW2bdpcu6udajKHBB2rn.jpg",
+  "overview": "Gunner es un anciano granjero obligado por el Estado a vender su hogar rural y mudarse a la capital, Reikiavik. Allí encuentra una amistad inesperada con un joven repartidor de periódicos, Ari. Juntos, descubren el increíble poder de la conexión humana en medio de la soledad.",
+  "trailer": "",
+  "runtime": "75",
+  "slug": "solitude",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/zg6bq7vz60ey",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zg6bq7vz60ey",
+      "player_url": "https://streamwish.to/e/zg6bq7vz60ey"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/jocbuv832prn",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jocbuv832prn",
+      "player_url": "https://vidhidepro.com/v/jocbuv832prn"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/zbeqsh8phytr",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zbeqsh8phytr",
+      "player_url": "https://voe.sx/e/zbeqsh8phytr"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/e8dlyi472k37",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "e8dlyi472k37",
+      "player_url": "https://doodstream.com/e/e8dlyi472k37"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/qgwpblygs7v1",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "qgwpblygs7v1",
+      "player_url": "https://streamwish.to/e/qgwpblygs7v1"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/puqb1fxb3shl",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "puqb1fxb3shl",
+      "player_url": "https://vidhidepro.com/v/puqb1fxb3shl"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/axqf2cwm9x3j",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "axqf2cwm9x3j",
+      "player_url": "https://voe.sx/e/axqf2cwm9x3j"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/nlfg5ty9k72k",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "nlfg5ty9k72k",
+      "player_url": "https://doodstream.com/e/nlfg5ty9k72k"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/fbtln15eqjm7",
+      "player_url": "https://minochinos.com/embed/fbtln15eqjm7",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fbtln15eqjm7"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/6eif6gm6lnvy",
+      "player_url": "https://hglink.to/e/6eif6gm6lnvy",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6eif6gm6lnvy"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/ym8vukgzdak7",
+      "player_url": "https://bysedikamoum.com/e/ym8vukgzdak7",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ym8vukgzdak7"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/rq7zovr40yet",
+      "player_url": "https://voe.sx/e/rq7zovr40yet",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rq7zovr40yet"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/rq7zovr40yet/download",
+      "player_url": "https://voe.sx/rq7zovr40yet/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/sqaxfwc3z4e8",
+      "player_url": "https://rapidvideo.link/e/sqaxfwc3z4e8",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sqaxfwc3z4e8"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/hg3nc6p58wmk",
+      "player_url": "https://minochinos.com/embed/hg3nc6p58wmk",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hg3nc6p58wmk"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/hxsaq620kuuk",
+      "player_url": "https://hglink.to/e/hxsaq620kuuk",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hxsaq620kuuk"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/c8d9ea59ejvs",
+      "player_url": "https://bysedikamoum.com/e/c8d9ea59ejvs",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c8d9ea59ejvs"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/vxchwbxxftur",
+      "player_url": "https://voe.sx/e/vxchwbxxftur",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vxchwbxxftur"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/vxchwbxxftur/download",
+      "player_url": "https://voe.sx/vxchwbxxftur/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/wb3m9ivcdp51",
+      "player_url": "https://rapidvideo.link/e/wb3m9ivcdp51",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wb3m9ivcdp51"
+    }
+  ]
+}
