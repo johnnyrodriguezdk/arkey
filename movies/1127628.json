@@ -1,1 +1,225 @@
-{"id":1127628,"titulo":"Esa cosa con alas","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/1Kxlgtnt8Fu7PwY3AAodyHiUaP.jpg","release_date":"2025-10-17","genres":["drama"],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/A7yTpiCFMWMZVf5kPXuga3WvfCH.jpg","overview":"Un padre y sus dos hijos pequeños afrontan la repentina muerte de su mujer y su madre.","trailer":"","runtime":"98","slug":"esa-cosa-con-alas","servidores":[{"id":1,"url":"https://streamwish.to/e/ovlgncxkh6dt","idioma":"latino","nombre":"Streamwish","calidad":"SCR","embed_id":"ovlgncxkh6dt","player_url":"https://streamwish.to/e/ovlgncxkh6dt"},{"id":2,"url":"https://vidhidepro.com/v/5qi78towpgvy","idioma":"latino","nombre":"Vidhide","calidad":"SCR","embed_id":"5qi78towpgvy","player_url":"https://vidhidepro.com/v/5qi78towpgvy"},{"id":3,"url":"https://voe.sx/e/qhvdydvpvdgx","idioma":"latino","nombre":"Voesx","calidad":"SCR","embed_id":"qhvdydvpvdgx","player_url":"https://voe.sx/e/qhvdydvpvdgx"},{"id":4,"url":"https://doodstream.com/e/nu5h34jj0cr0","idioma":"latino","nombre":"Doodstream","calidad":"SCR","embed_id":"nu5h34jj0cr0","player_url":"https://doodstream.com/e/nu5h34jj0cr0"},{"id":5,"url":"https://streamwish.to/e/tfgu6ldpx76u","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"tfgu6ldpx76u","player_url":"https://streamwish.to/e/tfgu6ldpx76u"},{"id":6,"url":"https://vidhidepro.com/v/rbdirjn0odjh","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"rbdirjn0odjh","player_url":"https://vidhidepro.com/v/rbdirjn0odjh"},{"id":7,"url":"https://voe.sx/e/xknpjtetgh5a","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"xknpjtetgh5a","player_url":"https://voe.sx/e/xknpjtetgh5a"},{"id":8,"url":"https://doodstream.com/e/osfilgirmkbo","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"osfilgirmkbo","player_url":"https://doodstream.com/e/osfilgirmkbo"},{"id":9,"url":"https://streamwish.to/e/i27xnrwbwkbp","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"i27xnrwbwkbp","player_url":"https://streamwish.to/e/i27xnrwbwkbp"},{"id":10,"url":"https://bysejikuar.com/e/tku6azb01xsa","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"tku6azb01xsa","player_url":"https://bysejikuar.com/e/tku6azb01xsa"},{"id":11,"url":"https://vidhidepro.com/v/z99bfe9nt98j","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"z99bfe9nt98j","player_url":"https://vidhidepro.com/v/z99bfe9nt98j"},{"id":12,"url":"https://voe.sx/e/growgvm7vmkn","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"growgvm7vmkn","player_url":"https://voe.sx/e/growgvm7vmkn"},{"id":13,"url":"https://doodstream.com/e/za9agtoxaf31","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"za9agtoxaf31","player_url":"https://doodstream.com/e/za9agtoxaf31"}]}
+{
+  "id": 1127628,
+  "titulo": "Esa cosa con alas",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/1Kxlgtnt8Fu7PwY3AAodyHiUaP.jpg",
+  "release_date": "2025-10-17",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/A7yTpiCFMWMZVf5kPXuga3WvfCH.jpg",
+  "overview": "Un padre y sus dos hijos pequeños afrontan la repentina muerte de su mujer y su madre.",
+  "trailer": "",
+  "runtime": "98",
+  "slug": "esa-cosa-con-alas",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ovlgncxkh6dt",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "SCR",
+      "embed_id": "ovlgncxkh6dt",
+      "player_url": "https://streamwish.to/e/ovlgncxkh6dt"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/5qi78towpgvy",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "SCR",
+      "embed_id": "5qi78towpgvy",
+      "player_url": "https://vidhidepro.com/v/5qi78towpgvy"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/qhvdydvpvdgx",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "SCR",
+      "embed_id": "qhvdydvpvdgx",
+      "player_url": "https://voe.sx/e/qhvdydvpvdgx"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/nu5h34jj0cr0",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "SCR",
+      "embed_id": "nu5h34jj0cr0",
+      "player_url": "https://doodstream.com/e/nu5h34jj0cr0"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/tfgu6ldpx76u",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "tfgu6ldpx76u",
+      "player_url": "https://streamwish.to/e/tfgu6ldpx76u"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/rbdirjn0odjh",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rbdirjn0odjh",
+      "player_url": "https://vidhidepro.com/v/rbdirjn0odjh"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/xknpjtetgh5a",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xknpjtetgh5a",
+      "player_url": "https://voe.sx/e/xknpjtetgh5a"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/osfilgirmkbo",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "osfilgirmkbo",
+      "player_url": "https://doodstream.com/e/osfilgirmkbo"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/i27xnrwbwkbp",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "i27xnrwbwkbp",
+      "player_url": "https://streamwish.to/e/i27xnrwbwkbp"
+    },
+    {
+      "id": 10,
+      "url": "https://bysejikuar.com/e/tku6azb01xsa",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "tku6azb01xsa",
+      "player_url": "https://bysejikuar.com/e/tku6azb01xsa"
+    },
+    {
+      "id": 11,
+      "url": "https://vidhidepro.com/v/z99bfe9nt98j",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "z99bfe9nt98j",
+      "player_url": "https://vidhidepro.com/v/z99bfe9nt98j"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/growgvm7vmkn",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "growgvm7vmkn",
+      "player_url": "https://voe.sx/e/growgvm7vmkn"
+    },
+    {
+      "id": 13,
+      "url": "https://doodstream.com/e/za9agtoxaf31",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "za9agtoxaf31",
+      "player_url": "https://doodstream.com/e/za9agtoxaf31"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/t0mf1h9q0hpq",
+      "player_url": "https://minochinos.com/embed/t0mf1h9q0hpq",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t0mf1h9q0hpq"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/148xx269n0xe",
+      "player_url": "https://hglink.to/e/148xx269n0xe",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "148xx269n0xe"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/ghwdwaro5gga",
+      "player_url": "https://voe.sx/e/ghwdwaro5gga",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ghwdwaro5gga"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/ghwdwaro5gga/download",
+      "player_url": "https://voe.sx/ghwdwaro5gga/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/atkjqbeh4zvi",
+      "player_url": "https://rapidvideo.link/e/atkjqbeh4zvi",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "atkjqbeh4zvi"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/tvbcovjhpuow",
+      "player_url": "https://minochinos.com/embed/tvbcovjhpuow",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tvbcovjhpuow"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/qc9kyf8tlk13",
+      "player_url": "https://hglink.to/e/qc9kyf8tlk13",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qc9kyf8tlk13"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/ewaqixyhk4ay",
+      "player_url": "https://voe.sx/e/ewaqixyhk4ay",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ewaqixyhk4ay"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/ewaqixyhk4ay/download",
+      "player_url": "https://voe.sx/ewaqixyhk4ay/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/py1z8imnfo0v",
+      "player_url": "https://rapidvideo.link/e/py1z8imnfo0v",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "py1z8imnfo0v"
+    }
+  ]
+}
