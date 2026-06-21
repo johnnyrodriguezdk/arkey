@@ -1,1 +1,190 @@
-{"id":1249385,"titulo":"El mal vive aquí","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/bampgK31QFyaNHQXmCnQ2m3VLvT.jpg","release_date":"2024-10-18","genres":[],"rating":"3.9","backdrop":"https://image.tmdb.org/t/p/original/abHrSiDQzUVJi9opGuXiKamJkB5.jpg","overview":"Sigue a una pareja en busca de emociones que fijan su objetivo en una casa encantada y sufren diversos incidentes mientras presencian cómo una familia se vuelve loca","trailer":"","runtime":"86","slug":"ghost-game","servidores":[{"id":1,"url":"https://streamwish.to/e/6bq29c7luf1d","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"6bq29c7luf1d","player_url":"https://streamwish.to/e/6bq29c7luf1d"},{"id":2,"url":"https://vidhidepro.com/v/s0h7qn94kvae","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"s0h7qn94kvae","player_url":"https://vidhidepro.com/v/s0h7qn94kvae"},{"id":3,"url":"https://voe.sx/e/wn8qhlbgkqhq","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"wn8qhlbgkqhq","player_url":"https://voe.sx/e/wn8qhlbgkqhq"},{"id":4,"url":"https://streamwish.to/e/x6y9pb5ip4yz","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"x6y9pb5ip4yz","player_url":"https://streamwish.to/e/x6y9pb5ip4yz"},{"id":5,"url":"https://vidhidepro.com/v/g0ccbxim53lb","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"g0ccbxim53lb","player_url":"https://vidhidepro.com/v/g0ccbxim53lb"},{"id":6,"url":"https://voe.sx/e/xabka1aralwt","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"xabka1aralwt","player_url":"https://voe.sx/e/xabka1aralwt"},{"id":7,"url":"https://doodstream.com/e/56mbms4d9m7w","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"56mbms4d9m7w","player_url":"https://doodstream.com/e/56mbms4d9m7w"}]}
+{
+  "id": 1249385,
+  "titulo": "El mal vive aquí",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/bampgK31QFyaNHQXmCnQ2m3VLvT.jpg",
+  "release_date": "2024-10-18",
+  "genres": [
+    "Suspense",
+    "Terror"
+  ],
+  "rating": "3.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/abHrSiDQzUVJi9opGuXiKamJkB5.jpg",
+  "overview": "Sigue a una pareja en busca de emociones que fijan su objetivo en una casa encantada y sufren diversos incidentes mientras presencian cómo una familia se vuelve loca",
+  "trailer": "",
+  "runtime": "86",
+  "slug": "ghost-game",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/6bq29c7luf1d",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6bq29c7luf1d",
+      "player_url": "https://streamwish.to/e/6bq29c7luf1d"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/s0h7qn94kvae",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "s0h7qn94kvae",
+      "player_url": "https://vidhidepro.com/v/s0h7qn94kvae"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/wn8qhlbgkqhq",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "wn8qhlbgkqhq",
+      "player_url": "https://voe.sx/e/wn8qhlbgkqhq"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/x6y9pb5ip4yz",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "x6y9pb5ip4yz",
+      "player_url": "https://streamwish.to/e/x6y9pb5ip4yz"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/g0ccbxim53lb",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "g0ccbxim53lb",
+      "player_url": "https://vidhidepro.com/v/g0ccbxim53lb"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/xabka1aralwt",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xabka1aralwt",
+      "player_url": "https://voe.sx/e/xabka1aralwt"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/56mbms4d9m7w",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "56mbms4d9m7w",
+      "player_url": "https://doodstream.com/e/56mbms4d9m7w"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/thh5w13s3g09",
+      "player_url": "https://minochinos.com/embed/thh5w13s3g09",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "thh5w13s3g09"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/gzmszj8p33iz",
+      "player_url": "https://hglink.to/e/gzmszj8p33iz",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gzmszj8p33iz"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/e6y1a5hu0ss8",
+      "player_url": "https://bysedikamoum.com/e/e6y1a5hu0ss8",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e6y1a5hu0ss8"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/igiindy78q9y",
+      "player_url": "https://voe.sx/e/igiindy78q9y",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "igiindy78q9y"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/igiindy78q9y/download",
+      "player_url": "https://voe.sx/igiindy78q9y/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/zdwa647en3j1",
+      "player_url": "https://rapidvideo.link/e/zdwa647en3j1",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zdwa647en3j1"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/oe3q3kr10c5j",
+      "player_url": "https://minochinos.com/embed/oe3q3kr10c5j",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "oe3q3kr10c5j"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/iw1hewoh6kqh",
+      "player_url": "https://hglink.to/e/iw1hewoh6kqh",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "iw1hewoh6kqh"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/5u5vh7g9w6eo",
+      "player_url": "https://bysedikamoum.com/e/5u5vh7g9w6eo",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5u5vh7g9w6eo"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/6lkj4fuxb0vq",
+      "player_url": "https://voe.sx/e/6lkj4fuxb0vq",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6lkj4fuxb0vq"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/6lkj4fuxb0vq/download",
+      "player_url": "https://voe.sx/6lkj4fuxb0vq/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/nkzctp1oiq6l",
+      "player_url": "https://rapidvideo.link/e/nkzctp1oiq6l",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "nkzctp1oiq6l"
+    }
+  ]
+}
