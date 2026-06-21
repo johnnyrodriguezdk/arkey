@@ -12,5 +12,24 @@
   "source": "animejara",
   "type": "movie",
   "iframe_url": "",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://netuplayer.top/e/WXA4NlQ5VzlrTEwvUlN4ZDd1ZjR3UT09",
+      "player_url": "https://netuplayer.top/e/WXA4NlQ5VzlrTEwvUlN4ZDd1ZjR3UT09",
+      "nombre": "netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "WXA4NlQ5VzlrTEwvUlN4ZDd1ZjR3UT09"
+    },
+    {
+      "id": 2,
+      "url": "https://mixdropjmk.pw/e/dq0knggvcxk98r",
+      "player_url": "https://mixdropjmk.pw/e/dq0knggvcxk98r",
+      "nombre": "mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dq0knggvcxk98r"
+    }
+  ]
 }
