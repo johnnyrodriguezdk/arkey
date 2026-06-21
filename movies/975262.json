@@ -1,1 +1,198 @@
-{"id":975262,"titulo":"La Era de Kasym","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/5wuU8TOQavODS8jcUp9kblrap7o.jpg","release_date":"2022-05-12","genres":["drama"],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/a6DGg7v968cBWcy7B0qje49AsU9.jpg","overview":"En el siglo XVI, surge un gran líder para unir a las tribus rivales de Eurasia: Kasym Khan.","trailer":"","runtime":"138","slug":"la-era-de-kasym","servidores":[{"id":1,"url":"https://streamwish.to/e/zaat0ycijfh5","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"zaat0ycijfh5","player_url":"https://streamwish.to/e/zaat0ycijfh5"},{"id":2,"url":"https://vidhidepro.com/v/f123qphhyhmx","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"f123qphhyhmx","player_url":"https://vidhidepro.com/v/f123qphhyhmx"},{"id":3,"url":"https://voe.sx/e/ecxhde7t3dqx","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ecxhde7t3dqx","player_url":"https://voe.sx/e/ecxhde7t3dqx"},{"id":4,"url":"https://doodstream.com/e/7fumxlot6stu","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"7fumxlot6stu","player_url":"https://doodstream.com/e/7fumxlot6stu"},{"id":5,"url":"https://streamwish.to/e/m3wmizdzr1ef","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"m3wmizdzr1ef","player_url":"https://streamwish.to/e/m3wmizdzr1ef"},{"id":6,"url":"https://vidhidepro.com/v/kwn0l1ta47ru","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"kwn0l1ta47ru","player_url":"https://vidhidepro.com/v/kwn0l1ta47ru"},{"id":7,"url":"https://voe.sx/e/qmjbmeslqkqs","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"qmjbmeslqkqs","player_url":"https://voe.sx/e/qmjbmeslqkqs"},{"id":8,"url":"https://doodstream.com/e/stc4skx9167s","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"stc4skx9167s","player_url":"https://doodstream.com/e/stc4skx9167s"}]}
+{
+  "id": 975262,
+  "titulo": "La Era de Kasym",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/5wuU8TOQavODS8jcUp9kblrap7o.jpg",
+  "release_date": "2022-05-12",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/a6DGg7v968cBWcy7B0qje49AsU9.jpg",
+  "overview": "En el siglo XVI, surge un gran líder para unir a las tribus rivales de Eurasia: Kasym Khan.",
+  "trailer": "",
+  "runtime": "138",
+  "slug": "la-era-de-kasym",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/zaat0ycijfh5",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zaat0ycijfh5",
+      "player_url": "https://streamwish.to/e/zaat0ycijfh5"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/f123qphhyhmx",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "f123qphhyhmx",
+      "player_url": "https://vidhidepro.com/v/f123qphhyhmx"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/ecxhde7t3dqx",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ecxhde7t3dqx",
+      "player_url": "https://voe.sx/e/ecxhde7t3dqx"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/7fumxlot6stu",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7fumxlot6stu",
+      "player_url": "https://doodstream.com/e/7fumxlot6stu"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/m3wmizdzr1ef",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "m3wmizdzr1ef",
+      "player_url": "https://streamwish.to/e/m3wmizdzr1ef"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/kwn0l1ta47ru",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "kwn0l1ta47ru",
+      "player_url": "https://vidhidepro.com/v/kwn0l1ta47ru"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/qmjbmeslqkqs",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qmjbmeslqkqs",
+      "player_url": "https://voe.sx/e/qmjbmeslqkqs"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/stc4skx9167s",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "stc4skx9167s",
+      "player_url": "https://doodstream.com/e/stc4skx9167s"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/vnk4odrqkcgx",
+      "player_url": "https://minochinos.com/embed/vnk4odrqkcgx",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vnk4odrqkcgx"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/deffxxeesc1p",
+      "player_url": "https://hglink.to/e/deffxxeesc1p",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "deffxxeesc1p"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/csdjd6etohcv",
+      "player_url": "https://bysedikamoum.com/e/csdjd6etohcv",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "csdjd6etohcv"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/ltsp5dqwbjgv",
+      "player_url": "https://voe.sx/e/ltsp5dqwbjgv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ltsp5dqwbjgv"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/ltsp5dqwbjgv/download",
+      "player_url": "https://voe.sx/ltsp5dqwbjgv/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/luyntxphv35j",
+      "player_url": "https://rapidvideo.link/e/luyntxphv35j",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "luyntxphv35j"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/53mei83naisw",
+      "player_url": "https://minochinos.com/embed/53mei83naisw",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "53mei83naisw"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/ctkpru40zv92",
+      "player_url": "https://hglink.to/e/ctkpru40zv92",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ctkpru40zv92"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/qlv03b2wthob",
+      "player_url": "https://bysedikamoum.com/e/qlv03b2wthob",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qlv03b2wthob"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/pxtuxoc4vlbc",
+      "player_url": "https://voe.sx/e/pxtuxoc4vlbc",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pxtuxoc4vlbc"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/pxtuxoc4vlbc/download",
+      "player_url": "https://voe.sx/pxtuxoc4vlbc/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/jmvbhfdwk1is",
+      "player_url": "https://rapidvideo.link/e/jmvbhfdwk1is",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jmvbhfdwk1is"
+    }
+  ]
+}
