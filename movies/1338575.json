@@ -1,1 +1,219 @@
-{"id":1338575,"titulo":"M","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/lzr7mTN8y3xbluYpxCqBF2uVlXh.jpg","release_date":"1970-01-01","genres":[],"rating":"7.3","backdrop":"https://image.tmdb.org/t/p/original/1iqD0ndSHDNnroLQdw1RSdI7Ye4.jpg","overview":"El mundo ha sido devastado por una pandemia. Solo y fuera de la seguridad del bosque, Marko se enfrenta a un mundo destrozado, envuelto en silencio y peligro.","trailer":"","runtime":"90","slug":"m-la-ultima-esperanza","servidores":[{"id":1,"url":"https://streamwish.to/e/uivcyaduug42","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"uivcyaduug42","player_url":"https://streamwish.to/e/uivcyaduug42"},{"id":2,"url":"https://bysejikuar.com/e/sj808uvdq0kd","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"sj808uvdq0kd","player_url":"https://bysejikuar.com/e/sj808uvdq0kd"},{"id":3,"url":"https://vidhidepro.com/v/92cg68q3he7k","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"92cg68q3he7k","player_url":"https://vidhidepro.com/v/92cg68q3he7k"},{"id":4,"url":"https://voe.sx/e/rzjr3psdqo9s","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"rzjr3psdqo9s","player_url":"https://voe.sx/e/rzjr3psdqo9s"},{"id":5,"url":"https://doodstream.com/e/oat2u4n8tfrp","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"oat2u4n8tfrp","player_url":"https://doodstream.com/e/oat2u4n8tfrp"},{"id":6,"url":"https://streamwish.to/e/mw430i9l5osu","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"mw430i9l5osu","player_url":"https://streamwish.to/e/mw430i9l5osu"},{"id":7,"url":"https://bysejikuar.com/e/133ndx9hry81","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"133ndx9hry81","player_url":"https://bysejikuar.com/e/133ndx9hry81"},{"id":8,"url":"https://vidhidepro.com/v/c67n0mfpbfoz","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"c67n0mfpbfoz","player_url":"https://vidhidepro.com/v/c67n0mfpbfoz"},{"id":9,"url":"https://voe.sx/e/abg77myiolxf","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"abg77myiolxf","player_url":"https://voe.sx/e/abg77myiolxf"},{"id":10,"url":"https://doodstream.com/e/jb4k9qnm5q23","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"jb4k9qnm5q23","player_url":"https://doodstream.com/e/jb4k9qnm5q23"}]}
+{
+  "id": 1338575,
+  "titulo": "M",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/lzr7mTN8y3xbluYpxCqBF2uVlXh.jpg",
+  "release_date": "1970-01-01",
+  "genres": [
+    "Ciencia Ficción",
+    "Drama",
+    "Aventura",
+    "Terror"
+  ],
+  "rating": "7.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/1iqD0ndSHDNnroLQdw1RSdI7Ye4.jpg",
+  "overview": "El mundo ha sido devastado por una pandemia. Solo y fuera de la seguridad del bosque, Marko se enfrenta a un mundo destrozado, envuelto en silencio y peligro.",
+  "trailer": "",
+  "runtime": "90",
+  "slug": "m-la-ultima-esperanza",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/uivcyaduug42",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "uivcyaduug42",
+      "player_url": "https://streamwish.to/e/uivcyaduug42"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/sj808uvdq0kd",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "sj808uvdq0kd",
+      "player_url": "https://bysejikuar.com/e/sj808uvdq0kd"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/92cg68q3he7k",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "92cg68q3he7k",
+      "player_url": "https://vidhidepro.com/v/92cg68q3he7k"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/rzjr3psdqo9s",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rzjr3psdqo9s",
+      "player_url": "https://voe.sx/e/rzjr3psdqo9s"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/oat2u4n8tfrp",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "oat2u4n8tfrp",
+      "player_url": "https://doodstream.com/e/oat2u4n8tfrp"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/mw430i9l5osu",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mw430i9l5osu",
+      "player_url": "https://streamwish.to/e/mw430i9l5osu"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/133ndx9hry81",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "133ndx9hry81",
+      "player_url": "https://bysejikuar.com/e/133ndx9hry81"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/c67n0mfpbfoz",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "c67n0mfpbfoz",
+      "player_url": "https://vidhidepro.com/v/c67n0mfpbfoz"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/abg77myiolxf",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "abg77myiolxf",
+      "player_url": "https://voe.sx/e/abg77myiolxf"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/jb4k9qnm5q23",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "jb4k9qnm5q23",
+      "player_url": "https://doodstream.com/e/jb4k9qnm5q23"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/bzjd5ah2gmnh",
+      "player_url": "https://minochinos.com/embed/bzjd5ah2gmnh",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bzjd5ah2gmnh"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/5cbkvic5pqw6",
+      "player_url": "https://hglink.to/e/5cbkvic5pqw6",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5cbkvic5pqw6"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/vmmm0z4n9kka",
+      "player_url": "https://bysedikamoum.com/e/vmmm0z4n9kka",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vmmm0z4n9kka"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/3vqjynluxfmr",
+      "player_url": "https://voe.sx/e/3vqjynluxfmr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3vqjynluxfmr"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/3vqjynluxfmr/download",
+      "player_url": "https://voe.sx/3vqjynluxfmr/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/8s3b0gxz71ek",
+      "player_url": "https://rapidvideo.link/e/8s3b0gxz71ek",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8s3b0gxz71ek"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/l9efov3ioyu2",
+      "player_url": "https://minochinos.com/embed/l9efov3ioyu2",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l9efov3ioyu2"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/qz74mhm2p6t8",
+      "player_url": "https://hglink.to/e/qz74mhm2p6t8",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qz74mhm2p6t8"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/cynai4qcsqmt",
+      "player_url": "https://bysedikamoum.com/e/cynai4qcsqmt",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cynai4qcsqmt"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/p6lprzzcv13r",
+      "player_url": "https://voe.sx/e/p6lprzzcv13r",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "p6lprzzcv13r"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/p6lprzzcv13r/download",
+      "player_url": "https://voe.sx/p6lprzzcv13r/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/01p7ismbjgrt",
+      "player_url": "https://rapidvideo.link/e/01p7ismbjgrt",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "01p7ismbjgrt"
+    }
+  ]
+}
