@@ -1,1 +1,281 @@
-{"id":1086260,"titulo":"La Astronauta","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/qnAKcqKEyqaiQUkMGAd8VDRQK9V.jpg","release_date":"2025-09-26","genres":[],"rating":"6.1","backdrop":"https://image.tmdb.org/t/p/original/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg","overview":"Tras regresar de su primera misión espacial, la astronauta Sam Walker queda bajo el cuidado de la NASA en una residencia de alta seguridad para rehabilitación y pruebas médicas. Sin embargo, cuando comienzan a ocurrir sucesos inquietantes en la propiedad, teme que algo extraterrestre la haya seguido de regreso a la Tierra.","trailer":"","runtime":"90","slug":"la-astronauta","servidores":[{"id":1,"url":"https://streamwish.to/e/km9l3n56q99d","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"km9l3n56q99d","player_url":"https://streamwish.to/e/km9l3n56q99d"},{"id":2,"url":"https://bysejikuar.com/e/ko9zicgq3h1e","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"ko9zicgq3h1e","player_url":"https://bysejikuar.com/e/ko9zicgq3h1e"},{"id":3,"url":"https://vidhidepro.com/v/s8w7dmdh1jfv","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"s8w7dmdh1jfv","player_url":"https://vidhidepro.com/v/s8w7dmdh1jfv"},{"id":4,"url":"https://voe.sx/e/nzhsdtnpx7oo","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"nzhsdtnpx7oo","player_url":"https://voe.sx/e/nzhsdtnpx7oo"},{"id":5,"url":"https://doodstream.com/e/y723hwa47fug","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"y723hwa47fug","player_url":"https://doodstream.com/e/y723hwa47fug"},{"id":6,"url":"https://streamwish.to/e/ykzho4ftjeyy","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ykzho4ftjeyy","player_url":"https://streamwish.to/e/ykzho4ftjeyy"},{"id":7,"url":"https://bysejikuar.com/e/d4afsigkn6xa","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"d4afsigkn6xa","player_url":"https://bysejikuar.com/e/d4afsigkn6xa"},{"id":8,"url":"https://vidhidepro.com/v/1dm23hchizt6","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"1dm23hchizt6","player_url":"https://vidhidepro.com/v/1dm23hchizt6"},{"id":9,"url":"https://voe.sx/e/i3nyunqoc93o","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"i3nyunqoc93o","player_url":"https://voe.sx/e/i3nyunqoc93o"},{"id":10,"url":"https://doodstream.com/e/1czygrgmolqo","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"1czygrgmolqo","player_url":"https://doodstream.com/e/1czygrgmolqo"},{"id":11,"url":"https://streamwish.to/e/14lsuo8udi3l","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"14lsuo8udi3l","player_url":"https://streamwish.to/e/14lsuo8udi3l"},{"id":12,"url":"https://bysejikuar.com/e/dgokngj4edj4","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"dgokngj4edj4","player_url":"https://bysejikuar.com/e/dgokngj4edj4"},{"id":13,"url":"https://vidhidepro.com/v/a60jnbp4q3cn","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"a60jnbp4q3cn","player_url":"https://vidhidepro.com/v/a60jnbp4q3cn"},{"id":14,"url":"https://voe.sx/e/reidkawmtvot","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"reidkawmtvot","player_url":"https://voe.sx/e/reidkawmtvot"},{"id":15,"url":"https://doodstream.com/e/wjxbhh9akxnk","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"wjxbhh9akxnk","player_url":"https://doodstream.com/e/wjxbhh9akxnk"}]}
+{
+  "id": 1086260,
+  "titulo": "La Astronauta",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/qnAKcqKEyqaiQUkMGAd8VDRQK9V.jpg",
+  "release_date": "2025-09-26",
+  "genres": [
+    "Ciencia Ficción",
+    "Terror",
+    "Suspense"
+  ],
+  "rating": "6.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
+  "overview": "Tras regresar de su primera misión espacial, la astronauta Sam Walker queda bajo el cuidado de la NASA en una residencia de alta seguridad para rehabilitación y pruebas médicas. Sin embargo, cuando comienzan a ocurrir sucesos inquietantes en la propiedad, teme que algo extraterrestre la haya seguido de regreso a la Tierra.",
+  "trailer": "",
+  "runtime": "90",
+  "slug": "la-astronauta",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/km9l3n56q99d",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "km9l3n56q99d",
+      "player_url": "https://streamwish.to/e/km9l3n56q99d"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/ko9zicgq3h1e",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "ko9zicgq3h1e",
+      "player_url": "https://bysejikuar.com/e/ko9zicgq3h1e"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/s8w7dmdh1jfv",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "s8w7dmdh1jfv",
+      "player_url": "https://vidhidepro.com/v/s8w7dmdh1jfv"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/nzhsdtnpx7oo",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "nzhsdtnpx7oo",
+      "player_url": "https://voe.sx/e/nzhsdtnpx7oo"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/y723hwa47fug",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "y723hwa47fug",
+      "player_url": "https://doodstream.com/e/y723hwa47fug"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/ykzho4ftjeyy",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ykzho4ftjeyy",
+      "player_url": "https://streamwish.to/e/ykzho4ftjeyy"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/d4afsigkn6xa",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "d4afsigkn6xa",
+      "player_url": "https://bysejikuar.com/e/d4afsigkn6xa"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/1dm23hchizt6",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1dm23hchizt6",
+      "player_url": "https://vidhidepro.com/v/1dm23hchizt6"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/i3nyunqoc93o",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "i3nyunqoc93o",
+      "player_url": "https://voe.sx/e/i3nyunqoc93o"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/1czygrgmolqo",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "1czygrgmolqo",
+      "player_url": "https://doodstream.com/e/1czygrgmolqo"
+    },
+    {
+      "id": 11,
+      "url": "https://streamwish.to/e/14lsuo8udi3l",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "14lsuo8udi3l",
+      "player_url": "https://streamwish.to/e/14lsuo8udi3l"
+    },
+    {
+      "id": 12,
+      "url": "https://bysejikuar.com/e/dgokngj4edj4",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "dgokngj4edj4",
+      "player_url": "https://bysejikuar.com/e/dgokngj4edj4"
+    },
+    {
+      "id": 13,
+      "url": "https://vidhidepro.com/v/a60jnbp4q3cn",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "a60jnbp4q3cn",
+      "player_url": "https://vidhidepro.com/v/a60jnbp4q3cn"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/reidkawmtvot",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "reidkawmtvot",
+      "player_url": "https://voe.sx/e/reidkawmtvot"
+    },
+    {
+      "id": 15,
+      "url": "https://doodstream.com/e/wjxbhh9akxnk",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "wjxbhh9akxnk",
+      "player_url": "https://doodstream.com/e/wjxbhh9akxnk"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/zzylp2vkyg9l",
+      "player_url": "https://minochinos.com/embed/zzylp2vkyg9l",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zzylp2vkyg9l"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/u4ugfv2by38u",
+      "player_url": "https://hglink.to/e/u4ugfv2by38u",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u4ugfv2by38u"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/90iakgjgud7a",
+      "player_url": "https://voe.sx/e/90iakgjgud7a",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "90iakgjgud7a"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/90iakgjgud7a/download",
+      "player_url": "https://voe.sx/90iakgjgud7a/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/z52f1xbhqt8g",
+      "player_url": "https://rapidvideo.link/e/z52f1xbhqt8g",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z52f1xbhqt8g"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/cj1t703kqe4n",
+      "player_url": "https://minochinos.com/embed/cj1t703kqe4n",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cj1t703kqe4n"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/u6vd5q1eto4c",
+      "player_url": "https://hglink.to/e/u6vd5q1eto4c",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u6vd5q1eto4c"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/xhbrnkidvyeg",
+      "player_url": "https://voe.sx/e/xhbrnkidvyeg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xhbrnkidvyeg"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/4a5ogivy3b86",
+      "player_url": "https://rapidvideo.link/e/4a5ogivy3b86",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4a5ogivy3b86"
+    },
+    {
+      "id": 25,
+      "url": "https://minochinos.com/embed/pk98k8pl8wni",
+      "player_url": "https://minochinos.com/embed/pk98k8pl8wni",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pk98k8pl8wni"
+    },
+    {
+      "id": 26,
+      "url": "https://hglink.to/e/gdfd2bbsc6jc",
+      "player_url": "https://hglink.to/e/gdfd2bbsc6jc",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gdfd2bbsc6jc"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/fuj6vqs2gfem",
+      "player_url": "https://voe.sx/e/fuj6vqs2gfem",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fuj6vqs2gfem"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/fuj6vqs2gfem/download",
+      "player_url": "https://voe.sx/fuj6vqs2gfem/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/zy9sb5aitwrg",
+      "player_url": "https://rapidvideo.link/e/zy9sb5aitwrg",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zy9sb5aitwrg"
+    }
+  ]
+}
