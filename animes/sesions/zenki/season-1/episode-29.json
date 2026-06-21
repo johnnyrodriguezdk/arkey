@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "29",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=29",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/b0kjhuyxllak",
+      "player_url": "https://streamwish.to/e/b0kjhuyxllak",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b0kjhuyxllak"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/bpy47bsl5v0w",
+      "player_url": "https://filelions.top/v/bpy47bsl5v0w",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bpy47bsl5v0w"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/9ly86txhexdy/29-súper-guardián",
+      "player_url": "https://bysekoze.com/e/9ly86txhexdy/29-súper-guardián",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9ly86txhexdy/29-súper-guardián"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/zanexhwfc6ck",
+      "player_url": "https://voe.sx/e/zanexhwfc6ck",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zanexhwfc6ck"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "32",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=32",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/at0ut68m3zqu",
+      "player_url": "https://streamwish.to/e/at0ut68m3zqu",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "at0ut68m3zqu"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/zw3xku783eli",
+      "player_url": "https://filelions.top/v/zw3xku783eli",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zw3xku783eli"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/qv73me7iqg9s/32-el-desengaño",
+      "player_url": "https://bysekoze.com/e/qv73me7iqg9s/32-el-desengaño",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qv73me7iqg9s/32-el-desengaño"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ruvoobk3ebgc",
+      "player_url": "https://voe.sx/e/ruvoobk3ebgc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ruvoobk3ebgc"
+    }
+  ]
 }

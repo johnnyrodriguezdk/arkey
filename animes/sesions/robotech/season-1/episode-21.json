@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "21",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=21",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/7slyitaynv2f",
+      "player_url": "https://streamwish.to/e/7slyitaynv2f",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7slyitaynv2f"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/mvvt5j1l639q",
+      "player_url": "https://filelions.top/v/mvvt5j1l639q",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mvvt5j1l639q"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/aqzi04xjqnwi/21-una-nueva-estrella",
+      "player_url": "https://bysekoze.com/e/aqzi04xjqnwi/21-una-nueva-estrella",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aqzi04xjqnwi/21-una-nueva-estrella"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ytbp2idmflt9",
+      "player_url": "https://voe.sx/e/ytbp2idmflt9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ytbp2idmflt9"
+    }
+  ]
 }

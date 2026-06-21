@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "23",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=23",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/yz4viakgxqd0",
+      "player_url": "https://streamwish.to/e/yz4viakgxqd0",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yz4viakgxqd0"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/wl1swhhro9jg",
+      "player_url": "https://filelions.top/v/wl1swhhro9jg",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wl1swhhro9jg"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/uzoilohm9lx0/23-temerario",
+      "player_url": "https://bysekoze.com/e/uzoilohm9lx0/23-temerario",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uzoilohm9lx0/23-temerario"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/po24rkr1grcu",
+      "player_url": "https://voe.sx/e/po24rkr1grcu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "po24rkr1grcu"
+    }
+  ]
 }

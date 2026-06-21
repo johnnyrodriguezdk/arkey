@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "2",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=2",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/g9fam7c4by17",
+      "player_url": "https://streamwish.to/e/g9fam7c4by17",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g9fam7c4by17"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/9k6wnamtk1xb",
+      "player_url": "https://filelions.top/v/9k6wnamtk1xb",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9k6wnamtk1xb"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/8abhw7ujee2j/02-los-tres-peores-enemigos",
+      "player_url": "https://bysekoze.com/e/8abhw7ujee2j/02-los-tres-peores-enemigos",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8abhw7ujee2j/02-los-tres-peores-enemigos"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/spdwykqm86am",
+      "player_url": "https://voe.sx/e/spdwykqm86am",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "spdwykqm86am"
+    }
+  ]
 }

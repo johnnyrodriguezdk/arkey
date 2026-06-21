@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "40",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=40",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/dbsm1qezd52a",
+      "player_url": "https://streamwish.to/e/dbsm1qezd52a",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dbsm1qezd52a"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/0vk938pmp7qj",
+      "player_url": "https://filelions.top/v/0vk938pmp7qj",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0vk938pmp7qj"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/ou5ejy08u2gv/40-un-encuentro-peligroso",
+      "player_url": "https://bysekoze.com/e/ou5ejy08u2gv/40-un-encuentro-peligroso",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ou5ejy08u2gv/40-un-encuentro-peligroso"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ltoe9mrsx5zy",
+      "player_url": "https://voe.sx/e/ltoe9mrsx5zy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ltoe9mrsx5zy"
+    }
+  ]
 }

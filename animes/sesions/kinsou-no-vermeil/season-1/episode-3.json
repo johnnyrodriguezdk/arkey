@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "3",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27705&idcapitulo=3",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/cm43om8pavud",
+      "player_url": "https://streamwish.to/e/cm43om8pavud",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cm43om8pavud"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/OY6dKQOEyUeF",
+      "player_url": "https://netuplayer.top/e/OY6dKQOEyUeF",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "OY6dKQOEyUeF"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://filemoon.to/e/n3hc6yu2dun9",
+      "player_url": "https://filemoon.to/e/n3hc6yu2dun9",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n3hc6yu2dun9"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/vkqDK6vlomSLBk",
+      "player_url": "https://streamtape.com/e/vkqDK6vlomSLBk",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vkqDK6vlomSLBk"
+    },
+    {
+      "id": 5,
+      "server": "Krakenfiles",
+      "url": "https://krakenfiles.com/embed-video/7wxrPeRB6O",
+      "player_url": "https://krakenfiles.com/embed-video/7wxrPeRB6O",
+      "nombre": "Krakenfiles",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "krakenfiles.com_embed-video_7wxrPeRB6O"
+    }
+  ]
 }

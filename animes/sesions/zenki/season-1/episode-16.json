@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "16",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=16",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/drc6vn8b5obe",
+      "player_url": "https://streamwish.to/e/drc6vn8b5obe",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "drc6vn8b5obe"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/2u3zryieu26g",
+      "player_url": "https://filelions.top/v/2u3zryieu26g",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2u3zryieu26g"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/i4bpae83wu54/16-el-hechizo-de-la-oscuridad",
+      "player_url": "https://bysekoze.com/e/i4bpae83wu54/16-el-hechizo-de-la-oscuridad",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i4bpae83wu54/16-el-hechizo-de-la-oscuridad"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/orihfpwwuwuq",
+      "player_url": "https://voe.sx/e/orihfpwwuwuq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "orihfpwwuwuq"
+    }
+  ]
 }

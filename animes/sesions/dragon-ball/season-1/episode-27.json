@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "27",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=27",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/5bo1a8tfifat",
+      "player_url": "https://streamwish.to/e/5bo1a8tfifat",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5bo1a8tfifat"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/iqcaq7vsust0",
+      "player_url": "https://ryderjet.com/v/iqcaq7vsust0",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iqcaq7vsust0"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/bld3SDVPMFhwVWJoZjhmRnhqbTlRZz09",
+      "player_url": "https://player.streamhj.top/e/bld3SDVPMFhwVWJoZjhmRnhqbTlRZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bld3SDVPMFhwVWJoZjhmRnhqbTlRZz09"
+    }
+  ]
 }

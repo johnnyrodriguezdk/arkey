@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "18",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=18",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/wdv2a9jvgw2g",
+      "player_url": "https://streamwish.to/e/wdv2a9jvgw2g",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wdv2a9jvgw2g"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/o518fykgvara",
+      "player_url": "https://filelions.top/v/o518fykgvara",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o518fykgvara"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/2erlh593f3b6/18-el-despertar-del-dragón-de-deva",
+      "player_url": "https://bysekoze.com/e/2erlh593f3b6/18-el-despertar-del-dragón-de-deva",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2erlh593f3b6/18-el-despertar-del-dragón-de-deva"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/o1uw5xqlzn1n",
+      "player_url": "https://voe.sx/e/o1uw5xqlzn1n",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o1uw5xqlzn1n"
+    }
+  ]
 }

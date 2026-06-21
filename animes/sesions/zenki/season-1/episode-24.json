@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "24",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=24",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/y2z9dw8ndqdm",
+      "player_url": "https://streamwish.to/e/y2z9dw8ndqdm",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y2z9dw8ndqdm"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/19ksk269d6zq",
+      "player_url": "https://filelions.top/v/19ksk269d6zq",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "19ksk269d6zq"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/6ndilc8p2wwh/24-zenki-vuelve-a-la-vida",
+      "player_url": "https://bysekoze.com/e/6ndilc8p2wwh/24-zenki-vuelve-a-la-vida",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6ndilc8p2wwh/24-zenki-vuelve-a-la-vida"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/rs0y30swsozu",
+      "player_url": "https://voe.sx/e/rs0y30swsozu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rs0y30swsozu"
+    }
+  ]
 }

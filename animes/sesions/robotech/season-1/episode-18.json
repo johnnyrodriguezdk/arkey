@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "18",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=18",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/fe2kx7y7hxhn",
+      "player_url": "https://streamwish.to/e/fe2kx7y7hxhn",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fe2kx7y7hxhn"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/54kq5o4rtugt",
+      "player_url": "https://filelions.top/v/54kq5o4rtugt",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "54kq5o4rtugt"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/2ptv1ua3r35g/18-adiós-buen-amigo",
+      "player_url": "https://bysekoze.com/e/2ptv1ua3r35g/18-adiós-buen-amigo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2ptv1ua3r35g/18-adiós-buen-amigo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/yzi4ukhcjaab",
+      "player_url": "https://voe.sx/e/yzi4ukhcjaab",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yzi4ukhcjaab"
+    }
+  ]
 }

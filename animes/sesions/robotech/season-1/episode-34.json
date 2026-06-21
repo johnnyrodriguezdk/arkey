@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "34",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=34",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/swv6tn0z7npz",
+      "player_url": "https://streamwish.to/e/swv6tn0z7npz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "swv6tn0z7npz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/0tizqbhfkpbp",
+      "player_url": "https://filelions.top/v/0tizqbhfkpbp",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0tizqbhfkpbp"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/u2a74vuc31a6/34-tiempo-para-decidir",
+      "player_url": "https://bysekoze.com/e/u2a74vuc31a6/34-tiempo-para-decidir",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u2a74vuc31a6/34-tiempo-para-decidir"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/dojzcv2jlh1c",
+      "player_url": "https://voe.sx/e/dojzcv2jlh1c",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dojzcv2jlh1c"
+    }
+  ]
 }

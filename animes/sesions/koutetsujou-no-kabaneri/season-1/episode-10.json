@@ -19,5 +19,66 @@
   ],
   "idcapitulo": "10",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=5825&idcapitulo=10",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/p7kdp341cu1u",
+      "player_url": "https://streamwish.to/e/p7kdp341cu1u",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p7kdp341cu1u"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=OGFpWjlrUm9rTHgxbFNwODVLOFRRUT09",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=OGFpWjlrUm9rTHgxbFNwODVLOFRRUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/Aoawj4xYxxiXKMV/",
+      "player_url": "https://streamtape.com/e/Aoawj4xYxxiXKMV/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Aoawj4xYxxiXKMV/"
+    },
+    {
+      "id": 4,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!GzRUSYhD!02DAeoaRBiVXnPLo8-g20-KlmGn6rSclnliLtD7zmjQ",
+      "player_url": "https://mega.nz/embed/!GzRUSYhD!02DAeoaRBiVXnPLo8-g20-KlmGn6rSclnliLtD7zmjQ",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!GzRUSYhD!02DAeoaRBiVXnPLo8-g20-KlmGn6rSclnliLtD7zmjQ"
+    },
+    {
+      "id": 5,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/6mw47HoMpyLx",
+      "player_url": "https://www.yourupload.com/embed/6mw47HoMpyLx",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_6mw47HoMpyLx"
+    },
+    {
+      "id": 6,
+      "server": "Okru",
+      "url": "https://ok.ru/videoembed/260465429191",
+      "player_url": "https://ok.ru/videoembed/260465429191",
+      "nombre": "Okru",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ok.ru_videoembed_260465429191"
+    }
+  ]
 }

@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "9",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=23355&idcapitulo=9",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/N1YwWXZhNTBESlNyUmtVb25WSGpTZz09",
+      "player_url": "https://player.streamhj.top/e/N1YwWXZhNTBESlNyUmtVb25WSGpTZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "N1YwWXZhNTBESlNyUmtVb25WSGpTZz09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://filemoon.to/e/0hwizj48r0dn",
+      "player_url": "https://filemoon.to/e/0hwizj48r0dn",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0hwizj48r0dn"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/Q0mLo1M2gqs0372/%5BAnimeOnlineNinja%5D_Platinum_End_BD_Latino_09.mp4",
+      "player_url": "https://streamtape.com/e/Q0mLo1M2gqs0372/%5BAnimeOnlineNinja%5D_Platinum_End_BD_Latino_09.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Q0mLo1M2gqs0372/%5BAnimeOnlineNinja%5D_Platinum_End_BD_Latino_09.mp4"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-0s7jig3ruqww.html",
+      "player_url": "https://uqload.com/embed-0s7jig3ruqww.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-0s7jig3ruqww.html"
+    }
+  ]
 }

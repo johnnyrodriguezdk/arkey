@@ -21,5 +21,46 @@
   ],
   "idcapitulo": "3",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=11849&idcapitulo=3",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/e2bsji7danfb",
+      "player_url": "https://streamwish.to/e/e2bsji7danfb",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e2bsji7danfb"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/UivaZcQwdrJl",
+      "player_url": "https://netuplayer.top/e/UivaZcQwdrJl",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "UivaZcQwdrJl"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://filemooon.link/e/moj39rgf5dhq/_AnimeOnlineNinja__Komi-san_BD_Latino_03",
+      "player_url": "https://filemooon.link/e/moj39rgf5dhq/_AnimeOnlineNinja__Komi-san_BD_Latino_03",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "moj39rgf5dhq/_AnimeOnlineNinja__Komi-san_BD_Latino_03"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/KgyyJxqwyYC08el",
+      "player_url": "https://streamtape.com/e/KgyyJxqwyYC08el",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "KgyyJxqwyYC08el"
+    }
+  ]
 }

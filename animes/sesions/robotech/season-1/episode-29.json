@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "29",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=29",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/zq8ghvk7d2ez",
+      "player_url": "https://streamwish.to/e/zq8ghvk7d2ez",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zq8ghvk7d2ez"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/xpby21vxbg37",
+      "player_url": "https://filelions.top/v/xpby21vxbg37",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xpby21vxbg37"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/gpc96jmyrirc/29-los-maestros-de-la-robotecnia",
+      "player_url": "https://bysekoze.com/e/gpc96jmyrirc/29-los-maestros-de-la-robotecnia",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gpc96jmyrirc/29-los-maestros-de-la-robotecnia"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/rsntxdgd8w2z",
+      "player_url": "https://voe.sx/e/rsntxdgd8w2z",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rsntxdgd8w2z"
+    }
+  ]
 }

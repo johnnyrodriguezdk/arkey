@@ -19,5 +19,56 @@
   ],
   "idcapitulo": "19",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=13988&idcapitulo=19",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/d357p3tpxl90",
+      "player_url": "https://streamwish.to/e/d357p3tpxl90",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d357p3tpxl90"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/NEpaVDh6djlacGt1NGViTHFocFJCQT09",
+      "player_url": "https://player.streamhj.top/e/NEpaVDh6djlacGt1NGViTHFocFJCQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "NEpaVDh6djlacGt1NGViTHFocFJCQT09"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/zjbcqq4u4quf",
+      "player_url": "https://bysekoze.com/e/zjbcqq4u4quf",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zjbcqq4u4quf"
+    },
+    {
+      "id": 4,
+      "server": "LuluStream",
+      "url": "https://luluvdo.com/e/gzxmslq6g09c",
+      "player_url": "https://luluvdo.com/e/gzxmslq6g09c",
+      "nombre": "LuluStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gzxmslq6g09c"
+    },
+    {
+      "id": 5,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ner6ntjzrgs9",
+      "player_url": "https://voe.sx/e/ner6ntjzrgs9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ner6ntjzrgs9"
+    }
+  ]
 }

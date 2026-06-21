@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "7",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=7",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/m794blxc15l0",
+      "player_url": "https://streamwish.to/e/m794blxc15l0",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m794blxc15l0"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/blo9ekxpho9v",
+      "player_url": "https://filelions.top/v/blo9ekxpho9v",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "blo9ekxpho9v"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/0ukryercnxtp/07-rumbo-a-la-meta",
+      "player_url": "https://bysekoze.com/e/0ukryercnxtp/07-rumbo-a-la-meta",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0ukryercnxtp/07-rumbo-a-la-meta"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/vhcswznddcrx",
+      "player_url": "https://voe.sx/e/vhcswznddcrx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vhcswznddcrx"
+    }
+  ]
 }

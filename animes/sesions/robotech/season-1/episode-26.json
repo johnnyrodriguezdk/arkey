@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "26",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=26",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/0i00qy15cucn",
+      "player_url": "https://streamwish.to/e/0i00qy15cucn",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0i00qy15cucn"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/xrzmjv25klnz",
+      "player_url": "https://filelions.top/v/xrzmjv25klnz",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xrzmjv25klnz"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/r1s8h57f5t3v/26-el-mensajero",
+      "player_url": "https://bysekoze.com/e/r1s8h57f5t3v/26-el-mensajero",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r1s8h57f5t3v/26-el-mensajero"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/lcfi44ck00ub",
+      "player_url": "https://voe.sx/e/lcfi44ck00ub",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lcfi44ck00ub"
+    }
+  ]
 }

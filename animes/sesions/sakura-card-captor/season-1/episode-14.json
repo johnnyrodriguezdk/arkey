@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "14",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=14",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/1v8knxf5nf88",
+      "player_url": "https://streamwish.to/e/1v8knxf5nf88",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1v8knxf5nf88"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/a44qpu4naa1y",
+      "player_url": "https://filelions.top/v/a44qpu4naa1y",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a44qpu4naa1y"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/ujer12r5ksvi/14-touya-es-cenicienta",
+      "player_url": "https://bysekoze.com/e/ujer12r5ksvi/14-touya-es-cenicienta",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ujer12r5ksvi/14-touya-es-cenicienta"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ou8jhg7znbma",
+      "player_url": "https://voe.sx/e/ou8jhg7znbma",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ou8jhg7znbma"
+    }
+  ]
 }

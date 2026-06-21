@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "5",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=5",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/plcvyslwfo6y",
+      "player_url": "https://streamwish.to/e/plcvyslwfo6y",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "plcvyslwfo6y"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/j0dsj1tli4pz",
+      "player_url": "https://filelions.top/v/j0dsj1tli4pz",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j0dsj1tli4pz"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/ui055ac2jqby/05-zenki-el-delicioso",
+      "player_url": "https://bysekoze.com/e/ui055ac2jqby/05-zenki-el-delicioso",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ui055ac2jqby/05-zenki-el-delicioso"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/mcre6wqmq23v",
+      "player_url": "https://voe.sx/e/mcre6wqmq23v",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mcre6wqmq23v"
+    }
+  ]
 }

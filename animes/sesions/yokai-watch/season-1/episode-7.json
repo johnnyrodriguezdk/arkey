@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "7",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=24867&idcapitulo=7",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/kbnlprnolmt8",
+      "player_url": "https://streamwish.to/e/kbnlprnolmt8",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kbnlprnolmt8"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/6jai3ndi9lxc",
+      "player_url": "https://filelions.top/v/6jai3ndi9lxc",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6jai3ndi9lxc"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/40sk7orf06ul",
+      "player_url": "https://bysekoze.com/e/40sk7orf06ul",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "40sk7orf06ul"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/sgboascpmyzt",
+      "player_url": "https://voe.sx/e/sgboascpmyzt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sgboascpmyzt"
+    }
+  ]
 }

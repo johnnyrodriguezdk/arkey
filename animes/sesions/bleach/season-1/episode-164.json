@@ -20,5 +20,36 @@
   ],
   "idcapitulo": "164",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=19617&idcapitulo=164",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/UlVCdmRGdnVWSWMxcGJvL1ZVY3ZTQT09",
+      "player_url": "https://netuplayer.top/e/UlVCdmRGdnVWSWMxcGJvL1ZVY3ZTQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "UlVCdmRGdnVWSWMxcGJvL1ZVY3ZTQT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/or1AkpGlbbSJeMw",
+      "player_url": "https://streamtape.com/e/or1AkpGlbbSJeMw",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "or1AkpGlbbSJeMw"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/qle6rvzecxlpqgo",
+      "player_url": "https://mixdropjmk.pw/e/qle6rvzecxlpqgo",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qle6rvzecxlpqgo"
+    }
+  ]
 }

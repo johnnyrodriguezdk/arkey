@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "21",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=21",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/5m9tk19nbm77",
+      "player_url": "https://streamwish.to/e/5m9tk19nbm77",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5m9tk19nbm77"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/5cus1dxmhu4a",
+      "player_url": "https://filelions.top/v/5cus1dxmhu4a",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5cus1dxmhu4a"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/ouaem9lpwkrz/21-de-vuelta-al-futuro",
+      "player_url": "https://bysekoze.com/e/ouaem9lpwkrz/21-de-vuelta-al-futuro",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ouaem9lpwkrz/21-de-vuelta-al-futuro"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/3hacelv2c7cw",
+      "player_url": "https://voe.sx/e/3hacelv2c7cw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3hacelv2c7cw"
+    }
+  ]
 }

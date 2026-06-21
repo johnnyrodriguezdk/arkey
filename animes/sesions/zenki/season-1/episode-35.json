@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "35",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=35",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/o8brpvnrjla4",
+      "player_url": "https://streamwish.to/e/o8brpvnrjla4",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o8brpvnrjla4"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/rov03fa9ntqj",
+      "player_url": "https://filelions.top/v/rov03fa9ntqj",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rov03fa9ntqj"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/k6yalmdr903s/35-una-flecha-contra-la-luna",
+      "player_url": "https://bysekoze.com/e/k6yalmdr903s/35-una-flecha-contra-la-luna",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k6yalmdr903s/35-una-flecha-contra-la-luna"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/vhxebrxoqvrz",
+      "player_url": "https://voe.sx/e/vhxebrxoqvrz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vhxebrxoqvrz"
+    }
+  ]
 }

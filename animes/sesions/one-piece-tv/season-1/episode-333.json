@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "333",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=425&idcapitulo=333",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ckl0qilv4814",
+      "player_url": "https://streamwish.to/e/ckl0qilv4814",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ckl0qilv4814"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/WUdCTmdnZ1I2SG5OQVVJem9aTks0QT09",
+      "player_url": "https://netuplayer.top/e/WUdCTmdnZ1I2SG5OQVVJem9aTks0QT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "WUdCTmdnZ1I2SG5OQVVJem9aTks0QT09"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/w50v96vhcpma",
+      "player_url": "https://bysekoze.com/e/w50v96vhcpma",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w50v96vhcpma"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/DAbk1Pmv6vCkjBa/%5BAnimeOnlineNinja%5D_One_Piece_Latino_333.mp4",
+      "player_url": "https://streamtape.com/e/DAbk1Pmv6vCkjBa/%5BAnimeOnlineNinja%5D_One_Piece_Latino_333.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "DAbk1Pmv6vCkjBa/%5BAnimeOnlineNinja%5D_One_Piece_Latino_333.mp4"
+    },
+    {
+      "id": 5,
+      "server": "Uqload",
+      "url": "https://uqload.co/embed-u63yhi6qd0jp.html",
+      "player_url": "https://uqload.co/embed-u63yhi6qd0jp.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.co_embed-u63yhi6qd0jp.html"
+    }
+  ]
 }

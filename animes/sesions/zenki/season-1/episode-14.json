@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "14",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=14",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ycjp09yfhggq",
+      "player_url": "https://streamwish.to/e/ycjp09yfhggq",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ycjp09yfhggq"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/5k7v36saj588",
+      "player_url": "https://filelions.top/v/5k7v36saj588",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5k7v36saj588"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/lxnmitcy2rjs/14-el-secreto-de-zenki-el-guerrero-guardián",
+      "player_url": "https://bysekoze.com/e/lxnmitcy2rjs/14-el-secreto-de-zenki-el-guerrero-guardián",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lxnmitcy2rjs/14-el-secreto-de-zenki-el-guerrero-guardián"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/bbczd7lhinki",
+      "player_url": "https://voe.sx/e/bbczd7lhinki",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bbczd7lhinki"
+    }
+  ]
 }

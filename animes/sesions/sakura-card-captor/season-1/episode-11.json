@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "11",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=11",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/wffasrm6j63h",
+      "player_url": "https://streamwish.to/e/wffasrm6j63h",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wffasrm6j63h"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/gh79ulknyd88",
+      "player_url": "https://filelions.top/v/gh79ulknyd88",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gh79ulknyd88"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/esgywyh6zbg4/11-sakura-visita-la-mansion-de-tomoyo",
+      "player_url": "https://bysekoze.com/e/esgywyh6zbg4/11-sakura-visita-la-mansion-de-tomoyo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "esgywyh6zbg4/11-sakura-visita-la-mansion-de-tomoyo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/6bsco5ysx4bq",
+      "player_url": "https://voe.sx/e/6bsco5ysx4bq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6bsco5ysx4bq"
+    }
+  ]
 }

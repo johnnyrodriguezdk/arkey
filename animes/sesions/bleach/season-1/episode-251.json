@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "251",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=19617&idcapitulo=251",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/MjA1RHhMNVk3R1IwRU40UXhKL2pIZz09",
+      "player_url": "https://netuplayer.top/e/MjA1RHhMNVk3R1IwRU40UXhKL2pIZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "MjA1RHhMNVk3R1IwRU40UXhKL2pIZz09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/jzkt2l7zuq4c",
+      "player_url": "https://bysekoze.com/e/jzkt2l7zuq4c",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jzkt2l7zuq4c"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/LLo7j67X6wfvpr/Bleach_Latino_251_v1.mp4",
+      "player_url": "https://streamtape.com/e/LLo7j67X6wfvpr/Bleach_Latino_251_v1.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "LLo7j67X6wfvpr/Bleach_Latino_251_v1.mp4"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-q8k9b44ap2fo.html",
+      "player_url": "https://uqload.com/embed-q8k9b44ap2fo.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-q8k9b44ap2fo.html"
+    }
+  ]
 }

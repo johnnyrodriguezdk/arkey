@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "18",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=18",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/p09z6d3wqah7",
+      "player_url": "https://streamwish.to/e/p09z6d3wqah7",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p09z6d3wqah7"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/9a03mfxuliud",
+      "player_url": "https://filelions.top/v/9a03mfxuliud",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9a03mfxuliud"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/glqa7a6px0zz/18-sakura-pasa-un-festival-de-verano-con-yukito",
+      "player_url": "https://bysekoze.com/e/glqa7a6px0zz/18-sakura-pasa-un-festival-de-verano-con-yukito",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "glqa7a6px0zz/18-sakura-pasa-un-festival-de-verano-con-yukito"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/02h2anne2b3p",
+      "player_url": "https://voe.sx/e/02h2anne2b3p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "02h2anne2b3p"
+    }
+  ]
 }

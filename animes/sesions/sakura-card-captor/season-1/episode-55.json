@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "55",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=55",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6sx76lpwaz8t",
+      "player_url": "https://streamwish.to/e/6sx76lpwaz8t",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6sx76lpwaz8t"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/z75tbt0lrcre",
+      "player_url": "https://filelions.top/v/z75tbt0lrcre",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z75tbt0lrcre"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/5icus8h8d76g/55-sakura-en-el-país-de-las-maravillas",
+      "player_url": "https://bysekoze.com/e/5icus8h8d76g/55-sakura-en-el-país-de-las-maravillas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5icus8h8d76g/55-sakura-en-el-país-de-las-maravillas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/8dh91thboqbo",
+      "player_url": "https://voe.sx/e/8dh91thboqbo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8dh91thboqbo"
+    }
+  ]
 }

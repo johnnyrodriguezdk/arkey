@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "50",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=50",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6xprskchmq8v",
+      "player_url": "https://streamwish.to/e/6xprskchmq8v",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6xprskchmq8v"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/nq0c7cwgjs9l",
+      "player_url": "https://filelions.top/v/nq0c7cwgjs9l",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nq0c7cwgjs9l"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/0dctrg2waq80/50-los-hilos-invisibles",
+      "player_url": "https://bysekoze.com/e/0dctrg2waq80/50-los-hilos-invisibles",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0dctrg2waq80/50-los-hilos-invisibles"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/wvrajytzvtxf",
+      "player_url": "https://voe.sx/e/wvrajytzvtxf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wvrajytzvtxf"
+    }
+  ]
 }

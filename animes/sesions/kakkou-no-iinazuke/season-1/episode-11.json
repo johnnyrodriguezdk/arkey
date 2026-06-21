@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "11",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=24982&idcapitulo=11",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/xSsZaADQtA4d",
+      "player_url": "https://netuplayer.top/e/xSsZaADQtA4d",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xSsZaADQtA4d"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://filemoon.to/e/8aupxq27a35l",
+      "player_url": "https://filemoon.to/e/8aupxq27a35l",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8aupxq27a35l"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/8V8ZgaJzw6ComBb/%5BAnimeOnlineNinja%5D_Kakkou_no_Iinazuke_BD_Latino_11.mp4",
+      "player_url": "https://streamtape.com/e/8V8ZgaJzw6ComBb/%5BAnimeOnlineNinja%5D_Kakkou_no_Iinazuke_BD_Latino_11.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8V8ZgaJzw6ComBb/%5BAnimeOnlineNinja%5D_Kakkou_no_Iinazuke_BD_Latino_11.mp4"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-mllbduz3z7s6.html",
+      "player_url": "https://uqload.com/embed-mllbduz3z7s6.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-mllbduz3z7s6.html"
+    }
+  ]
 }

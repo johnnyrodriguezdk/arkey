@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "60",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=60",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/gptf9yvoc9bs",
+      "player_url": "https://streamwish.to/e/gptf9yvoc9bs",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gptf9yvoc9bs"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/p19zncqri05p",
+      "player_url": "https://filelions.top/v/p19zncqri05p",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p19zncqri05p"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/mdqr1hqwn4kw/60-la-amiga-valiosa-de-sakura",
+      "player_url": "https://bysekoze.com/e/mdqr1hqwn4kw/60-la-amiga-valiosa-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mdqr1hqwn4kw/60-la-amiga-valiosa-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/fo8tj0iefyc8",
+      "player_url": "https://voe.sx/e/fo8tj0iefyc8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fo8tj0iefyc8"
+    }
+  ]
 }

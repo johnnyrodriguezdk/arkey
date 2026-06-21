@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "5",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=5",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/8fq6zjy2i5a0",
+      "player_url": "https://streamwish.to/e/8fq6zjy2i5a0",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8fq6zjy2i5a0"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/wmymcjsk7meh",
+      "player_url": "https://filelions.top/v/wmymcjsk7meh",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wmymcjsk7meh"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/utjrhgapqtp8/05-sakura-un-panda-y-una-hermosa-tienda",
+      "player_url": "https://bysekoze.com/e/utjrhgapqtp8/05-sakura-un-panda-y-una-hermosa-tienda",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "utjrhgapqtp8/05-sakura-un-panda-y-una-hermosa-tienda"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ql1xkva7g1vt",
+      "player_url": "https://voe.sx/e/ql1xkva7g1vt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ql1xkva7g1vt"
+    }
+  ]
 }

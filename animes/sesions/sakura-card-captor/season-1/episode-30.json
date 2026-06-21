@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "30",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=30",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/96dkfl9apb24",
+      "player_url": "https://streamwish.to/e/96dkfl9apb24",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "96dkfl9apb24"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/6atdkxf62dss",
+      "player_url": "https://filelions.top/v/6atdkxf62dss",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6atdkxf62dss"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/ukferaefdujo/30-una-carta-lastimada",
+      "player_url": "https://bysekoze.com/e/ukferaefdujo/30-una-carta-lastimada",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ukferaefdujo/30-una-carta-lastimada"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/xa1fwrhjywr9",
+      "player_url": "https://voe.sx/e/xa1fwrhjywr9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xa1fwrhjywr9"
+    }
+  ]
 }

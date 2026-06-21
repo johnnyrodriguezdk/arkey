@@ -19,5 +19,56 @@
   ],
   "idcapitulo": "1167",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=14354&idcapitulo=1167",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/kbzkx50isaop",
+      "player_url": "https://streamwish.to/e/kbzkx50isaop",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kbzkx50isaop"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=VXlWZ1Z1MkRwNlhWTTVzdlg1Q2Zrdz09",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=VXlWZ1Z1MkRwNlhWTTVzdlg1Q2Zrdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/8ZjvVqKP3oHov9B/",
+      "player_url": "https://streamtape.com/e/8ZjvVqKP3oHov9B/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8ZjvVqKP3oHov9B/"
+    },
+    {
+      "id": 4,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!cadB3DLR!xD798uvsJfoXwtsthf2weNNF4hyly2DCXFeSE28zt5Y\thttps://www.yourupload.com/embed/v8H4lEgJAc8V",
+      "player_url": "https://mega.nz/embed/!cadB3DLR!xD798uvsJfoXwtsthf2weNNF4hyly2DCXFeSE28zt5Y\thttps://www.yourupload.com/embed/v8H4lEgJAc8V",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!cadB3DLR!xD798uvsJfoXwtsthf2weNNF4hyly2DCXFeSE28zt5Yhttps:__www.yourupload.com_embed_v8H4lEgJAc8V"
+    },
+    {
+      "id": 5,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/v8H4lEgJAc8V",
+      "player_url": "https://www.yourupload.com/embed/v8H4lEgJAc8V",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_v8H4lEgJAc8V"
+    }
+  ]
 }

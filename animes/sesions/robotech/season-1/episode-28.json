@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "28",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=28",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/2u9sw7v6y1y3",
+      "player_url": "https://streamwish.to/e/2u9sw7v6y1y3",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2u9sw7v6y1y3"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/25feeb6cmpia",
+      "player_url": "https://filelions.top/v/25feeb6cmpia",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "25feeb6cmpia"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/urmh1thl4syg/28-reconstrucción",
+      "player_url": "https://bysekoze.com/e/urmh1thl4syg/28-reconstrucción",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "urmh1thl4syg/28-reconstrucción"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/qnfjcqvajfae",
+      "player_url": "https://voe.sx/e/qnfjcqvajfae",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qnfjcqvajfae"
+    }
+  ]
 }

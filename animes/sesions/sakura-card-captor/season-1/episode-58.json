@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "58",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=58",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/18oejo91eheo",
+      "player_url": "https://streamwish.to/e/18oejo91eheo",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "18oejo91eheo"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/tfbll5ny56zq",
+      "player_url": "https://filelions.top/v/tfbll5ny56zq",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tfbll5ny56zq"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/dlhmmse28yyc/58-sakura-y-los-2-guardianes-en-aprietos",
+      "player_url": "https://bysekoze.com/e/dlhmmse28yyc/58-sakura-y-los-2-guardianes-en-aprietos",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dlhmmse28yyc/58-sakura-y-los-2-guardianes-en-aprietos"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/rqbfdvk0pqka",
+      "player_url": "https://voe.sx/e/rqbfdvk0pqka",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rqbfdvk0pqka"
+    }
+  ]
 }

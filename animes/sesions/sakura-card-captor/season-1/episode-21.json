@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "21",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=21",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/zjz2za04idbo",
+      "player_url": "https://streamwish.to/e/zjz2za04idbo",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zjz2za04idbo"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/u7b5c971mc0j",
+      "player_url": "https://filelions.top/v/u7b5c971mc0j",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u7b5c971mc0j"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/4y7jo3f35nj1/21-sakura-participa-en-una-maratón",
+      "player_url": "https://bysekoze.com/e/4y7jo3f35nj1/21-sakura-participa-en-una-maratón",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4y7jo3f35nj1/21-sakura-participa-en-una-maratón"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/sqtb5hstxguh",
+      "player_url": "https://voe.sx/e/sqtb5hstxguh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sqtb5hstxguh"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "32",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=32",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/vs4oaaltuucg",
+      "player_url": "https://streamwish.to/e/vs4oaaltuucg",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vs4oaaltuucg"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/h4jw5f21tnb1",
+      "player_url": "https://filelions.top/v/h4jw5f21tnb1",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h4jw5f21tnb1"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/lovvedz7adwt/32-canciones-de-espíritu",
+      "player_url": "https://bysekoze.com/e/lovvedz7adwt/32-canciones-de-espíritu",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lovvedz7adwt/32-canciones-de-espíritu"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/b6eqviuofrcd",
+      "player_url": "https://voe.sx/e/b6eqviuofrcd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b6eqviuofrcd"
+    }
+  ]
 }

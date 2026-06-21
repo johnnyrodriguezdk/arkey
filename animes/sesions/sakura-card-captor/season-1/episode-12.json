@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "12",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=12",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/h7tm5fdgdv49",
+      "player_url": "https://streamwish.to/e/h7tm5fdgdv49",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h7tm5fdgdv49"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/91ghyaq7h491",
+      "player_url": "https://filelions.top/v/91ghyaq7h491",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "91ghyaq7h491"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/flz0ts3bf5oz/12-el-dia-intermidable-de-sakura",
+      "player_url": "https://bysekoze.com/e/flz0ts3bf5oz/12-el-dia-intermidable-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "flz0ts3bf5oz/12-el-dia-intermidable-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/v9c0e57lorsk",
+      "player_url": "https://voe.sx/e/v9c0e57lorsk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v9c0e57lorsk"
+    }
+  ]
 }

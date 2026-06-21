@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "13",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=13",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ze5q54zih5d5",
+      "player_url": "https://streamwish.to/e/ze5q54zih5d5",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ze5q54zih5d5"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/tlhqskn176er",
+      "player_url": "https://filelions.top/v/tlhqskn176er",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tlhqskn176er"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/xo95cr28dnt9/13-pelea-en-el-aire",
+      "player_url": "https://bysekoze.com/e/xo95cr28dnt9/13-pelea-en-el-aire",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xo95cr28dnt9/13-pelea-en-el-aire"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/hnpgtpnlajkj",
+      "player_url": "https://voe.sx/e/hnpgtpnlajkj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hnpgtpnlajkj"
+    }
+  ]
 }

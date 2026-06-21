@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "2",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=2",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/nf4ozoe2328h",
+      "player_url": "https://streamwish.to/e/nf4ozoe2328h",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nf4ozoe2328h"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/v5zjt3ux303n",
+      "player_url": "https://filelions.top/v/v5zjt3ux303n",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v5zjt3ux303n"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/c7ktkrweaja5/02-la-amiga-de-sakura",
+      "player_url": "https://bysekoze.com/e/c7ktkrweaja5/02-la-amiga-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c7ktkrweaja5/02-la-amiga-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/d4t7unwirxvy",
+      "player_url": "https://voe.sx/e/d4t7unwirxvy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d4t7unwirxvy"
+    }
+  ]
 }

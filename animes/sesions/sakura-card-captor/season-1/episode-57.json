@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "57",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=57",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/qqstwo59yevo",
+      "player_url": "https://streamwish.to/e/qqstwo59yevo",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qqstwo59yevo"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/aftlg7edkvr7",
+      "player_url": "https://filelions.top/v/aftlg7edkvr7",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aftlg7edkvr7"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/ft5ue7tos514/57-el-ascensor-descompuesto",
+      "player_url": "https://bysekoze.com/e/ft5ue7tos514/57-el-ascensor-descompuesto",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ft5ue7tos514/57-el-ascensor-descompuesto"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/tycnsvsezv1w",
+      "player_url": "https://voe.sx/e/tycnsvsezv1w",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tycnsvsezv1w"
+    }
+  ]
 }

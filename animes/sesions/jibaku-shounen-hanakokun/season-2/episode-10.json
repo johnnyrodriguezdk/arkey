@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "10",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=12971&idcapitulo=10",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/MW5aNlRwZ0VYMkpGampCM2ZqTUVCQT09",
+      "player_url": "https://netuplayer.top/e/MW5aNlRwZ0VYMkpGampCM2ZqTUVCQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "MW5aNlRwZ0VYMkpGampCM2ZqTUVCQT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/Da7AMpxZZOiVmJ",
+      "player_url": "https://streamtape.com/e/Da7AMpxZZOiVmJ",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Da7AMpxZZOiVmJ"
+    },
+    {
+      "id": 3,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-i5d545l39rbh.html",
+      "player_url": "https://uqload.com/embed-i5d545l39rbh.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-i5d545l39rbh.html"
+    },
+    {
+      "id": 4,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/qlrm71joid88ne",
+      "player_url": "https://mixdropjmk.pw/e/qlrm71joid88ne",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qlrm71joid88ne"
+    },
+    {
+      "id": 5,
+      "server": "DoodStream",
+      "url": "https://dood.ws/e/d1npjonytvemo7w7xlsyzaz2dwvoqb5m",
+      "player_url": "https://dood.ws/e/d1npjonytvemo7w7xlsyzaz2dwvoqb5m",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d1npjonytvemo7w7xlsyzaz2dwvoqb5m"
+    }
+  ]
 }

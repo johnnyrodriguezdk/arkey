@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "51",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=51",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/8tsn2g4agfbf",
+      "player_url": "https://streamwish.to/e/8tsn2g4agfbf",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8tsn2g4agfbf"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/ka25wyj3a8n2",
+      "player_url": "https://filelions.top/v/ka25wyj3a8n2",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ka25wyj3a8n2"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/2ag68z5xqrdr/51-zenki-dorado-el-golpe-definitivo",
+      "player_url": "https://bysekoze.com/e/2ag68z5xqrdr/51-zenki-dorado-el-golpe-definitivo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2ag68z5xqrdr/51-zenki-dorado-el-golpe-definitivo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/zzzypqeu9qjx",
+      "player_url": "https://voe.sx/e/zzzypqeu9qjx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zzzypqeu9qjx"
+    }
+  ]
 }

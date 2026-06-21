@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "38",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=38",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/4g29yfifb2q4",
+      "player_url": "https://streamwish.to/e/4g29yfifb2q4",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4g29yfifb2q4"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/2e6us81qk7u2",
+      "player_url": "https://filelions.top/v/2e6us81qk7u2",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2e6us81qk7u2"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/jzpxq461dl1k/38-el-pueblo-de-las-fresas",
+      "player_url": "https://bysekoze.com/e/jzpxq461dl1k/38-el-pueblo-de-las-fresas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jzpxq461dl1k/38-el-pueblo-de-las-fresas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ika5bajkub0g",
+      "player_url": "https://voe.sx/e/ika5bajkub0g",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ika5bajkub0g"
+    }
+  ]
 }

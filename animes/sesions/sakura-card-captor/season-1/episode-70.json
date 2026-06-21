@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "70",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=70",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/fok5ls4buj71",
+      "player_url": "https://streamwish.to/e/fok5ls4buj71",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fok5ls4buj71"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/6l15j1e0s9z7",
+      "player_url": "https://filelions.top/v/6l15j1e0s9z7",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6l15j1e0s9z7"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/nseoycoptbfa/70-el-verdadero-sentimiento-de-sakura",
+      "player_url": "https://bysekoze.com/e/nseoycoptbfa/70-el-verdadero-sentimiento-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nseoycoptbfa/70-el-verdadero-sentimiento-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/xlewzsddr5fl",
+      "player_url": "https://voe.sx/e/xlewzsddr5fl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xlewzsddr5fl"
+    }
+  ]
 }

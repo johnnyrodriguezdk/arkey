@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "43",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=43",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6edtez33zyv4",
+      "player_url": "https://streamwish.to/e/6edtez33zyv4",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6edtez33zyv4"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/oqm328fz7u6i",
+      "player_url": "https://filelions.top/v/oqm328fz7u6i",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oqm328fz7u6i"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/oouh43f3c5tk/43-adios-meiling",
+      "player_url": "https://bysekoze.com/e/oouh43f3c5tk/43-adios-meiling",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oouh43f3c5tk/43-adios-meiling"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/rpa3zkapqvkr",
+      "player_url": "https://voe.sx/e/rpa3zkapqvkr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rpa3zkapqvkr"
+    }
+  ]
 }

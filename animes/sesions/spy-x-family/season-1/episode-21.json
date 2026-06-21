@@ -22,5 +22,56 @@
   ],
   "idcapitulo": "21",
   "iframe_url": "",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/5gjvnu5xbbze",
+      "player_url": "https://streamwish.to/e/5gjvnu5xbbze",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5gjvnu5xbbze"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/cka8dehybagk",
+      "player_url": "https://filelions.top/v/cka8dehybagk",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cka8dehybagk"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/RWkvT2pya05zQVgzN0JkU0IvNE9MZz09",
+      "player_url": "https://player.streamhj.top/e/RWkvT2pya05zQVgzN0JkU0IvNE9MZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "RWkvT2pya05zQVgzN0JkU0IvNE9MZz09"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/oka3b9WDvoCJexO/%5BAnimeOnlineNinja%5D_SPY_x_FAMILY_Latino_21.mp4",
+      "player_url": "https://streamtape.com/e/oka3b9WDvoCJexO/%5BAnimeOnlineNinja%5D_SPY_x_FAMILY_Latino_21.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oka3b9WDvoCJexO/%5BAnimeOnlineNinja%5D_SPY_x_FAMILY_Latino_21.mp4"
+    },
+    {
+      "id": 5,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-0olo3ov.html",
+      "player_url": "https://uqload.com/embed-0olo3ov.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-0olo3ov.html"
+    }
+  ]
 }

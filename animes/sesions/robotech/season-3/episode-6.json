@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "6",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=6",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/khor5lkoayvf",
+      "player_url": "https://streamwish.to/e/khor5lkoayvf",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "khor5lkoayvf"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/dy27l13jfe1b",
+      "player_url": "https://filelions.top/v/dy27l13jfe1b",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dy27l13jfe1b"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/0vi5i60pg0yi/06-la-trampa",
+      "player_url": "https://bysekoze.com/e/0vi5i60pg0yi/06-la-trampa",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0vi5i60pg0yi/06-la-trampa"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/tuacixzkelfz",
+      "player_url": "https://voe.sx/e/tuacixzkelfz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tuacixzkelfz"
+    }
+  ]
 }

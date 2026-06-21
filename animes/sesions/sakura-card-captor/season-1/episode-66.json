@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "66",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=66",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/itpufl12gdgt",
+      "player_url": "https://streamwish.to/e/itpufl12gdgt",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "itpufl12gdgt"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/ftglnywy4cxt",
+      "player_url": "https://filelions.top/v/ftglnywy4cxt",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ftglnywy4cxt"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/4t54gg8jap1n/66-la-persona-más-especial-para-sakura",
+      "player_url": "https://bysekoze.com/e/4t54gg8jap1n/66-la-persona-más-especial-para-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4t54gg8jap1n/66-la-persona-más-especial-para-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ooso9ozvnecx",
+      "player_url": "https://voe.sx/e/ooso9ozvnecx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ooso9ozvnecx"
+    }
+  ]
 }

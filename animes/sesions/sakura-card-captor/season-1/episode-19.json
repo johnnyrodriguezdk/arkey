@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "19",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=19",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/yh38gb78f52f",
+      "player_url": "https://streamwish.to/e/yh38gb78f52f",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yh38gb78f52f"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/kzgwh9xnxfeq",
+      "player_url": "https://filelions.top/v/kzgwh9xnxfeq",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kzgwh9xnxfeq"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/6k5fa9i3l03j/19-la-tarea-de-verano-de-sakura",
+      "player_url": "https://bysekoze.com/e/6k5fa9i3l03j/19-la-tarea-de-verano-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6k5fa9i3l03j/19-la-tarea-de-verano-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/lap2c5h0zfzt",
+      "player_url": "https://voe.sx/e/lap2c5h0zfzt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lap2c5h0zfzt"
+    }
+  ]
 }

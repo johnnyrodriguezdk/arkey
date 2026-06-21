@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "8",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=8",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/w7ekwtdwd6ee",
+      "player_url": "https://streamwish.to/e/w7ekwtdwd6ee",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w7ekwtdwd6ee"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/p7qwdv9spdgv",
+      "player_url": "https://filelions.top/v/p7qwdv9spdgv",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p7qwdv9spdgv"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/9q17l58jpvhx/08-el-hotel-de-las-momias",
+      "player_url": "https://bysekoze.com/e/9q17l58jpvhx/08-el-hotel-de-las-momias",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9q17l58jpvhx/08-el-hotel-de-las-momias"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/igmh3idgd7zs",
+      "player_url": "https://voe.sx/e/igmh3idgd7zs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "igmh3idgd7zs"
+    }
+  ]
 }

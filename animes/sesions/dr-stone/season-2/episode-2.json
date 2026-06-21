@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "2",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=3006&idcapitulo=2",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/enpxZFVMUnFaNHFBV2o5U0k2alcvQT09",
+      "player_url": "https://player.streamhj.top/e/enpxZFVMUnFaNHFBV2o5U0k2alcvQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "enpxZFVMUnFaNHFBV2o5U0k2alcvQT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/pVqvWrgVeQHrvmK/%5BAnimeOnlineNinja%5D_%5BA%26C%5D_Dr._Stone_BD_Latino_01.mp4",
+      "player_url": "https://streamtape.com/e/pVqvWrgVeQHrvmK/%5BAnimeOnlineNinja%5D_%5BA%26C%5D_Dr._Stone_BD_Latino_01.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pVqvWrgVeQHrvmK/%5BAnimeOnlineNinja%5D_%5BA%26C%5D_Dr._Stone_BD_Latino_01.mp4"
+    },
+    {
+      "id": 3,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-7a89ipg30r8p.html",
+      "player_url": "https://uqload.com/embed-7a89ipg30r8p.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-7a89ipg30r8p.html"
+    },
+    {
+      "id": 4,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/zp7k04meb3089p",
+      "player_url": "https://mixdropjmk.pw/e/zp7k04meb3089p",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zp7k04meb3089p"
+    },
+    {
+      "id": 5,
+      "server": "Okru",
+      "url": "https://dood.so/e/j1c7yi5h3ytixmvp7g8q0l3q34zkyj6y",
+      "player_url": "https://dood.so/e/j1c7yi5h3ytixmvp7g8q0l3q34zkyj6y",
+      "nombre": "Okru",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j1c7yi5h3ytixmvp7g8q0l3q34zkyj6y"
+    }
+  ]
 }

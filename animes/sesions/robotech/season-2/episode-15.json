@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "15",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=15",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/r3mu794lmxv8",
+      "player_url": "https://streamwish.to/e/r3mu794lmxv8",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r3mu794lmxv8"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/z20lgdz5apaa",
+      "player_url": "https://filelions.top/v/z20lgdz5apaa",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z20lgdz5apaa"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/s8hs2m7dunw8/15-de-vuelta-a-casa",
+      "player_url": "https://bysekoze.com/e/s8hs2m7dunw8/15-de-vuelta-a-casa",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s8hs2m7dunw8/15-de-vuelta-a-casa"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/j5xumsrhp8cy",
+      "player_url": "https://voe.sx/e/j5xumsrhp8cy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j5xumsrhp8cy"
+    }
+  ]
 }

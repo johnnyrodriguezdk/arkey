@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "45",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=45",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/3kpgrvln1dvm",
+      "player_url": "https://streamwish.to/e/3kpgrvln1dvm",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3kpgrvln1dvm"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/neaqiylyfqim",
+      "player_url": "https://filelions.top/v/neaqiylyfqim",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "neaqiylyfqim"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/xdutbskkcy87/45-el-fin-de-kasue-el-misterioso-reto-de-carne",
+      "player_url": "https://bysekoze.com/e/xdutbskkcy87/45-el-fin-de-kasue-el-misterioso-reto-de-carne",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xdutbskkcy87/45-el-fin-de-kasue-el-misterioso-reto-de-carne"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/np3rsah8yqi5",
+      "player_url": "https://voe.sx/e/np3rsah8yqi5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "np3rsah8yqi5"
+    }
+  ]
 }

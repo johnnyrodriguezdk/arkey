@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "132",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=132",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/1li4ov3vxczg",
+      "player_url": "https://streamwish.to/e/1li4ov3vxczg",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1li4ov3vxczg"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/pog3kg87p1oz",
+      "player_url": "https://ryderjet.com/v/pog3kg87p1oz",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pog3kg87p1oz"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/RWFmRk5JS05ybFBLSHFNRU1nckdHUT09",
+      "player_url": "https://player.streamhj.top/e/RWFmRk5JS05ybFBLSHFNRU1nckdHUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "RWFmRk5JS05ybFBLSHFNRU1nckdHUT09"
+    }
+  ]
 }

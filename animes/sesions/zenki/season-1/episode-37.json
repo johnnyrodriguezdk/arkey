@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "37",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=37",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/yoqp6psy7iec",
+      "player_url": "https://streamwish.to/e/yoqp6psy7iec",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yoqp6psy7iec"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/p3rs8v1gjblo",
+      "player_url": "https://filelions.top/v/p3rs8v1gjblo",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p3rs8v1gjblo"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/21bj1gnk9ryv/37-nacerá-una-estrella",
+      "player_url": "https://bysekoze.com/e/21bj1gnk9ryv/37-nacerá-una-estrella",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "21bj1gnk9ryv/37-nacerá-una-estrella"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/om7zrnl2kf5d",
+      "player_url": "https://voe.sx/e/om7zrnl2kf5d",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "om7zrnl2kf5d"
+    }
+  ]
 }

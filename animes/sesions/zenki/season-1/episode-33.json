@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "33",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=33",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6587txggkwip",
+      "player_url": "https://streamwish.to/e/6587txggkwip",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6587txggkwip"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/eqfb990v85wa",
+      "player_url": "https://filelions.top/v/eqfb990v85wa",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eqfb990v85wa"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/lthg5qpkbgm2/33-la-pieza-del-deseo",
+      "player_url": "https://bysekoze.com/e/lthg5qpkbgm2/33-la-pieza-del-deseo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lthg5qpkbgm2/33-la-pieza-del-deseo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/lznniplqeayl",
+      "player_url": "https://voe.sx/e/lznniplqeayl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lznniplqeayl"
+    }
+  ]
 }

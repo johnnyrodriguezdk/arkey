@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "12",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=12",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/5ipyvtd7bifd",
+      "player_url": "https://streamwish.to/e/5ipyvtd7bifd",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5ipyvtd7bifd"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/9gpy1ymif2k5",
+      "player_url": "https://filelions.top/v/9gpy1ymif2k5",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9gpy1ymif2k5"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/9o6qi9161tay/12-nieves-y-demonios",
+      "player_url": "https://bysekoze.com/e/9o6qi9161tay/12-nieves-y-demonios",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9o6qi9161tay/12-nieves-y-demonios"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/lvocaj5iy332",
+      "player_url": "https://voe.sx/e/lvocaj5iy332",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lvocaj5iy332"
+    }
+  ]
 }

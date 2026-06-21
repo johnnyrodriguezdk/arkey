@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "28",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=28",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ypv6se6oby0v",
+      "player_url": "https://streamwish.to/e/ypv6se6oby0v",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ypv6se6oby0v"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/izwyq8lxedhr",
+      "player_url": "https://filelions.top/v/izwyq8lxedhr",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "izwyq8lxedhr"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/neyyt6jdc06n/28-las-cartas-magicas",
+      "player_url": "https://bysekoze.com/e/neyyt6jdc06n/28-las-cartas-magicas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "neyyt6jdc06n/28-las-cartas-magicas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/gc2lzzbivtga",
+      "player_url": "https://voe.sx/e/gc2lzzbivtga",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gc2lzzbivtga"
+    }
+  ]
 }

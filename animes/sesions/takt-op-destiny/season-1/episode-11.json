@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "11",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=11822&idcapitulo=11",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/lqZ6IQSLGInT",
+      "player_url": "https://netuplayer.top/e/lqZ6IQSLGInT",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lqZ6IQSLGInT"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://filemoon.to/e/qopwxgua0foy",
+      "player_url": "https://filemoon.to/e/qopwxgua0foy",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qopwxgua0foy"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/AozJP4LZrrsXAG9/%5BAnimeOnlineNinja%5D_Takt_Op._Destiny_BD_Latino_11.mp4",
+      "player_url": "https://streamtape.com/e/AozJP4LZrrsXAG9/%5BAnimeOnlineNinja%5D_Takt_Op._Destiny_BD_Latino_11.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "AozJP4LZrrsXAG9/%5BAnimeOnlineNinja%5D_Takt_Op._Destiny_BD_Latino_11.mp4"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-5jtrenflt18t.html",
+      "player_url": "https://uqload.com/embed-5jtrenflt18t.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-5jtrenflt18t.html"
+    }
+  ]
 }

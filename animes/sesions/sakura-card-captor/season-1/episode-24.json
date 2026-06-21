@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "24",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=24",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/qtxbpvlaif86",
+      "player_url": "https://streamwish.to/e/qtxbpvlaif86",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qtxbpvlaif86"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/1d8utafx4oye",
+      "player_url": "https://filelions.top/v/1d8utafx4oye",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1d8utafx4oye"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/1zp0e6hszpbo/24-la-gran-aventura-de-sakura",
+      "player_url": "https://bysekoze.com/e/1zp0e6hszpbo/24-la-gran-aventura-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1zp0e6hszpbo/24-la-gran-aventura-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/tmbjxubfd6zd",
+      "player_url": "https://voe.sx/e/tmbjxubfd6zd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tmbjxubfd6zd"
+    }
+  ]
 }

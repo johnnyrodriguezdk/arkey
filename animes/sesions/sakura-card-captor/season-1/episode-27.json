@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "27",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=27",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/2cdtnmviw4yy",
+      "player_url": "https://streamwish.to/e/2cdtnmviw4yy",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2cdtnmviw4yy"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/fbrh1nrwfq9u",
+      "player_url": "https://filelions.top/v/fbrh1nrwfq9u",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fbrh1nrwfq9u"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/6kvlex9i1jyh/27-los-recuerdos-del-templo",
+      "player_url": "https://bysekoze.com/e/6kvlex9i1jyh/27-los-recuerdos-del-templo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6kvlex9i1jyh/27-los-recuerdos-del-templo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/mgos95jb6lol",
+      "player_url": "https://voe.sx/e/mgos95jb6lol",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mgos95jb6lol"
+    }
+  ]
 }

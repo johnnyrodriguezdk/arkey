@@ -19,5 +19,56 @@
   ],
   "idcapitulo": "18",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=20592&idcapitulo=18",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/efnq6oc78ynz",
+      "player_url": "https://streamwish.to/e/efnq6oc78ynz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "efnq6oc78ynz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/pll8sfdqxw3n",
+      "player_url": "https://filelions.top/v/pll8sfdqxw3n",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pll8sfdqxw3n"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/Nk9GZmJITTZOMlQ5ajZwZGdCdkpRUT09",
+      "player_url": "https://player.streamhj.top/e/Nk9GZmJITTZOMlQ5ajZwZGdCdkpRUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Nk9GZmJITTZOMlQ5ajZwZGdCdkpRUT09"
+    },
+    {
+      "id": 4,
+      "server": "Mp4upload",
+      "url": "https://www.mp4upload.com/embed-lscmqs1vue1k.html",
+      "player_url": "https://www.mp4upload.com/embed-lscmqs1vue1k.html",
+      "nombre": "Mp4upload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.mp4upload.com_embed-lscmqs1vue1k.html"
+    },
+    {
+      "id": 5,
+      "server": "Voe",
+      "url": "https://voe.sx/e/qyzmaz0tpgn0",
+      "player_url": "https://voe.sx/e/qyzmaz0tpgn0",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qyzmaz0tpgn0"
+    }
+  ]
 }

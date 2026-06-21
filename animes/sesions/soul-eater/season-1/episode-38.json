@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "38",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=24210&idcapitulo=38",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/XRNzP3IJX3eV",
+      "player_url": "https://netuplayer.top/e/XRNzP3IJX3eV",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "XRNzP3IJX3eV"
+    },
+    {
+      "id": 2,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-f1o848xh0qzi.html",
+      "player_url": "https://uqload.com/embed-f1o848xh0qzi.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-f1o848xh0qzi.html"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/gn61q91kbgjlv1",
+      "player_url": "https://mixdropjmk.pw/e/gn61q91kbgjlv1",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gn61q91kbgjlv1"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://dood.so/e/uv7g7lcxzfqc1tu84atuhrxlx0eujmth",
+      "player_url": "https://dood.so/e/uv7g7lcxzfqc1tu84atuhrxlx0eujmth",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uv7g7lcxzfqc1tu84atuhrxlx0eujmth"
+    },
+    {
+      "id": 5,
+      "server": "Voe",
+      "url": "https://voe.sx/e/sh3zmhm9b4qr",
+      "player_url": "https://voe.sx/e/sh3zmhm9b4qr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sh3zmhm9b4qr"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "34",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=34",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/v7a5rrhkykob",
+      "player_url": "https://streamwish.to/e/v7a5rrhkykob",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v7a5rrhkykob"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/tz3t94fiqj6v",
+      "player_url": "https://filelions.top/v/tz3t94fiqj6v",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tz3t94fiqj6v"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/6dvolr6s9ky9/34-la-luna-llena-de-mediodía",
+      "player_url": "https://bysekoze.com/e/6dvolr6s9ky9/34-la-luna-llena-de-mediodía",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6dvolr6s9ky9/34-la-luna-llena-de-mediodía"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/gpdtwiq4qrun",
+      "player_url": "https://voe.sx/e/gpdtwiq4qrun",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gpdtwiq4qrun"
+    }
+  ]
 }

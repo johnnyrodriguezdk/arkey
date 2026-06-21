@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "15",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=15",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/w6a9x0s4fnfc",
+      "player_url": "https://streamwish.to/e/w6a9x0s4fnfc",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w6a9x0s4fnfc"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/f2yg6fwptja8",
+      "player_url": "https://filelions.top/v/f2yg6fwptja8",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f2yg6fwptja8"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/4ayn1x1l1xvx/15-sakura-y-kero-se-pelean",
+      "player_url": "https://bysekoze.com/e/4ayn1x1l1xvx/15-sakura-y-kero-se-pelean",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4ayn1x1l1xvx/15-sakura-y-kero-se-pelean"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/39wfdhmotzee",
+      "player_url": "https://voe.sx/e/39wfdhmotzee",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "39wfdhmotzee"
+    }
+  ]
 }

@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "95",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=95",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/cx2d4qg4bi0k",
+      "player_url": "https://streamwish.to/e/cx2d4qg4bi0k",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cx2d4qg4bi0k"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/x5vesslnkmdz",
+      "player_url": "https://ryderjet.com/v/x5vesslnkmdz",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x5vesslnkmdz"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/QzJaZEd0N0o0K1lPNmR2TUlBN0lrdz09",
+      "player_url": "https://player.streamhj.top/e/QzJaZEd0N0o0K1lPNmR2TUlBN0lrdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "QzJaZEd0N0o0K1lPNmR2TUlBN0lrdz09"
+    }
+  ]
 }

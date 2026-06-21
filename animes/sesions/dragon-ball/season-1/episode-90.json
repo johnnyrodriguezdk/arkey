@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "90",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=90",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/njje80cr41at",
+      "player_url": "https://streamwish.to/e/njje80cr41at",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "njje80cr41at"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/flqddxd5aud0",
+      "player_url": "https://ryderjet.com/v/flqddxd5aud0",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "flqddxd5aud0"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/SmhncFZneW5DUDcvb0RVVUlGQWdyUT09",
+      "player_url": "https://player.streamhj.top/e/SmhncFZneW5DUDcvb0RVVUlGQWdyUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "SmhncFZneW5DUDcvb0RVVUlGQWdyUT09"
+    }
+  ]
 }

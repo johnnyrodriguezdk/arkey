@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "140",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=425&idcapitulo=140",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/UFM5S0JlUmJXL2RjZjZJSDlleVhzQT09",
+      "player_url": "https://netuplayer.top/e/UFM5S0JlUmJXL2RjZjZJSDlleVhzQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "UFM5S0JlUmJXL2RjZjZJSDlleVhzQT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/4687WYDrPrhKl40/%5BAnimeOnlineNinja%5D_One_Piece_Latino_140.mp4",
+      "player_url": "https://streamtape.com/e/4687WYDrPrhKl40/%5BAnimeOnlineNinja%5D_One_Piece_Latino_140.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4687WYDrPrhKl40/%5BAnimeOnlineNinja%5D_One_Piece_Latino_140.mp4"
+    },
+    {
+      "id": 3,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-8x9rdkyom24f.html",
+      "player_url": "https://uqload.com/embed-8x9rdkyom24f.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-8x9rdkyom24f.html"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://dood.pm/e/kfmt6ztr92ujz3koh3nb8zdigrxnq7nx",
+      "player_url": "https://dood.pm/e/kfmt6ztr92ujz3koh3nb8zdigrxnq7nx",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kfmt6ztr92ujz3koh3nb8zdigrxnq7nx"
+    }
+  ]
 }

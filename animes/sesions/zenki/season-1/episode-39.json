@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "39",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=39",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/2f7vvrhunuc2",
+      "player_url": "https://streamwish.to/e/2f7vvrhunuc2",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2f7vvrhunuc2"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/vhfmxonxuf6u",
+      "player_url": "https://filelions.top/v/vhfmxonxuf6u",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vhfmxonxuf6u"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/24ziqv4ibq2r/39-un-acercamiento-al-otro-mundo",
+      "player_url": "https://bysekoze.com/e/24ziqv4ibq2r/39-un-acercamiento-al-otro-mundo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "24ziqv4ibq2r/39-un-acercamiento-al-otro-mundo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/pgkr1o8uyeot",
+      "player_url": "https://voe.sx/e/pgkr1o8uyeot",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pgkr1o8uyeot"
+    }
+  ]
 }

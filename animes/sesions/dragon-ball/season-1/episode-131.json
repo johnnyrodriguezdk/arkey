@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "131",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=131",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/yzf3izlaz2hi",
+      "player_url": "https://streamwish.to/e/yzf3izlaz2hi",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yzf3izlaz2hi"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/28elscmtw94b",
+      "player_url": "https://ryderjet.com/v/28elscmtw94b",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "28elscmtw94b"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/bVR2SzFrWjhTR0RXZnVOQVBHTlVmdz09",
+      "player_url": "https://player.streamhj.top/e/bVR2SzFrWjhTR0RXZnVOQVBHTlVmdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bVR2SzFrWjhTR0RXZnVOQVBHTlVmdz09"
+    }
+  ]
 }

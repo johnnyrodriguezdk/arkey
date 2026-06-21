@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "10",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=10",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/kulhwvhfbutb",
+      "player_url": "https://streamwish.to/e/kulhwvhfbutb",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kulhwvhfbutb"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/fz87jpxc06ok",
+      "player_url": "https://filelions.top/v/fz87jpxc06ok",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fz87jpxc06ok"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/i2yjioswhj0k/10-juegos-a-ciegas",
+      "player_url": "https://bysekoze.com/e/i2yjioswhj0k/10-juegos-a-ciegas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i2yjioswhj0k/10-juegos-a-ciegas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/p4zhl3ir37cf",
+      "player_url": "https://voe.sx/e/p4zhl3ir37cf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p4zhl3ir37cf"
+    }
+  ]
 }

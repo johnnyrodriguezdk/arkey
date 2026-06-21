@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "33",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=33",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/uvs3devbu18z",
+      "player_url": "https://streamwish.to/e/uvs3devbu18z",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uvs3devbu18z"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/ttbecz5wmz2e",
+      "player_url": "https://filelions.top/v/ttbecz5wmz2e",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ttbecz5wmz2e"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/h70q8etoxeef/33-una-noche-lluviosa",
+      "player_url": "https://bysekoze.com/e/h70q8etoxeef/33-una-noche-lluviosa",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h70q8etoxeef/33-una-noche-lluviosa"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/9sypkntnsnrw",
+      "player_url": "https://voe.sx/e/9sypkntnsnrw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9sypkntnsnrw"
+    }
+  ]
 }

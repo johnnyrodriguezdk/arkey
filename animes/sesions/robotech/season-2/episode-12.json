@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "12",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=12",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/zbiahnvgdz73",
+      "player_url": "https://streamwish.to/e/zbiahnvgdz73",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zbiahnvgdz73"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/b1qe3sg3baw3",
+      "player_url": "https://filelions.top/v/b1qe3sg3baw3",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b1qe3sg3baw3"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/3jenqx0ckq3f/12-el-gran-escape",
+      "player_url": "https://bysekoze.com/e/3jenqx0ckq3f/12-el-gran-escape",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3jenqx0ckq3f/12-el-gran-escape"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ykqxypsdj2fs",
+      "player_url": "https://voe.sx/e/ykqxypsdj2fs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ykqxypsdj2fs"
+    }
+  ]
 }

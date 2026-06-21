@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "5",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=20493&idcapitulo=5",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/VmYwbzUveDlMZVU3TU5LbGxBZGJzUT09",
+      "player_url": "https://netuplayer.top/e/VmYwbzUveDlMZVU3TU5LbGxBZGJzUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "VmYwbzUveDlMZVU3TU5LbGxBZGJzUT09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/9vj2uvkahiez",
+      "player_url": "https://bysekoze.com/e/9vj2uvkahiez",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9vj2uvkahiez"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/XP42XPLLyeT0Rd/%5BAnimeOnlineNinja%5D_Uzaki-chan_wa_Asobitai%21_BD_Latino_05.mp4",
+      "player_url": "https://streamtape.com/e/XP42XPLLyeT0Rd/%5BAnimeOnlineNinja%5D_Uzaki-chan_wa_Asobitai%21_BD_Latino_05.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "XP42XPLLyeT0Rd/%5BAnimeOnlineNinja%5D_Uzaki-chan_wa_Asobitai%21_BD_Latino_05.mp4"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-xai55kmnqje6.html",
+      "player_url": "https://uqload.com/embed-xai55kmnqje6.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-xai55kmnqje6.html"
+    }
+  ]
 }

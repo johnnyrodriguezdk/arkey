@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "54",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=54",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/68n5uiddd21q",
+      "player_url": "https://streamwish.to/e/68n5uiddd21q",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "68n5uiddd21q"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/s8a1p1619sux",
+      "player_url": "https://filelions.top/v/s8a1p1619sux",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s8a1p1619sux"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/lctb97z2a23g/54-el-calendario-de-recuerdos",
+      "player_url": "https://bysekoze.com/e/lctb97z2a23g/54-el-calendario-de-recuerdos",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lctb97z2a23g/54-el-calendario-de-recuerdos"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/yog3eudt5n9h",
+      "player_url": "https://voe.sx/e/yog3eudt5n9h",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yog3eudt5n9h"
+    }
+  ]
 }

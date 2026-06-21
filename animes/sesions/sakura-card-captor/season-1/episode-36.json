@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "36",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=36",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/52ldgb0yumxa",
+      "player_url": "https://streamwish.to/e/52ldgb0yumxa",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "52ldgb0yumxa"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/kpzm4nww1eyx",
+      "player_url": "https://filelions.top/v/kpzm4nww1eyx",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kpzm4nww1eyx"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/edevwpiawhof/36-el-nuevo-curso-escolar-de-sakura-inicia",
+      "player_url": "https://bysekoze.com/e/edevwpiawhof/36-el-nuevo-curso-escolar-de-sakura-inicia",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "edevwpiawhof/36-el-nuevo-curso-escolar-de-sakura-inicia"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/msoi7gbgqobg",
+      "player_url": "https://voe.sx/e/msoi7gbgqobg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "msoi7gbgqobg"
+    }
+  ]
 }

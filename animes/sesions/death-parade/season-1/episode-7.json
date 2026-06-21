@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "7",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=18316&idcapitulo=7",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/eFBuZmZzdDlTamM4NkpYdzc3cThZZz09",
+      "player_url": "https://netuplayer.top/e/eFBuZmZzdDlTamM4NkpYdzc3cThZZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eFBuZmZzdDlTamM4NkpYdzc3cThZZz09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/0pWeGZo28XhbPR2",
+      "player_url": "https://streamtape.com/e/0pWeGZo28XhbPR2",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0pWeGZo28XhbPR2"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/l6370rgjap7mnd",
+      "player_url": "https://mixdropjmk.pw/e/l6370rgjap7mnd",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l6370rgjap7mnd"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://dood.la/e/xyglyitp4v2p2lkngwseulg150pna221",
+      "player_url": "https://dood.la/e/xyglyitp4v2p2lkngwseulg150pna221",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xyglyitp4v2p2lkngwseulg150pna221"
+    }
+  ]
 }

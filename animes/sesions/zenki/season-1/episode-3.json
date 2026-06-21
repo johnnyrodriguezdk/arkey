@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "3",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=3",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/e47wap04ju8o",
+      "player_url": "https://streamwish.to/e/e47wap04ju8o",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e47wap04ju8o"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/n3a2a2z2w9fe",
+      "player_url": "https://filelions.top/v/n3a2a2z2w9fe",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n3a2a2z2w9fe"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/1oy4dwooukq8/03-sonrían",
+      "player_url": "https://bysekoze.com/e/1oy4dwooukq8/03-sonrían",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1oy4dwooukq8/03-sonrían"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/vyctpmdr5yzj",
+      "player_url": "https://voe.sx/e/vyctpmdr5yzj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vyctpmdr5yzj"
+    }
+  ]
 }

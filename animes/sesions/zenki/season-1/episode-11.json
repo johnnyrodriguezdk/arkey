@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "11",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=11",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/yi75din69w6v",
+      "player_url": "https://streamwish.to/e/yi75din69w6v",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yi75din69w6v"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/b0fdk6ngm073",
+      "player_url": "https://filelions.top/v/b0fdk6ngm073",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b0fdk6ngm073"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/3e0gdtrntf6h/11-voces-de-la-tierra",
+      "player_url": "https://bysekoze.com/e/3e0gdtrntf6h/11-voces-de-la-tierra",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3e0gdtrntf6h/11-voces-de-la-tierra"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/zrsvjhdtcfcb",
+      "player_url": "https://voe.sx/e/zrsvjhdtcfcb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zrsvjhdtcfcb"
+    }
+  ]
 }

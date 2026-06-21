@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "8",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=8",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/iev9adx4p65q",
+      "player_url": "https://streamwish.to/e/iev9adx4p65q",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iev9adx4p65q"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/jw7z2wy807x1",
+      "player_url": "https://filelions.top/v/jw7z2wy807x1",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jw7z2wy807x1"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/jy0fp3vcj6m2/08-dulces-16",
+      "player_url": "https://bysekoze.com/e/jy0fp3vcj6m2/08-dulces-16",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jy0fp3vcj6m2/08-dulces-16"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/znbpxyz54uoq",
+      "player_url": "https://voe.sx/e/znbpxyz54uoq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "znbpxyz54uoq"
+    }
+  ]
 }

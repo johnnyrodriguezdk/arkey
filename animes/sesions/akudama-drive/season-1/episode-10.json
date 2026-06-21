@@ -21,5 +21,46 @@
   ],
   "idcapitulo": "10",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=8345&idcapitulo=10",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/M0xBVlVkRTl0Wk1uSm1TeTNudGtIZz09",
+      "player_url": "https://netuplayer.top/e/M0xBVlVkRTl0Wk1uSm1TeTNudGtIZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "M0xBVlVkRTl0Wk1uSm1TeTNudGtIZz09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/e3QxjLzK8AtJPd/%5BAnimeOnlineNinja%5D_Akudama_Drive_BD_Latino_10_v2.mp4",
+      "player_url": "https://streamtape.com/e/e3QxjLzK8AtJPd/%5BAnimeOnlineNinja%5D_Akudama_Drive_BD_Latino_10_v2.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e3QxjLzK8AtJPd/%5BAnimeOnlineNinja%5D_Akudama_Drive_BD_Latino_10_v2.mp4"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/o7o9v64qfl684dz",
+      "player_url": "https://mixdropjmk.pw/e/o7o9v64qfl684dz",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o7o9v64qfl684dz"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://dood.so/e/9veydg01qbsfrgydbqsbuyankbgwn09a",
+      "player_url": "https://dood.so/e/9veydg01qbsfrgydbqsbuyankbgwn09a",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9veydg01qbsfrgydbqsbuyankbgwn09a"
+    }
+  ]
 }

@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "70",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=70",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/tkuowrre4n74",
+      "player_url": "https://streamwish.to/e/tkuowrre4n74",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tkuowrre4n74"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/0e264c290gzb",
+      "player_url": "https://ryderjet.com/v/0e264c290gzb",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0e264c290gzb"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/M252Q0JoR3pNRElJVGMxNEZHYUFzdz09",
+      "player_url": "https://player.streamhj.top/e/M252Q0JoR3pNRElJVGMxNEZHYUFzdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "M252Q0JoR3pNRElJVGMxNEZHYUFzdz09"
+    }
+  ]
 }

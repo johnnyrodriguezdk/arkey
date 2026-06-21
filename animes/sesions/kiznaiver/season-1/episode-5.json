@@ -20,5 +20,66 @@
   ],
   "idcapitulo": "5",
   "iframe_url": "",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/62yrqu5ase81",
+      "player_url": "https://streamwish.to/e/62yrqu5ase81",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "62yrqu5ase81"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=RVB5WU5JUExhMFZrWWZnemFRZFh2UT09",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=RVB5WU5JUExhMFZrWWZnemFRZFh2UT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/XWLlaD3RBpCDe73/",
+      "player_url": "https://streamtape.com/e/XWLlaD3RBpCDe73/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "XWLlaD3RBpCDe73/"
+    },
+    {
+      "id": 4,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!wKdTwRLS!TAuVLljK0XgpuhuDz47NRjCoHOGy6iSPspAwwKiEYYE",
+      "player_url": "https://mega.nz/embed/!wKdTwRLS!TAuVLljK0XgpuhuDz47NRjCoHOGy6iSPspAwwKiEYYE",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!wKdTwRLS!TAuVLljK0XgpuhuDz47NRjCoHOGy6iSPspAwwKiEYYE"
+    },
+    {
+      "id": 5,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/xDPJwjJyfwlK",
+      "player_url": "https://www.yourupload.com/embed/xDPJwjJyfwlK",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_xDPJwjJyfwlK"
+    },
+    {
+      "id": 6,
+      "server": "Okru",
+      "url": "https://ok.ru/videoembed/449961003762",
+      "player_url": "https://ok.ru/videoembed/449961003762",
+      "nombre": "Okru",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ok.ru_videoembed_449961003762"
+    }
+  ]
 }

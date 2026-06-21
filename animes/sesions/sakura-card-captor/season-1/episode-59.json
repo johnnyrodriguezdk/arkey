@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "59",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=59",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/7cptt8t7tbn4",
+      "player_url": "https://streamwish.to/e/7cptt8t7tbn4",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7cptt8t7tbn4"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/2dlngthbz0pf",
+      "player_url": "https://filelions.top/v/2dlngthbz0pf",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2dlngthbz0pf"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/o932ex6hy8w2/59-la-desaparición-de-tomoyo",
+      "player_url": "https://bysekoze.com/e/o932ex6hy8w2/59-la-desaparición-de-tomoyo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o932ex6hy8w2/59-la-desaparición-de-tomoyo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/pz89s4xykdcj",
+      "player_url": "https://voe.sx/e/pz89s4xykdcj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pz89s4xykdcj"
+    }
+  ]
 }

@@ -21,5 +21,56 @@
   ],
   "idcapitulo": "18",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=5284&idcapitulo=18",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/zi2c0appjf0b",
+      "player_url": "https://streamwish.to/e/zi2c0appjf0b",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zi2c0appjf0b"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/bf12lqwbydre",
+      "player_url": "https://filelions.top/v/bf12lqwbydre",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bf12lqwbydre"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/cXNJcXpxRzRsTzRKZWpJNHVib055Zz09",
+      "player_url": "https://player.streamhj.top/e/cXNJcXpxRzRsTzRKZWpJNHVib055Zz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cXNJcXpxRzRsTzRKZWpJNHVib055Zz09"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/9X2K8PLZBBcaroj/Shingeki_No_Kyojin_18_Latino_%5Bhenaojara.com%5D.mkv.mp4",
+      "player_url": "https://streamtape.com/e/9X2K8PLZBBcaroj/Shingeki_No_Kyojin_18_Latino_%5Bhenaojara.com%5D.mkv.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9X2K8PLZBBcaroj/Shingeki_No_Kyojin_18_Latino_%5Bhenaojara.com%5D.mkv.mp4"
+    },
+    {
+      "id": 5,
+      "server": "DoodStream",
+      "url": "https://doods.pro/e/mm25qfzsbey5",
+      "player_url": "https://doods.pro/e/mm25qfzsbey5",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mm25qfzsbey5"
+    }
+  ]
 }

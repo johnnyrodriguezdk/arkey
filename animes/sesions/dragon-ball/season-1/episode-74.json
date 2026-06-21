@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "74",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=74",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/bd5mcpcf2l86",
+      "player_url": "https://streamwish.to/e/bd5mcpcf2l86",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bd5mcpcf2l86"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/cud7hnz9wtk8",
+      "player_url": "https://ryderjet.com/v/cud7hnz9wtk8",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cud7hnz9wtk8"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/TUZYUHZaR0tpYUFnVGs1K1dQeEdCUT09",
+      "player_url": "https://player.streamhj.top/e/TUZYUHZaR0tpYUFnVGs1K1dQeEdCUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "TUZYUHZaR0tpYUFnVGs1K1dQeEdCUT09"
+    }
+  ]
 }

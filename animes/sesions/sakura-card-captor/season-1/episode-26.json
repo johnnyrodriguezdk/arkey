@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "26",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=26",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/orqtjeiiiwwc",
+      "player_url": "https://streamwish.to/e/orqtjeiiiwwc",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "orqtjeiiiwwc"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/6ls1kbbz2sjn",
+      "player_url": "https://filelions.top/v/6ls1kbbz2sjn",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6ls1kbbz2sjn"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/jmh1srd4u7my/26-sakura-y-una-linda-profesora",
+      "player_url": "https://bysekoze.com/e/jmh1srd4u7my/26-sakura-y-una-linda-profesora",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jmh1srd4u7my/26-sakura-y-una-linda-profesora"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/dxxqkapnzym3",
+      "player_url": "https://voe.sx/e/dxxqkapnzym3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dxxqkapnzym3"
+    }
+  ]
 }

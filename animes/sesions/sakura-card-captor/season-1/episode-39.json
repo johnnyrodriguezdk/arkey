@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "39",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=39",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/g46lyuwx358c",
+      "player_url": "https://streamwish.to/e/g46lyuwx358c",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g46lyuwx358c"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/oz02n8n9rlg5",
+      "player_url": "https://filelions.top/v/oz02n8n9rlg5",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oz02n8n9rlg5"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/da54h4i877r5/39-un-dia-de-fiebre",
+      "player_url": "https://bysekoze.com/e/da54h4i877r5/39-un-dia-de-fiebre",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "da54h4i877r5/39-un-dia-de-fiebre"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/dayruqpixouy",
+      "player_url": "https://voe.sx/e/dayruqpixouy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dayruqpixouy"
+    }
+  ]
 }

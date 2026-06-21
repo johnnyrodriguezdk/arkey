@@ -21,5 +21,56 @@
   ],
   "idcapitulo": "13",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=262&idcapitulo=13",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/90lzgbvmxs3d",
+      "player_url": "https://streamwish.to/e/90lzgbvmxs3d",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "90lzgbvmxs3d"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/7apydiioxsqa",
+      "player_url": "https://filelions.top/v/7apydiioxsqa",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7apydiioxsqa"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/SXVvc0xNNXMxR2RmQkdpeU9nQWxXQT09",
+      "player_url": "https://player.streamhj.top/e/SXVvc0xNNXMxR2RmQkdpeU9nQWxXQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "SXVvc0xNNXMxR2RmQkdpeU9nQWxXQT09"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/q6lXk3ORM7iZmJ/Jujutsu_Kaisen_Epi_13.mp4",
+      "player_url": "https://streamtape.com/e/q6lXk3ORM7iZmJ/Jujutsu_Kaisen_Epi_13.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q6lXk3ORM7iZmJ/Jujutsu_Kaisen_Epi_13.mp4"
+    },
+    {
+      "id": 5,
+      "server": "Nyuu",
+      "url": "https://nyuu.streamhj.top/player/vip/go.php?v=amh1c2ppdWF0c3NtdWtfZmt2YWhpc3NpZWFuc19tMWtfZmx2YWh0c2lpbmFvcy9tSmt1Zmp2dWh0c3NpdWEgc0ttYWtpZnN2ZWhucyBpRWFwc2ltIGsxZjN2Lmhtc3BpNGE=&inicio=0&final=0",
+      "player_url": "https://nyuu.streamhj.top/player/vip/go.php?v=amh1c2ppdWF0c3NtdWtfZmt2YWhpc3NpZWFuc19tMWtfZmx2YWh0c2lpbmFvcy9tSmt1Zmp2dWh0c3NpdWEgc0ttYWtpZnN2ZWhucyBpRWFwc2ltIGsxZjN2Lmhtc3BpNGE=&inicio=0&final=0",
+      "nombre": "Nyuu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nyuu.streamhj.top_player_vip_go.php"
+    }
+  ]
 }

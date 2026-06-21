@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "4",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=4",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/w09nr8vfterw",
+      "player_url": "https://streamwish.to/e/w09nr8vfterw",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w09nr8vfterw"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/xyogim8xw64c",
+      "player_url": "https://filelions.top/v/xyogim8xw64c",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xyogim8xw64c"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/6xj2390sh0nw/04-un-domingo-muy-agitado",
+      "player_url": "https://bysekoze.com/e/6xj2390sh0nw/04-un-domingo-muy-agitado",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6xj2390sh0nw/04-un-domingo-muy-agitado"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/atfuipwcz1qb",
+      "player_url": "https://voe.sx/e/atfuipwcz1qb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "atfuipwcz1qb"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "16",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=16",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6pm0djgy9qiz",
+      "player_url": "https://streamwish.to/e/6pm0djgy9qiz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6pm0djgy9qiz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/0d8pu1ywhvtd",
+      "player_url": "https://filelions.top/v/0d8pu1ywhvtd",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0d8pu1ywhvtd"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/5q7rkq8ud7jl/16-grito-de-guerra",
+      "player_url": "https://bysekoze.com/e/5q7rkq8ud7jl/16-grito-de-guerra",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5q7rkq8ud7jl/16-grito-de-guerra"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/byge19npuy20",
+      "player_url": "https://voe.sx/e/byge19npuy20",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "byge19npuy20"
+    }
+  ]
 }

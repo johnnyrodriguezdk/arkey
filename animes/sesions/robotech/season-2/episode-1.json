@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "1",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=1",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ixpt0kpl8lkn",
+      "player_url": "https://streamwish.to/e/ixpt0kpl8lkn",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ixpt0kpl8lkn"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/8kkyx44ck69a",
+      "player_url": "https://filelions.top/v/8kkyx44ck69a",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8kkyx44ck69a"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/e6hif65cabda/01-el-señuelo",
+      "player_url": "https://bysekoze.com/e/e6hif65cabda/01-el-señuelo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e6hif65cabda/01-el-señuelo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/2ppkigsybamx",
+      "player_url": "https://voe.sx/e/2ppkigsybamx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2ppkigsybamx"
+    }
+  ]
 }

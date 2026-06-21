@@ -21,5 +21,56 @@
   ],
   "idcapitulo": "12",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=5785&idcapitulo=12",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/rojzthl4pmlr",
+      "player_url": "https://streamwish.to/e/rojzthl4pmlr",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rojzthl4pmlr"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/embed/n98tq8euvkea",
+      "player_url": "https://filelions.top/embed/n98tq8euvkea",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "filelions.top_embed_n98tq8euvkea"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/U041YVdBVzZpLzgrTUJwSWZwa3RJdz09",
+      "player_url": "https://netuplayer.top/e/U041YVdBVzZpLzgrTUJwSWZwa3RJdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "U041YVdBVzZpLzgrTUJwSWZwa3RJdz09"
+    },
+    {
+      "id": 4,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/lou7zdxvn8gx/_AnimeOnlineNinja__Dorohedoro_BD_Latino_12",
+      "player_url": "https://bysekoze.com/e/lou7zdxvn8gx/_AnimeOnlineNinja__Dorohedoro_BD_Latino_12",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lou7zdxvn8gx/_AnimeOnlineNinja__Dorohedoro_BD_Latino_12"
+    },
+    {
+      "id": 5,
+      "server": "LuluStream",
+      "url": "https://luluvdo.com/e/8uz8t7lt72dr",
+      "player_url": "https://luluvdo.com/e/8uz8t7lt72dr",
+      "nombre": "LuluStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8uz8t7lt72dr"
+    }
+  ]
 }

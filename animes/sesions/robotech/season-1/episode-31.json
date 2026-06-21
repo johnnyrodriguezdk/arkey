@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "31",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=31",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/u2xyqv0wukk5",
+      "player_url": "https://streamwish.to/e/u2xyqv0wukk5",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u2xyqv0wukk5"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/l00uqd4is32u",
+      "player_url": "https://filelions.top/v/l00uqd4is32u",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l00uqd4is32u"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/10mj1e9e3r38/31-la-venganza-de-khyron",
+      "player_url": "https://bysekoze.com/e/10mj1e9e3r38/31-la-venganza-de-khyron",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "10mj1e9e3r38/31-la-venganza-de-khyron"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/uhf1xsj9nvcv",
+      "player_url": "https://voe.sx/e/uhf1xsj9nvcv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uhf1xsj9nvcv"
+    }
+  ]
 }

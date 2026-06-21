@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "25",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=25",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/zosk6yrg8noh",
+      "player_url": "https://streamwish.to/e/zosk6yrg8noh",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zosk6yrg8noh"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/rgrbl534kziw",
+      "player_url": "https://filelions.top/v/rgrbl534kziw",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rgrbl534kziw"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/nrf14kvg3tjf/25-la-copia-de-sakura",
+      "player_url": "https://bysekoze.com/e/nrf14kvg3tjf/25-la-copia-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nrf14kvg3tjf/25-la-copia-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ddc1nxnvw3fg",
+      "player_url": "https://voe.sx/e/ddc1nxnvw3fg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ddc1nxnvw3fg"
+    }
+  ]
 }

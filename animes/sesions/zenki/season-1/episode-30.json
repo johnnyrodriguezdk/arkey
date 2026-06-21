@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "30",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=30",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/jf7awnwkpn5a",
+      "player_url": "https://streamwish.to/e/jf7awnwkpn5a",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jf7awnwkpn5a"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/j3xvr44mxaf9",
+      "player_url": "https://filelions.top/v/j3xvr44mxaf9",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j3xvr44mxaf9"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/z6bjmm6q4nqv/30-rostros-perdidos",
+      "player_url": "https://bysekoze.com/e/z6bjmm6q4nqv/30-rostros-perdidos",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z6bjmm6q4nqv/30-rostros-perdidos"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/akhvm7a8nhqn",
+      "player_url": "https://voe.sx/e/akhvm7a8nhqn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "akhvm7a8nhqn"
+    }
+  ]
 }

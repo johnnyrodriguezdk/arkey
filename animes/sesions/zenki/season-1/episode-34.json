@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "34",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=34",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/39n8a6as91io",
+      "player_url": "https://streamwish.to/e/39n8a6as91io",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "39n8a6as91io"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/k8lzt3zlzleg",
+      "player_url": "https://filelions.top/v/k8lzt3zlzleg",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k8lzt3zlzleg"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/n5151zdb5yxr/34-día-de-elecciones",
+      "player_url": "https://bysekoze.com/e/n5151zdb5yxr/34-día-de-elecciones",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n5151zdb5yxr/34-día-de-elecciones"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ycyqeggtag9n",
+      "player_url": "https://voe.sx/e/ycyqeggtag9n",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ycyqeggtag9n"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "22",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=22",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/akbt12cpfeof",
+      "player_url": "https://streamwish.to/e/akbt12cpfeof",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "akbt12cpfeof"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/g63svklrv4ef",
+      "player_url": "https://filelions.top/v/g63svklrv4ef",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g63svklrv4ef"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/9lpk92mr9tun/22-el-papá-generoso-de-sakura",
+      "player_url": "https://bysekoze.com/e/9lpk92mr9tun/22-el-papá-generoso-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9lpk92mr9tun/22-el-papá-generoso-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/lbsmf4quce4b",
+      "player_url": "https://voe.sx/e/lbsmf4quce4b",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lbsmf4quce4b"
+    }
+  ]
 }

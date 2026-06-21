@@ -21,5 +21,56 @@
   ],
   "idcapitulo": "8",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=5785&idcapitulo=8",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/g0byesxi3132",
+      "player_url": "https://streamwish.to/e/g0byesxi3132",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g0byesxi3132"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/embed/0xhncu5zx24p",
+      "player_url": "https://filelions.top/embed/0xhncu5zx24p",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "filelions.top_embed_0xhncu5zx24p"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/NVRSSTJpT0VQODFIVVR4WEx0d1FGUT09",
+      "player_url": "https://netuplayer.top/e/NVRSSTJpT0VQODFIVVR4WEx0d1FGUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "NVRSSTJpT0VQODFIVVR4WEx0d1FGUT09"
+    },
+    {
+      "id": 4,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/p9yj8bmrmb0l",
+      "player_url": "https://bysekoze.com/e/p9yj8bmrmb0l",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p9yj8bmrmb0l"
+    },
+    {
+      "id": 5,
+      "server": "LuluStream",
+      "url": "https://luluvdo.com/e/mdmicg0d5wqf",
+      "player_url": "https://luluvdo.com/e/mdmicg0d5wqf",
+      "nombre": "LuluStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mdmicg0d5wqf"
+    }
+  ]
 }

@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "85",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=85",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ynigygcu8pxh",
+      "player_url": "https://streamwish.to/e/ynigygcu8pxh",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ynigygcu8pxh"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/3fzuoyd9ao3k",
+      "player_url": "https://ryderjet.com/v/3fzuoyd9ao3k",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3fzuoyd9ao3k"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/NU5wbTNNRDQvZG5TL0JLcStOdFNhQT09",
+      "player_url": "https://player.streamhj.top/e/NU5wbTNNRDQvZG5TL0JLcStOdFNhQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "NU5wbTNNRDQvZG5TL0JLcStOdFNhQT09"
+    }
+  ]
 }

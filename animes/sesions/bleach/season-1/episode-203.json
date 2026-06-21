@@ -20,5 +20,36 @@
   ],
   "idcapitulo": "203",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=19617&idcapitulo=203",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/UU9QTzZYVFl6dDJ4Q2JVWG9icElMUT09",
+      "player_url": "https://netuplayer.top/e/UU9QTzZYVFl6dDJ4Q2JVWG9icElMUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "UU9QTzZYVFl6dDJ4Q2JVWG9icElMUT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/dKVXvVaBGLhkpyV",
+      "player_url": "https://streamtape.com/e/dKVXvVaBGLhkpyV",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dKVXvVaBGLhkpyV"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/rwqd4w80ivq4r1l",
+      "player_url": "https://mixdropjmk.pw/e/rwqd4w80ivq4r1l",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rwqd4w80ivq4r1l"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "45",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=45",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ghq6a0avcqlu",
+      "player_url": "https://streamwish.to/e/ghq6a0avcqlu",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ghq6a0avcqlu"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/2aeaese73cg4",
+      "player_url": "https://filelions.top/v/2aeaese73cg4",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2aeaese73cg4"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/e4krknn9tthx/45-sakura-y-la-ultima-carta-clow",
+      "player_url": "https://bysekoze.com/e/e4krknn9tthx/45-sakura-y-la-ultima-carta-clow",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e4krknn9tthx/45-sakura-y-la-ultima-carta-clow"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/utezqghjhqz0",
+      "player_url": "https://voe.sx/e/utezqghjhqz0",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "utezqghjhqz0"
+    }
+  ]
 }

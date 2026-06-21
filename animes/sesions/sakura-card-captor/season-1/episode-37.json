@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "37",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=37",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/rvpekbxko9gr",
+      "player_url": "https://streamwish.to/e/rvpekbxko9gr",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rvpekbxko9gr"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/1idmumzrx9t2",
+      "player_url": "https://filelions.top/v/1idmumzrx9t2",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1idmumzrx9t2"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/2a3cnduc54pj/37-tomoyo-pierde-su-voz",
+      "player_url": "https://bysekoze.com/e/2a3cnduc54pj/37-tomoyo-pierde-su-voz",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2a3cnduc54pj/37-tomoyo-pierde-su-voz"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/rtxrdzjrrm4a",
+      "player_url": "https://voe.sx/e/rtxrdzjrrm4a",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rtxrdzjrrm4a"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "9",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=9",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/dbw2h97v02dp",
+      "player_url": "https://streamwish.to/e/dbw2h97v02dp",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dbw2h97v02dp"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/g8pv77nt0nvy",
+      "player_url": "https://filelions.top/v/g8pv77nt0nvy",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g8pv77nt0nvy"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/k0magh7ebo2f/09-el-hechizo-del-fuego",
+      "player_url": "https://bysekoze.com/e/k0magh7ebo2f/09-el-hechizo-del-fuego",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k0magh7ebo2f/09-el-hechizo-del-fuego"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ch3kxvepsnri",
+      "player_url": "https://voe.sx/e/ch3kxvepsnri",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ch3kxvepsnri"
+    }
+  ]
 }

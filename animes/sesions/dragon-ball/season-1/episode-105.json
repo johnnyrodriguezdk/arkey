@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "105",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=105",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/nsd3tgv51y2c",
+      "player_url": "https://streamwish.to/e/nsd3tgv51y2c",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nsd3tgv51y2c"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/mrlfeavxck93",
+      "player_url": "https://ryderjet.com/v/mrlfeavxck93",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mrlfeavxck93"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/ZXZuMFRGK1dPb3VSZ1NoaTZkSHFtZz09",
+      "player_url": "https://player.streamhj.top/e/ZXZuMFRGK1dPb3VSZ1NoaTZkSHFtZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ZXZuMFRGK1dPb3VSZ1NoaTZkSHFtZz09"
+    }
+  ]
 }

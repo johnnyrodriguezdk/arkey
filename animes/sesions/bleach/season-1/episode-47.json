@@ -20,5 +20,36 @@
   ],
   "idcapitulo": "47",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=19617&idcapitulo=47",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/WGx5dUcxNnFPajNDNENJV0xlSStCZz09",
+      "player_url": "https://netuplayer.top/e/WGx5dUcxNnFPajNDNENJV0xlSStCZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "WGx5dUcxNnFPajNDNENJV0xlSStCZz09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/mqxJez9xrGtGYo",
+      "player_url": "https://streamtape.com/e/mqxJez9xrGtGYo",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mqxJez9xrGtGYo"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/o7enrne8il0r9v0",
+      "player_url": "https://mixdropjmk.pw/e/o7enrne8il0r9v0",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o7enrne8il0r9v0"
+    }
+  ]
 }

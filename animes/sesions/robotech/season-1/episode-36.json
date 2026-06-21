@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "36",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=36",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/b0bvv29x1c2f",
+      "player_url": "https://streamwish.to/e/b0bvv29x1c2f",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b0bvv29x1c2f"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/uxdjw6upj92b",
+      "player_url": "https://filelions.top/v/uxdjw6upj92b",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uxdjw6upj92b"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/k1gk5yatip9u/36-hasta-las-estrellas",
+      "player_url": "https://bysekoze.com/e/k1gk5yatip9u/36-hasta-las-estrellas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k1gk5yatip9u/36-hasta-las-estrellas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/mt6dlnepjzci",
+      "player_url": "https://voe.sx/e/mt6dlnepjzci",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mt6dlnepjzci"
+    }
+  ]
 }

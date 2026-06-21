@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "25",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=25",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/3msk67jhy2kl",
+      "player_url": "https://streamwish.to/e/3msk67jhy2kl",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3msk67jhy2kl"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/7ygp57xf0fzh",
+      "player_url": "https://filelions.top/v/7ygp57xf0fzh",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7ygp57xf0fzh"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/9tgllbzf66su/25-la-última-batalla-y-el-fin-de-karma",
+      "player_url": "https://bysekoze.com/e/9tgllbzf66su/25-la-última-batalla-y-el-fin-de-karma",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9tgllbzf66su/25-la-última-batalla-y-el-fin-de-karma"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/wtizdjd7rysk",
+      "player_url": "https://voe.sx/e/wtizdjd7rysk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wtizdjd7rysk"
+    }
+  ]
 }

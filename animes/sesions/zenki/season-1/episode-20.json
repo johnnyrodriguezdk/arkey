@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "20",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=20",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/vwbcg12lez2c",
+      "player_url": "https://streamwish.to/e/vwbcg12lez2c",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vwbcg12lez2c"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/b77inznmcc0q",
+      "player_url": "https://filelions.top/v/b77inznmcc0q",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b77inznmcc0q"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/bl01eprfc9ht/20-la-capital-de-kenia-arde-en-llamas",
+      "player_url": "https://bysekoze.com/e/bl01eprfc9ht/20-la-capital-de-kenia-arde-en-llamas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bl01eprfc9ht/20-la-capital-de-kenia-arde-en-llamas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/rxhog6ij00mj",
+      "player_url": "https://voe.sx/e/rxhog6ij00mj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rxhog6ij00mj"
+    }
+  ]
 }

@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "1",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=5595&idcapitulo=1",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/MUhKVFJ2K0VIUUZRNHEzMWp0TG10UT09",
+      "player_url": "https://netuplayer.top/e/MUhKVFJ2K0VIUUZRNHEzMWp0TG10UT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "MUhKVFJ2K0VIUUZRNHEzMWp0TG10UT09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/vxu1yuogargm",
+      "player_url": "https://bysekoze.com/e/vxu1yuogargm",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vxu1yuogargm"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/4BWrqdlPK1iK4Bb/%5BAnimeOnlineNinja%5D_Yashahime_BD_Latino_01.mp4",
+      "player_url": "https://streamtape.com/e/4BWrqdlPK1iK4Bb/%5BAnimeOnlineNinja%5D_Yashahime_BD_Latino_01.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4BWrqdlPK1iK4Bb/%5BAnimeOnlineNinja%5D_Yashahime_BD_Latino_01.mp4"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-pfsp6bmye1nm.html",
+      "player_url": "https://uqload.com/embed-pfsp6bmye1nm.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-pfsp6bmye1nm.html"
+    }
+  ]
 }

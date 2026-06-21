@@ -19,5 +19,56 @@
   ],
   "idcapitulo": "364",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=14354&idcapitulo=364",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/rg4yo4zptkt0",
+      "player_url": "https://streamwish.to/e/rg4yo4zptkt0",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rg4yo4zptkt0"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=NmFTNWNuOUtDVGJRcFhXRXR1Q3pOdz09",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=NmFTNWNuOUtDVGJRcFhXRXR1Q3pOdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 3,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!Zf12iLgC!C7TKtZYswDSWXj-eS8jX5fNQCpxII3VTVytyE0QU1Qw",
+      "player_url": "https://mega.nz/embed/!Zf12iLgC!C7TKtZYswDSWXj-eS8jX5fNQCpxII3VTVytyE0QU1Qw",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!Zf12iLgC!C7TKtZYswDSWXj-eS8jX5fNQCpxII3VTVytyE0QU1Qw"
+    },
+    {
+      "id": 4,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/661s021khfx0",
+      "player_url": "https://www.yourupload.com/embed/661s021khfx0",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_661s021khfx0"
+    },
+    {
+      "id": 5,
+      "server": "Okru",
+      "url": "https://ok.ru/videoembed/273842506325",
+      "player_url": "https://ok.ru/videoembed/273842506325",
+      "nombre": "Okru",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ok.ru_videoembed_273842506325"
+    }
+  ]
 }

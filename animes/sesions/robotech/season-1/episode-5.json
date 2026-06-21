@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "5",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=5",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/fbu6o67hen9y",
+      "player_url": "https://streamwish.to/e/fbu6o67hen9y",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fbu6o67hen9y"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/z96d5rcj1roj",
+      "player_url": "https://filelions.top/v/z96d5rcj1roj",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z96d5rcj1roj"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/oqbctqihej30/05-transformación",
+      "player_url": "https://bysekoze.com/e/oqbctqihej30/05-transformación",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oqbctqihej30/05-transformación"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/l1hkoppvwu9y",
+      "player_url": "https://voe.sx/e/l1hkoppvwu9y",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l1hkoppvwu9y"
+    }
+  ]
 }

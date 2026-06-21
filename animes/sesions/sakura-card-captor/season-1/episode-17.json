@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "17",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=17",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/l115fd2ttxyo",
+      "player_url": "https://streamwish.to/e/l115fd2ttxyo",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l115fd2ttxyo"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/pbhhrsovb9sx",
+      "player_url": "https://filelions.top/v/pbhhrsovb9sx",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pbhhrsovb9sx"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/oyaoctpp4a0o/17-la-prueba-de-valentia-de-sakura",
+      "player_url": "https://bysekoze.com/e/oyaoctpp4a0o/17-la-prueba-de-valentia-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oyaoctpp4a0o/17-la-prueba-de-valentia-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/r892yqf5rw4p",
+      "player_url": "https://voe.sx/e/r892yqf5rw4p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r892yqf5rw4p"
+    }
+  ]
 }

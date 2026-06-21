@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "42",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=6613&idcapitulo=42",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/TzlWc1R1WUNwRllndDViTjVha1Awdz09",
+      "player_url": "https://netuplayer.top/e/TzlWc1R1WUNwRllndDViTjVha1Awdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "TzlWc1R1WUNwRllndDViTjVha1Awdz09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/jef4kktx2gvc",
+      "player_url": "https://bysekoze.com/e/jef4kktx2gvc",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jef4kktx2gvc"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/ApgKawwlD6iX749/%5BAnimeOnlineNinja%5D_Fairy_Tail_BD_Latino_042.mp4",
+      "player_url": "https://streamtape.com/e/ApgKawwlD6iX749/%5BAnimeOnlineNinja%5D_Fairy_Tail_BD_Latino_042.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ApgKawwlD6iX749/%5BAnimeOnlineNinja%5D_Fairy_Tail_BD_Latino_042.mp4"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-8656dtt8i13s.html",
+      "player_url": "https://uqload.com/embed-8656dtt8i13s.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-8656dtt8i13s.html"
+    },
+    {
+      "id": 5,
+      "server": "DoodStream",
+      "url": "https://dood.pm/e/9lc2er2typ2vs4gb21gm9tfvkj9r3h41",
+      "player_url": "https://dood.pm/e/9lc2er2typ2vs4gb21gm9tfvkj9r3h41",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9lc2er2typ2vs4gb21gm9tfvkj9r3h41"
+    }
+  ]
 }

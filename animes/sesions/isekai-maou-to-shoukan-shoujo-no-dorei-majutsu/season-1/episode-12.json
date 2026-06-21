@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "12",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=9152&idcapitulo=12",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/wp6ii4fceu7h",
+      "player_url": "https://streamwish.to/e/wp6ii4fceu7h",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wp6ii4fceu7h"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/Xd0ZjZodkzfD7xD/",
+      "player_url": "https://streamtape.com/e/Xd0ZjZodkzfD7xD/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Xd0ZjZodkzfD7xD/"
+    },
+    {
+      "id": 3,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!QEZjnLII!publ48adk2ZKV-gNs1iKLCiJILYnixg_qVBvaqKIWNI",
+      "player_url": "https://mega.nz/embed/!QEZjnLII!publ48adk2ZKV-gNs1iKLCiJILYnixg_qVBvaqKIWNI",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!QEZjnLII!publ48adk2ZKV-gNs1iKLCiJILYnixg_qVBvaqKIWNI"
+    },
+    {
+      "id": 4,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/T1TfWkkNK64Y",
+      "player_url": "https://www.yourupload.com/embed/T1TfWkkNK64Y",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_T1TfWkkNK64Y"
+    }
+  ]
 }

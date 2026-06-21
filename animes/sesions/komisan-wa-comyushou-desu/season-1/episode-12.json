@@ -21,5 +21,46 @@
   ],
   "idcapitulo": "12",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=11849&idcapitulo=12",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/eniyrkf990an",
+      "player_url": "https://streamwish.to/e/eniyrkf990an",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eniyrkf990an"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/8eYUKiNyBUsm",
+      "player_url": "https://netuplayer.top/e/8eYUKiNyBUsm",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8eYUKiNyBUsm"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://filemoon.to/e/ybnsra78jx6n",
+      "player_url": "https://filemoon.to/e/ybnsra78jx6n",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ybnsra78jx6n"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/rexpMpLeOah8Gr",
+      "player_url": "https://streamtape.com/e/rexpMpLeOah8Gr",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rexpMpLeOah8Gr"
+    }
+  ]
 }

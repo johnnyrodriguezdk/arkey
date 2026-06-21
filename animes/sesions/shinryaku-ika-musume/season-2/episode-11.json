@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "11",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=11117&idcapitulo=11",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/cFhuVFhSYjh3M1gvR09vcmtJYTFUQT09",
+      "player_url": "https://netuplayer.top/e/cFhuVFhSYjh3M1gvR09vcmtJYTFUQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cFhuVFhSYjh3M1gvR09vcmtJYTFUQT09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/28fied0lv7vy",
+      "player_url": "https://bysekoze.com/e/28fied0lv7vy",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "28fied0lv7vy"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/Wyg7rkDGoysbz9o/%5BAnimeOnlineNinja%5D_Ika_Musume_BD_Latino_11.mp4",
+      "player_url": "https://streamtape.com/e/Wyg7rkDGoysbz9o/%5BAnimeOnlineNinja%5D_Ika_Musume_BD_Latino_11.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Wyg7rkDGoysbz9o/%5BAnimeOnlineNinja%5D_Ika_Musume_BD_Latino_11.mp4"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-gicz15lgqo2h.html",
+      "player_url": "https://uqload.com/embed-gicz15lgqo2h.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-gicz15lgqo2h.html"
+    }
+  ]
 }

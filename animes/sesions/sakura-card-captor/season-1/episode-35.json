@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "35",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=35",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/rayxgq89jek6",
+      "player_url": "https://streamwish.to/e/rayxgq89jek6",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rayxgq89jek6"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/qt8frte29i58",
+      "player_url": "https://filelions.top/v/qt8frte29i58",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qt8frte29i58"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/nx8q5gebis5x/35-una-hermosa-navidad",
+      "player_url": "https://bysekoze.com/e/nx8q5gebis5x/35-una-hermosa-navidad",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nx8q5gebis5x/35-una-hermosa-navidad"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/kdpqkqylrrby",
+      "player_url": "https://voe.sx/e/kdpqkqylrrby",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kdpqkqylrrby"
+    }
+  ]
 }

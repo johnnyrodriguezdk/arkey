@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "113",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=113",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/jmqbhis1pp6n",
+      "player_url": "https://streamwish.to/e/jmqbhis1pp6n",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jmqbhis1pp6n"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/ccruumxjyui9",
+      "player_url": "https://ryderjet.com/v/ccruumxjyui9",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ccruumxjyui9"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/WVo3K3N3b1AvdWtROW80TXhlL3dHUT09",
+      "player_url": "https://player.streamhj.top/e/WVo3K3N3b1AvdWtROW80TXhlL3dHUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "WVo3K3N3b1AvdWtROW80TXhlL3dHUT09"
+    }
+  ]
 }

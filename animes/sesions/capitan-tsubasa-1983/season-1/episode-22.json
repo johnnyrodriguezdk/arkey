@@ -19,5 +19,66 @@
   ],
   "idcapitulo": "22",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=12599&idcapitulo=22",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/l0hcv356xfnk",
+      "player_url": "https://streamwish.to/e/l0hcv356xfnk",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l0hcv356xfnk"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/ed9rMo4o6yqe",
+      "player_url": "https://netuplayer.top/e/ed9rMo4o6yqe",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ed9rMo4o6yqe"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/drAG68K3ZVhP19/",
+      "player_url": "https://streamtape.com/e/drAG68K3ZVhP19/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "drAG68K3ZVhP19/"
+    },
+    {
+      "id": 4,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!uI5EFagR!RR9-4h7eVPVTatSrLtE9MhJlQJm4tmhoVxR0KVTjkdU",
+      "player_url": "https://mega.nz/embed/!uI5EFagR!RR9-4h7eVPVTatSrLtE9MhJlQJm4tmhoVxR0KVTjkdU",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!uI5EFagR!RR9-4h7eVPVTatSrLtE9MhJlQJm4tmhoVxR0KVTjkdU"
+    },
+    {
+      "id": 5,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/k8g4DLr5A3H6",
+      "player_url": "https://www.yourupload.com/embed/k8g4DLr5A3H6",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_k8g4DLr5A3H6"
+    },
+    {
+      "id": 6,
+      "server": "Okru",
+      "url": "https://ok.ru/videoembed/264044743257",
+      "player_url": "https://ok.ru/videoembed/264044743257",
+      "nombre": "Okru",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ok.ru_videoembed_264044743257"
+    }
+  ]
 }

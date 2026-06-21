@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "23",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=23",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/35b9j2eefq1l",
+      "player_url": "https://streamwish.to/e/35b9j2eefq1l",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "35b9j2eefq1l"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/60ra2oacr1mb",
+      "player_url": "https://filelions.top/v/60ra2oacr1mb",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "60ra2oacr1mb"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/xgo87tos6b9c/23-gowla-el-traidor",
+      "player_url": "https://bysekoze.com/e/xgo87tos6b9c/23-gowla-el-traidor",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xgo87tos6b9c/23-gowla-el-traidor"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/kd8jj9mn3lvw",
+      "player_url": "https://voe.sx/e/kd8jj9mn3lvw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kd8jj9mn3lvw"
+    }
+  ]
 }

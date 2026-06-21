@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "35",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=35",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/snx46b8usodl",
+      "player_url": "https://streamwish.to/e/snx46b8usodl",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "snx46b8usodl"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/5jq5ugmu1ci3",
+      "player_url": "https://filelions.top/v/5jq5ugmu1ci3",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5jq5ugmu1ci3"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/t6k6dyee38d3/35-saludos-navideños",
+      "player_url": "https://bysekoze.com/e/t6k6dyee38d3/35-saludos-navideños",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t6k6dyee38d3/35-saludos-navideños"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/apgrogbwhbv2",
+      "player_url": "https://voe.sx/e/apgrogbwhbv2",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "apgrogbwhbv2"
+    }
+  ]
 }

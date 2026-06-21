@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "25",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=25",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/bs4f7txs40ma",
+      "player_url": "https://streamwish.to/e/bs4f7txs40ma",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bs4f7txs40ma"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/oyxw42xud92j",
+      "player_url": "https://filelions.top/v/oyxw42xud92j",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oyxw42xud92j"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/gg2k5nngceoy/25-campanas-nupciales",
+      "player_url": "https://bysekoze.com/e/gg2k5nngceoy/25-campanas-nupciales",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gg2k5nngceoy/25-campanas-nupciales"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/upjoortcvh2w",
+      "player_url": "https://voe.sx/e/upjoortcvh2w",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "upjoortcvh2w"
+    }
+  ]
 }

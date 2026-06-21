@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "63",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=63",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/jtmufczoyv7k",
+      "player_url": "https://streamwish.to/e/jtmufczoyv7k",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jtmufczoyv7k"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/qkgbrkuog1f0",
+      "player_url": "https://filelions.top/v/qkgbrkuog1f0",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qkgbrkuog1f0"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/dy9y4nq55rgx/63-una-ola-gigantesca",
+      "player_url": "https://bysekoze.com/e/dy9y4nq55rgx/63-una-ola-gigantesca",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dy9y4nq55rgx/63-una-ola-gigantesca"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/scxx19kpkx2c",
+      "player_url": "https://voe.sx/e/scxx19kpkx2c",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "scxx19kpkx2c"
+    }
+  ]
 }

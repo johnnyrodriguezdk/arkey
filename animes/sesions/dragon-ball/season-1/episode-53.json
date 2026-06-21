@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "53",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=53",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/yh749m33tgb9",
+      "player_url": "https://streamwish.to/e/yh749m33tgb9",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yh749m33tgb9"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/mqowenj3jlau",
+      "player_url": "https://ryderjet.com/v/mqowenj3jlau",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mqowenj3jlau"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/elhLOTBwamJ0anRBT1A2K0NiYTB2UT09",
+      "player_url": "https://player.streamhj.top/e/elhLOTBwamJ0anRBT1A2K0NiYTB2UT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "elhLOTBwamJ0anRBT1A2K0NiYTB2UT09"
+    }
+  ]
 }

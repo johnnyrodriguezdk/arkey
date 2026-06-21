@@ -21,5 +21,56 @@
   ],
   "idcapitulo": "34",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=15912&idcapitulo=34",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ri3i2qofbamc",
+      "player_url": "https://streamwish.to/e/ri3i2qofbamc",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ri3i2qofbamc"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/czkrusvg0qho",
+      "player_url": "https://ryderjet.com/v/czkrusvg0qho",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "czkrusvg0qho"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/d3R2QUJTcnNRYzZPdER4NUFSTG01Zz09",
+      "player_url": "https://player.streamhj.top/e/d3R2QUJTcnNRYzZPdER4NUFSTG01Zz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d3R2QUJTcnNRYzZPdER4NUFSTG01Zz09"
+    },
+    {
+      "id": 4,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/wl1qm9fnyzbr",
+      "player_url": "https://bysekoze.com/e/wl1qm9fnyzbr",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wl1qm9fnyzbr"
+    },
+    {
+      "id": 5,
+      "server": "Voe",
+      "url": "https://voe.sx/e/aoou4fdjb2yd",
+      "player_url": "https://voe.sx/e/aoou4fdjb2yd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aoou4fdjb2yd"
+    }
+  ]
 }

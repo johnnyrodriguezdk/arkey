@@ -20,5 +20,36 @@
   ],
   "idcapitulo": "93",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=19617&idcapitulo=93",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/TGRlK0RHSEpJa25PeUJyakxXOEZpUT09",
+      "player_url": "https://netuplayer.top/e/TGRlK0RHSEpJa25PeUJyakxXOEZpUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "TGRlK0RHSEpJa25PeUJyakxXOEZpUT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/6kZlJRp6MkC9Xwp",
+      "player_url": "https://streamtape.com/e/6kZlJRp6MkC9Xwp",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6kZlJRp6MkC9Xwp"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/1vq6joz7b3v4gj",
+      "player_url": "https://mixdropjmk.pw/e/1vq6joz7b3v4gj",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1vq6joz7b3v4gj"
+    }
+  ]
 }

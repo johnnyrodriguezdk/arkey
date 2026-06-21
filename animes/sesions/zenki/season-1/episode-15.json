@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "15",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=15",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/e3aq3k1vdwbt",
+      "player_url": "https://streamwish.to/e/e3aq3k1vdwbt",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e3aq3k1vdwbt"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/pszrqvh018dm",
+      "player_url": "https://filelions.top/v/pszrqvh018dm",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pszrqvh018dm"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/42gk4uovz6z5/15-el-sello-de-zenki",
+      "player_url": "https://bysekoze.com/e/42gk4uovz6z5/15-el-sello-de-zenki",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "42gk4uovz6z5/15-el-sello-de-zenki"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/0irnijj3fcoq",
+      "player_url": "https://voe.sx/e/0irnijj3fcoq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0irnijj3fcoq"
+    }
+  ]
 }

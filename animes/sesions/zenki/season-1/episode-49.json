@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "49",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=49",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/68ma2vyha84u",
+      "player_url": "https://streamwish.to/e/68ma2vyha84u",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "68ma2vyha84u"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/l99u28wvuas9",
+      "player_url": "https://filelions.top/v/l99u28wvuas9",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l99u28wvuas9"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/vaknqzkoor9u/49-zenki-contra-inugan-la-batalla-final",
+      "player_url": "https://bysekoze.com/e/vaknqzkoor9u/49-zenki-contra-inugan-la-batalla-final",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vaknqzkoor9u/49-zenki-contra-inugan-la-batalla-final"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ejnvyyvpbxr6",
+      "player_url": "https://voe.sx/e/ejnvyyvpbxr6",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ejnvyyvpbxr6"
+    }
+  ]
 }

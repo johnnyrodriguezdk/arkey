@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "36",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=36",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/th1ff1ikmv3v",
+      "player_url": "https://streamwish.to/e/th1ff1ikmv3v",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "th1ff1ikmv3v"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/s0vxrecn68wb",
+      "player_url": "https://ryderjet.com/v/s0vxrecn68wb",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s0vxrecn68wb"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/SEdaQXg1amoxZlV1T3lyY2JzRENIUT09",
+      "player_url": "https://player.streamhj.top/e/SEdaQXg1amoxZlV1T3lyY2JzRENIUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "SEdaQXg1amoxZlV1T3lyY2JzRENIUT09"
+    }
+  ]
 }

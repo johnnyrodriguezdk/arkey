@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "6",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=6",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/5pjhl9n9825n",
+      "player_url": "https://streamwish.to/e/5pjhl9n9825n",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5pjhl9n9825n"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/43c2d65bbc8q",
+      "player_url": "https://filelions.top/v/43c2d65bbc8q",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "43c2d65bbc8q"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/qsjx1820c78k/06-el-niño-y-el-teléfono",
+      "player_url": "https://bysekoze.com/e/qsjx1820c78k/06-el-niño-y-el-teléfono",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qsjx1820c78k/06-el-niño-y-el-teléfono"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/h2tirc6mxgal",
+      "player_url": "https://voe.sx/e/h2tirc6mxgal",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h2tirc6mxgal"
+    }
+  ]
 }

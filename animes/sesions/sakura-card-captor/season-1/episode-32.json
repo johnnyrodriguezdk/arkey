@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "32",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=32",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/l62ikkpf0hhq",
+      "player_url": "https://streamwish.to/e/l62ikkpf0hhq",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l62ikkpf0hhq"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/igt3yp3uesg9",
+      "player_url": "https://filelions.top/v/igt3yp3uesg9",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "igt3yp3uesg9"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/a7l39b70o708/32-sakura-shaoran-y-kero",
+      "player_url": "https://bysekoze.com/e/a7l39b70o708/32-sakura-shaoran-y-kero",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a7l39b70o708/32-sakura-shaoran-y-kero"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/oy7f8ejtmecz",
+      "player_url": "https://voe.sx/e/oy7f8ejtmecz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oy7f8ejtmecz"
+    }
+  ]
 }

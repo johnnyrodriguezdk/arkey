@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "135",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=135",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/74iqvedlg8l9",
+      "player_url": "https://streamwish.to/e/74iqvedlg8l9",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "74iqvedlg8l9"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/9nho6nrdodkv",
+      "player_url": "https://ryderjet.com/v/9nho6nrdodkv",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9nho6nrdodkv"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/bnFoNFh3VFNaRUJhQktQckpGR3Z3UT09",
+      "player_url": "https://player.streamhj.top/e/bnFoNFh3VFNaRUJhQktQckpGR3Z3UT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bnFoNFh3VFNaRUJhQktQckpGR3Z3UT09"
+    }
+  ]
 }

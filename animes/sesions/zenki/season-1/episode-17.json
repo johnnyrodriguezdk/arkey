@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "17",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=17",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ga6adjtcpsr4",
+      "player_url": "https://streamwish.to/e/ga6adjtcpsr4",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ga6adjtcpsr4"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/fxxqyhnunj5d",
+      "player_url": "https://filelions.top/v/fxxqyhnunj5d",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fxxqyhnunj5d"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/7oqb03cwnjje/17-el-día-más-largo-de-angie",
+      "player_url": "https://bysekoze.com/e/7oqb03cwnjje/17-el-día-más-largo-de-angie",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7oqb03cwnjje/17-el-día-más-largo-de-angie"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/f8qn9fccvo7p",
+      "player_url": "https://voe.sx/e/f8qn9fccvo7p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f8qn9fccvo7p"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "1",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=1",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/itt5phka0ohz",
+      "player_url": "https://streamwish.to/e/itt5phka0ohz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "itt5phka0ohz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/2kx75y0qbdmo",
+      "player_url": "https://filelions.top/v/2kx75y0qbdmo",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2kx75y0qbdmo"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/djyba69oud2b/01-sakura-y-el-misterioso-libro-magico",
+      "player_url": "https://bysekoze.com/e/djyba69oud2b/01-sakura-y-el-misterioso-libro-magico",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "djyba69oud2b/01-sakura-y-el-misterioso-libro-magico"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/jo8mscgsuoqj",
+      "player_url": "https://voe.sx/e/jo8mscgsuoqj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jo8mscgsuoqj"
+    }
+  ]
 }

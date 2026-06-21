@@ -20,5 +20,36 @@
   ],
   "idcapitulo": "18",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=17609&idcapitulo=18",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/QlpoY29aa3V5VmdGRjExTkhIWkpYUT09",
+      "player_url": "https://player.streamhj.top/e/QlpoY29aa3V5VmdGRjExTkhIWkpYUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "QlpoY29aa3V5VmdGRjExTkhIWkpYUT09"
+    },
+    {
+      "id": 2,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/9n808kvwbd7pwz",
+      "player_url": "https://mixdropjmk.pw/e/9n808kvwbd7pwz",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9n808kvwbd7pwz"
+    },
+    {
+      "id": 3,
+      "server": "DoodStream",
+      "url": "https://dood.la/e/d3yxl7qelz5su0xryknzzey7d2bzh7bo",
+      "player_url": "https://dood.la/e/d3yxl7qelz5su0xryknzzey7d2bzh7bo",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d3yxl7qelz5su0xryknzzey7d2bzh7bo"
+    }
+  ]
 }

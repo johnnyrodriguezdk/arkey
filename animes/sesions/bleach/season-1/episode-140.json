@@ -20,5 +20,36 @@
   ],
   "idcapitulo": "140",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=19617&idcapitulo=140",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/bmkvdEdLQmxNc1c4ZXFPbzBFREh1Zz09",
+      "player_url": "https://netuplayer.top/e/bmkvdEdLQmxNc1c4ZXFPbzBFREh1Zz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bmkvdEdLQmxNc1c4ZXFPbzBFREh1Zz09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/DkKj46qJX4CLe0",
+      "player_url": "https://streamtape.com/e/DkKj46qJX4CLe0",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "DkKj46qJX4CLe0"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/7rd06poqbdp31wq",
+      "player_url": "https://mixdropjmk.pw/e/7rd06poqbdp31wq",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7rd06poqbdp31wq"
+    }
+  ]
 }

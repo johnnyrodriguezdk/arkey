@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "53",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=53",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/b045gmkf2toe",
+      "player_url": "https://streamwish.to/e/b045gmkf2toe",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b045gmkf2toe"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/uwcb6w5btiuz",
+      "player_url": "https://filelions.top/v/uwcb6w5btiuz",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uwcb6w5btiuz"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/cfazyl5w6g9v/53-la-bicicleta-espantada",
+      "player_url": "https://bysekoze.com/e/cfazyl5w6g9v/53-la-bicicleta-espantada",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cfazyl5w6g9v/53-la-bicicleta-espantada"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/cwewgdugrzds",
+      "player_url": "https://voe.sx/e/cwewgdugrzds",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cwewgdugrzds"
+    }
+  ]
 }

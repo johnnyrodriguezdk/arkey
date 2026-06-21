@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "48",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=48",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/r800gi04fykx",
+      "player_url": "https://streamwish.to/e/r800gi04fykx",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r800gi04fykx"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/gtlicyu98y3c",
+      "player_url": "https://filelions.top/v/gtlicyu98y3c",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gtlicyu98y3c"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/y290eap0gnmk/48-el-destino-de-la-luna-y-el-lobo-más-allá-de-la-plata",
+      "player_url": "https://bysekoze.com/e/y290eap0gnmk/48-el-destino-de-la-luna-y-el-lobo-más-allá-de-la-plata",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y290eap0gnmk/48-el-destino-de-la-luna-y-el-lobo-más-allá-de-la-plata"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/vu2riwcmk6wa",
+      "player_url": "https://voe.sx/e/vu2riwcmk6wa",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vu2riwcmk6wa"
+    }
+  ]
 }

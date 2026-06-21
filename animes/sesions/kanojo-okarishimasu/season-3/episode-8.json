@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "8",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=26029&idcapitulo=8",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/EbZaKss7DYRU",
+      "player_url": "https://netuplayer.top/e/EbZaKss7DYRU",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "EbZaKss7DYRU"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://filemoon.to/e/n69y6yvdi1nc",
+      "player_url": "https://filemoon.to/e/n69y6yvdi1nc",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n69y6yvdi1nc"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/8JpojKBjw1cowPo",
+      "player_url": "https://streamtape.com/e/8JpojKBjw1cowPo",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8JpojKBjw1cowPo"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-oyb42kehl9u8.html",
+      "player_url": "https://uqload.com/embed-oyb42kehl9u8.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-oyb42kehl9u8.html"
+    }
+  ]
 }

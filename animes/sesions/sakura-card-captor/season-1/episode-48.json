@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "48",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=48",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/vc9d99ywnntz",
+      "player_url": "https://streamwish.to/e/vc9d99ywnntz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vc9d99ywnntz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/92ziz83kocmu",
+      "player_url": "https://filelions.top/v/92ziz83kocmu",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "92ziz83kocmu"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/el3kvb996gsl/48-la-llave-en-forma-de-estrella",
+      "player_url": "https://bysekoze.com/e/el3kvb996gsl/48-la-llave-en-forma-de-estrella",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "el3kvb996gsl/48-la-llave-en-forma-de-estrella"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/amth68wnbdgk",
+      "player_url": "https://voe.sx/e/amth68wnbdgk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "amth68wnbdgk"
+    }
+  ]
 }

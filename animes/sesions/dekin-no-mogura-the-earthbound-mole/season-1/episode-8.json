@@ -19,5 +19,56 @@
   ],
   "idcapitulo": "8",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=25174&idcapitulo=8",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/v2w4fa4nm7yx",
+      "player_url": "https://streamwish.to/e/v2w4fa4nm7yx",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v2w4fa4nm7yx"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/JLWTUzoVq08f",
+      "player_url": "https://netuplayer.top/e/JLWTUzoVq08f",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "JLWTUzoVq08f"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/ZJyoLQkoDQFqQPp/",
+      "player_url": "https://streamtape.com/e/ZJyoLQkoDQFqQPp/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ZJyoLQkoDQFqQPp/"
+    },
+    {
+      "id": 4,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!kL1DRKpZ!GmLedS7j7v5W6Fp2nM2FIIKIg0Wg7xwFcg2CwG5CUFI",
+      "player_url": "https://mega.nz/embed/!kL1DRKpZ!GmLedS7j7v5W6Fp2nM2FIIKIg0Wg7xwFcg2CwG5CUFI",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!kL1DRKpZ!GmLedS7j7v5W6Fp2nM2FIIKIg0Wg7xwFcg2CwG5CUFI"
+    },
+    {
+      "id": 5,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/vIXas275CYqW",
+      "player_url": "https://www.yourupload.com/embed/vIXas275CYqW",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_vIXas275CYqW"
+    }
+  ]
 }

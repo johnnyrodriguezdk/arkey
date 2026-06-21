@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "61",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=16392&idcapitulo=61",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=dnRqMnQ3Um5Dd016U1lBREJiK1pJdz09",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=dnRqMnQ3Um5Dd016U1lBREJiK1pJdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 2,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!4wFCxYZL!CSQBV4o3MfpQLAIhSJw0lreCWdr2o69ZABecHCsf1eA",
+      "player_url": "https://mega.nz/embed/!4wFCxYZL!CSQBV4o3MfpQLAIhSJw0lreCWdr2o69ZABecHCsf1eA",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!4wFCxYZL!CSQBV4o3MfpQLAIhSJw0lreCWdr2o69ZABecHCsf1eA"
+    },
+    {
+      "id": 3,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/GC6uT53apD2c",
+      "player_url": "https://www.yourupload.com/embed/GC6uT53apD2c",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_GC6uT53apD2c"
+    },
+    {
+      "id": 4,
+      "server": "Okru",
+      "url": "https://ok.ru/videoembed/1264670673650",
+      "player_url": "https://ok.ru/videoembed/1264670673650",
+      "nombre": "Okru",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ok.ru_videoembed_1264670673650"
+    }
+  ]
 }

@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "117",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=117",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/52hp068cidc5",
+      "player_url": "https://streamwish.to/e/52hp068cidc5",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "52hp068cidc5"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/kwa8qkcp6ckk",
+      "player_url": "https://ryderjet.com/v/kwa8qkcp6ckk",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kwa8qkcp6ckk"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/dmVTVjJLSzhzYURndndlZ3JUeGxJZz09",
+      "player_url": "https://player.streamhj.top/e/dmVTVjJLSzhzYURndndlZ3JUeGxJZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dmVTVjJLSzhzYURndndlZ3JUeGxJZz09"
+    }
+  ]
 }

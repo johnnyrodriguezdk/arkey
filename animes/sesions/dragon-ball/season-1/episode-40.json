@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "40",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=40",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ymcdfvq0dcdw",
+      "player_url": "https://streamwish.to/e/ymcdfvq0dcdw",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ymcdfvq0dcdw"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/8pxs1sc1d5k2",
+      "player_url": "https://ryderjet.com/v/8pxs1sc1d5k2",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8pxs1sc1d5k2"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/aUt5T2lmQzdoUStycVB0bm1ZMGt4Zz09",
+      "player_url": "https://player.streamhj.top/e/aUt5T2lmQzdoUStycVB0bm1ZMGt4Zz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aUt5T2lmQzdoUStycVB0bm1ZMGt4Zz09"
+    }
+  ]
 }

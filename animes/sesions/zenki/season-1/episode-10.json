@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "10",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=10",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/1snlw52fevtg",
+      "player_url": "https://streamwish.to/e/1snlw52fevtg",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1snlw52fevtg"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/3jf6l5ogjxsj",
+      "player_url": "https://filelions.top/v/3jf6l5ogjxsj",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3jf6l5ogjxsj"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/c5i1putniocl/10-el-joven-de-los-perros",
+      "player_url": "https://bysekoze.com/e/c5i1putniocl/10-el-joven-de-los-perros",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c5i1putniocl/10-el-joven-de-los-perros"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ixh0xkatnddv",
+      "player_url": "https://voe.sx/e/ixh0xkatnddv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ixh0xkatnddv"
+    }
+  ]
 }

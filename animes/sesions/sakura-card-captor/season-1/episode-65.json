@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "65",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=65",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/kfpcvy14334l",
+      "player_url": "https://streamwish.to/e/kfpcvy14334l",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kfpcvy14334l"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/qm6x7fpna55y",
+      "player_url": "https://filelions.top/v/qm6x7fpna55y",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qm6x7fpna55y"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/mwubpfg50xt3/65-yukito-pierde-sus-poderes",
+      "player_url": "https://bysekoze.com/e/mwubpfg50xt3/65-yukito-pierde-sus-poderes",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mwubpfg50xt3/65-yukito-pierde-sus-poderes"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/co4dkurtbqic",
+      "player_url": "https://voe.sx/e/co4dkurtbqic",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "co4dkurtbqic"
+    }
+  ]
 }

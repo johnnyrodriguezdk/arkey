@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "51",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=51",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/obk4yt8dsf6q",
+      "player_url": "https://streamwish.to/e/obk4yt8dsf6q",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "obk4yt8dsf6q"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/m3wov3o6lx50",
+      "player_url": "https://filelions.top/v/m3wov3o6lx50",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m3wov3o6lx50"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/tjqjem1huupg/51-un-oso-de-felpa-gigantesco",
+      "player_url": "https://bysekoze.com/e/tjqjem1huupg/51-un-oso-de-felpa-gigantesco",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tjqjem1huupg/51-un-oso-de-felpa-gigantesco"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/pp8pytoypphx",
+      "player_url": "https://voe.sx/e/pp8pytoypphx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pp8pytoypphx"
+    }
+  ]
 }

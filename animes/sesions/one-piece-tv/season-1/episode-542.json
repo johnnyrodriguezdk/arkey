@@ -20,5 +20,46 @@
   ],
   "idcapitulo": "542",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=425&idcapitulo=542",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/z1zzhl6pvahw",
+      "player_url": "https://streamwish.to/e/z1zzhl6pvahw",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z1zzhl6pvahw"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://vidhidepre.com/v/wtuzqn2exo9h",
+      "player_url": "https://vidhidepre.com/v/wtuzqn2exo9h",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wtuzqn2exo9h"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=278276223259230243265263234231278267194271217261258",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=278276223259230243265263234231278267194271217261258",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/glxP9bYQkLsqbq4/",
+      "player_url": "https://streamtape.com/e/glxP9bYQkLsqbq4/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "glxP9bYQkLsqbq4/"
+    }
+  ]
 }

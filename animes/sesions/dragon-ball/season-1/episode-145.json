@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "145",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=145",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ue4kbc182dfv",
+      "player_url": "https://streamwish.to/e/ue4kbc182dfv",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ue4kbc182dfv"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/ylnqt9dhkiv4",
+      "player_url": "https://ryderjet.com/v/ylnqt9dhkiv4",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ylnqt9dhkiv4"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/MWdrd21DYWVKV3NocVQzcmtjRG9FQT09",
+      "player_url": "https://player.streamhj.top/e/MWdrd21DYWVKV3NocVQzcmtjRG9FQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "MWdrd21DYWVKV3NocVQzcmtjRG9FQT09"
+    }
+  ]
 }

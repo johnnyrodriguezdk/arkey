@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "27",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=27",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/0vqko0blq6aa",
+      "player_url": "https://streamwish.to/e/0vqko0blq6aa",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0vqko0blq6aa"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/p8abkvhzm9u2",
+      "player_url": "https://filelions.top/v/p8abkvhzm9u2",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p8abkvhzm9u2"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/r2hiocqap52c/27-la-fuerza-de-las-armas",
+      "player_url": "https://bysekoze.com/e/r2hiocqap52c/27-la-fuerza-de-las-armas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r2hiocqap52c/27-la-fuerza-de-las-armas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/jzvpigfvqdgj",
+      "player_url": "https://voe.sx/e/jzvpigfvqdgj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jzvpigfvqdgj"
+    }
+  ]
 }

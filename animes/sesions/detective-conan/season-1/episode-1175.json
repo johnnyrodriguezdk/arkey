@@ -19,5 +19,56 @@
   ],
   "idcapitulo": "1175",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=14354&idcapitulo=1175",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/js7iz6st3buk",
+      "player_url": "https://streamwish.to/e/js7iz6st3buk",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "js7iz6st3buk"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=ODNJd0xxcW1DTEFvNy95Y2FSTkFSZz09",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=ODNJd0xxcW1DTEFvNy95Y2FSTkFSZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/gqQmOPl9BDu3kL/",
+      "player_url": "https://streamtape.com/e/gqQmOPl9BDu3kL/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gqQmOPl9BDu3kL/"
+    },
+    {
+      "id": 4,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!QLdkADBI!GqMxbDvyAXpsGptZoqnkdMSaDWF5kYe924GTH3fxRJ4\thttps://www.yourupload.com/embed/GlhCrRMLUKyB",
+      "player_url": "https://mega.nz/embed/!QLdkADBI!GqMxbDvyAXpsGptZoqnkdMSaDWF5kYe924GTH3fxRJ4\thttps://www.yourupload.com/embed/GlhCrRMLUKyB",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!QLdkADBI!GqMxbDvyAXpsGptZoqnkdMSaDWF5kYe924GTH3fxRJ4https:__www.yourupload.com_embed_GlhCrRMLUKyB"
+    },
+    {
+      "id": 5,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/GlhCrRMLUKyB",
+      "player_url": "https://www.yourupload.com/embed/GlhCrRMLUKyB",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_GlhCrRMLUKyB"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "4",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=4",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/hbiqz3fec6s6",
+      "player_url": "https://streamwish.to/e/hbiqz3fec6s6",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hbiqz3fec6s6"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/kf63rur854mb",
+      "player_url": "https://filelions.top/v/kf63rur854mb",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kf63rur854mb"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/6m5kyt7q7yyd/04-la-larga-espera",
+      "player_url": "https://bysekoze.com/e/6m5kyt7q7yyd/04-la-larga-espera",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6m5kyt7q7yyd/04-la-larga-espera"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/gtttz6deodeq",
+      "player_url": "https://voe.sx/e/gtttz6deodeq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gtttz6deodeq"
+    }
+  ]
 }

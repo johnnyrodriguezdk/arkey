@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "1",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=1",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/byxhmuy55050",
+      "player_url": "https://streamwish.to/e/byxhmuy55050",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "byxhmuy55050"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/tv88y85fwdob",
+      "player_url": "https://filelions.top/v/tv88y85fwdob",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tv88y85fwdob"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/vd9f1fj7bu0r/01-zenki-el-guerrero-guardián",
+      "player_url": "https://bysekoze.com/e/vd9f1fj7bu0r/01-zenki-el-guerrero-guardián",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vd9f1fj7bu0r/01-zenki-el-guerrero-guardián"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/pecazz1dgncc",
+      "player_url": "https://voe.sx/e/pecazz1dgncc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pecazz1dgncc"
+    }
+  ]
 }

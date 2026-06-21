@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "23",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=23",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/us0uk0ci927d",
+      "player_url": "https://streamwish.to/e/us0uk0ci927d",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "us0uk0ci927d"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/uk6mx1cugmtl",
+      "player_url": "https://filelions.top/v/uk6mx1cugmtl",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uk6mx1cugmtl"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/8ob1xy5g42oz/23-la-hermosa-canción-de-tomoyo",
+      "player_url": "https://bysekoze.com/e/8ob1xy5g42oz/23-la-hermosa-canción-de-tomoyo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8ob1xy5g42oz/23-la-hermosa-canción-de-tomoyo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/mstuwseer3nd",
+      "player_url": "https://voe.sx/e/mstuwseer3nd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mstuwseer3nd"
+    }
+  ]
 }

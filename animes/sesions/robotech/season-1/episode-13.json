@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "13",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=13",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ueobxg24j2x5",
+      "player_url": "https://streamwish.to/e/ueobxg24j2x5",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ueobxg24j2x5"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/rkuh4pvuut6k",
+      "player_url": "https://filelions.top/v/rkuh4pvuut6k",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rkuh4pvuut6k"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/axcdzol8g7te/13-viento-azul",
+      "player_url": "https://bysekoze.com/e/axcdzol8g7te/13-viento-azul",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "axcdzol8g7te/13-viento-azul"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/dozrkg2q8ke3",
+      "player_url": "https://voe.sx/e/dozrkg2q8ke3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dozrkg2q8ke3"
+    }
+  ]
 }

@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "2",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=17126&idcapitulo=2",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/SFhkOFNkT3VvdTIyMForSTJNcGQrQT09",
+      "player_url": "https://player.streamhj.top/e/SFhkOFNkT3VvdTIyMForSTJNcGQrQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "SFhkOFNkT3VvdTIyMForSTJNcGQrQT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/7RGjMpLQxMf4PL/%5BAnimeOnlineNinja%5D_Seirei_Gensouki_BD_Latino_02.mp4",
+      "player_url": "https://streamtape.com/e/7RGjMpLQxMf4PL/%5BAnimeOnlineNinja%5D_Seirei_Gensouki_BD_Latino_02.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7RGjMpLQxMf4PL/%5BAnimeOnlineNinja%5D_Seirei_Gensouki_BD_Latino_02.mp4"
+    },
+    {
+      "id": 3,
+      "server": "Uqload",
+      "url": "https://uqload.net/embed-zyj2o13qomd3.html",
+      "player_url": "https://uqload.net/embed-zyj2o13qomd3.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.net_embed-zyj2o13qomd3.html"
+    },
+    {
+      "id": 4,
+      "server": "Mixdrop",
+      "url": "https://mixdrop.is/e/pj8o1zjvc97gxw",
+      "player_url": "https://mixdrop.is/e/pj8o1zjvc97gxw",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pj8o1zjvc97gxw"
+    },
+    {
+      "id": 5,
+      "server": "DoodStream",
+      "url": "https://dood.sh/e/de75db6bcudg5607i0s0",
+      "player_url": "https://dood.sh/e/de75db6bcudg5607i0s0",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "de75db6bcudg5607i0s0"
+    }
+  ]
 }

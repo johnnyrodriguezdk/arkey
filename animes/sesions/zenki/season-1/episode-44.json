@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "44",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=44",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/wh6ll1av41hz",
+      "player_url": "https://streamwish.to/e/wh6ll1av41hz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wh6ll1av41hz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/t4pckbx5ic3v",
+      "player_url": "https://filelions.top/v/t4pckbx5ic3v",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t4pckbx5ic3v"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/0ix3g0hrnb6q/44-el-milagro",
+      "player_url": "https://bysekoze.com/e/0ix3g0hrnb6q/44-el-milagro",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0ix3g0hrnb6q/44-el-milagro"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/pvjnxfqxm42m",
+      "player_url": "https://voe.sx/e/pvjnxfqxm42m",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pvjnxfqxm42m"
+    }
+  ]
 }

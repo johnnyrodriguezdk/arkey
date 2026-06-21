@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "42",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=42",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/pd0wovcc0wns",
+      "player_url": "https://streamwish.to/e/pd0wovcc0wns",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pd0wovcc0wns"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/vn99duejmzfm",
+      "player_url": "https://filelions.top/v/vn99duejmzfm",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vn99duejmzfm"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/iwzvhqjxlnkd/42-una-obra-obscura",
+      "player_url": "https://bysekoze.com/e/iwzvhqjxlnkd/42-una-obra-obscura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iwzvhqjxlnkd/42-una-obra-obscura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/i83vcmrliryr",
+      "player_url": "https://voe.sx/e/i83vcmrliryr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i83vcmrliryr"
+    }
+  ]
 }

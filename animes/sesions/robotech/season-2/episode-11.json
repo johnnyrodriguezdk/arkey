@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "11",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=11",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/9r2yd86g1vbk",
+      "player_url": "https://streamwish.to/e/9r2yd86g1vbk",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9r2yd86g1vbk"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/2zpnfxhr7aqg",
+      "player_url": "https://filelions.top/v/2zpnfxhr7aqg",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2zpnfxhr7aqg"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/oev2cjjrhux2/11-primer-contacto",
+      "player_url": "https://bysekoze.com/e/oev2cjjrhux2/11-primer-contacto",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oev2cjjrhux2/11-primer-contacto"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ipsmrvqys5no",
+      "player_url": "https://voe.sx/e/ipsmrvqys5no",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ipsmrvqys5no"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "13",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=13",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/8ar60s2780go",
+      "player_url": "https://streamwish.to/e/8ar60s2780go",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8ar60s2780go"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/jf9xvsc0npmg",
+      "player_url": "https://filelions.top/v/jf9xvsc0npmg",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jf9xvsc0npmg"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/olm4i876es8q/13-sakura-pone-a-prueba-su-fuerza",
+      "player_url": "https://bysekoze.com/e/olm4i876es8q/13-sakura-pone-a-prueba-su-fuerza",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "olm4i876es8q/13-sakura-pone-a-prueba-su-fuerza"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/5hfmal6dktzm",
+      "player_url": "https://voe.sx/e/5hfmal6dktzm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5hfmal6dktzm"
+    }
+  ]
 }

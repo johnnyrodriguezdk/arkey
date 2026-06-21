@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "3",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=3",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ru327ivizgw3",
+      "player_url": "https://streamwish.to/e/ru327ivizgw3",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ru327ivizgw3"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/ycs9ejsb4lx3",
+      "player_url": "https://filelions.top/v/ycs9ejsb4lx3",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ycs9ejsb4lx3"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/1cfugp8xrmqc/03-transposición",
+      "player_url": "https://bysekoze.com/e/1cfugp8xrmqc/03-transposición",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1cfugp8xrmqc/03-transposición"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/taakmynlqclo",
+      "player_url": "https://voe.sx/e/taakmynlqclo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "taakmynlqclo"
+    }
+  ]
 }

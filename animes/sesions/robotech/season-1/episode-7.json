@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "7",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=7",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/awz8mw70nr4t",
+      "player_url": "https://streamwish.to/e/awz8mw70nr4t",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "awz8mw70nr4t"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/4it2nd2ec3hb",
+      "player_url": "https://filelions.top/v/4it2nd2ec3hb",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4it2nd2ec3hb"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/hawukowzwuh9/07-hasta-la-vista-marte",
+      "player_url": "https://bysekoze.com/e/hawukowzwuh9/07-hasta-la-vista-marte",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hawukowzwuh9/07-hasta-la-vista-marte"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/uak9gclzxlfg",
+      "player_url": "https://voe.sx/e/uak9gclzxlfg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uak9gclzxlfg"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "20",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=20",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6c6emtdp7cuj",
+      "player_url": "https://streamwish.to/e/6c6emtdp7cuj",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6c6emtdp7cuj"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/kl05cs0qx4aa",
+      "player_url": "https://filelions.top/v/kl05cs0qx4aa",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kl05cs0qx4aa"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/5ew6i6mr4ezk/20-paraíso-perdido",
+      "player_url": "https://bysekoze.com/e/5ew6i6mr4ezk/20-paraíso-perdido",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5ew6i6mr4ezk/20-paraíso-perdido"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ehmufwskk2cc",
+      "player_url": "https://voe.sx/e/ehmufwskk2cc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ehmufwskk2cc"
+    }
+  ]
 }

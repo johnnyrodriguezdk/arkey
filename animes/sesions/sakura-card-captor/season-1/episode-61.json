@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "61",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=61",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/76s0j559nwuz",
+      "player_url": "https://streamwish.to/e/76s0j559nwuz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "76s0j559nwuz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/lxw7e1qvl2oi",
+      "player_url": "https://filelions.top/v/lxw7e1qvl2oi",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lxw7e1qvl2oi"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/quca70bw4ytd/61-un-regalo-para-las-cartas",
+      "player_url": "https://bysekoze.com/e/quca70bw4ytd/61-un-regalo-para-las-cartas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "quca70bw4ytd/61-un-regalo-para-las-cartas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/0ta1m0zwl8kp",
+      "player_url": "https://voe.sx/e/0ta1m0zwl8kp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0ta1m0zwl8kp"
+    }
+  ]
 }

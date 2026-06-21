@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "29",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=29",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/f26fdycl8bsv",
+      "player_url": "https://streamwish.to/e/f26fdycl8bsv",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f26fdycl8bsv"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/cqjabwccyxv2",
+      "player_url": "https://filelions.top/v/cqjabwccyxv2",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cqjabwccyxv2"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/1quu8d9b0dcy/29-una-dulce-clase-de-cocina",
+      "player_url": "https://bysekoze.com/e/1quu8d9b0dcy/29-una-dulce-clase-de-cocina",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1quu8d9b0dcy/29-una-dulce-clase-de-cocina"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/hyc8odjvvols",
+      "player_url": "https://voe.sx/e/hyc8odjvvols",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hyc8odjvvols"
+    }
+  ]
 }

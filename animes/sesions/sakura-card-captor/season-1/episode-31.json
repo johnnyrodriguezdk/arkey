@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "31",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=31",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6p018yweqgin",
+      "player_url": "https://streamwish.to/e/6p018yweqgin",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6p018yweqgin"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/xf9depfi40sq",
+      "player_url": "https://filelions.top/v/xf9depfi40sq",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xf9depfi40sq"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/blwfdjva46pd/31-sakura-y-el-libro-sin-nombre",
+      "player_url": "https://bysekoze.com/e/blwfdjva46pd/31-sakura-y-el-libro-sin-nombre",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "blwfdjva46pd/31-sakura-y-el-libro-sin-nombre"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/abjxuijb33xp",
+      "player_url": "https://voe.sx/e/abjxuijb33xp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "abjxuijb33xp"
+    }
+  ]
 }

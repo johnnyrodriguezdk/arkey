@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "360",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=425&idcapitulo=360",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/atia30jbnzdk",
+      "player_url": "https://streamwish.to/e/atia30jbnzdk",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "atia30jbnzdk"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/cGZxSDgyQTlwdWk3cEQvNlZXblh4Zz09",
+      "player_url": "https://netuplayer.top/e/cGZxSDgyQTlwdWk3cEQvNlZXblh4Zz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cGZxSDgyQTlwdWk3cEQvNlZXblh4Zz09"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/13gu8gs35mak",
+      "player_url": "https://bysekoze.com/e/13gu8gs35mak",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "13gu8gs35mak"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/4xvwJd4l6YhK0Om/%5BAnimeOnlineNinja%5D_One_Piece_Latino_360.mp4",
+      "player_url": "https://streamtape.com/e/4xvwJd4l6YhK0Om/%5BAnimeOnlineNinja%5D_One_Piece_Latino_360.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4xvwJd4l6YhK0Om/%5BAnimeOnlineNinja%5D_One_Piece_Latino_360.mp4"
+    },
+    {
+      "id": 5,
+      "server": "Uqload",
+      "url": "https://uqload.co/embed-xku1uzsw1yes.html",
+      "player_url": "https://uqload.co/embed-xku1uzsw1yes.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.co_embed-xku1uzsw1yes.html"
+    }
+  ]
 }

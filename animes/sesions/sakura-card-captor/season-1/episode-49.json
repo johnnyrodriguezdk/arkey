@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "49",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=49",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/49oy9tee1243",
+      "player_url": "https://streamwish.to/e/49oy9tee1243",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "49oy9tee1243"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/i1smxg5paudm",
+      "player_url": "https://filelions.top/v/i1smxg5paudm",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i1smxg5paudm"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/cuz60nx4gla9/49-un-piano-peligroso",
+      "player_url": "https://bysekoze.com/e/cuz60nx4gla9/49-un-piano-peligroso",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cuz60nx4gla9/49-un-piano-peligroso"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/zmirod2hj4in",
+      "player_url": "https://voe.sx/e/zmirod2hj4in",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zmirod2hj4in"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "10",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=10",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ieqn0xm5dow6",
+      "player_url": "https://streamwish.to/e/ieqn0xm5dow6",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ieqn0xm5dow6"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/ftksrgb97nvk",
+      "player_url": "https://filelions.top/v/ftksrgb97nvk",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ftksrgb97nvk"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/k9rx5usf8lzd/10-sakura-y-un-evento-deportivo-lleno-de-flores",
+      "player_url": "https://bysekoze.com/e/k9rx5usf8lzd/10-sakura-y-un-evento-deportivo-lleno-de-flores",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k9rx5usf8lzd/10-sakura-y-un-evento-deportivo-lleno-de-flores"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ylydpyzwurf5",
+      "player_url": "https://voe.sx/e/ylydpyzwurf5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ylydpyzwurf5"
+    }
+  ]
 }

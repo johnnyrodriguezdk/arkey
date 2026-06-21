@@ -19,5 +19,56 @@
   ],
   "idcapitulo": "12",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=13988&idcapitulo=12",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/8vt8ogk63v33",
+      "player_url": "https://streamwish.to/e/8vt8ogk63v33",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8vt8ogk63v33"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/cW1JaDNlTEsyeUhXd09OSkFCWVRFUT09",
+      "player_url": "https://player.streamhj.top/e/cW1JaDNlTEsyeUhXd09OSkFCWVRFUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cW1JaDNlTEsyeUhXd09OSkFCWVRFUT09"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/2fyvin9a5i6f/HxH_12_Latino_henaojara_com_",
+      "player_url": "https://bysekoze.com/e/2fyvin9a5i6f/HxH_12_Latino_henaojara_com_",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2fyvin9a5i6f/HxH_12_Latino_henaojara_com_"
+    },
+    {
+      "id": 4,
+      "server": "LuluStream",
+      "url": "https://luluvdo.com/e/btcdiktfdyxy",
+      "player_url": "https://luluvdo.com/e/btcdiktfdyxy",
+      "nombre": "LuluStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "btcdiktfdyxy"
+    },
+    {
+      "id": 5,
+      "server": "Voe",
+      "url": "https://voe.sx/e/xpozyio9isos",
+      "player_url": "https://voe.sx/e/xpozyio9isos",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xpozyio9isos"
+    }
+  ]
 }

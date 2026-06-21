@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "31",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=31",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/czxurjrgeee5",
+      "player_url": "https://streamwish.to/e/czxurjrgeee5",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "czxurjrgeee5"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/z2y6fy3bgfbs",
+      "player_url": "https://filelions.top/v/z2y6fy3bgfbs",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z2y6fy3bgfbs"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/jmfmw5wygrnw/31-corazones-de-muñecas",
+      "player_url": "https://bysekoze.com/e/jmfmw5wygrnw/31-corazones-de-muñecas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jmfmw5wygrnw/31-corazones-de-muñecas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ee37jsx8qwyz",
+      "player_url": "https://voe.sx/e/ee37jsx8qwyz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ee37jsx8qwyz"
+    }
+  ]
 }

@@ -19,5 +19,36 @@
   ],
   "idcapitulo": "11",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=15894&idcapitulo=11",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/pgrqwovft8t0",
+      "player_url": "https://streamwish.to/e/pgrqwovft8t0",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pgrqwovft8t0"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=ME9pL2dRMWozRng2Zjd4Ly84VEJ6QT09",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=ME9pL2dRMWozRng2Zjd4Ly84VEJ6QT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/zMRLYeWBR6fY00d",
+      "player_url": "https://streamtape.com/e/zMRLYeWBR6fY00d",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zMRLYeWBR6fY00d"
+    }
+  ]
 }

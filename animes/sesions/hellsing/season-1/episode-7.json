@@ -21,5 +21,46 @@
   ],
   "idcapitulo": "7",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=6455&idcapitulo=7",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/dXVJOWhuR2RldEtKLzNuNUxGZjVTZz09",
+      "player_url": "https://netuplayer.top/e/dXVJOWhuR2RldEtKLzNuNUxGZjVTZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dXVJOWhuR2RldEtKLzNuNUxGZjVTZz09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/pozi3vaiaefm",
+      "player_url": "https://bysekoze.com/e/pozi3vaiaefm",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pozi3vaiaefm"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/GvPgDQgVVdh1z7D/%5BAnimeOnlineNinja%5D_Hellsing_2001_Latino_07.mp4",
+      "player_url": "https://streamtape.com/e/GvPgDQgVVdh1z7D/%5BAnimeOnlineNinja%5D_Hellsing_2001_Latino_07.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "GvPgDQgVVdh1z7D/%5BAnimeOnlineNinja%5D_Hellsing_2001_Latino_07.mp4"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-ozk3uok8jk2n.html",
+      "player_url": "https://uqload.com/embed-ozk3uok8jk2n.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-ozk3uok8jk2n.html"
+    }
+  ]
 }

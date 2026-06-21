@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "17",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27350&idcapitulo=17",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/c3ivuf3ygxqh",
+      "player_url": "https://streamwish.to/e/c3ivuf3ygxqh",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c3ivuf3ygxqh"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/opeid1ncmcjj",
+      "player_url": "https://filelions.top/v/opeid1ncmcjj",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "opeid1ncmcjj"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/o699tc5otxna/17-fantasma",
+      "player_url": "https://bysekoze.com/e/o699tc5otxna/17-fantasma",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o699tc5otxna/17-fantasma"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/axrrwhxxr5bx",
+      "player_url": "https://voe.sx/e/axrrwhxxr5bx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "axrrwhxxr5bx"
+    }
+  ]
 }

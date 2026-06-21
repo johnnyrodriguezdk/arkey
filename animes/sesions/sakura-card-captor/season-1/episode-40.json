@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "40",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=40",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/xxbww4ow6lx3",
+      "player_url": "https://streamwish.to/e/xxbww4ow6lx3",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xxbww4ow6lx3"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/1204atq8nr5a",
+      "player_url": "https://filelions.top/v/1204atq8nr5a",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1204atq8nr5a"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/810g0reoxgfq/40-los-sueños-de-sakura",
+      "player_url": "https://bysekoze.com/e/810g0reoxgfq/40-los-sueños-de-sakura",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "810g0reoxgfq/40-los-sueños-de-sakura"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/os86ojijmvir",
+      "player_url": "https://voe.sx/e/os86ojijmvir",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "os86ojijmvir"
+    }
+  ]
 }

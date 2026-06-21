@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "42",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=42",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/59pin6659vrz",
+      "player_url": "https://streamwish.to/e/59pin6659vrz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "59pin6659vrz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/dd2pt2nufxr9",
+      "player_url": "https://filelions.top/v/dd2pt2nufxr9",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dd2pt2nufxr9"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/jk807im4nd02/42-el-gran-golpe-del-otro-mundo",
+      "player_url": "https://bysekoze.com/e/jk807im4nd02/42-el-gran-golpe-del-otro-mundo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jk807im4nd02/42-el-gran-golpe-del-otro-mundo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/vpbtyc9rycrt",
+      "player_url": "https://voe.sx/e/vpbtyc9rycrt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vpbtyc9rycrt"
+    }
+  ]
 }

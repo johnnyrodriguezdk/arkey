@@ -20,5 +20,36 @@
   ],
   "idcapitulo": "101",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=19617&idcapitulo=101",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/S2VaR3JlSksrUHlxeVBieHZ4aUJUUT09",
+      "player_url": "https://netuplayer.top/e/S2VaR3JlSksrUHlxeVBieHZ4aUJUUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "S2VaR3JlSksrUHlxeVBieHZ4aUJUUT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/z6Z8V0W1mOSYlbp",
+      "player_url": "https://streamtape.com/e/z6Z8V0W1mOSYlbp",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z6Z8V0W1mOSYlbp"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/6q6dg9m3alelqdr",
+      "player_url": "https://mixdropjmk.pw/e/6q6dg9m3alelqdr",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6q6dg9m3alelqdr"
+    }
+  ]
 }

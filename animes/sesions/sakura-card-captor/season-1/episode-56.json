@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "56",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=56",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/89xvzlwzbhfv",
+      "player_url": "https://streamwish.to/e/89xvzlwzbhfv",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "89xvzlwzbhfv"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/pyohgjsw095b",
+      "player_url": "https://filelions.top/v/pyohgjsw095b",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pyohgjsw095b"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/1mfsnqziddme/56-un-encuentro-con-los-dulces",
+      "player_url": "https://bysekoze.com/e/1mfsnqziddme/56-un-encuentro-con-los-dulces",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1mfsnqziddme/56-un-encuentro-con-los-dulces"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/7gjegcnqxyc8",
+      "player_url": "https://voe.sx/e/7gjegcnqxyc8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7gjegcnqxyc8"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "41",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=41",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/9eqny0f307mm",
+      "player_url": "https://streamwish.to/e/9eqny0f307mm",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9eqny0f307mm"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/cto9z8331tl1",
+      "player_url": "https://filelions.top/v/cto9z8331tl1",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cto9z8331tl1"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/hwzxbif382pl/41-una-tormenta-de-arena",
+      "player_url": "https://bysekoze.com/e/hwzxbif382pl/41-una-tormenta-de-arena",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hwzxbif382pl/41-una-tormenta-de-arena"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/rsinxiamshay",
+      "player_url": "https://voe.sx/e/rsinxiamshay",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rsinxiamshay"
+    }
+  ]
 }

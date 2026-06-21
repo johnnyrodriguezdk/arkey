@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "3",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=13691&idcapitulo=3",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6ibzzbjkglwe",
+      "player_url": "https://streamwish.to/e/6ibzzbjkglwe",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6ibzzbjkglwe"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/5fj7k5xmhx7n",
+      "player_url": "https://filelions.top/v/5fj7k5xmhx7n",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5fj7k5xmhx7n"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/Q1BrdlRHQlBNU1NLbEIwMUVrWUhXUT09",
+      "player_url": "https://player.streamhj.top/e/Q1BrdlRHQlBNU1NLbEIwMUVrWUhXUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Q1BrdlRHQlBNU1NLbEIwMUVrWUhXUT09"
+    },
+    {
+      "id": 4,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/1u0aa2c495r0",
+      "player_url": "https://bysekoze.com/e/1u0aa2c495r0",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1u0aa2c495r0"
+    },
+    {
+      "id": 5,
+      "server": "Uqload",
+      "url": "https://uqload.net/embed-tnd2zrxnb5vx.html",
+      "player_url": "https://uqload.net/embed-tnd2zrxnb5vx.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.net_embed-tnd2zrxnb5vx.html"
+    }
+  ]
 }

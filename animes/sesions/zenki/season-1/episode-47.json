@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "47",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=47",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/559bnmjk30hq",
+      "player_url": "https://streamwish.to/e/559bnmjk30hq",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "559bnmjk30hq"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/pe7oll2uy3zw",
+      "player_url": "https://filelions.top/v/pe7oll2uy3zw",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pe7oll2uy3zw"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/56w08mb79xjw/47-el-poder-del-dragón-de-fudok",
+      "player_url": "https://bysekoze.com/e/56w08mb79xjw/47-el-poder-del-dragón-de-fudok",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "56w08mb79xjw/47-el-poder-del-dragón-de-fudok"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ux7gvkyimz8x",
+      "player_url": "https://voe.sx/e/ux7gvkyimz8x",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ux7gvkyimz8x"
+    }
+  ]
 }

@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "38",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27513&idcapitulo=38",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/bdm9ww7k2m56",
+      "player_url": "https://streamwish.to/e/bdm9ww7k2m56",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bdm9ww7k2m56"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/b2343yf6wd89",
+      "player_url": "https://filelions.top/v/b2343yf6wd89",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b2343yf6wd89"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/pc1btxn8ku1w/38-la-pesadilla-de-la-cascada-el-regreso-de-zomak",
+      "player_url": "https://bysekoze.com/e/pc1btxn8ku1w/38-la-pesadilla-de-la-cascada-el-regreso-de-zomak",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pc1btxn8ku1w/38-la-pesadilla-de-la-cascada-el-regreso-de-zomak"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/zjmfl3v4zpqs",
+      "player_url": "https://voe.sx/e/zjmfl3v4zpqs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zjmfl3v4zpqs"
+    }
+  ]
 }

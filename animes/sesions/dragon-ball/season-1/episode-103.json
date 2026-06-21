@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "103",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=103",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/loytvvyd8dre",
+      "player_url": "https://streamwish.to/e/loytvvyd8dre",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "loytvvyd8dre"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/asu7la1y4f49",
+      "player_url": "https://ryderjet.com/v/asu7la1y4f49",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "asu7la1y4f49"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/Ni85b1dNSXJJaDZJakhVU1h6Um5tUT09",
+      "player_url": "https://player.streamhj.top/e/Ni85b1dNSXJJaDZJakhVU1h6Um5tUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Ni85b1dNSXJJaDZJakhVU1h6Um5tUT09"
+    }
+  ]
 }

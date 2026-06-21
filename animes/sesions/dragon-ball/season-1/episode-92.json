@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "92",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=92",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/h9b4n2nge7ge",
+      "player_url": "https://streamwish.to/e/h9b4n2nge7ge",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h9b4n2nge7ge"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/jzpe61u4yl8x",
+      "player_url": "https://ryderjet.com/v/jzpe61u4yl8x",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jzpe61u4yl8x"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/TWRJUHJESi9oRis3blVNU1NVREdZZz09",
+      "player_url": "https://player.streamhj.top/e/TWRJUHJESi9oRis3blVNU1NVREdZZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "TWRJUHJESi9oRis3blVNU1NVREdZZz09"
+    }
+  ]
 }

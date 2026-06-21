@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "16",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=16",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/mk8t5smpbdvx",
+      "player_url": "https://streamwish.to/e/mk8t5smpbdvx",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mk8t5smpbdvx"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/2zljo51jrgy2",
+      "player_url": "https://filelions.top/v/2zljo51jrgy2",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2zljo51jrgy2"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/3a418rhty18f/16-sakura-y-el-arcoiris",
+      "player_url": "https://bysekoze.com/e/3a418rhty18f/16-sakura-y-el-arcoiris",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3a418rhty18f/16-sakura-y-el-arcoiris"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/nl87z3dugong",
+      "player_url": "https://voe.sx/e/nl87z3dugong",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nl87z3dugong"
+    }
+  ]
 }

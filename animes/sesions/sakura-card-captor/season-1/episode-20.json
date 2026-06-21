@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "20",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=20",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/g1ef49yxazsq",
+      "player_url": "https://streamwish.to/e/g1ef49yxazsq",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g1ef49yxazsq"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/uc6li7h6jrdi",
+      "player_url": "https://filelions.top/v/uc6li7h6jrdi",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uc6li7h6jrdi"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/cnfwxqx4v494/20-sakura-pelea-con-la-nueva-alumna",
+      "player_url": "https://bysekoze.com/e/cnfwxqx4v494/20-sakura-pelea-con-la-nueva-alumna",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cnfwxqx4v494/20-sakura-pelea-con-la-nueva-alumna"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/xd75miiqd6gl",
+      "player_url": "https://voe.sx/e/xd75miiqd6gl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xd75miiqd6gl"
+    }
+  ]
 }

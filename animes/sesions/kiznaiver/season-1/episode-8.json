@@ -20,5 +20,66 @@
   ],
   "idcapitulo": "8",
   "iframe_url": "",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/b15pkodh3gq2",
+      "player_url": "https://streamwish.to/e/b15pkodh3gq2",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b15pkodh3gq2"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=cFZFbE5Ca3FmcUNSekxpZzF6VVNhZz09",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=cFZFbE5Ca3FmcUNSekxpZzF6VVNhZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/RAjyxx78r3FdO8r/",
+      "player_url": "https://streamtape.com/e/RAjyxx78r3FdO8r/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "RAjyxx78r3FdO8r/"
+    },
+    {
+      "id": 4,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!FeELbL!smVBJJd9vYhmsAC-EbgPKFl_LRej9FY",
+      "player_url": "https://mega.nz/embed/!FeELbL!smVBJJd9vYhmsAC-EbgPKFl_LRej9FY",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!FeELbL!smVBJJd9vYhmsAC-EbgPKFl_LRej9FY"
+    },
+    {
+      "id": 5,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/34teN1BjLUj5",
+      "player_url": "https://www.yourupload.com/embed/34teN1BjLUj5",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_34teN1BjLUj5"
+    },
+    {
+      "id": 6,
+      "server": "Okru",
+      "url": "https://ok.ru/videoembed/469912586926",
+      "player_url": "https://ok.ru/videoembed/469912586926",
+      "nombre": "Okru",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ok.ru_videoembed_469912586926"
+    }
+  ]
 }

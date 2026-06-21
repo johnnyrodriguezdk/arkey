@@ -19,5 +19,46 @@
   ],
   "idcapitulo": "67",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=27279&idcapitulo=67",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6dbh6dhxfocb",
+      "player_url": "https://streamwish.to/e/6dbh6dhxfocb",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6dbh6dhxfocb"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/9b1fdjjo2dom",
+      "player_url": "https://filelions.top/v/9b1fdjjo2dom",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9b1fdjjo2dom"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/qwr3363ih6jv/67-sakura-y-shaoran-en-el-templo-tsukimine",
+      "player_url": "https://bysekoze.com/e/qwr3363ih6jv/67-sakura-y-shaoran-en-el-templo-tsukimine",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qwr3363ih6jv/67-sakura-y-shaoran-en-el-templo-tsukimine"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/muxty7aitcvr",
+      "player_url": "https://voe.sx/e/muxty7aitcvr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "muxty7aitcvr"
+    }
+  ]
 }

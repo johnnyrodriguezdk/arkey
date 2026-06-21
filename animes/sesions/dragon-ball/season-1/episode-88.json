@@ -21,5 +21,36 @@
   ],
   "idcapitulo": "88",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=10657&idcapitulo=88",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/7kp6zy78tste",
+      "player_url": "https://streamwish.to/e/7kp6zy78tste",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7kp6zy78tste"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://ryderjet.com/v/yyi95b0is3br",
+      "player_url": "https://ryderjet.com/v/yyi95b0is3br",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yyi95b0is3br"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/RXhiYi85WU5ONHpqRWtCSE90MkRpQT09",
+      "player_url": "https://player.streamhj.top/e/RXhiYi85WU5ONHpqRWtCSE90MkRpQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "RXhiYi85WU5ONHpqRWtCSE90MkRpQT09"
+    }
+  ]
 }
