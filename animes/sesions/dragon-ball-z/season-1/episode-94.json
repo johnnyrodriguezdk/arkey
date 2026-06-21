@@ -11,7 +11,7 @@
   "slug": "dragon-ball-z",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "9534",
+  "anime_id": "2112",
   "temporada": 1,
   "episodio": "94",
   "idiomas": [
@@ -19,6 +19,37 @@
     "JAPONES"
   ],
   "idcapitulo": "94",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=9534&idcapitulo=94",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2112&idcapitulo=94",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/yn13ynat99aq",
+      "player_url": "https://streamwish.to/e/yn13ynat99aq",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yn13ynat99aq"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/hsotoy8gp3av",
+      "player_url": "https://filelions.top/v/hsotoy8gp3av",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hsotoy8gp3av"
+    },
+    {
+      "id": 3,
+      "server": "Voe",
+      "url": "https://voe.sx/e/pdv0ntx7wkga",
+      "player_url": "https://voe.sx/e/pdv0ntx7wkga",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pdv0ntx7wkga"
+    }
+  ]
 }

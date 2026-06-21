@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "6",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "6",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=6",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/gj23bhams326",
+      "player_url": "https://streamwish.to/e/gj23bhams326",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gj23bhams326"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/0bj33mv7d7qn",
+      "player_url": "https://filelions.top/v/0bj33mv7d7qn",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0bj33mv7d7qn"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/nnq0st9h7e6m/06-vuela-zeke",
+      "player_url": "https://bysekoze.com/e/nnq0st9h7e6m/06-vuela-zeke",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nnq0st9h7e6m/06-vuela-zeke"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ot5neayimkkc",
+      "player_url": "https://voe.sx/e/ot5neayimkkc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ot5neayimkkc"
+    }
+  ]
 }

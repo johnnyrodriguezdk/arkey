@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "36",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "36",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=36",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/bi2e56symynm",
+      "player_url": "https://streamwish.to/e/bi2e56symynm",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bi2e56symynm"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/wytkr1ty28tl",
+      "player_url": "https://filelions.top/v/wytkr1ty28tl",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wytkr1ty28tl"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/196knsc7choy/36-sniper",
+      "player_url": "https://bysekoze.com/e/196knsc7choy/36-sniper",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "196knsc7choy/36-sniper"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/x2bmjyrhvpvm",
+      "player_url": "https://voe.sx/e/x2bmjyrhvpvm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x2bmjyrhvpvm"
+    }
+  ]
 }

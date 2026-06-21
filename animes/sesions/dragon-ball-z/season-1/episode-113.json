@@ -11,7 +11,7 @@
   "slug": "dragon-ball-z",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "9534",
+  "anime_id": "2112",
   "temporada": 1,
   "episodio": "113",
   "idiomas": [
@@ -19,6 +19,37 @@
     "JAPONES"
   ],
   "idcapitulo": "113",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=9534&idcapitulo=113",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2112&idcapitulo=113",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/k023zj4x1vl5",
+      "player_url": "https://streamwish.to/e/k023zj4x1vl5",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k023zj4x1vl5"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/9eneuoaov7lm",
+      "player_url": "https://filelions.top/v/9eneuoaov7lm",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9eneuoaov7lm"
+    },
+    {
+      "id": 3,
+      "server": "Voe",
+      "url": "https://voe.sx/e/osagmnvytur5",
+      "player_url": "https://voe.sx/e/osagmnvytur5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "osagmnvytur5"
+    }
+  ]
 }

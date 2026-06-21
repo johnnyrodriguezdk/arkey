@@ -11,7 +11,7 @@
   "slug": "dragon-ball-z",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "9534",
+  "anime_id": "2112",
   "temporada": 1,
   "episodio": "175",
   "idiomas": [
@@ -19,6 +19,37 @@
     "JAPONES"
   ],
   "idcapitulo": "175",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=9534&idcapitulo=175",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2112&idcapitulo=175",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ho3mmwuzujzk",
+      "player_url": "https://streamwish.to/e/ho3mmwuzujzk",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ho3mmwuzujzk"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/8f28llpl9sue",
+      "player_url": "https://filelions.top/v/8f28llpl9sue",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8f28llpl9sue"
+    },
+    {
+      "id": 3,
+      "server": "Voe",
+      "url": "https://voe.sx/e/wvswjdcschsg",
+      "player_url": "https://voe.sx/e/wvswjdcschsg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wvswjdcschsg"
+    }
+  ]
 }

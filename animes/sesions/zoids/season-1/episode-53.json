@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "53",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "53",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=53",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ay0ben3ahjek",
+      "player_url": "https://streamwish.to/e/ay0ben3ahjek",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ay0ben3ahjek"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/smimpx02hjsf",
+      "player_url": "https://filelions.top/v/smimpx02hjsf",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "smimpx02hjsf"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/cmn5l1mzl8yk/53-phantom-el-asesino",
+      "player_url": "https://bysekoze.com/e/cmn5l1mzl8yk/53-phantom-el-asesino",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cmn5l1mzl8yk/53-phantom-el-asesino"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/4r8bwif9e9hl",
+      "player_url": "https://voe.sx/e/4r8bwif9e9hl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4r8bwif9e9hl"
+    }
+  ]
 }

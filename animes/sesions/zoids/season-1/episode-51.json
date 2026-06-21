@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "51",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "51",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=51",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/3km6oc4lciid",
+      "player_url": "https://streamwish.to/e/3km6oc4lciid",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3km6oc4lciid"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/qhm2onrww1wg",
+      "player_url": "https://filelions.top/v/qhm2onrww1wg",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qhm2onrww1wg"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/dfjjc5jaj4ac/51-el-joven-de-las-ruinas",
+      "player_url": "https://bysekoze.com/e/dfjjc5jaj4ac/51-el-joven-de-las-ruinas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dfjjc5jaj4ac/51-el-joven-de-las-ruinas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/apxfq2jq2gfa",
+      "player_url": "https://voe.sx/e/apxfq2jq2gfa",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "apxfq2jq2gfa"
+    }
+  ]
 }

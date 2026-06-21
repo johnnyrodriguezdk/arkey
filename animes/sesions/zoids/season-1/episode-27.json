@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "27",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "27",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=27",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/uwjtynzvmqpz",
+      "player_url": "https://streamwish.to/e/uwjtynzvmqpz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uwjtynzvmqpz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/axaz34ozwas9",
+      "player_url": "https://filelions.top/v/axaz34ozwas9",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "axaz34ozwas9"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/pp435986jinj/27-el-hombre-que-van-salvó",
+      "player_url": "https://bysekoze.com/e/pp435986jinj/27-el-hombre-que-van-salvó",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pp435986jinj/27-el-hombre-que-van-salvó"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/0s5gdmaugk86",
+      "player_url": "https://voe.sx/e/0s5gdmaugk86",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0s5gdmaugk86"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "67",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "67",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=67",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/6yfj59dqae8p",
+      "player_url": "https://streamwish.to/e/6yfj59dqae8p",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6yfj59dqae8p"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/6gjqoyl6yio9",
+      "player_url": "https://filelions.top/v/6gjqoyl6yio9",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6gjqoyl6yio9"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/luuh9eqpzmlz/67-el-regreso-hacia-el-futuro",
+      "player_url": "https://bysekoze.com/e/luuh9eqpzmlz/67-el-regreso-hacia-el-futuro",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "luuh9eqpzmlz/67-el-regreso-hacia-el-futuro"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/egg6orpg732w",
+      "player_url": "https://voe.sx/e/egg6orpg732w",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "egg6orpg732w"
+    }
+  ]
 }

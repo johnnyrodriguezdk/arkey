@@ -11,7 +11,7 @@
   "slug": "majo-no-tabitabi",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "7294",
+  "anime_id": "2039",
   "temporada": 1,
   "episodio": "11",
   "idiomas": [
@@ -19,6 +19,57 @@
     "JAPONES"
   ],
   "idcapitulo": "11",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=7294&idcapitulo=11",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2039&idcapitulo=11",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/QWg1R3VsaERRZ05RbHkydkhsdUlmZz09",
+      "player_url": "https://netuplayer.top/e/QWg1R3VsaERRZ05RbHkydkhsdUlmZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "QWg1R3VsaERRZ05RbHkydkhsdUlmZz09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/J3Bb431WKPfjd8D",
+      "player_url": "https://streamtape.com/e/J3Bb431WKPfjd8D",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "J3Bb431WKPfjd8D"
+    },
+    {
+      "id": 3,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-zbvqcqlps4dw.html",
+      "player_url": "https://uqload.com/embed-zbvqcqlps4dw.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-zbvqcqlps4dw.html"
+    },
+    {
+      "id": 4,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/wn0jgm8vardegd",
+      "player_url": "https://mixdropjmk.pw/e/wn0jgm8vardegd",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wn0jgm8vardegd"
+    },
+    {
+      "id": 5,
+      "server": "DoodStream",
+      "url": "https://dood.sh/e/9smal7cj9xhs75irnikkfxd70qlr5ift",
+      "player_url": "https://dood.sh/e/9smal7cj9xhs75irnikkfxd70qlr5ift",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9smal7cj9xhs75irnikkfxd70qlr5ift"
+    }
+  ]
 }

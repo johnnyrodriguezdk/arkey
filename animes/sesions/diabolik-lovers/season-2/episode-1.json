@@ -11,7 +11,7 @@
   "slug": "diabolik-lovers",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4382",
   "anime_id_wp": "13460",
   "temporada": 2,
   "episodio": "1",
@@ -19,6 +19,37 @@
     "JAPONES"
   ],
   "idcapitulo": "1",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4382&idcapitulo=1",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/SXBvamlzTGJnNTljcEpIcDdvV3FUdz09",
+      "player_url": "https://netuplayer.top/e/SXBvamlzTGJnNTljcEpIcDdvV3FUdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "SXBvamlzTGJnNTljcEpIcDdvV3FUdz09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/rr4VbQgPBKiG4V",
+      "player_url": "https://streamtape.com/e/rr4VbQgPBKiG4V",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rr4VbQgPBKiG4V"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/6q3nor71ul4okpj",
+      "player_url": "https://mixdropjmk.pw/e/6q3nor71ul4okpj",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6q3nor71ul4okpj"
+    }
+  ]
 }

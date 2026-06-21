@@ -11,7 +11,7 @@
   "slug": "diabolik-lovers",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4382",
   "anime_id_wp": "13460",
   "temporada": 1,
   "episodio": "12",
@@ -20,6 +20,37 @@
     "JAPONES"
   ],
   "idcapitulo": "12",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4382&idcapitulo=12",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/OGQrcjIvdEcxVXZWVzZ2eGg4djBnZz09",
+      "player_url": "https://netuplayer.top/e/OGQrcjIvdEcxVXZWVzZ2eGg4djBnZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "OGQrcjIvdEcxVXZWVzZ2eGg4djBnZz09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/JeV20DqJ4OIjBKk",
+      "player_url": "https://streamtape.com/e/JeV20DqJ4OIjBKk",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "JeV20DqJ4OIjBKk"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/dq4njr9quqg6nd",
+      "player_url": "https://mixdropjmk.pw/e/dq4njr9quqg6nd",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dq4njr9quqg6nd"
+    }
+  ]
 }

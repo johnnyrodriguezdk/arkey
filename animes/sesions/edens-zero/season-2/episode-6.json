@@ -11,7 +11,7 @@
   "slug": "edens-zero",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "13207",
+  "anime_id": "1063",
   "temporada": 2,
   "episodio": "6",
   "idiomas": [
@@ -19,6 +19,37 @@
     "JAPONES"
   ],
   "idcapitulo": "6",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=13207&idcapitulo=6",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1063&idcapitulo=6",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/Z1F2NDk1a1B3VThZYllCMUlWNVJHZz09",
+      "player_url": "https://player.streamhj.top/e/Z1F2NDk1a1B3VThZYllCMUlWNVJHZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "Z1F2NDk1a1B3VThZYllCMUlWNVJHZz09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/ummvp2h962werxcdf2luc0iy9htr1kzt",
+      "player_url": "https://bysekoze.com/e/ummvp2h962werxcdf2luc0iy9htr1kzt",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ummvp2h962werxcdf2luc0iy9htr1kzt"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdrop.sx/e/3nxr7r0zcqw3gw",
+      "player_url": "https://mixdrop.sx/e/3nxr7r0zcqw3gw",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3nxr7r0zcqw3gw"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "9",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "9",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=9",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/0k91fis0rh1l",
+      "player_url": "https://streamwish.to/e/0k91fis0rh1l",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0k91fis0rh1l"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/gvqrhyfr9ps1",
+      "player_url": "https://filelions.top/v/gvqrhyfr9ps1",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gvqrhyfr9ps1"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/gf94f7092qi0/09-el-valle-del-espíritu-maligno",
+      "player_url": "https://bysekoze.com/e/gf94f7092qi0/09-el-valle-del-espíritu-maligno",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gf94f7092qi0/09-el-valle-del-espíritu-maligno"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/euwughrz8w3n",
+      "player_url": "https://voe.sx/e/euwughrz8w3n",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "euwughrz8w3n"
+    }
+  ]
 }

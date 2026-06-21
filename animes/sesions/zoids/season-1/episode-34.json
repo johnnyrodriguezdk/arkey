@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "34",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "34",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=34",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/u3aq7kvtntm0",
+      "player_url": "https://streamwish.to/e/u3aq7kvtntm0",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u3aq7kvtntm0"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/h7g4qecddoef",
+      "player_url": "https://filelions.top/v/h7g4qecddoef",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h7g4qecddoef"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/2dyl6nyegxr5/34-la-capital-arde-en-llamas",
+      "player_url": "https://bysekoze.com/e/2dyl6nyegxr5/34-la-capital-arde-en-llamas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2dyl6nyegxr5/34-la-capital-arde-en-llamas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/m9oaldlkhfv9",
+      "player_url": "https://voe.sx/e/m9oaldlkhfv9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m9oaldlkhfv9"
+    }
+  ]
 }

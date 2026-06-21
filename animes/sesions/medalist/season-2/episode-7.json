@@ -11,7 +11,7 @@
   "slug": "medalist",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "15609",
+  "anime_id": "1408",
   "temporada": 2,
   "episodio": "7",
   "idiomas": [
@@ -19,6 +19,77 @@
     "JAPONES"
   ],
   "idcapitulo": "7",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=15609&idcapitulo=7",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1408&idcapitulo=7",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ajqssp4xutjk",
+      "player_url": "https://streamwish.to/e/ajqssp4xutjk",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ajqssp4xutjk"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/jiccbwkfcmr8",
+      "player_url": "https://filelions.top/v/jiccbwkfcmr8",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jiccbwkfcmr8"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/THJockMxWHZFQXVvUGpOcHMxSW9zQT09",
+      "player_url": "https://player.streamhj.top/e/THJockMxWHZFQXVvUGpOcHMxSW9zQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "THJockMxWHZFQXVvUGpOcHMxSW9zQT09"
+    },
+    {
+      "id": 4,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/3rlz4cjg46ye",
+      "player_url": "https://bysekoze.com/e/3rlz4cjg46ye",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3rlz4cjg46ye"
+    },
+    {
+      "id": 5,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/3a8Rl7ZK4Ai6w3",
+      "player_url": "https://streamtape.com/e/3a8Rl7ZK4Ai6w3",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3a8Rl7ZK4Ai6w3"
+    },
+    {
+      "id": 6,
+      "server": "Uqload",
+      "url": "https://uqload.net/embed-uxqsopi39l7b.html",
+      "player_url": "https://uqload.net/embed-uxqsopi39l7b.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.net_embed-uxqsopi39l7b.html"
+    },
+    {
+      "id": 7,
+      "server": "Voe",
+      "url": "https://voe.sx/e/nvhvsta2zbup",
+      "player_url": "https://voe.sx/e/nvhvsta2zbup",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nvhvsta2zbup"
+    }
+  ]
 }

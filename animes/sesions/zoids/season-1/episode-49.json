@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "49",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "49",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=49",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/sak92aiizab0",
+      "player_url": "https://streamwish.to/e/sak92aiizab0",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sak92aiizab0"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/6ao8naa14pcu",
+      "player_url": "https://filelions.top/v/6ao8naa14pcu",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6ao8naa14pcu"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/xaf1yn1bu9b9/49-el-lejano-cielo-estrellado",
+      "player_url": "https://bysekoze.com/e/xaf1yn1bu9b9/49-el-lejano-cielo-estrellado",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xaf1yn1bu9b9/49-el-lejano-cielo-estrellado"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ufbegvjknhtr",
+      "player_url": "https://voe.sx/e/ufbegvjknhtr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ufbegvjknhtr"
+    }
+  ]
 }

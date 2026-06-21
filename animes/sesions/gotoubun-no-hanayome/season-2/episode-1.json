@@ -11,7 +11,7 @@
   "slug": "gotoubun-no-hanayome",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4471",
   "anime_id_wp": "23302",
   "temporada": 2,
   "episodio": "1",
@@ -20,6 +20,57 @@
     "JAPONES"
   ],
   "idcapitulo": "1",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4471&idcapitulo=1",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/ZwyNmHDaoHgg",
+      "player_url": "https://netuplayer.top/e/ZwyNmHDaoHgg",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ZwyNmHDaoHgg"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://filemoon.to/e/0iva7h5vykil",
+      "player_url": "https://filemoon.to/e/0iva7h5vykil",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0iva7h5vykil"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/rkVrroy1OkUbLzL",
+      "player_url": "https://streamtape.com/e/rkVrroy1OkUbLzL",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rkVrroy1OkUbLzL"
+    },
+    {
+      "id": 4,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-cllgbqndiyng.html",
+      "player_url": "https://uqload.com/embed-cllgbqndiyng.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-cllgbqndiyng.html"
+    },
+    {
+      "id": 5,
+      "server": "DoodStream",
+      "url": "https://dood.wf/e/oh8lr9knpamjinhzzyijgqfxx9q4z6px",
+      "player_url": "https://dood.wf/e/oh8lr9knpamjinhzzyijgqfxx9q4z6px",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oh8lr9knpamjinhzzyijgqfxx9q4z6px"
+    }
+  ]
 }

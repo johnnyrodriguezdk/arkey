@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "61",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "61",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=61",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/8lz61n7yoni9",
+      "player_url": "https://streamwish.to/e/8lz61n7yoni9",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8lz61n7yoni9"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/dcrz3sk18bfe",
+      "player_url": "https://filelions.top/v/dcrz3sk18bfe",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dcrz3sk18bfe"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/u4brwj622d8b/61-el-gran-combate-naval-con-el-gigante-dragón",
+      "player_url": "https://bysekoze.com/e/u4brwj622d8b/61-el-gran-combate-naval-con-el-gigante-dragón",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u4brwj622d8b/61-el-gran-combate-naval-con-el-gigante-dragón"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/mi2bjmecgpss",
+      "player_url": "https://voe.sx/e/mi2bjmecgpss",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mi2bjmecgpss"
+    }
+  ]
 }

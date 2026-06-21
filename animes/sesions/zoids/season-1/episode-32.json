@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "32",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "32",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=32",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ecv9hr8sriof",
+      "player_url": "https://streamwish.to/e/ecv9hr8sriof",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ecv9hr8sriof"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/hb1rcw93s9lt",
+      "player_url": "https://filelions.top/v/hb1rcw93s9lt",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hb1rcw93s9lt"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/2ivn75jux32w/32-el-demonio-de-la-destrucción",
+      "player_url": "https://bysekoze.com/e/2ivn75jux32w/32-el-demonio-de-la-destrucción",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2ivn75jux32w/32-el-demonio-de-la-destrucción"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ydwqab4uxos7",
+      "player_url": "https://voe.sx/e/ydwqab4uxos7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ydwqab4uxos7"
+    }
+  ]
 }

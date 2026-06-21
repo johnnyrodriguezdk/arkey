@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "28",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "28",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=28",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/9luxjk4utid8",
+      "player_url": "https://streamwish.to/e/9luxjk4utid8",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9luxjk4utid8"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/803ml6s0c1jr",
+      "player_url": "https://filelions.top/v/803ml6s0c1jr",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "803ml6s0c1jr"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/44ul94krjgfi/28-de-prisa-comando-wolf",
+      "player_url": "https://bysekoze.com/e/44ul94krjgfi/28-de-prisa-comando-wolf",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "44ul94krjgfi/28-de-prisa-comando-wolf"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/tn0ec2wdg50w",
+      "player_url": "https://voe.sx/e/tn0ec2wdg50w",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tn0ec2wdg50w"
+    }
+  ]
 }

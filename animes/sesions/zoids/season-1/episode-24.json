@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "24",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "24",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=24",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/pml2y6va2gm6",
+      "player_url": "https://streamwish.to/e/pml2y6va2gm6",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pml2y6va2gm6"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/6ntvkgqp0oaa",
+      "player_url": "https://filelions.top/v/6ntvkgqp0oaa",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6ntvkgqp0oaa"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/kljb0x39yu98/24-una-voz-del-más-allá",
+      "player_url": "https://bysekoze.com/e/kljb0x39yu98/24-una-voz-del-más-allá",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kljb0x39yu98/24-una-voz-del-más-allá"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/du5in78kvnru",
+      "player_url": "https://voe.sx/e/du5in78kvnru",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "du5in78kvnru"
+    }
+  ]
 }

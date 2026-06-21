@@ -11,7 +11,7 @@
   "slug": "horimiya",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "13162",
+  "anime_id": "1717",
   "temporada": 1,
   "episodio": "9",
   "idiomas": [
@@ -19,6 +19,47 @@
     "JAPONES"
   ],
   "idcapitulo": "9",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=13162&idcapitulo=9",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1717&idcapitulo=9",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/THhCS3J3RmdqeTBJc2dXbUVVREpOQT09",
+      "player_url": "https://netuplayer.top/e/THhCS3J3RmdqeTBJc2dXbUVVREpOQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "THhCS3J3RmdqeTBJc2dXbUVVREpOQT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/RpDLWmevyBIZxl",
+      "player_url": "https://streamtape.com/e/RpDLWmevyBIZxl",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "RpDLWmevyBIZxl"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/6q4e43qnbooj0g",
+      "player_url": "https://mixdropjmk.pw/e/6q4e43qnbooj0g",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6q4e43qnbooj0g"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://dood.la/e/kb3r77gmthdmjv1z7iq5pjwtdtfv4bk9",
+      "player_url": "https://dood.la/e/kb3r77gmthdmjv1z7iq5pjwtdtfv4bk9",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kb3r77gmthdmjv1z7iq5pjwtdtfv4bk9"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "plunderer",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "1996",
   "anime_id_wp": "4534",
   "temporada": 1,
   "episodio": "8",
@@ -20,6 +20,57 @@
     "LATINO"
   ],
   "idcapitulo": "8",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1996&idcapitulo=8",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/cmFhZ2FvUFliY2JucU92ZWttOVFwdz09",
+      "player_url": "https://netuplayer.top/e/cmFhZ2FvUFliY2JucU92ZWttOVFwdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cmFhZ2FvUFliY2JucU92ZWttOVFwdz09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/bss9znoyb6nm",
+      "player_url": "https://bysekoze.com/e/bss9znoyb6nm",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bss9znoyb6nm"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/7r61vdvjsk71l3",
+      "player_url": "https://mixdropjmk.pw/e/7r61vdvjsk71l3",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7r61vdvjsk71l3"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://doods.pro/e/5srz4lrpu3atiwxtns3ujajutqijsygr",
+      "player_url": "https://doods.pro/e/5srz4lrpu3atiwxtns3ujajutqijsygr",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5srz4lrpu3atiwxtns3ujajutqijsygr"
+    },
+    {
+      "id": 5,
+      "server": "LuluStream",
+      "url": "https://luluvdo.com/e/kq30bfmxrbrj",
+      "player_url": "https://luluvdo.com/e/kq30bfmxrbrj",
+      "nombre": "LuluStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kq30bfmxrbrj"
+    }
+  ]
 }

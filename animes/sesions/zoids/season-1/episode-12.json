@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "12",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "12",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=12",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/wtpeb8xe8e2t",
+      "player_url": "https://streamwish.to/e/wtpeb8xe8e2t",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wtpeb8xe8e2t"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/wpqeokl09jfn",
+      "player_url": "https://filelions.top/v/wpqeokl09jfn",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wpqeokl09jfn"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/3vqlfb78435m/12-el-organoide-negro",
+      "player_url": "https://bysekoze.com/e/3vqlfb78435m/12-el-organoide-negro",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3vqlfb78435m/12-el-organoide-negro"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/q6jlf95i3kx3",
+      "player_url": "https://voe.sx/e/q6jlf95i3kx3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q6jlf95i3kx3"
+    }
+  ]
 }

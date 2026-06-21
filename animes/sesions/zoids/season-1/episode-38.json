@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "38",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "38",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=38",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ukxglfw5rfnl",
+      "player_url": "https://streamwish.to/e/ukxglfw5rfnl",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ukxglfw5rfnl"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/z72uo2mrqobx",
+      "player_url": "https://filelions.top/v/z72uo2mrqobx",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z72uo2mrqobx"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/736mreacobu3/38-el-bisonte-de-acero",
+      "player_url": "https://bysekoze.com/e/736mreacobu3/38-el-bisonte-de-acero",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "736mreacobu3/38-el-bisonte-de-acero"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/mfmy9fv0tb3z",
+      "player_url": "https://voe.sx/e/mfmy9fv0tb3z",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mfmy9fv0tb3z"
+    }
+  ]
 }

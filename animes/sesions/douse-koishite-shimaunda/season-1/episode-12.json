@@ -11,7 +11,7 @@
   "slug": "douse-koishite-shimaunda",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "2320",
   "anime_id_wp": "16157",
   "temporada": 1,
   "episodio": "12",
@@ -19,6 +19,57 @@
     "JAPONES"
   ],
   "idcapitulo": "12",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2320&idcapitulo=12",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/hs0tuqp7vjl7",
+      "player_url": "https://streamwish.to/e/hs0tuqp7vjl7",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hs0tuqp7vjl7"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://hqq.tv/player/embed_player.php?vid=aVlNLzR6d0NpZGRKK1hFZWFrSnVBdz09",
+      "player_url": "https://hqq.tv/player/embed_player.php?vid=aVlNLzR6d0NpZGRKK1hFZWFrSnVBdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hqq.tv_player_embed_player.php"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/1BvKblmdd3FeY7R/",
+      "player_url": "https://streamtape.com/e/1BvKblmdd3FeY7R/",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1BvKblmdd3FeY7R/"
+    },
+    {
+      "id": 4,
+      "server": "Mega",
+      "url": "https://mega.nz/embed/!FLtwQRSI!_tAmMcF1gc5wFDbv6nS9UhFDOz1uM90B_9AdUuhXZ5Q",
+      "player_url": "https://mega.nz/embed/!FLtwQRSI!_tAmMcF1gc5wFDbv6nS9UhFDOz1uM90B_9AdUuhXZ5Q",
+      "nombre": "Mega",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mega.nz_embed_!FLtwQRSI!_tAmMcF1gc5wFDbv6nS9UhFDOz1uM90B_9AdUuhXZ5Q"
+    },
+    {
+      "id": 5,
+      "server": "Yourupload",
+      "url": "https://www.yourupload.com/embed/Kkq4WmyGeP63",
+      "player_url": "https://www.yourupload.com/embed/Kkq4WmyGeP63",
+      "nombre": "Yourupload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.yourupload.com_embed_Kkq4WmyGeP63"
+    }
+  ]
 }

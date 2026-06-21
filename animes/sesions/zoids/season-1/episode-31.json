@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "31",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "31",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=31",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/z3me2aozx2yh",
+      "player_url": "https://streamwish.to/e/z3me2aozx2yh",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z3me2aozx2yh"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/iaald1z7nrnw",
+      "player_url": "https://filelions.top/v/iaald1z7nrnw",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iaald1z7nrnw"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/4mpjf11psswf/31-los-3-caballeros",
+      "player_url": "https://bysekoze.com/e/4mpjf11psswf/31-los-3-caballeros",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4mpjf11psswf/31-los-3-caballeros"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/k2ru3yioas4k",
+      "player_url": "https://voe.sx/e/k2ru3yioas4k",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k2ru3yioas4k"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "17",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "17",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=17",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/79aoyi5tpmoq",
+      "player_url": "https://streamwish.to/e/79aoyi5tpmoq",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "79aoyi5tpmoq"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/x68ku0t0xn8h",
+      "player_url": "https://filelions.top/v/x68ku0t0xn8h",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x68ku0t0xn8h"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/0mftoaj7nch5/17-la-noche-más-larga-de-la-nación-republicana",
+      "player_url": "https://bysekoze.com/e/0mftoaj7nch5/17-la-noche-más-larga-de-la-nación-republicana",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0mftoaj7nch5/17-la-noche-más-larga-de-la-nación-republicana"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/v9ukpupt1zvc",
+      "player_url": "https://voe.sx/e/v9ukpupt1zvc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v9ukpupt1zvc"
+    }
+  ]
 }

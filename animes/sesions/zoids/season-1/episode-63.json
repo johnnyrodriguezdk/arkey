@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "63",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "63",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=63",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/evm0lpxrpjmx",
+      "player_url": "https://streamwish.to/e/evm0lpxrpjmx",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "evm0lpxrpjmx"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/qpg3rb1f5m3k",
+      "player_url": "https://filelions.top/v/qpg3rb1f5m3k",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qpg3rb1f5m3k"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/6kyr8lzeo3r4/63-el-gran-combate-final",
+      "player_url": "https://bysekoze.com/e/6kyr8lzeo3r4/63-el-gran-combate-final",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6kyr8lzeo3r4/63-el-gran-combate-final"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/trnprsvp5ec5",
+      "player_url": "https://voe.sx/e/trnprsvp5ec5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "trnprsvp5ec5"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "medalist",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "15609",
+  "anime_id": "1408",
   "temporada": 1,
   "episodio": "13",
   "idiomas": [
@@ -19,6 +19,77 @@
     "LATINO"
   ],
   "idcapitulo": "13",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=15609&idcapitulo=13",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1408&idcapitulo=13",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/u5jlp02njtxz",
+      "player_url": "https://streamwish.to/e/u5jlp02njtxz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u5jlp02njtxz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/rengp4eoq79z",
+      "player_url": "https://filelions.top/v/rengp4eoq79z",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rengp4eoq79z"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/ZVEvMkNEbEMvdFUzanpJNW1iUXEwdz09",
+      "player_url": "https://player.streamhj.top/e/ZVEvMkNEbEMvdFUzanpJNW1iUXEwdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ZVEvMkNEbEMvdFUzanpJNW1iUXEwdz09"
+    },
+    {
+      "id": 4,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/twdsnyqc1xke",
+      "player_url": "https://bysekoze.com/e/twdsnyqc1xke",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "twdsnyqc1xke"
+    },
+    {
+      "id": 5,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/myjoplzv6YFb9k9",
+      "player_url": "https://streamtape.com/e/myjoplzv6YFb9k9",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "myjoplzv6YFb9k9"
+    },
+    {
+      "id": 6,
+      "server": "Mp4upload",
+      "url": "https://www.mp4upload.com/embed-hmkglkjgdk2z.html",
+      "player_url": "https://www.mp4upload.com/embed-hmkglkjgdk2z.html",
+      "nombre": "Mp4upload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.mp4upload.com_embed-hmkglkjgdk2z.html"
+    },
+    {
+      "id": 7,
+      "server": "Mixdrop",
+      "url": "https://mxdrop.to/e/nlv388xdu6j8ng",
+      "player_url": "https://mxdrop.to/e/nlv388xdu6j8ng",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nlv388xdu6j8ng"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "meikyuu-black-company",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "13333",
+  "anime_id": "4387",
   "temporada": 1,
   "episodio": "2",
   "idiomas": [
@@ -19,6 +19,47 @@
     "JAPONES"
   ],
   "idcapitulo": "2",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=13333&idcapitulo=2",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4387&idcapitulo=2",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/WUdQeDhITzFYOWN2clJDTlN1M1hUQT09",
+      "player_url": "https://netuplayer.top/e/WUdQeDhITzFYOWN2clJDTlN1M1hUQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "WUdQeDhITzFYOWN2clJDTlN1M1hUQT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/VBJkPoyBwGIKJlG",
+      "player_url": "https://streamtape.com/e/VBJkPoyBwGIKJlG",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "VBJkPoyBwGIKJlG"
+    },
+    {
+      "id": 3,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-5i7a9fsorl42.html",
+      "player_url": "https://uqload.com/embed-5i7a9fsorl42.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-5i7a9fsorl42.html"
+    },
+    {
+      "id": 4,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/vndqp70es1lp4d",
+      "player_url": "https://mixdropjmk.pw/e/vndqp70es1lp4d",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vndqp70es1lp4d"
+    }
+  ]
 }

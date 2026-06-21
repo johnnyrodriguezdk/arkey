@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "2",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "2",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=2",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/nal85mr1a9rt",
+      "player_url": "https://streamwish.to/e/nal85mr1a9rt",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nal85mr1a9rt"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/8ih0vb84cwhn",
+      "player_url": "https://filelions.top/v/8ih0vb84cwhn",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8ih0vb84cwhn"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/z344wq82o6om/02-la-misteriosa-y-linda-joven-fine",
+      "player_url": "https://bysekoze.com/e/z344wq82o6om/02-la-misteriosa-y-linda-joven-fine",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z344wq82o6om/02-la-misteriosa-y-linda-joven-fine"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/2iy7ltqhtnyt",
+      "player_url": "https://voe.sx/e/2iy7ltqhtnyt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2iy7ltqhtnyt"
+    }
+  ]
 }

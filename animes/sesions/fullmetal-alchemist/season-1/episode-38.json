@@ -11,7 +11,7 @@
   "slug": "fullmetal-alchemist",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "7319",
+  "anime_id": "2037",
   "temporada": 1,
   "episodio": "38",
   "idiomas": [
@@ -19,6 +19,57 @@
     "JAPONES"
   ],
   "idcapitulo": "38",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=7319&idcapitulo=38",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2037&idcapitulo=38",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/NE9qYWQrbzRqZjAwVDUzTUo1UDRTQT09",
+      "player_url": "https://netuplayer.top/e/NE9qYWQrbzRqZjAwVDUzTUo1UDRTQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "NE9qYWQrbzRqZjAwVDUzTUo1UDRTQT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/wJWgK79ABlSJ7XX",
+      "player_url": "https://streamtape.com/e/wJWgK79ABlSJ7XX",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wJWgK79ABlSJ7XX"
+    },
+    {
+      "id": 3,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-v37a3nqrsy76.html",
+      "player_url": "https://uqload.com/embed-v37a3nqrsy76.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-v37a3nqrsy76.html"
+    },
+    {
+      "id": 4,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/zp0we9ppigggwdm",
+      "player_url": "https://mixdropjmk.pw/e/zp0we9ppigggwdm",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zp0we9ppigggwdm"
+    },
+    {
+      "id": 5,
+      "server": "DoodStream",
+      "url": "https://dood.ws/e/6zibn80vrtu68yx6xttojajd937e1pmq",
+      "player_url": "https://dood.ws/e/6zibn80vrtu68yx6xttojajd937e1pmq",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6zibn80vrtu68yx6xttojajd937e1pmq"
+    }
+  ]
 }

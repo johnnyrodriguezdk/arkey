@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "50",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "50",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=50",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/oy6jxd3zkacq",
+      "player_url": "https://streamwish.to/e/oy6jxd3zkacq",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oy6jxd3zkacq"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/jmjix3wc41rp",
+      "player_url": "https://filelions.top/v/jmjix3wc41rp",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jmjix3wc41rp"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/wj29380ke38g/50-emboscada",
+      "player_url": "https://bysekoze.com/e/wj29380ke38g/50-emboscada",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wj29380ke38g/50-emboscada"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/mx9uhxqnkzfd",
+      "player_url": "https://voe.sx/e/mx9uhxqnkzfd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mx9uhxqnkzfd"
+    }
+  ]
 }

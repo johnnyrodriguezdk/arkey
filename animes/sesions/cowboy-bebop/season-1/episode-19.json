@@ -11,7 +11,7 @@
   "slug": "cowboy-bebop",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "17377",
+  "anime_id": "2251",
   "temporada": 1,
   "episodio": "19",
   "idiomas": [
@@ -19,6 +19,47 @@
     "JAPONES"
   ],
   "idcapitulo": "19",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=17377&idcapitulo=19",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2251&idcapitulo=19",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/UUpuS1c2WlhBL2hITTRHSHFYcDZMUT09",
+      "player_url": "https://netuplayer.top/e/UUpuS1c2WlhBL2hITTRHSHFYcDZMUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "UUpuS1c2WlhBL2hITTRHSHFYcDZMUT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/qakLX9vpwVTAbV",
+      "player_url": "https://streamtape.com/e/qakLX9vpwVTAbV",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qakLX9vpwVTAbV"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/wno3orv9c0g6zl1",
+      "player_url": "https://mixdropjmk.pw/e/wno3orv9c0g6zl1",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wno3orv9c0g6zl1"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://dood.la/e/o3e42jvuk8bp6p4ddjrbn1mkxxbo7bk6",
+      "player_url": "https://dood.la/e/o3e42jvuk8bp6p4ddjrbn1mkxxbo7bk6",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o3e42jvuk8bp6p4ddjrbn1mkxxbo7bk6"
+    }
+  ]
 }

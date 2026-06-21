@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "20",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "20",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=20",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/v4b5gqt5immk",
+      "player_url": "https://streamwish.to/e/v4b5gqt5immk",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v4b5gqt5immk"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/kgelf29whdpq",
+      "player_url": "https://filelions.top/v/kgelf29whdpq",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kgelf29whdpq"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/drlucb9b5i5d/20-el-monstruo-que-resucita",
+      "player_url": "https://bysekoze.com/e/drlucb9b5i5d/20-el-monstruo-que-resucita",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "drlucb9b5i5d/20-el-monstruo-que-resucita"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ndhuldrkn26z",
+      "player_url": "https://voe.sx/e/ndhuldrkn26z",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ndhuldrkn26z"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "37",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "37",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=37",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/oqvgnm2qqlih",
+      "player_url": "https://streamwish.to/e/oqvgnm2qqlih",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oqvgnm2qqlih"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/1hdlh8y1o0jp",
+      "player_url": "https://filelions.top/v/1hdlh8y1o0jp",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1hdlh8y1o0jp"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/yrfrar9bb4to/37-el-demonio-azul",
+      "player_url": "https://bysekoze.com/e/yrfrar9bb4to/37-el-demonio-azul",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yrfrar9bb4to/37-el-demonio-azul"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/ujfx9bxhr8lj",
+      "player_url": "https://voe.sx/e/ujfx9bxhr8lj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ujfx9bxhr8lj"
+    }
+  ]
 }

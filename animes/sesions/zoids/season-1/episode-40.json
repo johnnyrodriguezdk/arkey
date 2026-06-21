@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "40",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "40",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=40",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/h895lc12yltz",
+      "player_url": "https://streamwish.to/e/h895lc12yltz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h895lc12yltz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/4b2k44c1xd4q",
+      "player_url": "https://filelions.top/v/4b2k44c1xd4q",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4b2k44c1xd4q"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/ct79yvbd75q4/40-el-cazador-de-zoids",
+      "player_url": "https://bysekoze.com/e/ct79yvbd75q4/40-el-cazador-de-zoids",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ct79yvbd75q4/40-el-cazador-de-zoids"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/lgjtmxzvmvob",
+      "player_url": "https://voe.sx/e/lgjtmxzvmvob",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lgjtmxzvmvob"
+    }
+  ]
 }

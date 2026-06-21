@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "29",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "29",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=29",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/svqi45jdx1zz",
+      "player_url": "https://streamwish.to/e/svqi45jdx1zz",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "svqi45jdx1zz"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/a58d7gmo98xq",
+      "player_url": "https://filelions.top/v/a58d7gmo98xq",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a58d7gmo98xq"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/qhbssh10v0ju/29-el-héroe-del-cielo",
+      "player_url": "https://bysekoze.com/e/qhbssh10v0ju/29-el-héroe-del-cielo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qhbssh10v0ju/29-el-héroe-del-cielo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/lkosvdokfsoy",
+      "player_url": "https://voe.sx/e/lkosvdokfsoy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lkosvdokfsoy"
+    }
+  ]
 }

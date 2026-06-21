@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "15",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "15",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=15",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/7m3uqwqm496q",
+      "player_url": "https://streamwish.to/e/7m3uqwqm496q",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7m3uqwqm496q"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/ls2spk1786fr",
+      "player_url": "https://filelions.top/v/ls2spk1786fr",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ls2spk1786fr"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/qbovqtbngjcn/15-huye-zg",
+      "player_url": "https://bysekoze.com/e/qbovqtbngjcn/15-huye-zg",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qbovqtbngjcn/15-huye-zg"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/rjednzjuqbmq",
+      "player_url": "https://voe.sx/e/rjednzjuqbmq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rjednzjuqbmq"
+    }
+  ]
 }

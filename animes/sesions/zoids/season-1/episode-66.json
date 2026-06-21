@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "66",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "66",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=66",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ts0my0anby3y",
+      "player_url": "https://streamwish.to/e/ts0my0anby3y",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ts0my0anby3y"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/t04nt7uo4reo",
+      "player_url": "https://filelions.top/v/t04nt7uo4reo",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t04nt7uo4reo"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/am30pkyu1twt/66-el-momento-de-la-extinción",
+      "player_url": "https://bysekoze.com/e/am30pkyu1twt/66-el-momento-de-la-extinción",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "am30pkyu1twt/66-el-momento-de-la-extinción"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/gctrmca1jcpi",
+      "player_url": "https://voe.sx/e/gctrmca1jcpi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gctrmca1jcpi"
+    }
+  ]
 }

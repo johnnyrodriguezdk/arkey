@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "22",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "22",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=22",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/jr2yt2e3x0qo",
+      "player_url": "https://streamwish.to/e/jr2yt2e3x0qo",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jr2yt2e3x0qo"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/zrwppgq3uolj",
+      "player_url": "https://filelions.top/v/zrwppgq3uolj",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zrwppgq3uolj"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/wq73el36lk2y/22-la-muerte-del-compañero",
+      "player_url": "https://bysekoze.com/e/wq73el36lk2y/22-la-muerte-del-compañero",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wq73el36lk2y/22-la-muerte-del-compañero"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/nac9yp45p5wl",
+      "player_url": "https://voe.sx/e/nac9yp45p5wl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nac9yp45p5wl"
+    }
+  ]
 }

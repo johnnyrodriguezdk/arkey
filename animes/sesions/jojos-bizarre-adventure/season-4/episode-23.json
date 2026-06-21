@@ -11,7 +11,7 @@
   "slug": "jojos-bizarre-adventure",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4490",
   "anime_id_wp": "23604",
   "temporada": 4,
   "episodio": "23",
@@ -20,6 +20,37 @@
     "LATINO"
   ],
   "idcapitulo": "23",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4490&idcapitulo=23",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/J0fieUQvQskH",
+      "player_url": "https://netuplayer.top/e/J0fieUQvQskH",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "J0fieUQvQskH"
+    },
+    {
+      "id": 2,
+      "server": "Uqload",
+      "url": "https://uqload.com/embed-8l6jad2s0lwg.html",
+      "player_url": "https://uqload.com/embed-8l6jad2s0lwg.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.com_embed-8l6jad2s0lwg.html"
+    },
+    {
+      "id": 3,
+      "server": "DoodStream",
+      "url": "https://dood.so/e/t55jutfoqap68v2lajyynbo2ry3r3kof",
+      "player_url": "https://dood.so/e/t55jutfoqap68v2lajyynbo2ry3r3kof",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t55jutfoqap68v2lajyynbo2ry3r3kof"
+    }
+  ]
 }

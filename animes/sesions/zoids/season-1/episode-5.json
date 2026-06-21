@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "5",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "5",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=5",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/jhboo38glcc6",
+      "player_url": "https://streamwish.to/e/jhboo38glcc6",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jhboo38glcc6"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/xofc33rxmgb8",
+      "player_url": "https://filelions.top/v/xofc33rxmgb8",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xofc33rxmgb8"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/d7wleplr0kdv/05-sleeper",
+      "player_url": "https://bysekoze.com/e/d7wleplr0kdv/05-sleeper",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d7wleplr0kdv/05-sleeper"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/m1bzjb5as0mv",
+      "player_url": "https://voe.sx/e/m1bzjb5as0mv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m1bzjb5as0mv"
+    }
+  ]
 }

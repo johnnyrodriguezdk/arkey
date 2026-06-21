@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "19",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "19",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=19",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/rvfv5e8mtdho",
+      "player_url": "https://streamwish.to/e/rvfv5e8mtdho",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rvfv5e8mtdho"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/2803e8m0f3tl",
+      "player_url": "https://filelions.top/v/2803e8m0f3tl",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2803e8m0f3tl"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/dnffl4sufkqm/19-la-conspiración-de-prozen",
+      "player_url": "https://bysekoze.com/e/dnffl4sufkqm/19-la-conspiración-de-prozen",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dnffl4sufkqm/19-la-conspiración-de-prozen"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/zp8chfyuisqe",
+      "player_url": "https://voe.sx/e/zp8chfyuisqe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zp8chfyuisqe"
+    }
+  ]
 }

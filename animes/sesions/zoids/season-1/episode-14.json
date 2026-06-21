@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "14",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "14",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=14",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/3brk806yoeta",
+      "player_url": "https://streamwish.to/e/3brk806yoeta",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3brk806yoeta"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/cujbk5deh9qt",
+      "player_url": "https://filelions.top/v/cujbk5deh9qt",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cujbk5deh9qt"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/l6hx6jx3lv9g/14-despierta-zeke",
+      "player_url": "https://bysekoze.com/e/l6hx6jx3lv9g/14-despierta-zeke",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l6hx6jx3lv9g/14-despierta-zeke"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/bph8fbpccmwi",
+      "player_url": "https://voe.sx/e/bph8fbpccmwi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bph8fbpccmwi"
+    }
+  ]
 }

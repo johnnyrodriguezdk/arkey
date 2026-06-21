@@ -11,7 +11,7 @@
   "slug": "battle-game-in-5-seconds",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "13133",
+  "anime_id": "4406",
   "temporada": 1,
   "episodio": "7",
   "idiomas": [
@@ -19,6 +19,47 @@
     "JAPONES"
   ],
   "idcapitulo": "7",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=13133&idcapitulo=7",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4406&idcapitulo=7",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/TzN2VkhzbG5kWW1SSlFGQUxTQjJ2QT09",
+      "player_url": "https://netuplayer.top/e/TzN2VkhzbG5kWW1SSlFGQUxTQjJ2QT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "TzN2VkhzbG5kWW1SSlFGQUxTQjJ2QT09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/G9lk4K1yyQu9G0",
+      "player_url": "https://streamtape.com/e/G9lk4K1yyQu9G0",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "G9lk4K1yyQu9G0"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/3nx0wzjkfe94vd",
+      "player_url": "https://mixdropjmk.pw/e/3nx0wzjkfe94vd",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3nx0wzjkfe94vd"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://dood.ws/e/5zdi8o325ibikvozb7d1jm08o20du0en",
+      "player_url": "https://dood.ws/e/5zdi8o325ibikvozb7d1jm08o20du0en",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5zdi8o325ibikvozb7d1jm08o20du0en"
+    }
+  ]
 }

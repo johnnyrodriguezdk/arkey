@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "30",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "30",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=30",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/4ky3vecheaww",
+      "player_url": "https://streamwish.to/e/4ky3vecheaww",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4ky3vecheaww"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/9qn1s2626dh7",
+      "player_url": "https://filelions.top/v/9qn1s2626dh7",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9qn1s2626dh7"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/jqg2qcvbo9fw/30-el-valz-de-moonbay",
+      "player_url": "https://bysekoze.com/e/jqg2qcvbo9fw/30-el-valz-de-moonbay",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jqg2qcvbo9fw/30-el-valz-de-moonbay"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/enhryzcuypse",
+      "player_url": "https://voe.sx/e/enhryzcuypse",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "enhryzcuypse"
+    }
+  ]
 }

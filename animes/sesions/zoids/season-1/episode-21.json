@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "21",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "21",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=21",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/nymubr2cdur0",
+      "player_url": "https://streamwish.to/e/nymubr2cdur0",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nymubr2cdur0"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/tyjiwfuteq8w",
+      "player_url": "https://filelions.top/v/tyjiwfuteq8w",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tyjiwfuteq8w"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/djw1a3cx7r3d/21-el-cañón-de-partículas-eléctricas",
+      "player_url": "https://bysekoze.com/e/djw1a3cx7r3d/21-el-cañón-de-partículas-eléctricas",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "djw1a3cx7r3d/21-el-cañón-de-partículas-eléctricas"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/hpesszjyquwe",
+      "player_url": "https://voe.sx/e/hpesszjyquwe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hpesszjyquwe"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "25",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "25",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=25",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/tue1ac40urug",
+      "player_url": "https://streamwish.to/e/tue1ac40urug",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tue1ac40urug"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/qof5wblb34ez",
+      "player_url": "https://filelions.top/v/qof5wblb34ez",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qof5wblb34ez"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/0m4jsyitvnp3/25-el-nuevo-liger",
+      "player_url": "https://bysekoze.com/e/0m4jsyitvnp3/25-el-nuevo-liger",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0m4jsyitvnp3/25-el-nuevo-liger"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/wtrvbgczluwu",
+      "player_url": "https://voe.sx/e/wtrvbgczluwu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wtrvbgczluwu"
+    }
+  ]
 }

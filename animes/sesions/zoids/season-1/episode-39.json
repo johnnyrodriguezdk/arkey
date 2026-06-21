@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "39",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "39",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=39",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/27e206fvehvx",
+      "player_url": "https://streamwish.to/e/27e206fvehvx",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "27e206fvehvx"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/e1ry34yl96rj",
+      "player_url": "https://filelions.top/v/e1ry34yl96rj",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e1ry34yl96rj"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/hjp0u8y0fy5v/39-enemigo-invisible",
+      "player_url": "https://bysekoze.com/e/hjp0u8y0fy5v/39-enemigo-invisible",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hjp0u8y0fy5v/39-enemigo-invisible"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/nybdlwdzbimy",
+      "player_url": "https://voe.sx/e/nybdlwdzbimy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nybdlwdzbimy"
+    }
+  ]
 }

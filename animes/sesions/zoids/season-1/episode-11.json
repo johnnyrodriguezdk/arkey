@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "11",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "11",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=11",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/fn9zibjnv736",
+      "player_url": "https://streamwish.to/e/fn9zibjnv736",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fn9zibjnv736"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/peh2l27zew1h",
+      "player_url": "https://filelions.top/v/peh2l27zew1h",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "peh2l27zew1h"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/v755v9mkm7pu/11-en-las-nieblas-de-iserina",
+      "player_url": "https://bysekoze.com/e/v755v9mkm7pu/11-en-las-nieblas-de-iserina",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v755v9mkm7pu/11-en-las-nieblas-de-iserina"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/uxjvtmv2cjnz",
+      "player_url": "https://voe.sx/e/uxjvtmv2cjnz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uxjvtmv2cjnz"
+    }
+  ]
 }

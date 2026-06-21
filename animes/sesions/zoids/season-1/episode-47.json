@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "47",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "47",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=47",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/mzoy4vtj3b6s",
+      "player_url": "https://streamwish.to/e/mzoy4vtj3b6s",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mzoy4vtj3b6s"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/rt9eonishlf9",
+      "player_url": "https://filelions.top/v/rt9eonishlf9",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rt9eonishlf9"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/98awhj4ibgtr/47-la-reencarnación-del-monstruo",
+      "player_url": "https://bysekoze.com/e/98awhj4ibgtr/47-la-reencarnación-del-monstruo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "98awhj4ibgtr/47-la-reencarnación-del-monstruo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/qvs3gtpwre1k",
+      "player_url": "https://voe.sx/e/qvs3gtpwre1k",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qvs3gtpwre1k"
+    }
+  ]
 }

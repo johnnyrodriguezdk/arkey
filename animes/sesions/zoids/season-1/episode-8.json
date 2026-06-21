@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "8",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "8",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=8",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/yyv9izaef4pp",
+      "player_url": "https://streamwish.to/e/yyv9izaef4pp",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yyv9izaef4pp"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/azknz7o2cgbs",
+      "player_url": "https://filelions.top/v/azknz7o2cgbs",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "azknz7o2cgbs"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/wwp2q3tvo479/08-el-camino-hacia-la-república",
+      "player_url": "https://bysekoze.com/e/wwp2q3tvo479/08-el-camino-hacia-la-república",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wwp2q3tvo479/08-el-camino-hacia-la-república"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/gtbuqfdjaxmp",
+      "player_url": "https://voe.sx/e/gtbuqfdjaxmp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gtbuqfdjaxmp"
+    }
+  ]
 }

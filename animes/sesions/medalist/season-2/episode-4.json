@@ -11,7 +11,7 @@
   "slug": "medalist",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "15609",
+  "anime_id": "1408",
   "temporada": 2,
   "episodio": "4",
   "idiomas": [
@@ -20,6 +20,87 @@
     "LATINO"
   ],
   "idcapitulo": "4",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=15609&idcapitulo=4",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1408&idcapitulo=4",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/pbylc4ezasxm",
+      "player_url": "https://streamwish.to/e/pbylc4ezasxm",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pbylc4ezasxm"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/5vy8c94dy2kd",
+      "player_url": "https://filelions.top/v/5vy8c94dy2kd",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5vy8c94dy2kd"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/a1IrZmR6N2dHaVV6WDAyZGpUZjVvZz09",
+      "player_url": "https://player.streamhj.top/e/a1IrZmR6N2dHaVV6WDAyZGpUZjVvZz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a1IrZmR6N2dHaVV6WDAyZGpUZjVvZz09"
+    },
+    {
+      "id": 4,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/pwqaprl7xfg9",
+      "player_url": "https://bysekoze.com/e/pwqaprl7xfg9",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pwqaprl7xfg9"
+    },
+    {
+      "id": 5,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/pa9ADKg1mmulXA",
+      "player_url": "https://streamtape.com/e/pa9ADKg1mmulXA",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pa9ADKg1mmulXA"
+    },
+    {
+      "id": 6,
+      "server": "Uqload",
+      "url": "https://uqload.net/embed-g3esq7e0elbr.html",
+      "player_url": "https://uqload.net/embed-g3esq7e0elbr.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.net_embed-g3esq7e0elbr.html"
+    },
+    {
+      "id": 7,
+      "server": "Mixdrop",
+      "url": "https://mxdrop.to/e/9wkqp67oa9888w",
+      "player_url": "https://mxdrop.to/e/9wkqp67oa9888w",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9wkqp67oa9888w"
+    },
+    {
+      "id": 8,
+      "server": "Voe",
+      "url": "https://voe.sx/e/onh3oq3revzm",
+      "player_url": "https://voe.sx/e/onh3oq3revzm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "onh3oq3revzm"
+    }
+  ]
 }

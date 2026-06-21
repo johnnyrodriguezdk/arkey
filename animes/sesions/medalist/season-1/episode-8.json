@@ -11,7 +11,7 @@
   "slug": "medalist",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "15609",
+  "anime_id": "1408",
   "temporada": 1,
   "episodio": "8",
   "idiomas": [
@@ -19,6 +19,77 @@
     "LATINO"
   ],
   "idcapitulo": "8",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=15609&idcapitulo=8",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1408&idcapitulo=8",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/led9o9qxf1h7",
+      "player_url": "https://filelions.top/v/led9o9qxf1h7",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "led9o9qxf1h7"
+    },
+    {
+      "id": 2,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/RmpDNGJiWFhTbkpya3pRQnFvVXk1UT09",
+      "player_url": "https://player.streamhj.top/e/RmpDNGJiWFhTbkpya3pRQnFvVXk1UT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "RmpDNGJiWFhTbkpya3pRQnFvVXk1UT09"
+    },
+    {
+      "id": 3,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/KAOd0l081aIDxB",
+      "player_url": "https://streamtape.com/e/KAOd0l081aIDxB",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "KAOd0l081aIDxB"
+    },
+    {
+      "id": 4,
+      "server": "Mp4upload",
+      "url": "https://www.mp4upload.com/embed-kzmw4ij3l0qs.html",
+      "player_url": "https://www.mp4upload.com/embed-kzmw4ij3l0qs.html",
+      "nombre": "Mp4upload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "www.mp4upload.com_embed-kzmw4ij3l0qs.html"
+    },
+    {
+      "id": 5,
+      "server": "Uqload",
+      "url": "https://uqload.net/embed-d55osuxtax5r.html",
+      "player_url": "https://uqload.net/embed-d55osuxtax5r.html",
+      "nombre": "Uqload",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqload.net_embed-d55osuxtax5r.html"
+    },
+    {
+      "id": 6,
+      "server": "Mixdrop",
+      "url": "https://mxdrop.to/e/4dpzneoockr6vz",
+      "player_url": "https://mxdrop.to/e/4dpzneoockr6vz",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4dpzneoockr6vz"
+    },
+    {
+      "id": 7,
+      "server": "Voe",
+      "url": "https://voe.sx/e/p1gm4ctail21",
+      "player_url": "https://voe.sx/e/p1gm4ctail21",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p1gm4ctail21"
+    }
+  ]
 }

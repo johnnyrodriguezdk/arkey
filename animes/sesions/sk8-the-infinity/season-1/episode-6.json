@@ -11,7 +11,7 @@
   "slug": "sk8-the-infinity",
   "source": "animejara",
   "type": "anime",
-  "anime_id": "13081",
+  "anime_id": "4410",
   "temporada": 1,
   "episodio": "6",
   "idiomas": [
@@ -19,6 +19,47 @@
     "JAPONES"
   ],
   "idcapitulo": "6",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=13081&idcapitulo=6",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4410&idcapitulo=6",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/czU4eVBHTldHSGVYZHVmbUh1am5Zdz09",
+      "player_url": "https://netuplayer.top/e/czU4eVBHTldHSGVYZHVmbUh1am5Zdz09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "czU4eVBHTldHSGVYZHVmbUh1am5Zdz09"
+    },
+    {
+      "id": 2,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/LOV8OXP407CR2ey",
+      "player_url": "https://streamtape.com/e/LOV8OXP407CR2ey",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "LOV8OXP407CR2ey"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/rw37wmwpsgz1kn",
+      "player_url": "https://mixdropjmk.pw/e/rw37wmwpsgz1kn",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rw37wmwpsgz1kn"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://dood.la/e/01ska4nzf48hz5iz8r0c7gkea52jisy4",
+      "player_url": "https://dood.la/e/01ska4nzf48hz5iz8r0c7gkea52jisy4",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "01ska4nzf48hz5iz8r0c7gkea52jisy4"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "54",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "54",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=54",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/bc82da5ule1u",
+      "player_url": "https://streamwish.to/e/bc82da5ule1u",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bc82da5ule1u"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/yxsdlwgkj02z",
+      "player_url": "https://filelions.top/v/yxsdlwgkj02z",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yxsdlwgkj02z"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/ktr7imjoonze/54-archivo-g",
+      "player_url": "https://bysekoze.com/e/ktr7imjoonze/54-archivo-g",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ktr7imjoonze/54-archivo-g"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/q70faf2h4jho",
+      "player_url": "https://voe.sx/e/q70faf2h4jho",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q70faf2h4jho"
+    }
+  ]
 }

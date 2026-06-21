@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "33",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "33",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=33",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/hdtnemzuvwfm",
+      "player_url": "https://streamwish.to/e/hdtnemzuvwfm",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hdtnemzuvwfm"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/013ngm6ol5d8",
+      "player_url": "https://filelions.top/v/013ngm6ol5d8",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "013ngm6ol5d8"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/5mt7w5dqdb1t/33-confrontación-fatal",
+      "player_url": "https://bysekoze.com/e/5mt7w5dqdb1t/33-confrontación-fatal",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5mt7w5dqdb1t/33-confrontación-fatal"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/srxo3pk8um8v",
+      "player_url": "https://voe.sx/e/srxo3pk8um8v",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "srxo3pk8um8v"
+    }
+  ]
 }

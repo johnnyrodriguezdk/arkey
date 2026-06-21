@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "1",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "1",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=1",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/w84dza7an6zm",
+      "player_url": "https://streamwish.to/e/w84dza7an6zm",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w84dza7an6zm"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/xg8w31y5q80e",
+      "player_url": "https://filelions.top/v/xg8w31y5q80e",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xg8w31y5q80e"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/7059s4t0e108/01-el-joven-del-planeta-zi",
+      "player_url": "https://bysekoze.com/e/7059s4t0e108/01-el-joven-del-planeta-zi",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7059s4t0e108/01-el-joven-del-planeta-zi"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/o3it0akrabgb",
+      "player_url": "https://voe.sx/e/o3it0akrabgb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o3it0akrabgb"
+    }
+  ]
 }

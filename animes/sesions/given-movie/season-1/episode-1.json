@@ -11,7 +11,7 @@
   "slug": "given-movie",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "2097",
   "anime_id_wp": "9515",
   "temporada": 1,
   "episodio": "1",
@@ -19,6 +19,17 @@
     "JAPONES"
   ],
   "idcapitulo": "1",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2097&idcapitulo=1",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/en47d1emsvqxqx",
+      "player_url": "https://mixdropjmk.pw/e/en47d1emsvqxqx",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "en47d1emsvqxqx"
+    }
+  ]
 }

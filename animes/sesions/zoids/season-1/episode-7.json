@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "7",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "7",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=7",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ifyrkgj9ggz5",
+      "player_url": "https://streamwish.to/e/ifyrkgj9ggz5",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ifyrkgj9ggz5"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/ezccfntqml8c",
+      "player_url": "https://filelions.top/v/ezccfntqml8c",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ezccfntqml8c"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/uyh3r7xcucz1/07-la-batalla-del-río-rojo",
+      "player_url": "https://bysekoze.com/e/uyh3r7xcucz1/07-la-batalla-del-río-rojo",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uyh3r7xcucz1/07-la-batalla-del-río-rojo"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/qtzkgcuh5xvi",
+      "player_url": "https://voe.sx/e/qtzkgcuh5xvi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qtzkgcuh5xvi"
+    }
+  ]
 }

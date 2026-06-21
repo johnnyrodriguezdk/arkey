@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "26",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "26",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=26",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/60xsq06akw68",
+      "player_url": "https://streamwish.to/e/60xsq06akw68",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "60xsq06akw68"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/9w0nwa3fvpug",
+      "player_url": "https://filelions.top/v/9w0nwa3fvpug",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9w0nwa3fvpug"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/7nfag06kn33s/26-memorias-de-zi",
+      "player_url": "https://bysekoze.com/e/7nfag06kn33s/26-memorias-de-zi",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7nfag06kn33s/26-memorias-de-zi"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/kcgowuxwjlmw",
+      "player_url": "https://voe.sx/e/kcgowuxwjlmw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kcgowuxwjlmw"
+    }
+  ]
 }

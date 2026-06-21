@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "62",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "62",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=62",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/ujx4iiuvo3k1",
+      "player_url": "https://streamwish.to/e/ujx4iiuvo3k1",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ujx4iiuvo3k1"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/q1x8yktcc3yh",
+      "player_url": "https://filelions.top/v/q1x8yktcc3yh",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q1x8yktcc3yh"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/vj9lp5xp8xs4/62-cañón-gravitacional",
+      "player_url": "https://bysekoze.com/e/vj9lp5xp8xs4/62-cañón-gravitacional",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vj9lp5xp8xs4/62-cañón-gravitacional"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/vmqkleqdba2f",
+      "player_url": "https://voe.sx/e/vmqkleqdba2f",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vmqkleqdba2f"
+    }
+  ]
 }

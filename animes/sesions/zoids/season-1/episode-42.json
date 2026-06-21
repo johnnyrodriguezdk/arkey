@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "42",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "42",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=42",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/0gw9doznyszu",
+      "player_url": "https://streamwish.to/e/0gw9doznyszu",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0gw9doznyszu"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/33iaqupvueam",
+      "player_url": "https://filelions.top/v/33iaqupvueam",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "33iaqupvueam"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/sojzjeogowr2/42-raven",
+      "player_url": "https://bysekoze.com/e/sojzjeogowr2/42-raven",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sojzjeogowr2/42-raven"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/xecbteimvcdr",
+      "player_url": "https://voe.sx/e/xecbteimvcdr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xecbteimvcdr"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "plunderer",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "1996",
   "anime_id_wp": "4534",
   "temporada": 1,
   "episodio": "20",
@@ -20,6 +20,57 @@
     "LATINO"
   ],
   "idcapitulo": "20",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1996&idcapitulo=20",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Netu",
+      "url": "https://netuplayer.top/e/ZTh4V3Z1QXVaQng4T0daYTd3d1dmQT09",
+      "player_url": "https://netuplayer.top/e/ZTh4V3Z1QXVaQng4T0daYTd3d1dmQT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ZTh4V3Z1QXVaQng4T0daYTd3d1dmQT09"
+    },
+    {
+      "id": 2,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/sdlckpuga6mj",
+      "player_url": "https://bysekoze.com/e/sdlckpuga6mj",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sdlckpuga6mj"
+    },
+    {
+      "id": 3,
+      "server": "Mixdrop",
+      "url": "https://mixdropjmk.pw/e/84dxn8l0i668m9g",
+      "player_url": "https://mixdropjmk.pw/e/84dxn8l0i668m9g",
+      "nombre": "Mixdrop",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "84dxn8l0i668m9g"
+    },
+    {
+      "id": 4,
+      "server": "DoodStream",
+      "url": "https://doods.pro/e/us1011yjt7ewiwo58sunszgtve302rav",
+      "player_url": "https://doods.pro/e/us1011yjt7ewiwo58sunszgtve302rav",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "us1011yjt7ewiwo58sunszgtve302rav"
+    },
+    {
+      "id": 5,
+      "server": "LuluStream",
+      "url": "https://luluvdo.com/e/cxywp8nuhnt7",
+      "player_url": "https://luluvdo.com/e/cxywp8nuhnt7",
+      "nombre": "LuluStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cxywp8nuhnt7"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "13",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "13",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=13",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/7wn62gkcfact",
+      "player_url": "https://streamwish.to/e/7wn62gkcfact",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7wn62gkcfact"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/p3kqrnedfpns",
+      "player_url": "https://filelions.top/v/p3kqrnedfpns",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p3kqrnedfpns"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/j379egj33rvy/13-feroz-combate-en-fuerte-cronos",
+      "player_url": "https://bysekoze.com/e/j379egj33rvy/13-feroz-combate-en-fuerte-cronos",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j379egj33rvy/13-feroz-combate-en-fuerte-cronos"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/yj1iqeyxi7hl",
+      "player_url": "https://voe.sx/e/yj1iqeyxi7hl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yj1iqeyxi7hl"
+    }
+  ]
 }

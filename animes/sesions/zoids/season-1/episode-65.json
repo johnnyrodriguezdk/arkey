@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "65",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "65",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=65",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/f3keg429tww8",
+      "player_url": "https://streamwish.to/e/f3keg429tww8",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f3keg429tww8"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/0ihe41xc06o4",
+      "player_url": "https://filelions.top/v/0ihe41xc06o4",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0ihe41xc06o4"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/g7v8xyvx5bxt/65-zoid-eve",
+      "player_url": "https://bysekoze.com/e/g7v8xyvx5bxt/65-zoid-eve",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g7v8xyvx5bxt/65-zoid-eve"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/rsm0dkaujclr",
+      "player_url": "https://voe.sx/e/rsm0dkaujclr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rsm0dkaujclr"
+    }
+  ]
 }

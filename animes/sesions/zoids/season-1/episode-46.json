@@ -11,7 +11,7 @@
   "slug": "zoids",
   "source": "animejara",
   "type": "anime",
-  "anime_id": null,
+  "anime_id": "4684",
   "anime_id_wp": "27436",
   "temporada": 1,
   "episodio": "46",
@@ -19,6 +19,47 @@
     "LATINO"
   ],
   "idcapitulo": "46",
-  "iframe_url": "",
-  "servidores": []
+  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4684&idcapitulo=46",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/rsfe8q2vr5ir",
+      "player_url": "https://streamwish.to/e/rsfe8q2vr5ir",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rsfe8q2vr5ir"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/iqn70345tenz",
+      "player_url": "https://filelions.top/v/iqn70345tenz",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iqn70345tenz"
+    },
+    {
+      "id": 3,
+      "server": "Bysekoze",
+      "url": "https://bysekoze.com/e/oankmtyafzks/46-el-demonio-del-fondo-del-mar",
+      "player_url": "https://bysekoze.com/e/oankmtyafzks/46-el-demonio-del-fondo-del-mar",
+      "nombre": "Bysekoze",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oankmtyafzks/46-el-demonio-del-fondo-del-mar"
+    },
+    {
+      "id": 4,
+      "server": "Voe",
+      "url": "https://voe.sx/e/4un9qw51rzis",
+      "player_url": "https://voe.sx/e/4un9qw51rzis",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4un9qw51rzis"
+    }
+  ]
 }
