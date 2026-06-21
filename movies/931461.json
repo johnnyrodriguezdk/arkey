@@ -1,1 +1,270 @@
-{"id":931461,"titulo":"El soñador americano","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/mDAeOt2iQd3JnCC3MWKwbiEsxyQ.jpg","release_date":"2022-11-04","genres":[],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/aqOKuH8zLYxM9uDLb9makn7x6LI.jpg","overview":"Phil es un soñador. La mayoría de sus sueños no se hacen realidad. Phil odia eso. Pero eso no impedirá que Phil sueñe.","trailer":"","runtime":"106","slug":"american-dreamer","servidores":[{"id":1,"url":"https://streamwish.to/e/3wpflugu5zjk","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"3wpflugu5zjk","player_url":"https://streamwish.to/e/3wpflugu5zjk"},{"id":2,"url":"https://vidhidepro.com/v/2lozjui0le3z","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"2lozjui0le3z","player_url":"https://vidhidepro.com/v/2lozjui0le3z"},{"id":3,"url":"https://voe.sx/e/k1q18b4aocmg","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"k1q18b4aocmg","player_url":"https://voe.sx/e/k1q18b4aocmg"},{"id":4,"url":"https://streamwish.to/e/ut0az7e0fsus","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ut0az7e0fsus","player_url":"https://streamwish.to/e/ut0az7e0fsus"},{"id":5,"url":"https://vidhidepro.com/v/699rxxiggla7","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"699rxxiggla7","player_url":"https://vidhidepro.com/v/699rxxiggla7"},{"id":6,"url":"https://voe.sx/e/yczprvib1ewy","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"yczprvib1ewy","player_url":"https://voe.sx/e/yczprvib1ewy"},{"id":7,"url":"https://doodstream.com/e/rumbit21he3u","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"rumbit21he3u","player_url":"https://doodstream.com/e/rumbit21he3u"},{"id":8,"url":"https://streamwish.to/e/jw7mhyj4kbrf","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"jw7mhyj4kbrf","player_url":"https://streamwish.to/e/jw7mhyj4kbrf"},{"id":9,"url":"https://vidhidepro.com/v/r547pluv3fsz","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"r547pluv3fsz","player_url":"https://vidhidepro.com/v/r547pluv3fsz"},{"id":10,"url":"https://voe.sx/e/eesyanz6lefd","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"eesyanz6lefd","player_url":"https://voe.sx/e/eesyanz6lefd"},{"id":11,"url":"https://doodstream.com/e/endqscf24xoq","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"endqscf24xoq","player_url":"https://doodstream.com/e/endqscf24xoq"}]}
+{
+  "id": 931461,
+  "titulo": "El soñador americano",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/mDAeOt2iQd3JnCC3MWKwbiEsxyQ.jpg",
+  "release_date": "2022-11-04",
+  "genres": [
+    "Comedia"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/aqOKuH8zLYxM9uDLb9makn7x6LI.jpg",
+  "overview": "Phil es un soñador. La mayoría de sus sueños no se hacen realidad. Phil odia eso. Pero eso no impedirá que Phil sueñe.",
+  "trailer": "",
+  "runtime": "106",
+  "slug": "american-dreamer",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/3wpflugu5zjk",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3wpflugu5zjk",
+      "player_url": "https://streamwish.to/e/3wpflugu5zjk"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/2lozjui0le3z",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2lozjui0le3z",
+      "player_url": "https://vidhidepro.com/v/2lozjui0le3z"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/k1q18b4aocmg",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "k1q18b4aocmg",
+      "player_url": "https://voe.sx/e/k1q18b4aocmg"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/ut0az7e0fsus",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ut0az7e0fsus",
+      "player_url": "https://streamwish.to/e/ut0az7e0fsus"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/699rxxiggla7",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "699rxxiggla7",
+      "player_url": "https://vidhidepro.com/v/699rxxiggla7"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/yczprvib1ewy",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "yczprvib1ewy",
+      "player_url": "https://voe.sx/e/yczprvib1ewy"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/rumbit21he3u",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "rumbit21he3u",
+      "player_url": "https://doodstream.com/e/rumbit21he3u"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/jw7mhyj4kbrf",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "jw7mhyj4kbrf",
+      "player_url": "https://streamwish.to/e/jw7mhyj4kbrf"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/r547pluv3fsz",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "r547pluv3fsz",
+      "player_url": "https://vidhidepro.com/v/r547pluv3fsz"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/eesyanz6lefd",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "eesyanz6lefd",
+      "player_url": "https://voe.sx/e/eesyanz6lefd"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/endqscf24xoq",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "endqscf24xoq",
+      "player_url": "https://doodstream.com/e/endqscf24xoq"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/11ov61bonlwm",
+      "player_url": "https://minochinos.com/embed/11ov61bonlwm",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "11ov61bonlwm"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/krxhwsila8o8",
+      "player_url": "https://hglink.to/e/krxhwsila8o8",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "krxhwsila8o8"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/4q3crox9xsg8",
+      "player_url": "https://bysedikamoum.com/e/4q3crox9xsg8",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4q3crox9xsg8"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/fsd7antnu6si",
+      "player_url": "https://voe.sx/e/fsd7antnu6si",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fsd7antnu6si"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/fsd7antnu6si/download",
+      "player_url": "https://voe.sx/fsd7antnu6si/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/2stfwvlden5c",
+      "player_url": "https://rapidvideo.link/e/2stfwvlden5c",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2stfwvlden5c"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/htqct499vxcp",
+      "player_url": "https://minochinos.com/embed/htqct499vxcp",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "htqct499vxcp"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/zzurqwao61xl",
+      "player_url": "https://hglink.to/e/zzurqwao61xl",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zzurqwao61xl"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/onk6gte5ytu2",
+      "player_url": "https://bysedikamoum.com/e/onk6gte5ytu2",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "onk6gte5ytu2"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/zn2bbajumtlv",
+      "player_url": "https://voe.sx/e/zn2bbajumtlv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zn2bbajumtlv"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/zx0gc8bysam7",
+      "player_url": "https://rapidvideo.link/e/zx0gc8bysam7",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zx0gc8bysam7"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/hsbhr853ij4t",
+      "player_url": "https://minochinos.com/embed/hsbhr853ij4t",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hsbhr853ij4t"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/und3x7b7ue6h",
+      "player_url": "https://hglink.to/e/und3x7b7ue6h",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "und3x7b7ue6h"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/rl6tk9pibyex",
+      "player_url": "https://bysedikamoum.com/e/rl6tk9pibyex",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rl6tk9pibyex"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/zzckgoum5s4h",
+      "player_url": "https://voe.sx/e/zzckgoum5s4h",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zzckgoum5s4h"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/zzckgoum5s4h/download",
+      "player_url": "https://voe.sx/zzckgoum5s4h/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/ejr4cfanu9ly",
+      "player_url": "https://rapidvideo.link/e/ejr4cfanu9ly",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ejr4cfanu9ly"
+    }
+  ]
+}
