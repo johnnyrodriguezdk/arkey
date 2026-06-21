@@ -1,1 +1,270 @@
-{"id":1429743,"titulo":"Chicos de hielo en el trópico","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/2IL9BVp0wXPFADYGW7wtCxsIw8L.jpg","release_date":"2025-04-10","genres":["drama"],"rating":"7.3","backdrop":"https://image.tmdb.org/t/p/original/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg","overview":"Para reunirse con su padre, la profesora de un centro de internamiento anima a un grupo de jóvenes inadaptados a participar en un concurso de esculturas de nieve en Japón","trailer":"","runtime":"118","slug":"chicos-de-hielo-en-el-tropico","servidores":[{"id":1,"url":"https://streamwish.to/e/udund22hg53u","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"udund22hg53u","player_url":"https://streamwish.to/e/udund22hg53u"},{"id":2,"url":"https://vidhidepro.com/v/9fpcmrpzm3kz","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"9fpcmrpzm3kz","player_url":"https://vidhidepro.com/v/9fpcmrpzm3kz"},{"id":3,"url":"https://voe.sx/e/zdllltsrixtg","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"zdllltsrixtg","player_url":"https://voe.sx/e/zdllltsrixtg"},{"id":4,"url":"https://doodstream.com/e/kbunu2ycpzmw","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"kbunu2ycpzmw","player_url":"https://doodstream.com/e/kbunu2ycpzmw"},{"id":5,"url":"https://streamwish.to/e/3m167lzhk9v4","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"3m167lzhk9v4","player_url":"https://streamwish.to/e/3m167lzhk9v4"},{"id":6,"url":"https://vidhidepro.com/v/d4xqn5uhyprb","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"d4xqn5uhyprb","player_url":"https://vidhidepro.com/v/d4xqn5uhyprb"},{"id":7,"url":"https://doodstream.com/e/g7oozomwp4aj","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"g7oozomwp4aj","player_url":"https://doodstream.com/e/g7oozomwp4aj"},{"id":8,"url":"https://streamwish.to/e/1tbwckp6maac","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"1tbwckp6maac","player_url":"https://streamwish.to/e/1tbwckp6maac"},{"id":9,"url":"https://vidhidepro.com/v/18tktkcaaflz","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"18tktkcaaflz","player_url":"https://vidhidepro.com/v/18tktkcaaflz"},{"id":10,"url":"https://voe.sx/e/emqqicxiur8e","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"emqqicxiur8e","player_url":"https://voe.sx/e/emqqicxiur8e"},{"id":11,"url":"https://doodstream.com/e/6wacbpex9vb4","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"6wacbpex9vb4","player_url":"https://doodstream.com/e/6wacbpex9vb4"}]}
+{
+  "id": 1429743,
+  "titulo": "Chicos de hielo en el trópico",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/2IL9BVp0wXPFADYGW7wtCxsIw8L.jpg",
+  "release_date": "2025-04-10",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg",
+  "overview": "Para reunirse con su padre, la profesora de un centro de internamiento anima a un grupo de jóvenes inadaptados a participar en un concurso de esculturas de nieve en Japón",
+  "trailer": "",
+  "runtime": "118",
+  "slug": "chicos-de-hielo-en-el-tropico",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/udund22hg53u",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "udund22hg53u",
+      "player_url": "https://streamwish.to/e/udund22hg53u"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/9fpcmrpzm3kz",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "9fpcmrpzm3kz",
+      "player_url": "https://vidhidepro.com/v/9fpcmrpzm3kz"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/zdllltsrixtg",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zdllltsrixtg",
+      "player_url": "https://voe.sx/e/zdllltsrixtg"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/kbunu2ycpzmw",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "kbunu2ycpzmw",
+      "player_url": "https://doodstream.com/e/kbunu2ycpzmw"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/3m167lzhk9v4",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3m167lzhk9v4",
+      "player_url": "https://streamwish.to/e/3m167lzhk9v4"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/d4xqn5uhyprb",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "d4xqn5uhyprb",
+      "player_url": "https://vidhidepro.com/v/d4xqn5uhyprb"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/g7oozomwp4aj",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "g7oozomwp4aj",
+      "player_url": "https://doodstream.com/e/g7oozomwp4aj"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/1tbwckp6maac",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "1tbwckp6maac",
+      "player_url": "https://streamwish.to/e/1tbwckp6maac"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/18tktkcaaflz",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "18tktkcaaflz",
+      "player_url": "https://vidhidepro.com/v/18tktkcaaflz"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/emqqicxiur8e",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "emqqicxiur8e",
+      "player_url": "https://voe.sx/e/emqqicxiur8e"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/6wacbpex9vb4",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "6wacbpex9vb4",
+      "player_url": "https://doodstream.com/e/6wacbpex9vb4"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/r0rsbkmh1zc1",
+      "player_url": "https://minochinos.com/embed/r0rsbkmh1zc1",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r0rsbkmh1zc1"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/zgehks2gyz7n",
+      "player_url": "https://hglink.to/e/zgehks2gyz7n",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zgehks2gyz7n"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/gch8a9fu1bz5",
+      "player_url": "https://bysedikamoum.com/e/gch8a9fu1bz5",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gch8a9fu1bz5"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/1hq61inimgpt",
+      "player_url": "https://voe.sx/e/1hq61inimgpt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1hq61inimgpt"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/1hq61inimgpt/download",
+      "player_url": "https://voe.sx/1hq61inimgpt/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/pxsj7cu32rh9",
+      "player_url": "https://rapidvideo.link/e/pxsj7cu32rh9",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pxsj7cu32rh9"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/sn6xqmy35y9f",
+      "player_url": "https://minochinos.com/embed/sn6xqmy35y9f",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sn6xqmy35y9f"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/c7zvf21r95r1",
+      "player_url": "https://hglink.to/e/c7zvf21r95r1",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c7zvf21r95r1"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/4j2z7y2e27re",
+      "player_url": "https://bysedikamoum.com/e/4j2z7y2e27re",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4j2z7y2e27re"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/sihuhvioiwcz",
+      "player_url": "https://voe.sx/e/sihuhvioiwcz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sihuhvioiwcz"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/dfusb9zqtojp",
+      "player_url": "https://rapidvideo.link/e/dfusb9zqtojp",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dfusb9zqtojp"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/7v2omejlds29",
+      "player_url": "https://minochinos.com/embed/7v2omejlds29",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7v2omejlds29"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/9lah2ufaxsxh",
+      "player_url": "https://hglink.to/e/9lah2ufaxsxh",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9lah2ufaxsxh"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/tqd4zwnapqfu",
+      "player_url": "https://bysedikamoum.com/e/tqd4zwnapqfu",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tqd4zwnapqfu"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/q3vcmux9gxez",
+      "player_url": "https://voe.sx/e/q3vcmux9gxez",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "q3vcmux9gxez"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/q3vcmux9gxez/download",
+      "player_url": "https://voe.sx/q3vcmux9gxez/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/xgkw9ubcf370",
+      "player_url": "https://rapidvideo.link/e/xgkw9ubcf370",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xgkw9ubcf370"
+    }
+  ]
+}
