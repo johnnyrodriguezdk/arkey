@@ -1,1 +1,243 @@
-{"id":1144430,"titulo":"La bala perdida 3","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/AoXAvZDxcym6oONBvJ82tFjEGdY.jpg","release_date":"2025-05-06","genres":["drama"],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg","overview":"Lino, que acaba de salir de la cárcel, solo tiene un objetivo: vengar a Charas. Acompañado de Julia, se lanza tras Areski, quien ha vuelto a Francia sin saber que el comandante Resz y su equipo también lo acechan. Lo que sigue es una persecución frenética, con alianzas que penden de un hilo y enfrentamientos sin tregua. En este nuevo capítulo, viejos enemigos deben unir fuerzas contra un adversario común para sobrevivir y descubrir la verdad","trailer":"","runtime":"111","slug":"la-bala-perdida-3","servidores":[{"id":1,"url":"https://streamwish.to/e/dr66afz51wkn","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"dr66afz51wkn","player_url":"https://streamwish.to/e/dr66afz51wkn"},{"id":2,"url":"https://vidhidepro.com/v/4fahd142duke","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"4fahd142duke","player_url":"https://vidhidepro.com/v/4fahd142duke"},{"id":3,"url":"https://voe.sx/e/syxqfes7jnez","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"syxqfes7jnez","player_url":"https://voe.sx/e/syxqfes7jnez"},{"id":4,"url":"https://doodstream.com/e/v7y3vavrz7tf","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"v7y3vavrz7tf","player_url":"https://doodstream.com/e/v7y3vavrz7tf"},{"id":5,"url":"https://streamwish.to/e/5yj76xh83p9m","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"5yj76xh83p9m","player_url":"https://streamwish.to/e/5yj76xh83p9m"},{"id":6,"url":"https://vidhidepro.com/v/wq9y6l4wfm8m","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"wq9y6l4wfm8m","player_url":"https://vidhidepro.com/v/wq9y6l4wfm8m"},{"id":7,"url":"https://voe.sx/e/blt0pozsbncj","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"blt0pozsbncj","player_url":"https://voe.sx/e/blt0pozsbncj"},{"id":8,"url":"https://doodstream.com/e/48crp73ot0hg","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"48crp73ot0hg","player_url":"https://doodstream.com/e/48crp73ot0hg"}]}
+{
+  "id": 1144430,
+  "titulo": "La bala perdida 3",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/AoXAvZDxcym6oONBvJ82tFjEGdY.jpg",
+  "release_date": "2025-05-06",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg",
+  "overview": "Lino, que acaba de salir de la cárcel, solo tiene un objetivo: vengar a Charas. Acompañado de Julia, se lanza tras Areski, quien ha vuelto a Francia sin saber que el comandante Resz y su equipo también lo acechan. Lo que sigue es una persecución frenética, con alianzas que penden de un hilo y enfrentamientos sin tregua. En este nuevo capítulo, viejos enemigos deben unir fuerzas contra un adversario común para sobrevivir y descubrir la verdad",
+  "trailer": "",
+  "runtime": "111",
+  "slug": "la-bala-perdida-3",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/dr66afz51wkn",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "dr66afz51wkn",
+      "player_url": "https://streamwish.to/e/dr66afz51wkn"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/4fahd142duke",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "4fahd142duke",
+      "player_url": "https://vidhidepro.com/v/4fahd142duke"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/syxqfes7jnez",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "syxqfes7jnez",
+      "player_url": "https://voe.sx/e/syxqfes7jnez"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/v7y3vavrz7tf",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "v7y3vavrz7tf",
+      "player_url": "https://doodstream.com/e/v7y3vavrz7tf"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/5yj76xh83p9m",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5yj76xh83p9m",
+      "player_url": "https://streamwish.to/e/5yj76xh83p9m"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/wq9y6l4wfm8m",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "wq9y6l4wfm8m",
+      "player_url": "https://vidhidepro.com/v/wq9y6l4wfm8m"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/blt0pozsbncj",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "blt0pozsbncj",
+      "player_url": "https://voe.sx/e/blt0pozsbncj"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/48crp73ot0hg",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "48crp73ot0hg",
+      "player_url": "https://doodstream.com/e/48crp73ot0hg"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/t2xbu80u1d9y",
+      "player_url": "https://minochinos.com/embed/t2xbu80u1d9y",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t2xbu80u1d9y"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/sf67tnuruyz6",
+      "player_url": "https://hglink.to/e/sf67tnuruyz6",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sf67tnuruyz6"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/sbe9vtif0fhh",
+      "player_url": "https://bysedikamoum.com/e/sbe9vtif0fhh",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sbe9vtif0fhh"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/6me09gpjcemj",
+      "player_url": "https://voe.sx/e/6me09gpjcemj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6me09gpjcemj"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/6me09gpjcemj/download",
+      "player_url": "https://voe.sx/6me09gpjcemj/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/pklzr20suo8i",
+      "player_url": "https://rapidvideo.link/e/pklzr20suo8i",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pklzr20suo8i"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/il1h2fvoi4ju",
+      "player_url": "https://minochinos.com/embed/il1h2fvoi4ju",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "il1h2fvoi4ju"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/beyekzd3wwi2",
+      "player_url": "https://hglink.to/e/beyekzd3wwi2",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "beyekzd3wwi2"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/3klto7g6idrg",
+      "player_url": "https://bysedikamoum.com/e/3klto7g6idrg",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3klto7g6idrg"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/jlvdybuoodeg",
+      "player_url": "https://voe.sx/e/jlvdybuoodeg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jlvdybuoodeg"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/7s62pl40edgj",
+      "player_url": "https://rapidvideo.link/e/7s62pl40edgj",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7s62pl40edgj"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/wrjim41flkkn",
+      "player_url": "https://minochinos.com/embed/wrjim41flkkn",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wrjim41flkkn"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/1j1u1tktrih2",
+      "player_url": "https://hglink.to/e/1j1u1tktrih2",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1j1u1tktrih2"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/0112ggyhqz3n",
+      "player_url": "https://bysedikamoum.com/e/0112ggyhqz3n",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0112ggyhqz3n"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/ldtxluwbvmlh",
+      "player_url": "https://voe.sx/e/ldtxluwbvmlh",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ldtxluwbvmlh"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/ldtxluwbvmlh/download",
+      "player_url": "https://voe.sx/ldtxluwbvmlh/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/eh2mikjzgd9v",
+      "player_url": "https://rapidvideo.link/e/eh2mikjzgd9v",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "eh2mikjzgd9v"
+    }
+  ]
+}
