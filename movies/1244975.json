@@ -1,1 +1,234 @@
-{"id":1244975,"titulo":"Los huérfanos","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/vPz9HVmzi9Lwllpmac4aKauwNlp.jpg","release_date":"2025-08-20","genres":[],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/z4hZZQ1GRuNGdeeWfKZIt8PXrmX.jpg","overview":"Dos amigos de la infancia se ven obligados a superar sus diferencias cuando el amor del pasado de ambos muere en un sospechoso accidente y su hija adolescente busca venganza.","trailer":"","runtime":"95","slug":"les-orphelins","servidores":[{"id":1,"url":"https://streamwish.to/e/0zi7fdn0a73v","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"0zi7fdn0a73v","player_url":"https://streamwish.to/e/0zi7fdn0a73v"},{"id":2,"url":"https://bysejikuar.com/e/xadgxli7gr19","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"xadgxli7gr19","player_url":"https://bysejikuar.com/e/xadgxli7gr19"},{"id":3,"url":"https://vidhidepro.com/v/kl68n4p4rjce","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"kl68n4p4rjce","player_url":"https://vidhidepro.com/v/kl68n4p4rjce"},{"id":4,"url":"https://voe.sx/e/dtcuhfqbgnnp","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"dtcuhfqbgnnp","player_url":"https://voe.sx/e/dtcuhfqbgnnp"},{"id":5,"url":"https://doodstream.com/e/jnx4fbq8bxfv","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"jnx4fbq8bxfv","player_url":"https://doodstream.com/e/jnx4fbq8bxfv"},{"id":6,"url":"https://streamwish.to/e/s6mej2hxtmo5","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"s6mej2hxtmo5","player_url":"https://streamwish.to/e/s6mej2hxtmo5"},{"id":7,"url":"https://bysejikuar.com/e/rqxawfdtwydu","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"rqxawfdtwydu","player_url":"https://bysejikuar.com/e/rqxawfdtwydu"},{"id":8,"url":"https://vidhidepro.com/v/rkl92u0geieh","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"rkl92u0geieh","player_url":"https://vidhidepro.com/v/rkl92u0geieh"},{"id":9,"url":"https://voe.sx/e/gexgfy2rxucz","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"gexgfy2rxucz","player_url":"https://voe.sx/e/gexgfy2rxucz"},{"id":10,"url":"https://doodstream.com/e/abrjjz8nd3xz","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"abrjjz8nd3xz","player_url":"https://doodstream.com/e/abrjjz8nd3xz"}]}
+{
+  "id": 1244975,
+  "titulo": "Los huérfanos",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/vPz9HVmzi9Lwllpmac4aKauwNlp.jpg",
+  "release_date": "2025-08-20",
+  "genres": [
+    "Acción"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/z4hZZQ1GRuNGdeeWfKZIt8PXrmX.jpg",
+  "overview": "Dos amigos de la infancia se ven obligados a superar sus diferencias cuando el amor del pasado de ambos muere en un sospechoso accidente y su hija adolescente busca venganza.",
+  "trailer": "",
+  "runtime": "95",
+  "slug": "les-orphelins",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/0zi7fdn0a73v",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "0zi7fdn0a73v",
+      "player_url": "https://streamwish.to/e/0zi7fdn0a73v"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/xadgxli7gr19",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "xadgxli7gr19",
+      "player_url": "https://bysejikuar.com/e/xadgxli7gr19"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/kl68n4p4rjce",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "kl68n4p4rjce",
+      "player_url": "https://vidhidepro.com/v/kl68n4p4rjce"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/dtcuhfqbgnnp",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "dtcuhfqbgnnp",
+      "player_url": "https://voe.sx/e/dtcuhfqbgnnp"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/jnx4fbq8bxfv",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "jnx4fbq8bxfv",
+      "player_url": "https://doodstream.com/e/jnx4fbq8bxfv"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/s6mej2hxtmo5",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "s6mej2hxtmo5",
+      "player_url": "https://streamwish.to/e/s6mej2hxtmo5"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/rqxawfdtwydu",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "rqxawfdtwydu",
+      "player_url": "https://bysejikuar.com/e/rqxawfdtwydu"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/rkl92u0geieh",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rkl92u0geieh",
+      "player_url": "https://vidhidepro.com/v/rkl92u0geieh"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/gexgfy2rxucz",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gexgfy2rxucz",
+      "player_url": "https://voe.sx/e/gexgfy2rxucz"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/abrjjz8nd3xz",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "abrjjz8nd3xz",
+      "player_url": "https://doodstream.com/e/abrjjz8nd3xz"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/8oe0awvsgzit",
+      "player_url": "https://minochinos.com/embed/8oe0awvsgzit",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8oe0awvsgzit"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/aftencn8rr6v",
+      "player_url": "https://hglink.to/e/aftencn8rr6v",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aftencn8rr6v"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/9qabm05mhvui",
+      "player_url": "https://voe.sx/e/9qabm05mhvui",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9qabm05mhvui"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/9qabm05mhvui/download",
+      "player_url": "https://voe.sx/9qabm05mhvui/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/xbte9v65szrj",
+      "player_url": "https://rapidvideo.link/e/xbte9v65szrj",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xbte9v65szrj"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/0119ssj1o0te",
+      "player_url": "https://minochinos.com/embed/0119ssj1o0te",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0119ssj1o0te"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/o4212efyeok1",
+      "player_url": "https://hglink.to/e/o4212efyeok1",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o4212efyeok1"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/cvrcvhc1toma",
+      "player_url": "https://voe.sx/e/cvrcvhc1toma",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cvrcvhc1toma"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/z97la1bq4kc6",
+      "player_url": "https://rapidvideo.link/e/z97la1bq4kc6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z97la1bq4kc6"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/tp0vvil6pouy",
+      "player_url": "https://minochinos.com/embed/tp0vvil6pouy",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tp0vvil6pouy"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/wd53aey3x76u",
+      "player_url": "https://hglink.to/e/wd53aey3x76u",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wd53aey3x76u"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/4nnnzo1rqhq2",
+      "player_url": "https://voe.sx/e/4nnnzo1rqhq2",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4nnnzo1rqhq2"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/4nnnzo1rqhq2/download",
+      "player_url": "https://voe.sx/4nnnzo1rqhq2/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/192ngf6mtyc3",
+      "player_url": "https://rapidvideo.link/e/192ngf6mtyc3",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "192ngf6mtyc3"
+    }
+  ]
+}
