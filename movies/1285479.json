@@ -1,1 +1,216 @@
-{"id":1285479,"titulo":"La Doncella Del Lago","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/9cb9LFd0s5usddCOYSGtcZJDsk6.jpg","release_date":"2025-03-22","genres":["drama"],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/nAyfXvvVlvQAnhEbFD49wlpttLS.jpg","overview":"En el verano de 1958, un pueblo japonés vive bajo la amenaza constante de los tifones. Un niño llamado Yucha escucha la antigua leyenda de una joven que murió ahogada en un lago de la montaña, y cuyo dolor provoca terribles inundaciones cada cierto tiempo. Cuando un gran tifón se aproxima, Yucha decide enfrentarse a sus miedos y subir al lago con la esperanza de evitar la tragedia.","trailer":"","runtime":"108","slug":"river-returns","servidores":[{"id":1,"url":"https://streamwish.to/e/749zcil1rqck","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"749zcil1rqck","player_url":"https://streamwish.to/e/749zcil1rqck"},{"id":2,"url":"https://bysejikuar.com/e/elht5qq3ptse","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"elht5qq3ptse","player_url":"https://bysejikuar.com/e/elht5qq3ptse"},{"id":3,"url":"https://vidhidepro.com/v/wah4bc027cfw","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"wah4bc027cfw","player_url":"https://vidhidepro.com/v/wah4bc027cfw"},{"id":4,"url":"https://voe.sx/e/wyabbnkwdilb","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"wyabbnkwdilb","player_url":"https://voe.sx/e/wyabbnkwdilb"},{"id":5,"url":"https://doodstream.com/e/vd9dezysmez2","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"vd9dezysmez2","player_url":"https://doodstream.com/e/vd9dezysmez2"},{"id":6,"url":"https://streamwish.to/e/oibqe9gvw5je","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"oibqe9gvw5je","player_url":"https://streamwish.to/e/oibqe9gvw5je"},{"id":7,"url":"https://bysejikuar.com/e/c1gnv7igxnvw","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"c1gnv7igxnvw","player_url":"https://bysejikuar.com/e/c1gnv7igxnvw"},{"id":8,"url":"https://vidhidepro.com/v/p0je11vn1tmn","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"p0je11vn1tmn","player_url":"https://vidhidepro.com/v/p0je11vn1tmn"},{"id":9,"url":"https://voe.sx/e/2iau5vcykltm","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"2iau5vcykltm","player_url":"https://voe.sx/e/2iau5vcykltm"},{"id":10,"url":"https://doodstream.com/e/ebv6tyvnfcvy","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"ebv6tyvnfcvy","player_url":"https://doodstream.com/e/ebv6tyvnfcvy"}]}
+{
+  "id": 1285479,
+  "titulo": "La Doncella Del Lago",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/9cb9LFd0s5usddCOYSGtcZJDsk6.jpg",
+  "release_date": "2025-03-22",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/nAyfXvvVlvQAnhEbFD49wlpttLS.jpg",
+  "overview": "En el verano de 1958, un pueblo japonés vive bajo la amenaza constante de los tifones. Un niño llamado Yucha escucha la antigua leyenda de una joven que murió ahogada en un lago de la montaña, y cuyo dolor provoca terribles inundaciones cada cierto tiempo. Cuando un gran tifón se aproxima, Yucha decide enfrentarse a sus miedos y subir al lago con la esperanza de evitar la tragedia.",
+  "trailer": "",
+  "runtime": "108",
+  "slug": "river-returns",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/749zcil1rqck",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "749zcil1rqck",
+      "player_url": "https://streamwish.to/e/749zcil1rqck"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/elht5qq3ptse",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "elht5qq3ptse",
+      "player_url": "https://bysejikuar.com/e/elht5qq3ptse"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/wah4bc027cfw",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "wah4bc027cfw",
+      "player_url": "https://vidhidepro.com/v/wah4bc027cfw"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/wyabbnkwdilb",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "wyabbnkwdilb",
+      "player_url": "https://voe.sx/e/wyabbnkwdilb"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/vd9dezysmez2",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "vd9dezysmez2",
+      "player_url": "https://doodstream.com/e/vd9dezysmez2"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/oibqe9gvw5je",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "oibqe9gvw5je",
+      "player_url": "https://streamwish.to/e/oibqe9gvw5je"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/c1gnv7igxnvw",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "c1gnv7igxnvw",
+      "player_url": "https://bysejikuar.com/e/c1gnv7igxnvw"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/p0je11vn1tmn",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "p0je11vn1tmn",
+      "player_url": "https://vidhidepro.com/v/p0je11vn1tmn"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/2iau5vcykltm",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "2iau5vcykltm",
+      "player_url": "https://voe.sx/e/2iau5vcykltm"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/ebv6tyvnfcvy",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ebv6tyvnfcvy",
+      "player_url": "https://doodstream.com/e/ebv6tyvnfcvy"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/ijofw87s4vtb",
+      "player_url": "https://minochinos.com/embed/ijofw87s4vtb",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ijofw87s4vtb"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/qd37htazw6j0",
+      "player_url": "https://hglink.to/e/qd37htazw6j0",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qd37htazw6j0"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/xlfnplyd0knn",
+      "player_url": "https://bysedikamoum.com/e/xlfnplyd0knn",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xlfnplyd0knn"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/eowemxtdvy4r",
+      "player_url": "https://voe.sx/e/eowemxtdvy4r",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eowemxtdvy4r"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/eowemxtdvy4r/download",
+      "player_url": "https://voe.sx/eowemxtdvy4r/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/clnr7s149peq",
+      "player_url": "https://rapidvideo.link/e/clnr7s149peq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "clnr7s149peq"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/hnyo787pxzcq",
+      "player_url": "https://minochinos.com/embed/hnyo787pxzcq",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hnyo787pxzcq"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/2nifzbv1bzr5",
+      "player_url": "https://hglink.to/e/2nifzbv1bzr5",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2nifzbv1bzr5"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/9sz4k9lx2f13",
+      "player_url": "https://bysedikamoum.com/e/9sz4k9lx2f13",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9sz4k9lx2f13"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/6xvzbn1c0esz",
+      "player_url": "https://voe.sx/e/6xvzbn1c0esz",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6xvzbn1c0esz"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/6xvzbn1c0esz/download",
+      "player_url": "https://voe.sx/6xvzbn1c0esz/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/la4zspcqnxhi",
+      "player_url": "https://rapidvideo.link/e/la4zspcqnxhi",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "la4zspcqnxhi"
+    }
+  ]
+}
