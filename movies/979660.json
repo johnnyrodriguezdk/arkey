@@ -1,1 +1,272 @@
-{"id":979660,"titulo":"Freaky Tales","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/z17yqLUxfyNUGE75uJxFPTCOmvV.jpg","release_date":"2025-04-04","genres":[],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg","overview":"Cuatro historias interconectadas ambientadas en 1987 en Oakland, California, relatan el amor por la música, el cine, la gente, los lugares y los recuerdos más allá de nuestro universo conocido.","trailer":"","runtime":"107","slug":"freaky-tales","servidores":[{"id":1,"url":"https://streamwish.to/e/wnx5vmb4uj9s","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"wnx5vmb4uj9s","player_url":"https://streamwish.to/e/wnx5vmb4uj9s"},{"id":2,"url":"https://vidhidepro.com/v/2sn8vhemwdbd","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"2sn8vhemwdbd","player_url":"https://vidhidepro.com/v/2sn8vhemwdbd"},{"id":3,"url":"https://voe.sx/e/fxjjw1iguvac","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"fxjjw1iguvac","player_url":"https://voe.sx/e/fxjjw1iguvac"},{"id":4,"url":"https://doodstream.com/e/78hcwan3jsu3","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"78hcwan3jsu3","player_url":"https://doodstream.com/e/78hcwan3jsu3"},{"id":5,"url":"https://streamwish.to/e/6bg0atmsp8un","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"6bg0atmsp8un","player_url":"https://streamwish.to/e/6bg0atmsp8un"},{"id":6,"url":"https://vidhidepro.com/v/unxu1czrj08c","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"unxu1czrj08c","player_url":"https://vidhidepro.com/v/unxu1czrj08c"},{"id":7,"url":"https://voe.sx/e/rdzhecledryq","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"rdzhecledryq","player_url":"https://voe.sx/e/rdzhecledryq"},{"id":8,"url":"https://doodstream.com/e/00uraootg5n3","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"00uraootg5n3","player_url":"https://doodstream.com/e/00uraootg5n3"},{"id":9,"url":"https://streamwish.to/e/2grzf7y8gh1o","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"2grzf7y8gh1o","player_url":"https://streamwish.to/e/2grzf7y8gh1o"},{"id":10,"url":"https://vidhidepro.com/v/2sbj8xxytphf","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"2sbj8xxytphf","player_url":"https://vidhidepro.com/v/2sbj8xxytphf"},{"id":11,"url":"https://voe.sx/e/1uosec4jkfj4","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"1uosec4jkfj4","player_url":"https://voe.sx/e/1uosec4jkfj4"}]}
+{
+  "id": 979660,
+  "titulo": "Freaky Tales",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/z17yqLUxfyNUGE75uJxFPTCOmvV.jpg",
+  "release_date": "2025-04-04",
+  "genres": [
+    "Acción",
+    "Comedia",
+    "Crimen"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
+  "overview": "Cuatro historias interconectadas ambientadas en 1987 en Oakland, California, relatan el amor por la música, el cine, la gente, los lugares y los recuerdos más allá de nuestro universo conocido.",
+  "trailer": "",
+  "runtime": "107",
+  "slug": "freaky-tales",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/wnx5vmb4uj9s",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "wnx5vmb4uj9s",
+      "player_url": "https://streamwish.to/e/wnx5vmb4uj9s"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/2sn8vhemwdbd",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2sn8vhemwdbd",
+      "player_url": "https://vidhidepro.com/v/2sn8vhemwdbd"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/fxjjw1iguvac",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "fxjjw1iguvac",
+      "player_url": "https://voe.sx/e/fxjjw1iguvac"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/78hcwan3jsu3",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "78hcwan3jsu3",
+      "player_url": "https://doodstream.com/e/78hcwan3jsu3"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/6bg0atmsp8un",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6bg0atmsp8un",
+      "player_url": "https://streamwish.to/e/6bg0atmsp8un"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/unxu1czrj08c",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "unxu1czrj08c",
+      "player_url": "https://vidhidepro.com/v/unxu1czrj08c"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/rdzhecledryq",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rdzhecledryq",
+      "player_url": "https://voe.sx/e/rdzhecledryq"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/00uraootg5n3",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "00uraootg5n3",
+      "player_url": "https://doodstream.com/e/00uraootg5n3"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/2grzf7y8gh1o",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "2grzf7y8gh1o",
+      "player_url": "https://streamwish.to/e/2grzf7y8gh1o"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/2sbj8xxytphf",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2sbj8xxytphf",
+      "player_url": "https://vidhidepro.com/v/2sbj8xxytphf"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/1uosec4jkfj4",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "1uosec4jkfj4",
+      "player_url": "https://voe.sx/e/1uosec4jkfj4"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/5tvfhqq7f7tf",
+      "player_url": "https://minochinos.com/embed/5tvfhqq7f7tf",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5tvfhqq7f7tf"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/xlukysejvw34",
+      "player_url": "https://hglink.to/e/xlukysejvw34",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xlukysejvw34"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/aaql5rmmrt17",
+      "player_url": "https://bysedikamoum.com/e/aaql5rmmrt17",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aaql5rmmrt17"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/rlyzlt3gmjei",
+      "player_url": "https://voe.sx/e/rlyzlt3gmjei",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rlyzlt3gmjei"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/rlyzlt3gmjei/download",
+      "player_url": "https://voe.sx/rlyzlt3gmjei/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/xd9am1tf24lq",
+      "player_url": "https://rapidvideo.link/e/xd9am1tf24lq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xd9am1tf24lq"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/mwm0alxv401v",
+      "player_url": "https://minochinos.com/embed/mwm0alxv401v",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mwm0alxv401v"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/5ifhzfl834it",
+      "player_url": "https://hglink.to/e/5ifhzfl834it",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5ifhzfl834it"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/kyzlyo7gmckn",
+      "player_url": "https://bysedikamoum.com/e/kyzlyo7gmckn",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kyzlyo7gmckn"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/tqte2mqrrnob",
+      "player_url": "https://voe.sx/e/tqte2mqrrnob",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tqte2mqrrnob"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/82hsiudbo05p",
+      "player_url": "https://rapidvideo.link/e/82hsiudbo05p",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "82hsiudbo05p"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/kw3fh0qa6cfr",
+      "player_url": "https://minochinos.com/embed/kw3fh0qa6cfr",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kw3fh0qa6cfr"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/64moxwbfqtez",
+      "player_url": "https://hglink.to/e/64moxwbfqtez",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "64moxwbfqtez"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/e8bwvrukqcsh",
+      "player_url": "https://bysedikamoum.com/e/e8bwvrukqcsh",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "e8bwvrukqcsh"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/ufrtkgpfa5wt",
+      "player_url": "https://voe.sx/e/ufrtkgpfa5wt",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ufrtkgpfa5wt"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/ufrtkgpfa5wt/download",
+      "player_url": "https://voe.sx/ufrtkgpfa5wt/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/gvm193adtybs",
+      "player_url": "https://rapidvideo.link/e/gvm193adtybs",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gvm193adtybs"
+    }
+  ]
+}
