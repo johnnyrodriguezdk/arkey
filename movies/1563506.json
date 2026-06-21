@@ -1,1 +1,217 @@
-{"id":1563506,"titulo":"Hogar siniestro","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/qxBpsKyyyjSenFGnQEUbR5Eq3Ub.jpg","release_date":"2025-08-19","genres":[],"rating":"6.1","backdrop":"https://image.tmdb.org/t/p/original/xL5eX4090b5TCfKy5wNJdAC0rZz.jpg","overview":"Una niña adoptiva establece un vínculo con una comunidad secreta que maneja serpientes, pero descubre verdades siniestras. Ella deberá elegir entre denunciar los crímenes o preservar su nuevo hogar.","trailer":"","runtime":"89","slug":"hogar-siniestro","servidores":[{"id":1,"url":"https://streamwish.to/e/cfj0vlsun6yr","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"cfj0vlsun6yr","player_url":"https://streamwish.to/e/cfj0vlsun6yr"},{"id":2,"url":"https://bysejikuar.com/e/8rlzi96eu2z6","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"8rlzi96eu2z6","player_url":"https://bysejikuar.com/e/8rlzi96eu2z6"},{"id":3,"url":"https://vidhidepro.com/v/xl5qld617ccn","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"xl5qld617ccn","player_url":"https://vidhidepro.com/v/xl5qld617ccn"},{"id":4,"url":"https://voe.sx/e/ps5enxlhzbju","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ps5enxlhzbju","player_url":"https://voe.sx/e/ps5enxlhzbju"},{"id":5,"url":"https://doodstream.com/e/v2ney5bsaos6","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"v2ney5bsaos6","player_url":"https://doodstream.com/e/v2ney5bsaos6"},{"id":6,"url":"https://streamwish.to/e/g97p81msxqf6","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"g97p81msxqf6","player_url":"https://streamwish.to/e/g97p81msxqf6"},{"id":7,"url":"https://bysejikuar.com/e/kwf3v8baadwj","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"kwf3v8baadwj","player_url":"https://bysejikuar.com/e/kwf3v8baadwj"},{"id":8,"url":"https://vidhidepro.com/v/ypa7drgpdjaz","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ypa7drgpdjaz","player_url":"https://vidhidepro.com/v/ypa7drgpdjaz"},{"id":9,"url":"https://voe.sx/e/owg8w16dwx8n","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"owg8w16dwx8n","player_url":"https://voe.sx/e/owg8w16dwx8n"},{"id":10,"url":"https://doodstream.com/e/uqvkj5fksjis","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"uqvkj5fksjis","player_url":"https://doodstream.com/e/uqvkj5fksjis"}]}
+{
+  "id": 1563506,
+  "titulo": "Hogar siniestro",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/qxBpsKyyyjSenFGnQEUbR5Eq3Ub.jpg",
+  "release_date": "2025-08-19",
+  "genres": [
+    "Terror",
+    "Suspense"
+  ],
+  "rating": "6.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/xL5eX4090b5TCfKy5wNJdAC0rZz.jpg",
+  "overview": "Una niña adoptiva establece un vínculo con una comunidad secreta que maneja serpientes, pero descubre verdades siniestras. Ella deberá elegir entre denunciar los crímenes o preservar su nuevo hogar.",
+  "trailer": "",
+  "runtime": "89",
+  "slug": "hogar-siniestro",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/cfj0vlsun6yr",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cfj0vlsun6yr",
+      "player_url": "https://streamwish.to/e/cfj0vlsun6yr"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/8rlzi96eu2z6",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "8rlzi96eu2z6",
+      "player_url": "https://bysejikuar.com/e/8rlzi96eu2z6"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/xl5qld617ccn",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xl5qld617ccn",
+      "player_url": "https://vidhidepro.com/v/xl5qld617ccn"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/ps5enxlhzbju",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ps5enxlhzbju",
+      "player_url": "https://voe.sx/e/ps5enxlhzbju"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/v2ney5bsaos6",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "v2ney5bsaos6",
+      "player_url": "https://doodstream.com/e/v2ney5bsaos6"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/g97p81msxqf6",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "g97p81msxqf6",
+      "player_url": "https://streamwish.to/e/g97p81msxqf6"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/kwf3v8baadwj",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "kwf3v8baadwj",
+      "player_url": "https://bysejikuar.com/e/kwf3v8baadwj"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/ypa7drgpdjaz",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ypa7drgpdjaz",
+      "player_url": "https://vidhidepro.com/v/ypa7drgpdjaz"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/owg8w16dwx8n",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "owg8w16dwx8n",
+      "player_url": "https://voe.sx/e/owg8w16dwx8n"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/uqvkj5fksjis",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "uqvkj5fksjis",
+      "player_url": "https://doodstream.com/e/uqvkj5fksjis"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/txtqn0bdsu3j",
+      "player_url": "https://minochinos.com/embed/txtqn0bdsu3j",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "txtqn0bdsu3j"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/kqzk92nt0ycl",
+      "player_url": "https://hglink.to/e/kqzk92nt0ycl",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kqzk92nt0ycl"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/65k08ucd4n5b",
+      "player_url": "https://bysedikamoum.com/e/65k08ucd4n5b",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "65k08ucd4n5b"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/mfwxvnr8h3s8",
+      "player_url": "https://voe.sx/e/mfwxvnr8h3s8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mfwxvnr8h3s8"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/mfwxvnr8h3s8/download",
+      "player_url": "https://voe.sx/mfwxvnr8h3s8/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/mgci3wk29xp1",
+      "player_url": "https://rapidvideo.link/e/mgci3wk29xp1",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mgci3wk29xp1"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/519lrnd6u1o3",
+      "player_url": "https://minochinos.com/embed/519lrnd6u1o3",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "519lrnd6u1o3"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/fk4pq1oldfma",
+      "player_url": "https://hglink.to/e/fk4pq1oldfma",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fk4pq1oldfma"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/a1zjich46z0j",
+      "player_url": "https://bysedikamoum.com/e/a1zjich46z0j",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "a1zjich46z0j"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/rith0okhathq",
+      "player_url": "https://voe.sx/e/rith0okhathq",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rith0okhathq"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/rith0okhathq/download",
+      "player_url": "https://voe.sx/rith0okhathq/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/h25lgperjyow",
+      "player_url": "https://rapidvideo.link/e/h25lgperjyow",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "h25lgperjyow"
+    }
+  ]
+}
