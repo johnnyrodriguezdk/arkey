@@ -1,1 +1,199 @@
-{"id":881415,"titulo":"Love Me","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg","release_date":"2025-01-31","genres":["romance","drama"],"rating":"6.0","backdrop":"https://image.tmdb.org/t/p/original/jEB9bDNRjV6ziEzrPZrItjZBMx2.jpg","overview":"En una historia que abarca miles de millones de años, una boya y un satélite se encuentran en línea mucho después de la extinción de la humanidad. A medida que aprenden cómo era la vida en la Tierra, se descubren a sí mismos y lo que significa estar vivo y enamorado.","trailer":"","runtime":"92","slug":"love-me","servidores":[{"id":1,"url":"https://streamwish.to/e/bzcmbf1uurlp","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"bzcmbf1uurlp","player_url":"https://streamwish.to/e/bzcmbf1uurlp"},{"id":2,"url":"https://vidhidepro.com/v/xp24526t2ln7","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"xp24526t2ln7","player_url":"https://vidhidepro.com/v/xp24526t2ln7"},{"id":3,"url":"https://voe.sx/e/c4b9fliwtxzk","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"c4b9fliwtxzk","player_url":"https://voe.sx/e/c4b9fliwtxzk"},{"id":4,"url":"https://doodstream.com/e/ejdizw8xej4c","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"ejdizw8xej4c","player_url":"https://doodstream.com/e/ejdizw8xej4c"},{"id":5,"url":"https://streamwish.to/e/ii6fjdv3o19r","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ii6fjdv3o19r","player_url":"https://streamwish.to/e/ii6fjdv3o19r"},{"id":6,"url":"https://vidhidepro.com/v/1lye63r9oz0c","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"1lye63r9oz0c","player_url":"https://vidhidepro.com/v/1lye63r9oz0c"},{"id":7,"url":"https://voe.sx/e/5vzid7qeo915","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"5vzid7qeo915","player_url":"https://voe.sx/e/5vzid7qeo915"},{"id":8,"url":"https://doodstream.com/e/8q2ql3600f5g","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"8q2ql3600f5g","player_url":"https://doodstream.com/e/8q2ql3600f5g"}]}
+{
+  "id": 881415,
+  "titulo": "Love Me",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",
+  "release_date": "2025-01-31",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "6.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/jEB9bDNRjV6ziEzrPZrItjZBMx2.jpg",
+  "overview": "En una historia que abarca miles de millones de años, una boya y un satélite se encuentran en línea mucho después de la extinción de la humanidad. A medida que aprenden cómo era la vida en la Tierra, se descubren a sí mismos y lo que significa estar vivo y enamorado.",
+  "trailer": "",
+  "runtime": "92",
+  "slug": "love-me",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/bzcmbf1uurlp",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "bzcmbf1uurlp",
+      "player_url": "https://streamwish.to/e/bzcmbf1uurlp"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/xp24526t2ln7",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xp24526t2ln7",
+      "player_url": "https://vidhidepro.com/v/xp24526t2ln7"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/c4b9fliwtxzk",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "c4b9fliwtxzk",
+      "player_url": "https://voe.sx/e/c4b9fliwtxzk"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/ejdizw8xej4c",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ejdizw8xej4c",
+      "player_url": "https://doodstream.com/e/ejdizw8xej4c"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/ii6fjdv3o19r",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ii6fjdv3o19r",
+      "player_url": "https://streamwish.to/e/ii6fjdv3o19r"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/1lye63r9oz0c",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1lye63r9oz0c",
+      "player_url": "https://vidhidepro.com/v/1lye63r9oz0c"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/5vzid7qeo915",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "5vzid7qeo915",
+      "player_url": "https://voe.sx/e/5vzid7qeo915"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/8q2ql3600f5g",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "8q2ql3600f5g",
+      "player_url": "https://doodstream.com/e/8q2ql3600f5g"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/hj81fx9ze76s",
+      "player_url": "https://minochinos.com/embed/hj81fx9ze76s",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hj81fx9ze76s"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/h868kki2ntmz",
+      "player_url": "https://hglink.to/e/h868kki2ntmz",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h868kki2ntmz"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/ilv3eghjjm3y",
+      "player_url": "https://bysedikamoum.com/e/ilv3eghjjm3y",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ilv3eghjjm3y"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/7ncjwx3zbiuc",
+      "player_url": "https://voe.sx/e/7ncjwx3zbiuc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7ncjwx3zbiuc"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/7ncjwx3zbiuc/download",
+      "player_url": "https://voe.sx/7ncjwx3zbiuc/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/eai6jr2ynx0z",
+      "player_url": "https://rapidvideo.link/e/eai6jr2ynx0z",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eai6jr2ynx0z"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/zpm4oun3g9si",
+      "player_url": "https://minochinos.com/embed/zpm4oun3g9si",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zpm4oun3g9si"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/r5tpmc45lz97",
+      "player_url": "https://hglink.to/e/r5tpmc45lz97",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "r5tpmc45lz97"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/d9r19i51onit",
+      "player_url": "https://bysedikamoum.com/e/d9r19i51onit",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "d9r19i51onit"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/c3k1tulxsh7o",
+      "player_url": "https://voe.sx/e/c3k1tulxsh7o",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c3k1tulxsh7o"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/c3k1tulxsh7o/download",
+      "player_url": "https://voe.sx/c3k1tulxsh7o/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/pfmj9w2iboa4",
+      "player_url": "https://rapidvideo.link/e/pfmj9w2iboa4",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pfmj9w2iboa4"
+    }
+  ]
+}
