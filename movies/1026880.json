@@ -1,1 +1,261 @@
-{"id":1026880,"titulo":"La Promesa de Irene","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/tkMKRTXw9G2wEmcUKD4LNu8kZLz.jpg","release_date":"2024-04-15","genres":["drama"],"rating":"7.5","backdrop":"https://image.tmdb.org/t/p/original/2NR3jzedZIcnfMvj9ii2CSbPMMj.jpg","overview":"Irena Gut, de 19 años, es ascendida a ama de llaves en la casa de un oficial nazi muy respetado en Polonia cuando descubre que el gueto judío está a punto de ser liquidado. Decidida a ayudar a doce trabajadores judíos, decide refugiarlos en el lugar más seguro que se le ocurre: el sótano de la casa del mayor alemán. Durante los siguientes ocho meses, Irena utiliza su ingenio, humor y su inmenso coraje para ocultar a sus amigos el mayor tiempo posible.","trailer":"","runtime":"121","slug":"irenas-vow","servidores":[{"id":1,"url":"https://streamwish.to/e/m1z2v4ois46z","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"m1z2v4ois46z","player_url":"https://streamwish.to/e/m1z2v4ois46z"},{"id":2,"url":"https://vidhidepro.com/v/il77ds51fe3v","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"il77ds51fe3v","player_url":"https://vidhidepro.com/v/il77ds51fe3v"},{"id":3,"url":"https://voe.sx/e/fptbv2zyhpay","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"fptbv2zyhpay","player_url":"https://voe.sx/e/fptbv2zyhpay"},{"id":4,"url":"https://doodstream.com/e/bhl5thmxwh2s","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"bhl5thmxwh2s","player_url":"https://doodstream.com/e/bhl5thmxwh2s"},{"id":5,"url":"https://streamwish.to/e/hcz67tqge8n3","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hcz67tqge8n3","player_url":"https://streamwish.to/e/hcz67tqge8n3"},{"id":6,"url":"https://vidhidepro.com/v/q5uy9vzw52l4","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"q5uy9vzw52l4","player_url":"https://vidhidepro.com/v/q5uy9vzw52l4"},{"id":7,"url":"https://doodstream.com/e/4r1c4q8tqody","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"4r1c4q8tqody","player_url":"https://doodstream.com/e/4r1c4q8tqody"},{"id":8,"url":"https://streamwish.to/e/v0shapurbuw8","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"v0shapurbuw8","player_url":"https://streamwish.to/e/v0shapurbuw8"},{"id":9,"url":"https://vidhidepro.com/v/ze0vua5q4t5i","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"ze0vua5q4t5i","player_url":"https://vidhidepro.com/v/ze0vua5q4t5i"},{"id":10,"url":"https://doodstream.com/e/cb3xhgvmde95","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"cb3xhgvmde95","player_url":"https://doodstream.com/e/cb3xhgvmde95"}]}
+{
+  "id": 1026880,
+  "titulo": "La Promesa de Irene",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/tkMKRTXw9G2wEmcUKD4LNu8kZLz.jpg",
+  "release_date": "2024-04-15",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/2NR3jzedZIcnfMvj9ii2CSbPMMj.jpg",
+  "overview": "Irena Gut, de 19 años, es ascendida a ama de llaves en la casa de un oficial nazi muy respetado en Polonia cuando descubre que el gueto judío está a punto de ser liquidado. Decidida a ayudar a doce trabajadores judíos, decide refugiarlos en el lugar más seguro que se le ocurre: el sótano de la casa del mayor alemán. Durante los siguientes ocho meses, Irena utiliza su ingenio, humor y su inmenso coraje para ocultar a sus amigos el mayor tiempo posible.",
+  "trailer": "",
+  "runtime": "121",
+  "slug": "irenas-vow",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/m1z2v4ois46z",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "m1z2v4ois46z",
+      "player_url": "https://streamwish.to/e/m1z2v4ois46z"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/il77ds51fe3v",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "il77ds51fe3v",
+      "player_url": "https://vidhidepro.com/v/il77ds51fe3v"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/fptbv2zyhpay",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "fptbv2zyhpay",
+      "player_url": "https://voe.sx/e/fptbv2zyhpay"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/bhl5thmxwh2s",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "bhl5thmxwh2s",
+      "player_url": "https://doodstream.com/e/bhl5thmxwh2s"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/hcz67tqge8n3",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hcz67tqge8n3",
+      "player_url": "https://streamwish.to/e/hcz67tqge8n3"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/q5uy9vzw52l4",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "q5uy9vzw52l4",
+      "player_url": "https://vidhidepro.com/v/q5uy9vzw52l4"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/4r1c4q8tqody",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "4r1c4q8tqody",
+      "player_url": "https://doodstream.com/e/4r1c4q8tqody"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/v0shapurbuw8",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "v0shapurbuw8",
+      "player_url": "https://streamwish.to/e/v0shapurbuw8"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/ze0vua5q4t5i",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ze0vua5q4t5i",
+      "player_url": "https://vidhidepro.com/v/ze0vua5q4t5i"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/cb3xhgvmde95",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "cb3xhgvmde95",
+      "player_url": "https://doodstream.com/e/cb3xhgvmde95"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/sqh9jfcf1frk",
+      "player_url": "https://minochinos.com/embed/sqh9jfcf1frk",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sqh9jfcf1frk"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/99gkh6xvt5mc",
+      "player_url": "https://hglink.to/e/99gkh6xvt5mc",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "99gkh6xvt5mc"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/hkjgske5xwqb",
+      "player_url": "https://bysedikamoum.com/e/hkjgske5xwqb",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hkjgske5xwqb"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/29rxvpqopstp",
+      "player_url": "https://voe.sx/e/29rxvpqopstp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "29rxvpqopstp"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/29rxvpqopstp/download",
+      "player_url": "https://voe.sx/29rxvpqopstp/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/uxt79z4yqa50",
+      "player_url": "https://rapidvideo.link/e/uxt79z4yqa50",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uxt79z4yqa50"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/0tcratifeidv",
+      "player_url": "https://minochinos.com/embed/0tcratifeidv",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0tcratifeidv"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/te34qr4rlnet",
+      "player_url": "https://hglink.to/e/te34qr4rlnet",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "te34qr4rlnet"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/lu1yfstgu0md",
+      "player_url": "https://bysedikamoum.com/e/lu1yfstgu0md",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lu1yfstgu0md"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/ra1io1jww1sf",
+      "player_url": "https://voe.sx/e/ra1io1jww1sf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ra1io1jww1sf"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/0lrk4ce6gmd8",
+      "player_url": "https://rapidvideo.link/e/0lrk4ce6gmd8",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0lrk4ce6gmd8"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/kio3sq4cco2r",
+      "player_url": "https://minochinos.com/embed/kio3sq4cco2r",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kio3sq4cco2r"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/pjawebz22r5o",
+      "player_url": "https://hglink.to/e/pjawebz22r5o",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pjawebz22r5o"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/xpsjxgmytzqa",
+      "player_url": "https://bysedikamoum.com/e/xpsjxgmytzqa",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xpsjxgmytzqa"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/8epsq8eklis4",
+      "player_url": "https://voe.sx/e/8epsq8eklis4",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8epsq8eklis4"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/8epsq8eklis4/download",
+      "player_url": "https://voe.sx/8epsq8eklis4/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/0y9fa46p8mrx",
+      "player_url": "https://rapidvideo.link/e/0y9fa46p8mrx",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0y9fa46p8mrx"
+    }
+  ]
+}
