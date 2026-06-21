@@ -1,1 +1,255 @@
-{"id":950387,"titulo":"Una película de Minecraft","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg","release_date":"2025-03-31","genres":[],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg","overview":"Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.","trailer":"","runtime":"101","slug":"una-pelicula-de-minecraft","servidores":[{"id":1,"url":"https://streamwish.to/e/ys4fcw6u0chr","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"ys4fcw6u0chr","player_url":"https://streamwish.to/e/ys4fcw6u0chr"},{"id":2,"url":"https://bysejikuar.com/e/9ctf2t0zmzur","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"9ctf2t0zmzur","player_url":"https://bysejikuar.com/e/9ctf2t0zmzur"},{"id":3,"url":"https://vidhidepro.com/v/1uql3aoorak8","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"1uql3aoorak8","player_url":"https://vidhidepro.com/v/1uql3aoorak8"},{"id":4,"url":"https://voe.sx/e/fchwjtckcnp9","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"fchwjtckcnp9","player_url":"https://voe.sx/e/fchwjtckcnp9"},{"id":5,"url":"https://doodstream.com/e/1zl7a3itkze7","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"1zl7a3itkze7","player_url":"https://doodstream.com/e/1zl7a3itkze7"},{"id":6,"url":"https://streamwish.to/e/7kq9cnvfpdcw","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"7kq9cnvfpdcw","player_url":"https://streamwish.to/e/7kq9cnvfpdcw"},{"id":7,"url":"https://bysejikuar.com/e/je9pmqkjpbr4","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"je9pmqkjpbr4","player_url":"https://bysejikuar.com/e/je9pmqkjpbr4"},{"id":8,"url":"https://vidhidepro.com/v/okwt716l8l8r","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"okwt716l8l8r","player_url":"https://vidhidepro.com/v/okwt716l8l8r"},{"id":9,"url":"https://voe.sx/e/v9qyjcsalmpn","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"v9qyjcsalmpn","player_url":"https://voe.sx/e/v9qyjcsalmpn"},{"id":10,"url":"https://doodstream.com/e/o66mgpbkdxmy","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"o66mgpbkdxmy","player_url":"https://doodstream.com/e/o66mgpbkdxmy"}]}
+{
+  "id": 950387,
+  "titulo": "Una película de Minecraft",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg",
+  "release_date": "2025-03-31",
+  "genres": [
+    "Familia",
+    "Comedia",
+    "Aventura",
+    "Fantasía"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+  "overview": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+  "trailer": "",
+  "runtime": "101",
+  "slug": "una-pelicula-de-minecraft",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ys4fcw6u0chr",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ys4fcw6u0chr",
+      "player_url": "https://streamwish.to/e/ys4fcw6u0chr"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/9ctf2t0zmzur",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "9ctf2t0zmzur",
+      "player_url": "https://bysejikuar.com/e/9ctf2t0zmzur"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/1uql3aoorak8",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1uql3aoorak8",
+      "player_url": "https://vidhidepro.com/v/1uql3aoorak8"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/fchwjtckcnp9",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "fchwjtckcnp9",
+      "player_url": "https://voe.sx/e/fchwjtckcnp9"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/1zl7a3itkze7",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "1zl7a3itkze7",
+      "player_url": "https://doodstream.com/e/1zl7a3itkze7"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/7kq9cnvfpdcw",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7kq9cnvfpdcw",
+      "player_url": "https://streamwish.to/e/7kq9cnvfpdcw"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/je9pmqkjpbr4",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "je9pmqkjpbr4",
+      "player_url": "https://bysejikuar.com/e/je9pmqkjpbr4"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/okwt716l8l8r",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "okwt716l8l8r",
+      "player_url": "https://vidhidepro.com/v/okwt716l8l8r"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/v9qyjcsalmpn",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "v9qyjcsalmpn",
+      "player_url": "https://voe.sx/e/v9qyjcsalmpn"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/o66mgpbkdxmy",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "o66mgpbkdxmy",
+      "player_url": "https://doodstream.com/e/o66mgpbkdxmy"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/hwdowj1cpcrv",
+      "player_url": "https://minochinos.com/embed/hwdowj1cpcrv",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hwdowj1cpcrv"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/b4whkh9uxwnh",
+      "player_url": "https://hglink.to/e/b4whkh9uxwnh",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b4whkh9uxwnh"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/e3ztp87c9ib9",
+      "player_url": "https://bysedikamoum.com/e/e3ztp87c9ib9",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e3ztp87c9ib9"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/ip905wfbhz4m",
+      "player_url": "https://rapidvideo.link/e/ip905wfbhz4m",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ip905wfbhz4m"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/m3w6pm4xjwm6",
+      "player_url": "https://minochinos.com/embed/m3w6pm4xjwm6",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m3w6pm4xjwm6"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/wzsg4n0ldlpv",
+      "player_url": "https://hglink.to/e/wzsg4n0ldlpv",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wzsg4n0ldlpv"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/ntr90zab4n67",
+      "player_url": "https://bysedikamoum.com/e/ntr90zab4n67",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ntr90zab4n67"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/jz9zhuxfqal1",
+      "player_url": "https://voe.sx/e/jz9zhuxfqal1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jz9zhuxfqal1"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/jz9zhuxfqal1/download",
+      "player_url": "https://voe.sx/jz9zhuxfqal1/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/iqetdfg2bhnr",
+      "player_url": "https://rapidvideo.link/e/iqetdfg2bhnr",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iqetdfg2bhnr"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/a38gwhwl8zr8",
+      "player_url": "https://minochinos.com/embed/a38gwhwl8zr8",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "a38gwhwl8zr8"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/bl72x1y3bbz3",
+      "player_url": "https://hglink.to/e/bl72x1y3bbz3",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bl72x1y3bbz3"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/v7s0njq2e5fl",
+      "player_url": "https://bysedikamoum.com/e/v7s0njq2e5fl",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "v7s0njq2e5fl"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/fdncfpbyfcue",
+      "player_url": "https://voe.sx/e/fdncfpbyfcue",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fdncfpbyfcue"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/fdncfpbyfcue/download",
+      "player_url": "https://voe.sx/fdncfpbyfcue/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/5pqgu0hfbyrk",
+      "player_url": "https://rapidvideo.link/e/5pqgu0hfbyrk",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5pqgu0hfbyrk"
+    }
+  ]
+}
