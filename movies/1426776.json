@@ -1,1 +1,279 @@
-{"id":1426776,"titulo":"Harta","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/eAf8Is1xX4gq4Jk14iFC1qhmT8R.jpg","release_date":"2025-06-05","genres":["drama"],"rating":"7.7","backdrop":"https://image.tmdb.org/t/p/original/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg","overview":"¿Cuál será la gota que colmará el vaso? Un día terriblemente malo lleva a una madre sola muy trabajadora al límite... y a cometer un sorprendente acto de desesperación.","trailer":"","runtime":"105","slug":"harta","servidores":[{"id":1,"url":"https://streamwish.to/e/nlsl7c21490i","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"nlsl7c21490i","player_url":"https://streamwish.to/e/nlsl7c21490i"},{"id":2,"url":"https://vidhidepro.com/v/d7g4874wrqd3","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"d7g4874wrqd3","player_url":"https://vidhidepro.com/v/d7g4874wrqd3"},{"id":3,"url":"https://voe.sx/e/qz5cshzwpiqd","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"qz5cshzwpiqd","player_url":"https://voe.sx/e/qz5cshzwpiqd"},{"id":4,"url":"https://doodstream.com/e/l1rrc5h13p69","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"l1rrc5h13p69","player_url":"https://doodstream.com/e/l1rrc5h13p69"},{"id":5,"url":"https://streamwish.to/e/7amnvh5z21pq","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"7amnvh5z21pq","player_url":"https://streamwish.to/e/7amnvh5z21pq"},{"id":6,"url":"https://vidhidepro.com/v/6tgpj5nhmeod","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"6tgpj5nhmeod","player_url":"https://vidhidepro.com/v/6tgpj5nhmeod"},{"id":7,"url":"https://voe.sx/e/srdkmnhkirtl","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"srdkmnhkirtl","player_url":"https://voe.sx/e/srdkmnhkirtl"},{"id":8,"url":"https://doodstream.com/e/702dtg26xnso","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"702dtg26xnso","player_url":"https://doodstream.com/e/702dtg26xnso"},{"id":9,"url":"https://streamwish.to/e/lm6bob835uv2","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"lm6bob835uv2","player_url":"https://streamwish.to/e/lm6bob835uv2"},{"id":10,"url":"https://vidhidepro.com/v/rqm55lwxk2xn","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"rqm55lwxk2xn","player_url":"https://vidhidepro.com/v/rqm55lwxk2xn"},{"id":11,"url":"https://voe.sx/e/wrelrgnr7lvb","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"wrelrgnr7lvb","player_url":"https://voe.sx/e/wrelrgnr7lvb"},{"id":12,"url":"https://doodstream.com/e/evzq2j2xqdoc","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"evzq2j2xqdoc","player_url":"https://doodstream.com/e/evzq2j2xqdoc"}]}
+{
+  "id": 1426776,
+  "titulo": "Harta",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/eAf8Is1xX4gq4Jk14iFC1qhmT8R.jpg",
+  "release_date": "2025-06-05",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
+  "overview": "¿Cuál será la gota que colmará el vaso? Un día terriblemente malo lleva a una madre sola muy trabajadora al límite... y a cometer un sorprendente acto de desesperación.",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "harta",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/nlsl7c21490i",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "nlsl7c21490i",
+      "player_url": "https://streamwish.to/e/nlsl7c21490i"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/d7g4874wrqd3",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "d7g4874wrqd3",
+      "player_url": "https://vidhidepro.com/v/d7g4874wrqd3"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/qz5cshzwpiqd",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qz5cshzwpiqd",
+      "player_url": "https://voe.sx/e/qz5cshzwpiqd"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/l1rrc5h13p69",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "l1rrc5h13p69",
+      "player_url": "https://doodstream.com/e/l1rrc5h13p69"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/7amnvh5z21pq",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7amnvh5z21pq",
+      "player_url": "https://streamwish.to/e/7amnvh5z21pq"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/6tgpj5nhmeod",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "6tgpj5nhmeod",
+      "player_url": "https://vidhidepro.com/v/6tgpj5nhmeod"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/srdkmnhkirtl",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "srdkmnhkirtl",
+      "player_url": "https://voe.sx/e/srdkmnhkirtl"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/702dtg26xnso",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "702dtg26xnso",
+      "player_url": "https://doodstream.com/e/702dtg26xnso"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/lm6bob835uv2",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lm6bob835uv2",
+      "player_url": "https://streamwish.to/e/lm6bob835uv2"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/rqm55lwxk2xn",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rqm55lwxk2xn",
+      "player_url": "https://vidhidepro.com/v/rqm55lwxk2xn"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/wrelrgnr7lvb",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "wrelrgnr7lvb",
+      "player_url": "https://voe.sx/e/wrelrgnr7lvb"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/evzq2j2xqdoc",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "evzq2j2xqdoc",
+      "player_url": "https://doodstream.com/e/evzq2j2xqdoc"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/y9i0tkcalbm2",
+      "player_url": "https://minochinos.com/embed/y9i0tkcalbm2",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y9i0tkcalbm2"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/4sh5e0j8bah2",
+      "player_url": "https://hglink.to/e/4sh5e0j8bah2",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4sh5e0j8bah2"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/ryywb8lvdpfh",
+      "player_url": "https://bysedikamoum.com/e/ryywb8lvdpfh",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ryywb8lvdpfh"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/khu4lasflj33",
+      "player_url": "https://voe.sx/e/khu4lasflj33",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "khu4lasflj33"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/khu4lasflj33/download",
+      "player_url": "https://voe.sx/khu4lasflj33/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/e8ua0mvby715",
+      "player_url": "https://rapidvideo.link/e/e8ua0mvby715",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e8ua0mvby715"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/czbq9omry8b2",
+      "player_url": "https://minochinos.com/embed/czbq9omry8b2",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "czbq9omry8b2"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/ya4rs3ebqpof",
+      "player_url": "https://hglink.to/e/ya4rs3ebqpof",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ya4rs3ebqpof"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/7sj606z0dgi2",
+      "player_url": "https://bysedikamoum.com/e/7sj606z0dgi2",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7sj606z0dgi2"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/izxqor8i5nal",
+      "player_url": "https://voe.sx/e/izxqor8i5nal",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "izxqor8i5nal"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/nabmvp0z1st6",
+      "player_url": "https://rapidvideo.link/e/nabmvp0z1st6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nabmvp0z1st6"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/ui70xsufekd7",
+      "player_url": "https://minochinos.com/embed/ui70xsufekd7",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ui70xsufekd7"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/y36og0vv2piy",
+      "player_url": "https://hglink.to/e/y36og0vv2piy",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "y36og0vv2piy"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/ikk7y0rimof5",
+      "player_url": "https://bysedikamoum.com/e/ikk7y0rimof5",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ikk7y0rimof5"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/zgrjjha23ntj",
+      "player_url": "https://voe.sx/e/zgrjjha23ntj",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zgrjjha23ntj"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/zgrjjha23ntj/download",
+      "player_url": "https://voe.sx/zgrjjha23ntj/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/qjemvk6103rg",
+      "player_url": "https://rapidvideo.link/e/qjemvk6103rg",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qjemvk6103rg"
+    }
+  ]
+}
