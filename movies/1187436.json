@@ -1,1 +1,252 @@
-{"id":1187436,"titulo":"Una vida honrada","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg","release_date":"2025-07-30","genres":["drama"],"rating":"5.5","backdrop":"https://image.tmdb.org/t/p/original/9anJSe71q4nwUI1GcbM1LCxMAAd.jpg","overview":"Un cínico estudiante de Derecho en busca de inspiración se une a una banda de anarquistas y termina atrapado en una red de delitos en la que es más un peón que un jugador.","trailer":"","runtime":"122","slug":"una-vida-honrada","servidores":[{"id":1,"url":"https://streamwish.to/e/c1lfsttofjsz","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"c1lfsttofjsz","player_url":"https://streamwish.to/e/c1lfsttofjsz"},{"id":2,"url":"https://vidhidepro.com/v/6l9me0dr87zi","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"6l9me0dr87zi","player_url":"https://vidhidepro.com/v/6l9me0dr87zi"},{"id":3,"url":"https://voe.sx/e/j457gzjbqcpk","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"j457gzjbqcpk","player_url":"https://voe.sx/e/j457gzjbqcpk"},{"id":4,"url":"https://streamwish.to/e/c5ocg1pce2ok","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"c5ocg1pce2ok","player_url":"https://streamwish.to/e/c5ocg1pce2ok"},{"id":5,"url":"https://vidhidepro.com/v/t815672iylm8","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"t815672iylm8","player_url":"https://vidhidepro.com/v/t815672iylm8"},{"id":6,"url":"https://voe.sx/e/jjgmlwexh1on","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"jjgmlwexh1on","player_url":"https://voe.sx/e/jjgmlwexh1on"},{"id":7,"url":"https://streamwish.to/e/j0fys5oqr3mg","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"j0fys5oqr3mg","player_url":"https://streamwish.to/e/j0fys5oqr3mg"},{"id":8,"url":"https://vidhidepro.com/v/lovsc3q1cztd","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"lovsc3q1cztd","player_url":"https://vidhidepro.com/v/lovsc3q1cztd"},{"id":9,"url":"https://voe.sx/e/nmeqxlkh9gon","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"nmeqxlkh9gon","player_url":"https://voe.sx/e/nmeqxlkh9gon"}]}
+{
+  "id": 1187436,
+  "titulo": "Una vida honrada",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg",
+  "release_date": "2025-07-30",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/9anJSe71q4nwUI1GcbM1LCxMAAd.jpg",
+  "overview": "Un cínico estudiante de Derecho en busca de inspiración se une a una banda de anarquistas y termina atrapado en una red de delitos en la que es más un peón que un jugador.",
+  "trailer": "",
+  "runtime": "122",
+  "slug": "una-vida-honrada",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/c1lfsttofjsz",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "c1lfsttofjsz",
+      "player_url": "https://streamwish.to/e/c1lfsttofjsz"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/6l9me0dr87zi",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "6l9me0dr87zi",
+      "player_url": "https://vidhidepro.com/v/6l9me0dr87zi"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/j457gzjbqcpk",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "j457gzjbqcpk",
+      "player_url": "https://voe.sx/e/j457gzjbqcpk"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/c5ocg1pce2ok",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "c5ocg1pce2ok",
+      "player_url": "https://streamwish.to/e/c5ocg1pce2ok"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/t815672iylm8",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "t815672iylm8",
+      "player_url": "https://vidhidepro.com/v/t815672iylm8"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/jjgmlwexh1on",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jjgmlwexh1on",
+      "player_url": "https://voe.sx/e/jjgmlwexh1on"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/j0fys5oqr3mg",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "j0fys5oqr3mg",
+      "player_url": "https://streamwish.to/e/j0fys5oqr3mg"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/lovsc3q1cztd",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "lovsc3q1cztd",
+      "player_url": "https://vidhidepro.com/v/lovsc3q1cztd"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/nmeqxlkh9gon",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "nmeqxlkh9gon",
+      "player_url": "https://voe.sx/e/nmeqxlkh9gon"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/8rwkz79pepf5",
+      "player_url": "https://minochinos.com/embed/8rwkz79pepf5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8rwkz79pepf5"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/isre3qglfzs9",
+      "player_url": "https://hglink.to/e/isre3qglfzs9",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "isre3qglfzs9"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/9835v5r4rlex",
+      "player_url": "https://bysedikamoum.com/e/9835v5r4rlex",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9835v5r4rlex"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/xoneytqqlshm",
+      "player_url": "https://voe.sx/e/xoneytqqlshm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xoneytqqlshm"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/xoneytqqlshm/download",
+      "player_url": "https://voe.sx/xoneytqqlshm/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/jb8wl2a6xyk7",
+      "player_url": "https://rapidvideo.link/e/jb8wl2a6xyk7",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jb8wl2a6xyk7"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/jtvkwj2abxe7",
+      "player_url": "https://minochinos.com/embed/jtvkwj2abxe7",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jtvkwj2abxe7"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/ydd1qhnyyajv",
+      "player_url": "https://hglink.to/e/ydd1qhnyyajv",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ydd1qhnyyajv"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/9ihtpim7pjth",
+      "player_url": "https://bysedikamoum.com/e/9ihtpim7pjth",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9ihtpim7pjth"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/0lucrmtujfa2",
+      "player_url": "https://voe.sx/e/0lucrmtujfa2",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0lucrmtujfa2"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/ypc7t3veq86d",
+      "player_url": "https://rapidvideo.link/e/ypc7t3veq86d",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ypc7t3veq86d"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/p58d1tqrnwme",
+      "player_url": "https://minochinos.com/embed/p58d1tqrnwme",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "p58d1tqrnwme"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/5ba5bj43judx",
+      "player_url": "https://hglink.to/e/5ba5bj43judx",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5ba5bj43judx"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/4u1gew5bl78g",
+      "player_url": "https://bysedikamoum.com/e/4u1gew5bl78g",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4u1gew5bl78g"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/oxu5avrsniu0",
+      "player_url": "https://voe.sx/e/oxu5avrsniu0",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "oxu5avrsniu0"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/oxu5avrsniu0/download",
+      "player_url": "https://voe.sx/oxu5avrsniu0/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/e73x2gjwdc98",
+      "player_url": "https://rapidvideo.link/e/e73x2gjwdc98",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "e73x2gjwdc98"
+    }
+  ]
+}
