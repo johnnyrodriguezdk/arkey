@@ -1,1 +1,200 @@
-{"id":1352643,"titulo":"Never Blink","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/b2TeT4RNiP2uNYrYYiOXzSg3qg6.jpg","release_date":"2025-05-16","genres":[],"rating":"4.4","backdrop":"https://image.tmdb.org/t/p/original/4SGYJhFkAx3xUGGrXGb7gnl2NJn.jpg","overview":"Five medical students discover a way to capture what you can't see when you blink and the results are terrifying. A frightening journey into the macabre world that will make you never blink again. In a blink of an eye, you will die.","trailer":"","runtime":"113","slug":"never-blink","servidores":[{"id":1,"url":"https://bysejikuar.com/e/vwgq6c4tug7p","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"vwgq6c4tug7p","player_url":"https://bysejikuar.com/e/vwgq6c4tug7p"},{"id":2,"url":"https://vidhidepro.com/v/if2oo117lgzq","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"if2oo117lgzq","player_url":"https://vidhidepro.com/v/if2oo117lgzq"},{"id":3,"url":"https://voe.sx/e/iwpkhrf1hsym","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"iwpkhrf1hsym","player_url":"https://voe.sx/e/iwpkhrf1hsym"},{"id":4,"url":"https://doodstream.com/e/f84tyt9ejlxz","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"f84tyt9ejlxz","player_url":"https://doodstream.com/e/f84tyt9ejlxz"},{"id":5,"url":"https://bysejikuar.com/e/5vzjy17n5u58","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"5vzjy17n5u58","player_url":"https://bysejikuar.com/e/5vzjy17n5u58"},{"id":6,"url":"https://vidhidepro.com/v/ewsewe15ue12","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ewsewe15ue12","player_url":"https://vidhidepro.com/v/ewsewe15ue12"},{"id":7,"url":"https://voe.sx/e/9gu2fq4wswu9","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"9gu2fq4wswu9","player_url":"https://voe.sx/e/9gu2fq4wswu9"},{"id":8,"url":"https://doodstream.com/e/cottwoxa5eak","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"cottwoxa5eak","player_url":"https://doodstream.com/e/cottwoxa5eak"}]}
+{
+  "id": 1352643,
+  "titulo": "Never Blink",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/b2TeT4RNiP2uNYrYYiOXzSg3qg6.jpg",
+  "release_date": "2025-05-16",
+  "genres": [
+    "Terror",
+    "Ciencia Ficción",
+    "Suspense"
+  ],
+  "rating": "4.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/4SGYJhFkAx3xUGGrXGb7gnl2NJn.jpg",
+  "overview": "Five medical students discover a way to capture what you can't see when you blink and the results are terrifying. A frightening journey into the macabre world that will make you never blink again. In a blink of an eye, you will die.",
+  "trailer": "",
+  "runtime": "113",
+  "slug": "never-blink",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://bysejikuar.com/e/vwgq6c4tug7p",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "vwgq6c4tug7p",
+      "player_url": "https://bysejikuar.com/e/vwgq6c4tug7p"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/if2oo117lgzq",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "if2oo117lgzq",
+      "player_url": "https://vidhidepro.com/v/if2oo117lgzq"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/iwpkhrf1hsym",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "iwpkhrf1hsym",
+      "player_url": "https://voe.sx/e/iwpkhrf1hsym"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/f84tyt9ejlxz",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "f84tyt9ejlxz",
+      "player_url": "https://doodstream.com/e/f84tyt9ejlxz"
+    },
+    {
+      "id": 5,
+      "url": "https://bysejikuar.com/e/5vzjy17n5u58",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "5vzjy17n5u58",
+      "player_url": "https://bysejikuar.com/e/5vzjy17n5u58"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/ewsewe15ue12",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ewsewe15ue12",
+      "player_url": "https://vidhidepro.com/v/ewsewe15ue12"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/9gu2fq4wswu9",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "9gu2fq4wswu9",
+      "player_url": "https://voe.sx/e/9gu2fq4wswu9"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/cottwoxa5eak",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "cottwoxa5eak",
+      "player_url": "https://doodstream.com/e/cottwoxa5eak"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/a54gxnympzn5",
+      "player_url": "https://minochinos.com/embed/a54gxnympzn5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a54gxnympzn5"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/5whnz9l6wslp",
+      "player_url": "https://hglink.to/e/5whnz9l6wslp",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5whnz9l6wslp"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/y0cyf4hsk9xg",
+      "player_url": "https://bysedikamoum.com/e/y0cyf4hsk9xg",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y0cyf4hsk9xg"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/dopqq8lj9pog",
+      "player_url": "https://voe.sx/e/dopqq8lj9pog",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dopqq8lj9pog"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/dopqq8lj9pog/download",
+      "player_url": "https://voe.sx/dopqq8lj9pog/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/oaqeu13kcphw",
+      "player_url": "https://rapidvideo.link/e/oaqeu13kcphw",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oaqeu13kcphw"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/suuer1ueh368",
+      "player_url": "https://minochinos.com/embed/suuer1ueh368",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "suuer1ueh368"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/ozkv8csaqthm",
+      "player_url": "https://hglink.to/e/ozkv8csaqthm",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ozkv8csaqthm"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/zyqvyy9l4hpe",
+      "player_url": "https://bysedikamoum.com/e/zyqvyy9l4hpe",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zyqvyy9l4hpe"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/p2h1iflznp9l",
+      "player_url": "https://voe.sx/e/p2h1iflznp9l",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "p2h1iflznp9l"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/p2h1iflznp9l/download",
+      "player_url": "https://voe.sx/p2h1iflznp9l/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/1nhfq8ptb6va",
+      "player_url": "https://rapidvideo.link/e/1nhfq8ptb6va",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1nhfq8ptb6va"
+    }
+  ]
+}
