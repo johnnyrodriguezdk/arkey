@@ -1,1 +1,254 @@
-{"id":749170,"titulo":"Jefes de Estado","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/2CSdwqOUMH23cEBodqAJynMFz7c.jpg","release_date":"2025-06-24","genres":[],"rating":"6.8","backdrop":"https://image.tmdb.org/t/p/original/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg","overview":"El Primer Ministro del Reino Unido (Idris Elba) y el Presidente de los Estados Unidos (John Cena) mantienen una rivalidad pública que pone en peligro la alianza de sus países. Pero cuando se convierten en objetivos de un poderoso enemigo, se ven obligados a confiar el uno en el otro mientras emprenden una alocada carrera multinacional. Aliados con Noel, una brillante agente del MI6 (Priyanka Chopra Jonas), deben encontrar la forma de frustrar una conspiración que amenaza al mundo libre.","trailer":"","runtime":"117","slug":"jefes-de-estado","servidores":[{"id":1,"url":"https://streamwish.to/e/kae08c7v3pi5","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"kae08c7v3pi5","player_url":"https://streamwish.to/e/kae08c7v3pi5"},{"id":2,"url":"https://vidhidepro.com/v/5dw51hhkiv7v","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"5dw51hhkiv7v","player_url":"https://vidhidepro.com/v/5dw51hhkiv7v"},{"id":3,"url":"https://voe.sx/e/uitvovkejnbu","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"uitvovkejnbu","player_url":"https://voe.sx/e/uitvovkejnbu"},{"id":4,"url":"https://streamwish.to/e/gvx54sce8ccg","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"gvx54sce8ccg","player_url":"https://streamwish.to/e/gvx54sce8ccg"},{"id":5,"url":"https://vidhidepro.com/v/0pua0h9p7ood","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"0pua0h9p7ood","player_url":"https://vidhidepro.com/v/0pua0h9p7ood"},{"id":6,"url":"https://voe.sx/e/buqt5sqqtc6o","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"buqt5sqqtc6o","player_url":"https://voe.sx/e/buqt5sqqtc6o"},{"id":7,"url":"https://streamwish.to/e/mpxa3c0muqle","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"mpxa3c0muqle","player_url":"https://streamwish.to/e/mpxa3c0muqle"},{"id":8,"url":"https://vidhidepro.com/v/h59h1v7t5wk6","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"h59h1v7t5wk6","player_url":"https://vidhidepro.com/v/h59h1v7t5wk6"},{"id":9,"url":"https://voe.sx/e/58tcvervyqpz","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"58tcvervyqpz","player_url":"https://voe.sx/e/58tcvervyqpz"}]}
+{
+  "id": 749170,
+  "titulo": "Jefes de Estado",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
+  "release_date": "2025-06-24",
+  "genres": [
+    "Acción",
+    "Suspense",
+    "Comedia"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg",
+  "overview": "El Primer Ministro del Reino Unido (Idris Elba) y el Presidente de los Estados Unidos (John Cena) mantienen una rivalidad pública que pone en peligro la alianza de sus países. Pero cuando se convierten en objetivos de un poderoso enemigo, se ven obligados a confiar el uno en el otro mientras emprenden una alocada carrera multinacional. Aliados con Noel, una brillante agente del MI6 (Priyanka Chopra Jonas), deben encontrar la forma de frustrar una conspiración que amenaza al mundo libre.",
+  "trailer": "",
+  "runtime": "117",
+  "slug": "jefes-de-estado",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/kae08c7v3pi5",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "kae08c7v3pi5",
+      "player_url": "https://streamwish.to/e/kae08c7v3pi5"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/5dw51hhkiv7v",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5dw51hhkiv7v",
+      "player_url": "https://vidhidepro.com/v/5dw51hhkiv7v"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/uitvovkejnbu",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "uitvovkejnbu",
+      "player_url": "https://voe.sx/e/uitvovkejnbu"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/gvx54sce8ccg",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "gvx54sce8ccg",
+      "player_url": "https://streamwish.to/e/gvx54sce8ccg"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/0pua0h9p7ood",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0pua0h9p7ood",
+      "player_url": "https://vidhidepro.com/v/0pua0h9p7ood"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/buqt5sqqtc6o",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "buqt5sqqtc6o",
+      "player_url": "https://voe.sx/e/buqt5sqqtc6o"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/mpxa3c0muqle",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mpxa3c0muqle",
+      "player_url": "https://streamwish.to/e/mpxa3c0muqle"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/h59h1v7t5wk6",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "h59h1v7t5wk6",
+      "player_url": "https://vidhidepro.com/v/h59h1v7t5wk6"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/58tcvervyqpz",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "58tcvervyqpz",
+      "player_url": "https://voe.sx/e/58tcvervyqpz"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/el0cp420rn3j",
+      "player_url": "https://minochinos.com/embed/el0cp420rn3j",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "el0cp420rn3j"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/tkdcq9ciqdts",
+      "player_url": "https://hglink.to/e/tkdcq9ciqdts",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tkdcq9ciqdts"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/1yhroptlx6tw",
+      "player_url": "https://bysedikamoum.com/e/1yhroptlx6tw",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1yhroptlx6tw"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/l9uo9wlo791j",
+      "player_url": "https://voe.sx/e/l9uo9wlo791j",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l9uo9wlo791j"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/l9uo9wlo791j/download",
+      "player_url": "https://voe.sx/l9uo9wlo791j/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/usfvhe4ci13t",
+      "player_url": "https://rapidvideo.link/e/usfvhe4ci13t",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "usfvhe4ci13t"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/b5n4ftuuiy1x",
+      "player_url": "https://minochinos.com/embed/b5n4ftuuiy1x",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b5n4ftuuiy1x"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/l61qcapm6w5d",
+      "player_url": "https://hglink.to/e/l61qcapm6w5d",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l61qcapm6w5d"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/nrg2oq21gw87",
+      "player_url": "https://bysedikamoum.com/e/nrg2oq21gw87",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nrg2oq21gw87"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/bs8wnlbhxc2r",
+      "player_url": "https://voe.sx/e/bs8wnlbhxc2r",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bs8wnlbhxc2r"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/0xghdes9tl1m",
+      "player_url": "https://rapidvideo.link/e/0xghdes9tl1m",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0xghdes9tl1m"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/gbijk73cqc7c",
+      "player_url": "https://minochinos.com/embed/gbijk73cqc7c",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gbijk73cqc7c"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/koy2yqh0sjor",
+      "player_url": "https://hglink.to/e/koy2yqh0sjor",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "koy2yqh0sjor"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/lldp1f0vn4sp",
+      "player_url": "https://bysedikamoum.com/e/lldp1f0vn4sp",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lldp1f0vn4sp"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/5sl8banl8cg2",
+      "player_url": "https://voe.sx/e/5sl8banl8cg2",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5sl8banl8cg2"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/5sl8banl8cg2/download",
+      "player_url": "https://voe.sx/5sl8banl8cg2/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/uw89q206xska",
+      "player_url": "https://rapidvideo.link/e/uw89q206xska",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "uw89q206xska"
+    }
+  ]
+}
