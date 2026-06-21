@@ -1,1 +1,273 @@
-{"id":1296404,"titulo":"Buenas noticias","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/zER9LQ7bWpuMRxtVeZ4toDc7PnM.jpg","release_date":"2025-09-05","genres":[],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/dNYo4Qg3CnZFbzeet59d4cdhRkK.jpg","overview":"Un avión que partió de Japón es secuestrado en el aire y sus captores exigen que aterrice en Pyongyang, pero una mente misteriosa tiene un plan para llevar el vuelo a Seúl.","trailer":"","runtime":"136","slug":"buenas-noticias","servidores":[{"id":1,"url":"https://streamwish.to/e/tr8g61ugy0wr","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"tr8g61ugy0wr","player_url":"https://streamwish.to/e/tr8g61ugy0wr"},{"id":2,"url":"https://vidhidepro.com/v/2zirkp14xm59","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"2zirkp14xm59","player_url":"https://vidhidepro.com/v/2zirkp14xm59"},{"id":3,"url":"https://voe.sx/e/80zmgnipm7su","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"80zmgnipm7su","player_url":"https://voe.sx/e/80zmgnipm7su"},{"id":4,"url":"https://streamwish.to/e/hg8qa2nvhpr1","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hg8qa2nvhpr1","player_url":"https://streamwish.to/e/hg8qa2nvhpr1"},{"id":5,"url":"https://vidhidepro.com/v/k4mpcv0v06v4","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"k4mpcv0v06v4","player_url":"https://vidhidepro.com/v/k4mpcv0v06v4"},{"id":6,"url":"https://voe.sx/e/ddjrwvkzyyfu","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ddjrwvkzyyfu","player_url":"https://voe.sx/e/ddjrwvkzyyfu"},{"id":7,"url":"https://doodstream.com/e/vn62tc9rmc3l","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"vn62tc9rmc3l","player_url":"https://doodstream.com/e/vn62tc9rmc3l"},{"id":8,"url":"https://streamwish.to/e/o6rjccfrknpo","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"o6rjccfrknpo","player_url":"https://streamwish.to/e/o6rjccfrknpo"},{"id":9,"url":"https://vidhidepro.com/v/950il34cy0dm","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"950il34cy0dm","player_url":"https://vidhidepro.com/v/950il34cy0dm"},{"id":10,"url":"https://voe.sx/e/jto8p4smwmoa","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"jto8p4smwmoa","player_url":"https://voe.sx/e/jto8p4smwmoa"},{"id":11,"url":"https://doodstream.com/e/nkj49eaan5wk","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"nkj49eaan5wk","player_url":"https://doodstream.com/e/nkj49eaan5wk"}]}
+{
+  "id": 1296404,
+  "titulo": "Buenas noticias",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/zER9LQ7bWpuMRxtVeZ4toDc7PnM.jpg",
+  "release_date": "2025-09-05",
+  "genres": [
+    "Suspense",
+    "Comedia",
+    "Historia",
+    "Misterio"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/dNYo4Qg3CnZFbzeet59d4cdhRkK.jpg",
+  "overview": "Un avión que partió de Japón es secuestrado en el aire y sus captores exigen que aterrice en Pyongyang, pero una mente misteriosa tiene un plan para llevar el vuelo a Seúl.",
+  "trailer": "",
+  "runtime": "136",
+  "slug": "buenas-noticias",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/tr8g61ugy0wr",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "tr8g61ugy0wr",
+      "player_url": "https://streamwish.to/e/tr8g61ugy0wr"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/2zirkp14xm59",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2zirkp14xm59",
+      "player_url": "https://vidhidepro.com/v/2zirkp14xm59"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/80zmgnipm7su",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "80zmgnipm7su",
+      "player_url": "https://voe.sx/e/80zmgnipm7su"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/hg8qa2nvhpr1",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hg8qa2nvhpr1",
+      "player_url": "https://streamwish.to/e/hg8qa2nvhpr1"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/k4mpcv0v06v4",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "k4mpcv0v06v4",
+      "player_url": "https://vidhidepro.com/v/k4mpcv0v06v4"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/ddjrwvkzyyfu",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ddjrwvkzyyfu",
+      "player_url": "https://voe.sx/e/ddjrwvkzyyfu"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/vn62tc9rmc3l",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "vn62tc9rmc3l",
+      "player_url": "https://doodstream.com/e/vn62tc9rmc3l"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/o6rjccfrknpo",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "o6rjccfrknpo",
+      "player_url": "https://streamwish.to/e/o6rjccfrknpo"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/950il34cy0dm",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "950il34cy0dm",
+      "player_url": "https://vidhidepro.com/v/950il34cy0dm"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/jto8p4smwmoa",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jto8p4smwmoa",
+      "player_url": "https://voe.sx/e/jto8p4smwmoa"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/nkj49eaan5wk",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "nkj49eaan5wk",
+      "player_url": "https://doodstream.com/e/nkj49eaan5wk"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/vwdqfop31wjc",
+      "player_url": "https://minochinos.com/embed/vwdqfop31wjc",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vwdqfop31wjc"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/1ghen3u6lcug",
+      "player_url": "https://hglink.to/e/1ghen3u6lcug",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1ghen3u6lcug"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/5aoc6kca1hri",
+      "player_url": "https://bysedikamoum.com/e/5aoc6kca1hri",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5aoc6kca1hri"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/lzeafllmplxd",
+      "player_url": "https://voe.sx/e/lzeafllmplxd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lzeafllmplxd"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/lzeafllmplxd/download",
+      "player_url": "https://voe.sx/lzeafllmplxd/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/iydsa9gn53cb",
+      "player_url": "https://rapidvideo.link/e/iydsa9gn53cb",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iydsa9gn53cb"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/rpc5nxwqve9j",
+      "player_url": "https://minochinos.com/embed/rpc5nxwqve9j",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rpc5nxwqve9j"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/rbgeinby4lm8",
+      "player_url": "https://hglink.to/e/rbgeinby4lm8",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rbgeinby4lm8"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/cj2wd8bd080j",
+      "player_url": "https://bysedikamoum.com/e/cj2wd8bd080j",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cj2wd8bd080j"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/jdbxfsncxmta",
+      "player_url": "https://voe.sx/e/jdbxfsncxmta",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jdbxfsncxmta"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/47y35eps2nrv",
+      "player_url": "https://rapidvideo.link/e/47y35eps2nrv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "47y35eps2nrv"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/idr25qof8420",
+      "player_url": "https://minochinos.com/embed/idr25qof8420",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "idr25qof8420"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/mcwbm5n3ih9w",
+      "player_url": "https://hglink.to/e/mcwbm5n3ih9w",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mcwbm5n3ih9w"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/s7xdgltqpdsm",
+      "player_url": "https://bysedikamoum.com/e/s7xdgltqpdsm",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "s7xdgltqpdsm"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/kacqpxti4taf",
+      "player_url": "https://voe.sx/e/kacqpxti4taf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kacqpxti4taf"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/kacqpxti4taf/download",
+      "player_url": "https://voe.sx/kacqpxti4taf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/holc4q328fw9",
+      "player_url": "https://rapidvideo.link/e/holc4q328fw9",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "holc4q328fw9"
+    }
+  ]
+}
