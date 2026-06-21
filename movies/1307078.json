@@ -1,1 +1,253 @@
-{"id":1307078,"titulo":"Mi año en Oxford","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/iKT49ApsXGKYY3wdZ0THYhhgOBe.jpg","release_date":"2025-07-31","genres":["romance","drama"],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/A466i5iATrpbVjX30clP1Zyfp31.jpg","overview":"Una estadounidense ambiciosa cumple su sueño de estudiar en Oxford, pero se enamora de un encantador profesor que esconde un secreto que podría cambiar todos sus planes.","trailer":"","runtime":"113","slug":"mi-ano-en-oxford","servidores":[{"id":1,"url":"https://streamwish.to/e/p3a27jmpgsxn","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"p3a27jmpgsxn","player_url":"https://streamwish.to/e/p3a27jmpgsxn"},{"id":2,"url":"https://vidhidepro.com/v/yqnnptj392zd","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"yqnnptj392zd","player_url":"https://vidhidepro.com/v/yqnnptj392zd"},{"id":3,"url":"https://voe.sx/e/i6f8ecszcsgw","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"i6f8ecszcsgw","player_url":"https://voe.sx/e/i6f8ecszcsgw"},{"id":4,"url":"https://streamwish.to/e/n4ozuez9egru","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"n4ozuez9egru","player_url":"https://streamwish.to/e/n4ozuez9egru"},{"id":5,"url":"https://vidhidepro.com/v/nfyhbkxnvqwk","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"nfyhbkxnvqwk","player_url":"https://vidhidepro.com/v/nfyhbkxnvqwk"},{"id":6,"url":"https://voe.sx/e/y7xvk8a5yx25","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"y7xvk8a5yx25","player_url":"https://voe.sx/e/y7xvk8a5yx25"},{"id":7,"url":"https://streamwish.to/e/b9bi87qycxpu","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"b9bi87qycxpu","player_url":"https://streamwish.to/e/b9bi87qycxpu"},{"id":8,"url":"https://vidhidepro.com/v/e0zcy9frpdoa","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"e0zcy9frpdoa","player_url":"https://vidhidepro.com/v/e0zcy9frpdoa"},{"id":9,"url":"https://voe.sx/e/bougrv0tezqb","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"bougrv0tezqb","player_url":"https://voe.sx/e/bougrv0tezqb"}]}
+{
+  "id": 1307078,
+  "titulo": "Mi año en Oxford",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/iKT49ApsXGKYY3wdZ0THYhhgOBe.jpg",
+  "release_date": "2025-07-31",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+  "overview": "Una estadounidense ambiciosa cumple su sueño de estudiar en Oxford, pero se enamora de un encantador profesor que esconde un secreto que podría cambiar todos sus planes.",
+  "trailer": "",
+  "runtime": "113",
+  "slug": "mi-ano-en-oxford",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/p3a27jmpgsxn",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "p3a27jmpgsxn",
+      "player_url": "https://streamwish.to/e/p3a27jmpgsxn"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/yqnnptj392zd",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "yqnnptj392zd",
+      "player_url": "https://vidhidepro.com/v/yqnnptj392zd"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/i6f8ecszcsgw",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "i6f8ecszcsgw",
+      "player_url": "https://voe.sx/e/i6f8ecszcsgw"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/n4ozuez9egru",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "n4ozuez9egru",
+      "player_url": "https://streamwish.to/e/n4ozuez9egru"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/nfyhbkxnvqwk",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "nfyhbkxnvqwk",
+      "player_url": "https://vidhidepro.com/v/nfyhbkxnvqwk"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/y7xvk8a5yx25",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "y7xvk8a5yx25",
+      "player_url": "https://voe.sx/e/y7xvk8a5yx25"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/b9bi87qycxpu",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "b9bi87qycxpu",
+      "player_url": "https://streamwish.to/e/b9bi87qycxpu"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/e0zcy9frpdoa",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "e0zcy9frpdoa",
+      "player_url": "https://vidhidepro.com/v/e0zcy9frpdoa"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/bougrv0tezqb",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "bougrv0tezqb",
+      "player_url": "https://voe.sx/e/bougrv0tezqb"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/jh4kl02wiaip",
+      "player_url": "https://minochinos.com/embed/jh4kl02wiaip",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jh4kl02wiaip"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/de7maicqpgf5",
+      "player_url": "https://hglink.to/e/de7maicqpgf5",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "de7maicqpgf5"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/9rs551wawc9v",
+      "player_url": "https://bysedikamoum.com/e/9rs551wawc9v",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9rs551wawc9v"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/eudw3tnxpnk9",
+      "player_url": "https://voe.sx/e/eudw3tnxpnk9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eudw3tnxpnk9"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/eudw3tnxpnk9/download",
+      "player_url": "https://voe.sx/eudw3tnxpnk9/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/8k4rcvwhemqj",
+      "player_url": "https://rapidvideo.link/e/8k4rcvwhemqj",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8k4rcvwhemqj"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/0omkw8n0t38x",
+      "player_url": "https://minochinos.com/embed/0omkw8n0t38x",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0omkw8n0t38x"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/jevwkd176rmz",
+      "player_url": "https://hglink.to/e/jevwkd176rmz",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jevwkd176rmz"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/npl2hqifwl9n",
+      "player_url": "https://bysedikamoum.com/e/npl2hqifwl9n",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "npl2hqifwl9n"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/zvgpj3kb3tue",
+      "player_url": "https://voe.sx/e/zvgpj3kb3tue",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zvgpj3kb3tue"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/63ei5vakq0xu",
+      "player_url": "https://rapidvideo.link/e/63ei5vakq0xu",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "63ei5vakq0xu"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/30pdd7qp35pt",
+      "player_url": "https://minochinos.com/embed/30pdd7qp35pt",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "30pdd7qp35pt"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/37x2nfbruibl",
+      "player_url": "https://hglink.to/e/37x2nfbruibl",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "37x2nfbruibl"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/8kr0sdzk0xj6",
+      "player_url": "https://bysedikamoum.com/e/8kr0sdzk0xj6",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8kr0sdzk0xj6"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/pyamz9uvtexr",
+      "player_url": "https://voe.sx/e/pyamz9uvtexr",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pyamz9uvtexr"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/pyamz9uvtexr/download",
+      "player_url": "https://voe.sx/pyamz9uvtexr/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/f1g5twujhdsi",
+      "player_url": "https://rapidvideo.link/e/f1g5twujhdsi",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "f1g5twujhdsi"
+    }
+  ]
+}
