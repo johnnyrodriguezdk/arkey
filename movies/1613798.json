@@ -1,1 +1,217 @@
-{"id":1613798,"titulo":"Venganza","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/8VypPpIvtHfYCeA4iwshnd35vbm.jpg","release_date":"2026-02-26","genres":[],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg","overview":"Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.","trailer":"","runtime":"103","slug":"venganza","servidores":[{"id":1,"url":"https://streamwish.to/e/e2chc78us6zx","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"e2chc78us6zx","player_url":"https://streamwish.to/e/e2chc78us6zx"},{"id":2,"url":"https://bysejikuar.com/e/1jj4zofm7rf3","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"1jj4zofm7rf3","player_url":"https://bysejikuar.com/e/1jj4zofm7rf3"},{"id":3,"url":"https://vidhidepro.com/v/c3wf0dsooc2m","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"c3wf0dsooc2m","player_url":"https://vidhidepro.com/v/c3wf0dsooc2m"},{"id":4,"url":"https://voe.sx/e/1dv9zccsgym1","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"1dv9zccsgym1","player_url":"https://voe.sx/e/1dv9zccsgym1"},{"id":5,"url":"https://doodstream.com/e/lhhck0q4o66j","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"lhhck0q4o66j","player_url":"https://doodstream.com/e/lhhck0q4o66j"},{"id":6,"url":"https://streamwish.to/e/d1lqyv32eyaf","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"d1lqyv32eyaf","player_url":"https://streamwish.to/e/d1lqyv32eyaf"},{"id":7,"url":"https://bysejikuar.com/e/dg16cw0mis89","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"dg16cw0mis89","player_url":"https://bysejikuar.com/e/dg16cw0mis89"},{"id":8,"url":"https://vidhidepro.com/v/ricvtmdjoyov","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ricvtmdjoyov","player_url":"https://vidhidepro.com/v/ricvtmdjoyov"},{"id":9,"url":"https://voe.sx/e/gbdd2ijylpuw","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"gbdd2ijylpuw","player_url":"https://voe.sx/e/gbdd2ijylpuw"},{"id":10,"url":"https://doodstream.com/e/90taxp2quj8z","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"90taxp2quj8z","player_url":"https://doodstream.com/e/90taxp2quj8z"}]}
+{
+  "id": 1613798,
+  "titulo": "Venganza",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/8VypPpIvtHfYCeA4iwshnd35vbm.jpg",
+  "release_date": "2026-02-26",
+  "genres": [
+    "Acción",
+    "Suspense"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
+  "overview": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
+  "trailer": "",
+  "runtime": "103",
+  "slug": "venganza",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/e2chc78us6zx",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "e2chc78us6zx",
+      "player_url": "https://streamwish.to/e/e2chc78us6zx"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/1jj4zofm7rf3",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "1jj4zofm7rf3",
+      "player_url": "https://bysejikuar.com/e/1jj4zofm7rf3"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/c3wf0dsooc2m",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "c3wf0dsooc2m",
+      "player_url": "https://vidhidepro.com/v/c3wf0dsooc2m"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/1dv9zccsgym1",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "1dv9zccsgym1",
+      "player_url": "https://voe.sx/e/1dv9zccsgym1"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/lhhck0q4o66j",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "lhhck0q4o66j",
+      "player_url": "https://doodstream.com/e/lhhck0q4o66j"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/d1lqyv32eyaf",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "d1lqyv32eyaf",
+      "player_url": "https://streamwish.to/e/d1lqyv32eyaf"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/dg16cw0mis89",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "dg16cw0mis89",
+      "player_url": "https://bysejikuar.com/e/dg16cw0mis89"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/ricvtmdjoyov",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ricvtmdjoyov",
+      "player_url": "https://vidhidepro.com/v/ricvtmdjoyov"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/gbdd2ijylpuw",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gbdd2ijylpuw",
+      "player_url": "https://voe.sx/e/gbdd2ijylpuw"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/90taxp2quj8z",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "90taxp2quj8z",
+      "player_url": "https://doodstream.com/e/90taxp2quj8z"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/2bbw7ssbp0iu",
+      "player_url": "https://minochinos.com/embed/2bbw7ssbp0iu",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2bbw7ssbp0iu"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/tsneqrnwxkby",
+      "player_url": "https://hglink.to/e/tsneqrnwxkby",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tsneqrnwxkby"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/remxa4uws1gx",
+      "player_url": "https://bysedikamoum.com/e/remxa4uws1gx",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "remxa4uws1gx"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/xmurvaoi3raw",
+      "player_url": "https://voe.sx/e/xmurvaoi3raw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xmurvaoi3raw"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/xmurvaoi3raw/download",
+      "player_url": "https://voe.sx/xmurvaoi3raw/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/obkyht80u6mi",
+      "player_url": "https://rapidvideo.link/e/obkyht80u6mi",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "obkyht80u6mi"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/2kx7v6lyg8aq",
+      "player_url": "https://minochinos.com/embed/2kx7v6lyg8aq",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2kx7v6lyg8aq"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/atbyeb3w1c0k",
+      "player_url": "https://hglink.to/e/atbyeb3w1c0k",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "atbyeb3w1c0k"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/3pur8hueph40",
+      "player_url": "https://bysedikamoum.com/e/3pur8hueph40",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3pur8hueph40"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/obdqdzqhlbea",
+      "player_url": "https://voe.sx/e/obdqdzqhlbea",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "obdqdzqhlbea"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/obdqdzqhlbea/download",
+      "player_url": "https://voe.sx/obdqdzqhlbea/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/9of6bxl2ag3r",
+      "player_url": "https://rapidvideo.link/e/9of6bxl2ag3r",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9of6bxl2ag3r"
+    }
+  ]
+}
