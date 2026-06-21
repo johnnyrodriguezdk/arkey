@@ -1,1 +1,262 @@
-{"id":1509871,"titulo":"Y ella dijo quizás","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/zxiL8i4fxhdFFwvfkTTahQCK7dT.jpg","release_date":"2025-09-18","genres":["romance","drama"],"rating":"5.9","backdrop":"https://image.tmdb.org/t/p/original/rFgdmHbxEocgmzExT3StrRuY4xb.jpg","overview":"Cuando Mavi, que creció en Alemania, descubre que pertenece a una dinastía turca superadinerada, las expectativas de su nueva familia sacuden su vida personal y amorosa.","trailer":"","runtime":"105","slug":"y-ella-dijo-quizas","servidores":[{"id":1,"url":"https://streamwish.to/e/mp0efbwa1bay","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"mp0efbwa1bay","player_url":"https://streamwish.to/e/mp0efbwa1bay"},{"id":2,"url":"https://vidhidepro.com/v/uflolp3chtwf","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"uflolp3chtwf","player_url":"https://vidhidepro.com/v/uflolp3chtwf"},{"id":3,"url":"https://doodstream.com/e/mggvxx37jrem","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"mggvxx37jrem","player_url":"https://doodstream.com/e/mggvxx37jrem"},{"id":4,"url":"https://streamwish.to/e/qam8kxzvtkut","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"qam8kxzvtkut","player_url":"https://streamwish.to/e/qam8kxzvtkut"},{"id":5,"url":"https://vidhidepro.com/v/vw9qcklm9pl3","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"vw9qcklm9pl3","player_url":"https://vidhidepro.com/v/vw9qcklm9pl3"},{"id":6,"url":"https://doodstream.com/e/fk6kcxjbjjc0","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"fk6kcxjbjjc0","player_url":"https://doodstream.com/e/fk6kcxjbjjc0"},{"id":7,"url":"https://streamwish.to/e/oqe0ipgpwnxb","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"oqe0ipgpwnxb","player_url":"https://streamwish.to/e/oqe0ipgpwnxb"},{"id":8,"url":"https://vidhidepro.com/v/7cca07h1gjrz","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"7cca07h1gjrz","player_url":"https://vidhidepro.com/v/7cca07h1gjrz"},{"id":9,"url":"https://voe.sx/e/k8w3fwsvgt61","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"k8w3fwsvgt61","player_url":"https://voe.sx/e/k8w3fwsvgt61"},{"id":10,"url":"https://doodstream.com/e/3jsq073y958m","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"3jsq073y958m","player_url":"https://doodstream.com/e/3jsq073y958m"}]}
+{
+  "id": 1509871,
+  "titulo": "Y ella dijo quizás",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/zxiL8i4fxhdFFwvfkTTahQCK7dT.jpg",
+  "release_date": "2025-09-18",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "5.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/rFgdmHbxEocgmzExT3StrRuY4xb.jpg",
+  "overview": "Cuando Mavi, que creció en Alemania, descubre que pertenece a una dinastía turca superadinerada, las expectativas de su nueva familia sacuden su vida personal y amorosa.",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "y-ella-dijo-quizas",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/mp0efbwa1bay",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mp0efbwa1bay",
+      "player_url": "https://streamwish.to/e/mp0efbwa1bay"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/uflolp3chtwf",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "uflolp3chtwf",
+      "player_url": "https://vidhidepro.com/v/uflolp3chtwf"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/mggvxx37jrem",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "mggvxx37jrem",
+      "player_url": "https://doodstream.com/e/mggvxx37jrem"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/qam8kxzvtkut",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "qam8kxzvtkut",
+      "player_url": "https://streamwish.to/e/qam8kxzvtkut"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/vw9qcklm9pl3",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "vw9qcklm9pl3",
+      "player_url": "https://vidhidepro.com/v/vw9qcklm9pl3"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/fk6kcxjbjjc0",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fk6kcxjbjjc0",
+      "player_url": "https://doodstream.com/e/fk6kcxjbjjc0"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/oqe0ipgpwnxb",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "oqe0ipgpwnxb",
+      "player_url": "https://streamwish.to/e/oqe0ipgpwnxb"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/7cca07h1gjrz",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "7cca07h1gjrz",
+      "player_url": "https://vidhidepro.com/v/7cca07h1gjrz"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/k8w3fwsvgt61",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "k8w3fwsvgt61",
+      "player_url": "https://voe.sx/e/k8w3fwsvgt61"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/3jsq073y958m",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "3jsq073y958m",
+      "player_url": "https://doodstream.com/e/3jsq073y958m"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/jfnvw5mw6dyz",
+      "player_url": "https://minochinos.com/embed/jfnvw5mw6dyz",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jfnvw5mw6dyz"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/dhgbo2jn11cv",
+      "player_url": "https://hglink.to/e/dhgbo2jn11cv",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dhgbo2jn11cv"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/6hs6ygxlnw7b",
+      "player_url": "https://bysedikamoum.com/e/6hs6ygxlnw7b",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6hs6ygxlnw7b"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/xse5qlbk1m5c",
+      "player_url": "https://voe.sx/e/xse5qlbk1m5c",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xse5qlbk1m5c"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/xse5qlbk1m5c/download",
+      "player_url": "https://voe.sx/xse5qlbk1m5c/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/etc06f4g9a32",
+      "player_url": "https://rapidvideo.link/e/etc06f4g9a32",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "etc06f4g9a32"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/h8s7wna7regk",
+      "player_url": "https://minochinos.com/embed/h8s7wna7regk",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h8s7wna7regk"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/trk3n7ryimy8",
+      "player_url": "https://hglink.to/e/trk3n7ryimy8",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "trk3n7ryimy8"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/z0red9hwlpem",
+      "player_url": "https://bysedikamoum.com/e/z0red9hwlpem",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z0red9hwlpem"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/mlaegulbs5lr",
+      "player_url": "https://voe.sx/e/mlaegulbs5lr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mlaegulbs5lr"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/ig1pu6vq52xd",
+      "player_url": "https://rapidvideo.link/e/ig1pu6vq52xd",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ig1pu6vq52xd"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/oxu895g1uz35",
+      "player_url": "https://minochinos.com/embed/oxu895g1uz35",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "oxu895g1uz35"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/2fmnk1v3h9ie",
+      "player_url": "https://hglink.to/e/2fmnk1v3h9ie",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2fmnk1v3h9ie"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/c4frlo99t92q",
+      "player_url": "https://bysedikamoum.com/e/c4frlo99t92q",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c4frlo99t92q"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/x3qlbyy3dezj",
+      "player_url": "https://voe.sx/e/x3qlbyy3dezj",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "x3qlbyy3dezj"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/x3qlbyy3dezj/download",
+      "player_url": "https://voe.sx/x3qlbyy3dezj/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/7shdlp5438gx",
+      "player_url": "https://rapidvideo.link/e/7shdlp5438gx",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7shdlp5438gx"
+    }
+  ]
+}
