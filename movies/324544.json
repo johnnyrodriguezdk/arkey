@@ -1,1 +1,279 @@
-{"id":324544,"titulo":"Tierras Perdidas","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg","release_date":"2025-02-27","genres":["western"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/oI5uHu7lrQ0mBBH1c8OHCAkCq4x.jpg","overview":"Una reina, desesperada por obtener el don de cambiar de forma, hace una jugada audaz: contrata a la hechicera Gray Alys, una mujer tan temida como poderosa. Enviada al desierto fantasmal de las Tierras Perdidas, Alys y su guía, el vagabundo Boyce, deben burlar y luchar contra el hombre y el demonio en una fábula que explora la naturaleza del bien y el mal, la deuda y la satisfacción, el amor y la pérdida.","trailer":"","runtime":"101","slug":"tierras-perdidas","servidores":[{"id":1,"url":"https://streamwish.to/e/kx4rn879llkh","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"kx4rn879llkh","player_url":"https://streamwish.to/e/kx4rn879llkh"},{"id":2,"url":"https://vidhidepro.com/v/a9gbu4auc6f6","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"a9gbu4auc6f6","player_url":"https://vidhidepro.com/v/a9gbu4auc6f6"},{"id":3,"url":"https://voe.sx/e/etqfrfl0fqk2","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"etqfrfl0fqk2","player_url":"https://voe.sx/e/etqfrfl0fqk2"},{"id":4,"url":"https://doodstream.com/e/wei1gkt89p5y","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"wei1gkt89p5y","player_url":"https://doodstream.com/e/wei1gkt89p5y"},{"id":5,"url":"https://streamwish.to/e/c96hk9x0id6u","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"c96hk9x0id6u","player_url":"https://streamwish.to/e/c96hk9x0id6u"},{"id":6,"url":"https://vidhidepro.com/v/ktsfrm8hifj2","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ktsfrm8hifj2","player_url":"https://vidhidepro.com/v/ktsfrm8hifj2"},{"id":7,"url":"https://voe.sx/e/uxqnjbsldn2s","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"uxqnjbsldn2s","player_url":"https://voe.sx/e/uxqnjbsldn2s"},{"id":8,"url":"https://doodstream.com/e/u3qjr1bep64p","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"u3qjr1bep64p","player_url":"https://doodstream.com/e/u3qjr1bep64p"},{"id":9,"url":"https://streamwish.to/e/ngj0e2lrk613","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"ngj0e2lrk613","player_url":"https://streamwish.to/e/ngj0e2lrk613"},{"id":10,"url":"https://vidhidepro.com/v/2v4xfojgj61z","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"2v4xfojgj61z","player_url":"https://vidhidepro.com/v/2v4xfojgj61z"},{"id":11,"url":"https://voe.sx/e/s6qyupcy5lto","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"s6qyupcy5lto","player_url":"https://voe.sx/e/s6qyupcy5lto"},{"id":12,"url":"https://doodstream.com/e/s2y4aai4ibw2","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"s2y4aai4ibw2","player_url":"https://doodstream.com/e/s2y4aai4ibw2"}]}
+{
+  "id": 324544,
+  "titulo": "Tierras Perdidas",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg",
+  "release_date": "2025-02-27",
+  "genres": [
+    "western"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/oI5uHu7lrQ0mBBH1c8OHCAkCq4x.jpg",
+  "overview": "Una reina, desesperada por obtener el don de cambiar de forma, hace una jugada audaz: contrata a la hechicera Gray Alys, una mujer tan temida como poderosa. Enviada al desierto fantasmal de las Tierras Perdidas, Alys y su guía, el vagabundo Boyce, deben burlar y luchar contra el hombre y el demonio en una fábula que explora la naturaleza del bien y el mal, la deuda y la satisfacción, el amor y la pérdida.",
+  "trailer": "",
+  "runtime": "101",
+  "slug": "tierras-perdidas",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/kx4rn879llkh",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "kx4rn879llkh",
+      "player_url": "https://streamwish.to/e/kx4rn879llkh"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/a9gbu4auc6f6",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "a9gbu4auc6f6",
+      "player_url": "https://vidhidepro.com/v/a9gbu4auc6f6"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/etqfrfl0fqk2",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "etqfrfl0fqk2",
+      "player_url": "https://voe.sx/e/etqfrfl0fqk2"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/wei1gkt89p5y",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "wei1gkt89p5y",
+      "player_url": "https://doodstream.com/e/wei1gkt89p5y"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/c96hk9x0id6u",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "c96hk9x0id6u",
+      "player_url": "https://streamwish.to/e/c96hk9x0id6u"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/ktsfrm8hifj2",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ktsfrm8hifj2",
+      "player_url": "https://vidhidepro.com/v/ktsfrm8hifj2"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/uxqnjbsldn2s",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "uxqnjbsldn2s",
+      "player_url": "https://voe.sx/e/uxqnjbsldn2s"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/u3qjr1bep64p",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "u3qjr1bep64p",
+      "player_url": "https://doodstream.com/e/u3qjr1bep64p"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/ngj0e2lrk613",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ngj0e2lrk613",
+      "player_url": "https://streamwish.to/e/ngj0e2lrk613"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/2v4xfojgj61z",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2v4xfojgj61z",
+      "player_url": "https://vidhidepro.com/v/2v4xfojgj61z"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/s6qyupcy5lto",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "s6qyupcy5lto",
+      "player_url": "https://voe.sx/e/s6qyupcy5lto"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/s2y4aai4ibw2",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "s2y4aai4ibw2",
+      "player_url": "https://doodstream.com/e/s2y4aai4ibw2"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/rzn33vpevn2m",
+      "player_url": "https://minochinos.com/embed/rzn33vpevn2m",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rzn33vpevn2m"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/l2esdh677s35",
+      "player_url": "https://hglink.to/e/l2esdh677s35",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l2esdh677s35"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/rzjgcwssf0p9",
+      "player_url": "https://bysedikamoum.com/e/rzjgcwssf0p9",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rzjgcwssf0p9"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/i4ppijxumlc1",
+      "player_url": "https://voe.sx/e/i4ppijxumlc1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i4ppijxumlc1"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/i4ppijxumlc1/download",
+      "player_url": "https://voe.sx/i4ppijxumlc1/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/s6w7kiap4c8r",
+      "player_url": "https://rapidvideo.link/e/s6w7kiap4c8r",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s6w7kiap4c8r"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/n94hdt5tqrlo",
+      "player_url": "https://minochinos.com/embed/n94hdt5tqrlo",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n94hdt5tqrlo"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/vdf3otsmuatw",
+      "player_url": "https://hglink.to/e/vdf3otsmuatw",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vdf3otsmuatw"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/rv3osbzxr9i9",
+      "player_url": "https://bysedikamoum.com/e/rv3osbzxr9i9",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rv3osbzxr9i9"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/xu4rw03luqu2",
+      "player_url": "https://voe.sx/e/xu4rw03luqu2",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xu4rw03luqu2"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/inyga0bckm6w",
+      "player_url": "https://rapidvideo.link/e/inyga0bckm6w",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "inyga0bckm6w"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/y3gtpliqw8g7",
+      "player_url": "https://minochinos.com/embed/y3gtpliqw8g7",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "y3gtpliqw8g7"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/bkj6t6m2w1oq",
+      "player_url": "https://hglink.to/e/bkj6t6m2w1oq",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bkj6t6m2w1oq"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/0lhq6mytpuq9",
+      "player_url": "https://bysedikamoum.com/e/0lhq6mytpuq9",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0lhq6mytpuq9"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/vyota9tucqjv",
+      "player_url": "https://voe.sx/e/vyota9tucqjv",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vyota9tucqjv"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/vyota9tucqjv/download",
+      "player_url": "https://voe.sx/vyota9tucqjv/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/qc7zv4ahkofw",
+      "player_url": "https://rapidvideo.link/e/qc7zv4ahkofw",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qc7zv4ahkofw"
+    }
+  ]
+}
