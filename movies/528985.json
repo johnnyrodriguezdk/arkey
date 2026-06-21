@@ -1,1 +1,254 @@
-{"id":528985,"titulo":"La invasión","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/VVs5q9Pof3BeBwePM4B17HQEeV.jpg","release_date":"2019-05-24","genres":[],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/hfwbqmZZBb0qdPVY5e6wT8tdk3E.jpg","overview":"Tres amigos que filman una serie online, descubren que los vecinos de su pueblo están siendo asesinados y reemplazados por criaturas que son perfectas copias de sus víctimas.","trailer":"","runtime":"93","slug":"la-invasion","servidores":[{"id":1,"url":"https://streamwish.to/e/w90zok3pwdzb","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"w90zok3pwdzb","player_url":"https://streamwish.to/e/w90zok3pwdzb"},{"id":2,"url":"https://bysejikuar.com/e/6bugr1maexns","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"6bugr1maexns","player_url":"https://bysejikuar.com/e/6bugr1maexns"},{"id":3,"url":"https://filelions.to/v/o1xzasb885v2","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"o1xzasb885v2","player_url":"https://filelions.to/v/o1xzasb885v2"},{"id":4,"url":"https://voe.sx/e/ipskcivl9k4a","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ipskcivl9k4a","player_url":"https://voe.sx/e/ipskcivl9k4a"},{"id":5,"url":"https://doodstream.com/e/ov5x4rudven9","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"ov5x4rudven9","player_url":"https://doodstream.com/e/ov5x4rudven9"},{"id":6,"url":"https://bysejikuar.com/e/96jlsiow5j86","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"96jlsiow5j86","player_url":"https://bysejikuar.com/e/96jlsiow5j86"},{"id":7,"url":"https://vidhidepro.com/v/h4varj7lh4ww","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"h4varj7lh4ww","player_url":"https://vidhidepro.com/v/h4varj7lh4ww"},{"id":8,"url":"https://voe.sx/e/pimqfjmqpp1o","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"pimqfjmqpp1o","player_url":"https://voe.sx/e/pimqfjmqpp1o"},{"id":9,"url":"https://doodstream.com/e/tmxhsbud28vv","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"tmxhsbud28vv","player_url":"https://doodstream.com/e/tmxhsbud28vv"}]}
+{
+  "id": 528985,
+  "titulo": "La invasión",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/VVs5q9Pof3BeBwePM4B17HQEeV.jpg",
+  "release_date": "2019-05-24",
+  "genres": [
+    "Ciencia Ficción",
+    "Drama",
+    "Suspense"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/hfwbqmZZBb0qdPVY5e6wT8tdk3E.jpg",
+  "overview": "Tres amigos que filman una serie online, descubren que los vecinos de su pueblo están siendo asesinados y reemplazados por criaturas que son perfectas copias de sus víctimas.",
+  "trailer": "",
+  "runtime": "93",
+  "slug": "la-invasion",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/w90zok3pwdzb",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "w90zok3pwdzb",
+      "player_url": "https://streamwish.to/e/w90zok3pwdzb"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/6bugr1maexns",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "6bugr1maexns",
+      "player_url": "https://bysejikuar.com/e/6bugr1maexns"
+    },
+    {
+      "id": 3,
+      "url": "https://filelions.to/v/o1xzasb885v2",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "o1xzasb885v2",
+      "player_url": "https://filelions.to/v/o1xzasb885v2"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/ipskcivl9k4a",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ipskcivl9k4a",
+      "player_url": "https://voe.sx/e/ipskcivl9k4a"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/ov5x4rudven9",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ov5x4rudven9",
+      "player_url": "https://doodstream.com/e/ov5x4rudven9"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/96jlsiow5j86",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "96jlsiow5j86",
+      "player_url": "https://bysejikuar.com/e/96jlsiow5j86"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/h4varj7lh4ww",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "h4varj7lh4ww",
+      "player_url": "https://vidhidepro.com/v/h4varj7lh4ww"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/pimqfjmqpp1o",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "pimqfjmqpp1o",
+      "player_url": "https://voe.sx/e/pimqfjmqpp1o"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/tmxhsbud28vv",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "tmxhsbud28vv",
+      "player_url": "https://doodstream.com/e/tmxhsbud28vv"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/shda6i2op9hf",
+      "player_url": "https://minochinos.com/embed/shda6i2op9hf",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "shda6i2op9hf"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/eyhnsobdeows",
+      "player_url": "https://hglink.to/e/eyhnsobdeows",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eyhnsobdeows"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/dwgcvlhf9xyc",
+      "player_url": "https://bysedikamoum.com/e/dwgcvlhf9xyc",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dwgcvlhf9xyc"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/r0uk1p4mc7xe",
+      "player_url": "https://voe.sx/e/r0uk1p4mc7xe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r0uk1p4mc7xe"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/r0uk1p4mc7xe/download",
+      "player_url": "https://voe.sx/r0uk1p4mc7xe/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/x4dtpmrkgo75",
+      "player_url": "https://rapidvideo.link/e/x4dtpmrkgo75",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x4dtpmrkgo75"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/k1zl5c4qbs1y",
+      "player_url": "https://minochinos.com/embed/k1zl5c4qbs1y",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k1zl5c4qbs1y"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/0ww2nw7c6571",
+      "player_url": "https://hglink.to/e/0ww2nw7c6571",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0ww2nw7c6571"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/en5avdq8myh3",
+      "player_url": "https://bysedikamoum.com/e/en5avdq8myh3",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "en5avdq8myh3"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/egfq8effhktc",
+      "player_url": "https://voe.sx/e/egfq8effhktc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "egfq8effhktc"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/hm4ae12k3wpf",
+      "player_url": "https://rapidvideo.link/e/hm4ae12k3wpf",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hm4ae12k3wpf"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/rmkahj6r05mx",
+      "player_url": "https://minochinos.com/embed/rmkahj6r05mx",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rmkahj6r05mx"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/49nza59n6y29",
+      "player_url": "https://hglink.to/e/49nza59n6y29",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "49nza59n6y29"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/2j1vvx1xulw1",
+      "player_url": "https://bysedikamoum.com/e/2j1vvx1xulw1",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2j1vvx1xulw1"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/xxlxmoif80ej",
+      "player_url": "https://voe.sx/e/xxlxmoif80ej",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xxlxmoif80ej"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/xxlxmoif80ej/download",
+      "player_url": "https://voe.sx/xxlxmoif80ej/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/w16jyubn3q2c",
+      "player_url": "https://rapidvideo.link/e/w16jyubn3q2c",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "w16jyubn3q2c"
+    }
+  ]
+}
