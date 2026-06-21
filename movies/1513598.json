@@ -1,1 +1,280 @@
-{"id":1513598,"titulo":"Los diamantes de Amberes: El robo del siglo","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/mWEUuLGcPNV69BpkbVl47VRYdqV.jpg","release_date":"2025-08-07","genres":[],"rating":"6.7","backdrop":"https://image.tmdb.org/t/p/original/hz59eF5z6ObaaWiGlUKcVbODti7.jpg","overview":"Amberes, 2003. Una banda de ladrones roba el impenetrable Centro del Diamante. ¿Quiénes estuvieron detrás de uno de los mayores robos de la historia y cómo consiguieron hacerlo?","trailer":"","runtime":"96","slug":"los-diamantes-de-amberes-el-robo-del-siglo","servidores":[{"id":1,"url":"https://streamwish.to/e/xzafhqyrf3a3","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"xzafhqyrf3a3","player_url":"https://streamwish.to/e/xzafhqyrf3a3"},{"id":2,"url":"https://vidhidepro.com/v/rmir8ooappx7","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"rmir8ooappx7","player_url":"https://vidhidepro.com/v/rmir8ooappx7"},{"id":3,"url":"https://voe.sx/e/2wweyzooqj8d","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"2wweyzooqj8d","player_url":"https://voe.sx/e/2wweyzooqj8d"},{"id":4,"url":"https://doodstream.com/e/hxe2ps65r723","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"hxe2ps65r723","player_url":"https://doodstream.com/e/hxe2ps65r723"},{"id":5,"url":"https://streamwish.to/e/15yzh7hmmltz","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"15yzh7hmmltz","player_url":"https://streamwish.to/e/15yzh7hmmltz"},{"id":6,"url":"https://vidhidepro.com/v/2ng5t1ow8eos","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"2ng5t1ow8eos","player_url":"https://vidhidepro.com/v/2ng5t1ow8eos"},{"id":7,"url":"https://voe.sx/e/hixia9rwltuj","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"hixia9rwltuj","player_url":"https://voe.sx/e/hixia9rwltuj"},{"id":8,"url":"https://doodstream.com/e/hvfc12yxylj8","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"hvfc12yxylj8","player_url":"https://doodstream.com/e/hvfc12yxylj8"},{"id":9,"url":"https://streamwish.to/e/j79rmo1zigs2","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"j79rmo1zigs2","player_url":"https://streamwish.to/e/j79rmo1zigs2"},{"id":10,"url":"https://vidhidepro.com/v/lx2nlbfv2czp","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"lx2nlbfv2czp","player_url":"https://vidhidepro.com/v/lx2nlbfv2czp"},{"id":11,"url":"https://voe.sx/e/qumll17r2rbk","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"qumll17r2rbk","player_url":"https://voe.sx/e/qumll17r2rbk"},{"id":12,"url":"https://doodstream.com/e/g3871nq585tt","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"g3871nq585tt","player_url":"https://doodstream.com/e/g3871nq585tt"}]}
+{
+  "id": 1513598,
+  "titulo": "Los diamantes de Amberes: El robo del siglo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/mWEUuLGcPNV69BpkbVl47VRYdqV.jpg",
+  "release_date": "2025-08-07",
+  "genres": [
+    "Documental",
+    "Crimen"
+  ],
+  "rating": "6.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/hz59eF5z6ObaaWiGlUKcVbODti7.jpg",
+  "overview": "Amberes, 2003. Una banda de ladrones roba el impenetrable Centro del Diamante. ¿Quiénes estuvieron detrás de uno de los mayores robos de la historia y cómo consiguieron hacerlo?",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "los-diamantes-de-amberes-el-robo-del-siglo",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/xzafhqyrf3a3",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "xzafhqyrf3a3",
+      "player_url": "https://streamwish.to/e/xzafhqyrf3a3"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/rmir8ooappx7",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rmir8ooappx7",
+      "player_url": "https://vidhidepro.com/v/rmir8ooappx7"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/2wweyzooqj8d",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "2wweyzooqj8d",
+      "player_url": "https://voe.sx/e/2wweyzooqj8d"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/hxe2ps65r723",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "hxe2ps65r723",
+      "player_url": "https://doodstream.com/e/hxe2ps65r723"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/15yzh7hmmltz",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "15yzh7hmmltz",
+      "player_url": "https://streamwish.to/e/15yzh7hmmltz"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/2ng5t1ow8eos",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2ng5t1ow8eos",
+      "player_url": "https://vidhidepro.com/v/2ng5t1ow8eos"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/hixia9rwltuj",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "hixia9rwltuj",
+      "player_url": "https://voe.sx/e/hixia9rwltuj"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/hvfc12yxylj8",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "hvfc12yxylj8",
+      "player_url": "https://doodstream.com/e/hvfc12yxylj8"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/j79rmo1zigs2",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "j79rmo1zigs2",
+      "player_url": "https://streamwish.to/e/j79rmo1zigs2"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/lx2nlbfv2czp",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "lx2nlbfv2czp",
+      "player_url": "https://vidhidepro.com/v/lx2nlbfv2czp"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/qumll17r2rbk",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qumll17r2rbk",
+      "player_url": "https://voe.sx/e/qumll17r2rbk"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/g3871nq585tt",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "g3871nq585tt",
+      "player_url": "https://doodstream.com/e/g3871nq585tt"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/oxzilv2anov5",
+      "player_url": "https://minochinos.com/embed/oxzilv2anov5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oxzilv2anov5"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/sj1tcr1bv8bh",
+      "player_url": "https://hglink.to/e/sj1tcr1bv8bh",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sj1tcr1bv8bh"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/jatxsszw5val",
+      "player_url": "https://bysedikamoum.com/e/jatxsszw5val",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jatxsszw5val"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/tgivuumdclwp",
+      "player_url": "https://voe.sx/e/tgivuumdclwp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tgivuumdclwp"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/tgivuumdclwp/download",
+      "player_url": "https://voe.sx/tgivuumdclwp/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/57ynk2ia09zg",
+      "player_url": "https://rapidvideo.link/e/57ynk2ia09zg",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "57ynk2ia09zg"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/o47go9blka3i",
+      "player_url": "https://minochinos.com/embed/o47go9blka3i",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o47go9blka3i"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/p6ryniw818b7",
+      "player_url": "https://hglink.to/e/p6ryniw818b7",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p6ryniw818b7"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/e9t1q370wo8w",
+      "player_url": "https://bysedikamoum.com/e/e9t1q370wo8w",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e9t1q370wo8w"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/rk6vx97oos7p",
+      "player_url": "https://voe.sx/e/rk6vx97oos7p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rk6vx97oos7p"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/ypjuiewk5z12",
+      "player_url": "https://rapidvideo.link/e/ypjuiewk5z12",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ypjuiewk5z12"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/ff34nti7lpfr",
+      "player_url": "https://minochinos.com/embed/ff34nti7lpfr",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ff34nti7lpfr"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/uuil1amswcxy",
+      "player_url": "https://hglink.to/e/uuil1amswcxy",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "uuil1amswcxy"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/rqqprq67doqy",
+      "player_url": "https://bysedikamoum.com/e/rqqprq67doqy",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rqqprq67doqy"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/t5bwpnill1or",
+      "player_url": "https://voe.sx/e/t5bwpnill1or",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "t5bwpnill1or"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/t5bwpnill1or/download",
+      "player_url": "https://voe.sx/t5bwpnill1or/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/7430t9xdbquf",
+      "player_url": "https://rapidvideo.link/e/7430t9xdbquf",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7430t9xdbquf"
+    }
+  ]
+}
