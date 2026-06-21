@@ -1,1 +1,198 @@
-{"id":1113583,"titulo":"Oh, Canada","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/9MbhhZP62zitaouJxkKb1tiQcEU.jpg","release_date":"2024-12-06","genres":["drama"],"rating":"5.7","backdrop":"https://image.tmdb.org/t/p/original/50ZSvrvnnIHobB8h2henqbBXqKH.jpg","overview":"Leonard Fife, afamado documentalista y uno de los sesenta mil evasores del reclutamiento y desertores que huyeron a Canadá para evitar servir en Vietnam, concede una última entrevista a uno de sus antiguos alumnos para contarle toda la verdad sobre su vida. Una confesión filmada delante de su mujer.","trailer":"","runtime":"94","slug":"oh-canada","servidores":[{"id":1,"url":"https://streamwish.to/e/j2fscak8jaef","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"j2fscak8jaef","player_url":"https://streamwish.to/e/j2fscak8jaef"},{"id":2,"url":"https://vidhidepro.com/v/5122zpqtefwk","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"5122zpqtefwk","player_url":"https://vidhidepro.com/v/5122zpqtefwk"},{"id":3,"url":"https://voe.sx/e/zc1ghmi99mm2","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"zc1ghmi99mm2","player_url":"https://voe.sx/e/zc1ghmi99mm2"},{"id":4,"url":"https://doodstream.com/e/nkr4xjqrkwat","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"nkr4xjqrkwat","player_url":"https://doodstream.com/e/nkr4xjqrkwat"},{"id":5,"url":"https://streamwish.to/e/lqiew40pia7q","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"lqiew40pia7q","player_url":"https://streamwish.to/e/lqiew40pia7q"},{"id":6,"url":"https://vidhidepro.com/v/20blvmuwfkmg","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"20blvmuwfkmg","player_url":"https://vidhidepro.com/v/20blvmuwfkmg"},{"id":7,"url":"https://voe.sx/e/qnvfwn6oicqm","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"qnvfwn6oicqm","player_url":"https://voe.sx/e/qnvfwn6oicqm"},{"id":8,"url":"https://doodstream.com/e/wx0d9w8shvqt","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"wx0d9w8shvqt","player_url":"https://doodstream.com/e/wx0d9w8shvqt"}]}
+{
+  "id": 1113583,
+  "titulo": "Oh, Canada",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/9MbhhZP62zitaouJxkKb1tiQcEU.jpg",
+  "release_date": "2024-12-06",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/50ZSvrvnnIHobB8h2henqbBXqKH.jpg",
+  "overview": "Leonard Fife, afamado documentalista y uno de los sesenta mil evasores del reclutamiento y desertores que huyeron a Canadá para evitar servir en Vietnam, concede una última entrevista a uno de sus antiguos alumnos para contarle toda la verdad sobre su vida. Una confesión filmada delante de su mujer.",
+  "trailer": "",
+  "runtime": "94",
+  "slug": "oh-canada",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/j2fscak8jaef",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "j2fscak8jaef",
+      "player_url": "https://streamwish.to/e/j2fscak8jaef"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/5122zpqtefwk",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5122zpqtefwk",
+      "player_url": "https://vidhidepro.com/v/5122zpqtefwk"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/zc1ghmi99mm2",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zc1ghmi99mm2",
+      "player_url": "https://voe.sx/e/zc1ghmi99mm2"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/nkr4xjqrkwat",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "nkr4xjqrkwat",
+      "player_url": "https://doodstream.com/e/nkr4xjqrkwat"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/lqiew40pia7q",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lqiew40pia7q",
+      "player_url": "https://streamwish.to/e/lqiew40pia7q"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/20blvmuwfkmg",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "20blvmuwfkmg",
+      "player_url": "https://vidhidepro.com/v/20blvmuwfkmg"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/qnvfwn6oicqm",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qnvfwn6oicqm",
+      "player_url": "https://voe.sx/e/qnvfwn6oicqm"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/wx0d9w8shvqt",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "wx0d9w8shvqt",
+      "player_url": "https://doodstream.com/e/wx0d9w8shvqt"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/kwa2kcc4i026",
+      "player_url": "https://minochinos.com/embed/kwa2kcc4i026",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kwa2kcc4i026"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/4kcho2m64ia4",
+      "player_url": "https://hglink.to/e/4kcho2m64ia4",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4kcho2m64ia4"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/engtion087x2",
+      "player_url": "https://bysedikamoum.com/e/engtion087x2",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "engtion087x2"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/zob3z5qgoclc",
+      "player_url": "https://voe.sx/e/zob3z5qgoclc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zob3z5qgoclc"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/zob3z5qgoclc/download",
+      "player_url": "https://voe.sx/zob3z5qgoclc/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/v13xcpgr0wal",
+      "player_url": "https://rapidvideo.link/e/v13xcpgr0wal",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v13xcpgr0wal"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/ivughpieq2f0",
+      "player_url": "https://minochinos.com/embed/ivughpieq2f0",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ivughpieq2f0"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/0l020aizvkpo",
+      "player_url": "https://hglink.to/e/0l020aizvkpo",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0l020aizvkpo"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/6ezpkxftruxv",
+      "player_url": "https://bysedikamoum.com/e/6ezpkxftruxv",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6ezpkxftruxv"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/ogzguwyedkdp",
+      "player_url": "https://voe.sx/e/ogzguwyedkdp",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ogzguwyedkdp"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/ogzguwyedkdp/download",
+      "player_url": "https://voe.sx/ogzguwyedkdp/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/dvskcm23l6e8",
+      "player_url": "https://rapidvideo.link/e/dvskcm23l6e8",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dvskcm23l6e8"
+    }
+  ]
+}
