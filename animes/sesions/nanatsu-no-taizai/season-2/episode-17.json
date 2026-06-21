@@ -20,5 +20,56 @@
   ],
   "idcapitulo": "17",
   "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2811&idcapitulo=17",
-  "servidores": []
+  "servidores": [
+    {
+      "id": 1,
+      "server": "StreamWish",
+      "url": "https://streamwish.to/e/jws9btso8g7q",
+      "player_url": "https://streamwish.to/e/jws9btso8g7q",
+      "nombre": "StreamWish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jws9btso8g7q"
+    },
+    {
+      "id": 2,
+      "server": "FileLions",
+      "url": "https://filelions.top/v/kau86ndpydw7",
+      "player_url": "https://filelions.top/v/kau86ndpydw7",
+      "nombre": "FileLions",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kau86ndpydw7"
+    },
+    {
+      "id": 3,
+      "server": "Netu",
+      "url": "https://player.streamhj.top/e/bjBCbkJkZit3L1E4eCtNa1JSU3lNUT09",
+      "player_url": "https://player.streamhj.top/e/bjBCbkJkZit3L1E4eCtNa1JSU3lNUT09",
+      "nombre": "Netu",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bjBCbkJkZit3L1E4eCtNa1JSU3lNUT09"
+    },
+    {
+      "id": 4,
+      "server": "Streamtape",
+      "url": "https://streamtape.com/e/rK4dgAowkLSb2jl/Nanatsu_no_Taizai_17_%5B720%5D%5Bhenaojara.com%5D.mp4",
+      "player_url": "https://streamtape.com/e/rK4dgAowkLSb2jl/Nanatsu_no_Taizai_17_%5B720%5D%5Bhenaojara.com%5D.mp4",
+      "nombre": "Streamtape",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rK4dgAowkLSb2jl/Nanatsu_no_Taizai_17_%5B720%5D%5Bhenaojara.com%5D.mp4"
+    },
+    {
+      "id": 5,
+      "server": "DoodStream",
+      "url": "https://doods.pro/e/3w5ma55y8fmj",
+      "player_url": "https://doods.pro/e/3w5ma55y8fmj",
+      "nombre": "DoodStream",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3w5ma55y8fmj"
+    }
+  ]
 }
