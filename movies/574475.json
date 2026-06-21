@@ -1,1 +1,262 @@
-{"id":574475,"titulo":"Destino final lazos de sangre","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg","release_date":"2025-05-14","genres":[],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg","overview":"Atragantada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie regresa a casa para encontrar a la única persona que podría romper el ciclo y salvar a su familia de la horrible muerte que inevitablemente les espera a todos.","trailer":"","runtime":"100","slug":"destino-final-lazos-de-sangre","servidores":[{"id":1,"url":"https://streamwish.to/e/88fbveymnsgy","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"88fbveymnsgy","player_url":"https://streamwish.to/e/88fbveymnsgy"},{"id":2,"url":"https://vidhidepro.com/v/ey2txnmqpavz","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"ey2txnmqpavz","player_url":"https://vidhidepro.com/v/ey2txnmqpavz"},{"id":3,"url":"https://voe.sx/e/frvlhqthe3xy","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"frvlhqthe3xy","player_url":"https://voe.sx/e/frvlhqthe3xy"},{"id":4,"url":"https://doodstream.com/e/hphy3cmvyhzc","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"hphy3cmvyhzc","player_url":"https://doodstream.com/e/hphy3cmvyhzc"},{"id":5,"url":"https://streamwish.to/e/gtlayw74dd8h","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"gtlayw74dd8h","player_url":"https://streamwish.to/e/gtlayw74dd8h"},{"id":6,"url":"https://vidhidepro.com/v/p69byxb6ovpc","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"p69byxb6ovpc","player_url":"https://vidhidepro.com/v/p69byxb6ovpc"},{"id":7,"url":"https://doodstream.com/e/f8slstnujw9p","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"f8slstnujw9p","player_url":"https://doodstream.com/e/f8slstnujw9p"},{"id":8,"url":"https://streamwish.to/e/mlutyscc3rdz","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"mlutyscc3rdz","player_url":"https://streamwish.to/e/mlutyscc3rdz"},{"id":9,"url":"https://vidhidepro.com/v/i0zj4ft4razg","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"i0zj4ft4razg","player_url":"https://vidhidepro.com/v/i0zj4ft4razg"},{"id":10,"url":"https://doodstream.com/e/mb82mqqovdl4","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"mb82mqqovdl4","player_url":"https://doodstream.com/e/mb82mqqovdl4"}]}
+{
+  "id": 574475,
+  "titulo": "Destino final lazos de sangre",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+  "release_date": "2025-05-14",
+  "genres": [
+    "Terror",
+    "Misterio"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+  "overview": "Atragantada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie regresa a casa para encontrar a la única persona que podría romper el ciclo y salvar a su familia de la horrible muerte que inevitablemente les espera a todos.",
+  "trailer": "",
+  "runtime": "100",
+  "slug": "destino-final-lazos-de-sangre",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/88fbveymnsgy",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "88fbveymnsgy",
+      "player_url": "https://streamwish.to/e/88fbveymnsgy"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/ey2txnmqpavz",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ey2txnmqpavz",
+      "player_url": "https://vidhidepro.com/v/ey2txnmqpavz"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/frvlhqthe3xy",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "frvlhqthe3xy",
+      "player_url": "https://voe.sx/e/frvlhqthe3xy"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/hphy3cmvyhzc",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "hphy3cmvyhzc",
+      "player_url": "https://doodstream.com/e/hphy3cmvyhzc"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/gtlayw74dd8h",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "gtlayw74dd8h",
+      "player_url": "https://streamwish.to/e/gtlayw74dd8h"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/p69byxb6ovpc",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "p69byxb6ovpc",
+      "player_url": "https://vidhidepro.com/v/p69byxb6ovpc"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/f8slstnujw9p",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "f8slstnujw9p",
+      "player_url": "https://doodstream.com/e/f8slstnujw9p"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/mlutyscc3rdz",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mlutyscc3rdz",
+      "player_url": "https://streamwish.to/e/mlutyscc3rdz"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/i0zj4ft4razg",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "i0zj4ft4razg",
+      "player_url": "https://vidhidepro.com/v/i0zj4ft4razg"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/mb82mqqovdl4",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "mb82mqqovdl4",
+      "player_url": "https://doodstream.com/e/mb82mqqovdl4"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/u3366s5gzaiw",
+      "player_url": "https://minochinos.com/embed/u3366s5gzaiw",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u3366s5gzaiw"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/8hov3h22zfur",
+      "player_url": "https://hglink.to/e/8hov3h22zfur",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8hov3h22zfur"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/91s7ciopu15a",
+      "player_url": "https://bysedikamoum.com/e/91s7ciopu15a",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "91s7ciopu15a"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/zz2csoxpsszx",
+      "player_url": "https://voe.sx/e/zz2csoxpsszx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zz2csoxpsszx"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/zz2csoxpsszx/download",
+      "player_url": "https://voe.sx/zz2csoxpsszx/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/egl62djymt0a",
+      "player_url": "https://rapidvideo.link/e/egl62djymt0a",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "egl62djymt0a"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/gya2coke8fji",
+      "player_url": "https://minochinos.com/embed/gya2coke8fji",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gya2coke8fji"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/xgejw3547uga",
+      "player_url": "https://hglink.to/e/xgejw3547uga",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xgejw3547uga"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/u5w00nxhhomg",
+      "player_url": "https://bysedikamoum.com/e/u5w00nxhhomg",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u5w00nxhhomg"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/wjmdlsknaban",
+      "player_url": "https://voe.sx/e/wjmdlsknaban",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wjmdlsknaban"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/b261k9ryfdjg",
+      "player_url": "https://rapidvideo.link/e/b261k9ryfdjg",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b261k9ryfdjg"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/8ysbvx6w4yrb",
+      "player_url": "https://minochinos.com/embed/8ysbvx6w4yrb",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8ysbvx6w4yrb"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/9pyu5hotpw31",
+      "player_url": "https://hglink.to/e/9pyu5hotpw31",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9pyu5hotpw31"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/ffxs6my3v9wi",
+      "player_url": "https://bysedikamoum.com/e/ffxs6my3v9wi",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ffxs6my3v9wi"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/mgw60y6rff1w",
+      "player_url": "https://voe.sx/e/mgw60y6rff1w",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mgw60y6rff1w"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/mgw60y6rff1w/download",
+      "player_url": "https://voe.sx/mgw60y6rff1w/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/63c4i5otumq1",
+      "player_url": "https://rapidvideo.link/e/63c4i5otumq1",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "63c4i5otumq1"
+    }
+  ]
+}
