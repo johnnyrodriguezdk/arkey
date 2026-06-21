@@ -1,1 +1,317 @@
-{"id":1322218,"titulo":"Mononoke II: Las cenizas de la ira","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/blxlyZFU3LKNqpegaoUmkrQzQJw.jpg","release_date":"2025-03-14","genres":[],"rating":"7.4","backdrop":"https://image.tmdb.org/t/p/original/wDwfR4rDWRA2fLfLF14SdMOdHOZ.jpg","overview":"El boticario vuelve cuando el harén de Edo arde al calor de nuevas crisis, disputas familiares y envidias que engendran un espíritu incendiario.","trailer":"","runtime":"74","slug":"mononoke-the-movie-chapter-ii-the-ashes-of-rage","servidores":[{"id":1,"url":"https://streamwish.to/e/xqv09nkfjaa7","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"xqv09nkfjaa7","player_url":"https://streamwish.to/e/xqv09nkfjaa7"},{"id":2,"url":"https://vidhidepro.com/v/id9kp7qwhyfo","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"id9kp7qwhyfo","player_url":"https://vidhidepro.com/v/id9kp7qwhyfo"},{"id":3,"url":"https://voe.sx/e/okt9croegt29","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"okt9croegt29","player_url":"https://voe.sx/e/okt9croegt29"},{"id":4,"url":"https://doodstream.com/e/0w8w4uduguaq","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"0w8w4uduguaq","player_url":"https://doodstream.com/e/0w8w4uduguaq"},{"id":5,"url":"https://streamwish.to/e/gt0x7ujnkbhn","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"gt0x7ujnkbhn","player_url":"https://streamwish.to/e/gt0x7ujnkbhn"},{"id":6,"url":"https://vidhidepro.com/v/r00ih0ej1czk","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"r00ih0ej1czk","player_url":"https://vidhidepro.com/v/r00ih0ej1czk"},{"id":7,"url":"https://voe.sx/e/pxuqcjrxeqpz","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"pxuqcjrxeqpz","player_url":"https://voe.sx/e/pxuqcjrxeqpz"},{"id":8,"url":"https://streamwish.to/e/40mhn3g3q9hv","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"40mhn3g3q9hv","player_url":"https://streamwish.to/e/40mhn3g3q9hv"},{"id":9,"url":"https://vidhidepro.com/v/rtnasedbdftp","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"rtnasedbdftp","player_url":"https://vidhidepro.com/v/rtnasedbdftp"},{"id":10,"url":"https://voe.sx/e/yremmogt2fqj","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"yremmogt2fqj","player_url":"https://voe.sx/e/yremmogt2fqj"}]}
+{
+  "id": 1322218,
+  "titulo": "Mononoke II: Las cenizas de la ira",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/blxlyZFU3LKNqpegaoUmkrQzQJw.jpg",
+  "release_date": "2025-03-14",
+  "genres": [
+    "Animación",
+    "Fantasía",
+    "Misterio"
+  ],
+  "rating": "7.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/wDwfR4rDWRA2fLfLF14SdMOdHOZ.jpg",
+  "overview": "El boticario vuelve cuando el harén de Edo arde al calor de nuevas crisis, disputas familiares y envidias que engendran un espíritu incendiario.",
+  "trailer": "",
+  "runtime": "74",
+  "slug": "mononoke-the-movie-chapter-ii-the-ashes-of-rage",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/xqv09nkfjaa7",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "xqv09nkfjaa7",
+      "player_url": "https://streamwish.to/e/xqv09nkfjaa7"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/id9kp7qwhyfo",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "id9kp7qwhyfo",
+      "player_url": "https://vidhidepro.com/v/id9kp7qwhyfo"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/okt9croegt29",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "okt9croegt29",
+      "player_url": "https://voe.sx/e/okt9croegt29"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/0w8w4uduguaq",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0w8w4uduguaq",
+      "player_url": "https://doodstream.com/e/0w8w4uduguaq"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/gt0x7ujnkbhn",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "gt0x7ujnkbhn",
+      "player_url": "https://streamwish.to/e/gt0x7ujnkbhn"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/r00ih0ej1czk",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "r00ih0ej1czk",
+      "player_url": "https://vidhidepro.com/v/r00ih0ej1czk"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/pxuqcjrxeqpz",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "pxuqcjrxeqpz",
+      "player_url": "https://voe.sx/e/pxuqcjrxeqpz"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/40mhn3g3q9hv",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "40mhn3g3q9hv",
+      "player_url": "https://streamwish.to/e/40mhn3g3q9hv"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/rtnasedbdftp",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rtnasedbdftp",
+      "player_url": "https://vidhidepro.com/v/rtnasedbdftp"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/yremmogt2fqj",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "yremmogt2fqj",
+      "player_url": "https://voe.sx/e/yremmogt2fqj"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/4ll8d93hkiqt",
+      "player_url": "https://minochinos.com/embed/4ll8d93hkiqt",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4ll8d93hkiqt"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/yn1cyn29w8gw",
+      "player_url": "https://hglink.to/e/yn1cyn29w8gw",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yn1cyn29w8gw"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/tm4wbdb507fp",
+      "player_url": "https://bysedikamoum.com/e/tm4wbdb507fp",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tm4wbdb507fp"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/lggmu6ln4uhw",
+      "player_url": "https://voe.sx/e/lggmu6ln4uhw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lggmu6ln4uhw"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/lggmu6ln4uhw/download",
+      "player_url": "https://voe.sx/lggmu6ln4uhw/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/9tynxke7bd3s",
+      "player_url": "https://rapidvideo.link/e/9tynxke7bd3s",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9tynxke7bd3s"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/3nrx3013t0jx",
+      "player_url": "https://minochinos.com/embed/3nrx3013t0jx",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3nrx3013t0jx"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/28zj2hm2gl3p",
+      "player_url": "https://hglink.to/e/28zj2hm2gl3p",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "28zj2hm2gl3p"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/xa5xikbt8n0p",
+      "player_url": "https://bysedikamoum.com/e/xa5xikbt8n0p",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xa5xikbt8n0p"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/fe4pfnsitfy7",
+      "player_url": "https://voe.sx/e/fe4pfnsitfy7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fe4pfnsitfy7"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/vwugdtk1o57f",
+      "player_url": "https://rapidvideo.link/e/vwugdtk1o57f",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vwugdtk1o57f"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/2y1r9lbmw0oe",
+      "player_url": "https://minochinos.com/embed/2y1r9lbmw0oe",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2y1r9lbmw0oe"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/9trpwqqya69q",
+      "player_url": "https://hglink.to/e/9trpwqqya69q",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9trpwqqya69q"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/a8nqmcd42ory",
+      "player_url": "https://bysedikamoum.com/e/a8nqmcd42ory",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "a8nqmcd42ory"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/scgvjidllk54",
+      "player_url": "https://voe.sx/e/scgvjidllk54",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "scgvjidllk54"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/scgvjidllk54/download",
+      "player_url": "https://voe.sx/scgvjidllk54/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/ort3ejpa5m6v",
+      "player_url": "https://rapidvideo.link/e/ort3ejpa5m6v",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ort3ejpa5m6v"
+    },
+    {
+      "id": 28,
+      "url": "https://minochinos.com/embed/a0ao31wd4eui",
+      "player_url": "https://minochinos.com/embed/a0ao31wd4eui",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "a0ao31wd4eui"
+    },
+    {
+      "id": 29,
+      "url": "https://hglink.to/e/g5js5gt97h1q",
+      "player_url": "https://hglink.to/e/g5js5gt97h1q",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "g5js5gt97h1q"
+    },
+    {
+      "id": 30,
+      "url": "https://bysedikamoum.com/e/9w1nfjrqbsxr",
+      "player_url": "https://bysedikamoum.com/e/9w1nfjrqbsxr",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "9w1nfjrqbsxr"
+    },
+    {
+      "id": 31,
+      "url": "https://voe.sx/e/zw0tijghljp9",
+      "player_url": "https://voe.sx/e/zw0tijghljp9",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "zw0tijghljp9"
+    },
+    {
+      "id": 32,
+      "url": "https://voe.sx/zw0tijghljp9/download",
+      "player_url": "https://voe.sx/zw0tijghljp9/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 33,
+      "url": "https://rapidvideo.link/e/zqyasvkdp2cn",
+      "player_url": "https://rapidvideo.link/e/zqyasvkdp2cn",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "zqyasvkdp2cn"
+    }
+  ]
+}
