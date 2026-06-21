@@ -1,1 +1,252 @@
-{"id":1265344,"titulo":"Match: La reina de las apps de citas","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/jKFxwLHiqncNSG1VFliTlf61r9s.jpg","release_date":"2025-09-09","genres":["drama"],"rating":"6.6","backdrop":"https://image.tmdb.org/t/p/original/ehX2ljRmDLyKS44rZz2kt4BkwkJ.jpg","overview":"Inspirada en la historia de Whitney Wolfe Herd, fundadora y ex CEO de la plataforma de citas Bumble.","trailer":"","runtime":"110","slug":"match-la-reina-de-las-apps-de-citas","servidores":[{"id":1,"url":"https://streamwish.to/e/ud9s1cdpzmnd","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"ud9s1cdpzmnd","player_url":"https://streamwish.to/e/ud9s1cdpzmnd"},{"id":2,"url":"https://vidhidepro.com/v/jmp6ggdbr5g2","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"jmp6ggdbr5g2","player_url":"https://vidhidepro.com/v/jmp6ggdbr5g2"},{"id":3,"url":"https://voe.sx/e/i9jgolrzo9lj","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"i9jgolrzo9lj","player_url":"https://voe.sx/e/i9jgolrzo9lj"},{"id":4,"url":"https://streamwish.to/e/w4fkzybos4d8","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"w4fkzybos4d8","player_url":"https://streamwish.to/e/w4fkzybos4d8"},{"id":5,"url":"https://vidhidepro.com/v/3ar5xp4dctil","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"3ar5xp4dctil","player_url":"https://vidhidepro.com/v/3ar5xp4dctil"},{"id":6,"url":"https://voe.sx/e/uvtmmzukoxte","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"uvtmmzukoxte","player_url":"https://voe.sx/e/uvtmmzukoxte"},{"id":7,"url":"https://streamwish.to/e/ry3a2qvljnsf","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"ry3a2qvljnsf","player_url":"https://streamwish.to/e/ry3a2qvljnsf"},{"id":8,"url":"https://vidhidepro.com/v/2ah9bask9w85","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"2ah9bask9w85","player_url":"https://vidhidepro.com/v/2ah9bask9w85"},{"id":9,"url":"https://voe.sx/e/hqzrfcbt9ajj","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"hqzrfcbt9ajj","player_url":"https://voe.sx/e/hqzrfcbt9ajj"}]}
+{
+  "id": 1265344,
+  "titulo": "Match: La reina de las apps de citas",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/jKFxwLHiqncNSG1VFliTlf61r9s.jpg",
+  "release_date": "2025-09-09",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/ehX2ljRmDLyKS44rZz2kt4BkwkJ.jpg",
+  "overview": "Inspirada en la historia de Whitney Wolfe Herd, fundadora y ex CEO de la plataforma de citas Bumble.",
+  "trailer": "",
+  "runtime": "110",
+  "slug": "match-la-reina-de-las-apps-de-citas",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ud9s1cdpzmnd",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ud9s1cdpzmnd",
+      "player_url": "https://streamwish.to/e/ud9s1cdpzmnd"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/jmp6ggdbr5g2",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jmp6ggdbr5g2",
+      "player_url": "https://vidhidepro.com/v/jmp6ggdbr5g2"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/i9jgolrzo9lj",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "i9jgolrzo9lj",
+      "player_url": "https://voe.sx/e/i9jgolrzo9lj"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/w4fkzybos4d8",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "w4fkzybos4d8",
+      "player_url": "https://streamwish.to/e/w4fkzybos4d8"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/3ar5xp4dctil",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3ar5xp4dctil",
+      "player_url": "https://vidhidepro.com/v/3ar5xp4dctil"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/uvtmmzukoxte",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "uvtmmzukoxte",
+      "player_url": "https://voe.sx/e/uvtmmzukoxte"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/ry3a2qvljnsf",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ry3a2qvljnsf",
+      "player_url": "https://streamwish.to/e/ry3a2qvljnsf"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/2ah9bask9w85",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2ah9bask9w85",
+      "player_url": "https://vidhidepro.com/v/2ah9bask9w85"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/hqzrfcbt9ajj",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "hqzrfcbt9ajj",
+      "player_url": "https://voe.sx/e/hqzrfcbt9ajj"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/5v8rpt0rnhi6",
+      "player_url": "https://minochinos.com/embed/5v8rpt0rnhi6",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5v8rpt0rnhi6"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/7omytx8xzes0",
+      "player_url": "https://hglink.to/e/7omytx8xzes0",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7omytx8xzes0"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/ecaouaql41i1",
+      "player_url": "https://bysedikamoum.com/e/ecaouaql41i1",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ecaouaql41i1"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/n2j2j8jupvii",
+      "player_url": "https://voe.sx/e/n2j2j8jupvii",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n2j2j8jupvii"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/n2j2j8jupvii/download",
+      "player_url": "https://voe.sx/n2j2j8jupvii/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/fyi203gzprc6",
+      "player_url": "https://rapidvideo.link/e/fyi203gzprc6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fyi203gzprc6"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/clbni32xdj1n",
+      "player_url": "https://minochinos.com/embed/clbni32xdj1n",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "clbni32xdj1n"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/tjkoww0oq5ym",
+      "player_url": "https://hglink.to/e/tjkoww0oq5ym",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tjkoww0oq5ym"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/u1u629c5kmja",
+      "player_url": "https://bysedikamoum.com/e/u1u629c5kmja",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u1u629c5kmja"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/fe2ktiudpf5l",
+      "player_url": "https://voe.sx/e/fe2ktiudpf5l",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fe2ktiudpf5l"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/1x869k0aqonv",
+      "player_url": "https://rapidvideo.link/e/1x869k0aqonv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1x869k0aqonv"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/bicxaf2hnp75",
+      "player_url": "https://minochinos.com/embed/bicxaf2hnp75",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bicxaf2hnp75"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/7z6r0kc3p2bp",
+      "player_url": "https://hglink.to/e/7z6r0kc3p2bp",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7z6r0kc3p2bp"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/c8jw225w02mb",
+      "player_url": "https://bysedikamoum.com/e/c8jw225w02mb",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c8jw225w02mb"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/bd4ncsrxkl5b",
+      "player_url": "https://voe.sx/e/bd4ncsrxkl5b",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bd4ncsrxkl5b"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/bd4ncsrxkl5b/download",
+      "player_url": "https://voe.sx/bd4ncsrxkl5b/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/r1au83b2tick",
+      "player_url": "https://rapidvideo.link/e/r1au83b2tick",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "r1au83b2tick"
+    }
+  ]
+}
