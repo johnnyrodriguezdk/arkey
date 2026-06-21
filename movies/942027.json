@@ -1,1 +1,190 @@
-{"id":942027,"titulo":"Broadcast","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/mSUxmmci2Z6J1ZmJWCQMd0BUnmB.jpg","release_date":"2022-02-21","genres":[],"rating":"4.1","backdrop":"https://image.tmdb.org/t/p/original/rLQEFqOS1j7UhDSjwgHUc2m6vDW.jpg","overview":"Después de que un multimillonario excéntrico crea una droga llamada INOC que detiene el proceso de envejecimiento eliminando efectivamente la muerte misma, se ve el futuro de un mundo donde la muerte ya no existe. A través de un juguete infantil aparentemente inofensivo, se cuenta la historia del destino de la humanidad mientras se revela una verdad esquiva a su espectador desprevenido.","trailer":"","runtime":"88","slug":"broadcast","servidores":[{"id":1,"url":"https://streamwish.to/e/e8l1njcafl6m","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"e8l1njcafl6m","player_url":"https://streamwish.to/e/e8l1njcafl6m"},{"id":2,"url":"https://vidhidepro.com/v/uvt4ds9q1lzr","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"uvt4ds9q1lzr","player_url":"https://vidhidepro.com/v/uvt4ds9q1lzr"},{"id":3,"url":"https://voe.sx/e/plfppuitwwqr","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"plfppuitwwqr","player_url":"https://voe.sx/e/plfppuitwwqr"},{"id":4,"url":"https://doodstream.com/e/8156zzp07hsm","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"8156zzp07hsm","player_url":"https://doodstream.com/e/8156zzp07hsm"},{"id":5,"url":"https://streamwish.to/e/eeggr1ajn372","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"eeggr1ajn372","player_url":"https://streamwish.to/e/eeggr1ajn372"},{"id":6,"url":"https://vidhidepro.com/v/oqsedezq4ev9","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"oqsedezq4ev9","player_url":"https://vidhidepro.com/v/oqsedezq4ev9"},{"id":7,"url":"https://doodstream.com/e/3fgqoeq8sywx","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"3fgqoeq8sywx","player_url":"https://doodstream.com/e/3fgqoeq8sywx"}]}
+{
+  "id": 942027,
+  "titulo": "Broadcast",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/mSUxmmci2Z6J1ZmJWCQMd0BUnmB.jpg",
+  "release_date": "2022-02-21",
+  "genres": [
+    "Ciencia Ficción",
+    "Fantasía"
+  ],
+  "rating": "4.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/rLQEFqOS1j7UhDSjwgHUc2m6vDW.jpg",
+  "overview": "Después de que un multimillonario excéntrico crea una droga llamada INOC que detiene el proceso de envejecimiento eliminando efectivamente la muerte misma, se ve el futuro de un mundo donde la muerte ya no existe. A través de un juguete infantil aparentemente inofensivo, se cuenta la historia del destino de la humanidad mientras se revela una verdad esquiva a su espectador desprevenido.",
+  "trailer": "",
+  "runtime": "88",
+  "slug": "broadcast",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/e8l1njcafl6m",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "e8l1njcafl6m",
+      "player_url": "https://streamwish.to/e/e8l1njcafl6m"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/uvt4ds9q1lzr",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "uvt4ds9q1lzr",
+      "player_url": "https://vidhidepro.com/v/uvt4ds9q1lzr"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/plfppuitwwqr",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "plfppuitwwqr",
+      "player_url": "https://voe.sx/e/plfppuitwwqr"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/8156zzp07hsm",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "8156zzp07hsm",
+      "player_url": "https://doodstream.com/e/8156zzp07hsm"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/eeggr1ajn372",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "eeggr1ajn372",
+      "player_url": "https://streamwish.to/e/eeggr1ajn372"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/oqsedezq4ev9",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "oqsedezq4ev9",
+      "player_url": "https://vidhidepro.com/v/oqsedezq4ev9"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/3fgqoeq8sywx",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "3fgqoeq8sywx",
+      "player_url": "https://doodstream.com/e/3fgqoeq8sywx"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/zle1wmieki03",
+      "player_url": "https://minochinos.com/embed/zle1wmieki03",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zle1wmieki03"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/2iux54r3t6ah",
+      "player_url": "https://hglink.to/e/2iux54r3t6ah",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2iux54r3t6ah"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/21xcfzjc4nbb",
+      "player_url": "https://bysedikamoum.com/e/21xcfzjc4nbb",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "21xcfzjc4nbb"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/vacqnvmfrbfo",
+      "player_url": "https://voe.sx/e/vacqnvmfrbfo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vacqnvmfrbfo"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/vacqnvmfrbfo/download",
+      "player_url": "https://voe.sx/vacqnvmfrbfo/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/7pnrawjgk0mq",
+      "player_url": "https://rapidvideo.link/e/7pnrawjgk0mq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7pnrawjgk0mq"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/jjc5wmfb2gkc",
+      "player_url": "https://minochinos.com/embed/jjc5wmfb2gkc",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jjc5wmfb2gkc"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/ig346vc0bl6i",
+      "player_url": "https://hglink.to/e/ig346vc0bl6i",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ig346vc0bl6i"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/2m3acnn9mdvb",
+      "player_url": "https://bysedikamoum.com/e/2m3acnn9mdvb",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2m3acnn9mdvb"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/hpdddh53bdbp",
+      "player_url": "https://voe.sx/e/hpdddh53bdbp",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hpdddh53bdbp"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/hpdddh53bdbp/download",
+      "player_url": "https://voe.sx/hpdddh53bdbp/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/aqe1ov2bcfkz",
+      "player_url": "https://rapidvideo.link/e/aqe1ov2bcfkz",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "aqe1ov2bcfkz"
+    }
+  ]
+}
