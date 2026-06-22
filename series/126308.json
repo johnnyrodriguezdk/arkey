@@ -1,1 +1,26 @@
-{"id":126308,"titulo":"Shōgun","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/uIoDvVOQaKjSfz2oihkVS8M7l1v.jpg","release_date":"2024-02-27","genres":["drama"],"rating":"8.4","backdrop":"https://image.tmdb.org/t/p/original/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg","overview":"Ambientada en el Japón del año 1600, lord Yoshii Toranaga lucha por su vida mientras sus enemigos del Consejo de Regentes se unen contra él, cuando un misterioso barco europeo encalla en un pueblo pesquero cercano.","trailer":"","slug":"shogun"}
+{
+  "id": 126308,
+  "titulo": "Shōgun",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/uIoDvVOQaKjSfz2oihkVS8M7l1v.jpg",
+  "release_date": "2024-02-27",
+  "genres": [
+    "drama"
+  ],
+  "rating": "8.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+  "overview": "Ambientada en el Japón del año 1600, lord Yoshii Toranaga lucha por su vida mientras sus enemigos del Consejo de Regentes se unen contra él, cuando un misterioso barco europeo encalla en un pueblo pesquero cercano.",
+  "trailer": "",
+  "slug": "shogun",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf3cd44f338a2dbac4aa475d17e6933f6a3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf3cd44f338a2dbac4aa475d17e6933f6a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3cd44f338a2dbac4aa475d17e6933f6a3a"
+    }
+  ]
+}
