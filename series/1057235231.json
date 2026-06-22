@@ -14,7 +14,17 @@
   "slug": "rain-dogs",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf335666946b1ada637b959d6ae4e039693a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf335666946b1ada637b959d6ae4e039693a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf335666946b1ada637b959d6ae4e039693a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
