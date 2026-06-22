@@ -15,7 +15,17 @@
   "slug": "como-flores-en-la-arena",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfafb680a391cf90fdc56dbd6701259c593a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfafb680a391cf90fdc56dbd6701259c593a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfafb680a391cf90fdc56dbd6701259c593a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
