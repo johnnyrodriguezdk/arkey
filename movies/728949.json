@@ -1,1 +1,226 @@
-{"id":728949,"titulo":"Canina","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/z9iXgha64p1UQeDu2ApKV4KYRRM.jpg","release_date":"2024-12-06","genres":[],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/jvFj4V2C6fQziMhOzCYdeW2vEbS.jpg","overview":"Una mujer hace una pausa en su carrera para ser ama de casa y mamá, pero pronto su nueva vida doméstica da un giro surrealista.","trailer":"","runtime":"99","slug":"nightbitch","servidores":[{"id":1,"url":"https://streamwish.to/e/r4vk3j9m8m4y","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"r4vk3j9m8m4y","player_url":"https://streamwish.to/e/r4vk3j9m8m4y"},{"id":2,"url":"https://vidhidepro.com/v/6ww63x2jcm1l","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"6ww63x2jcm1l","player_url":"https://vidhidepro.com/v/6ww63x2jcm1l"},{"id":3,"url":"https://streamwish.to/e/41cl4a3wuwem","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"41cl4a3wuwem","player_url":"https://streamwish.to/e/41cl4a3wuwem"},{"id":4,"url":"https://bysejikuar.com/e/pjnu9pbh816r","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"pjnu9pbh816r","player_url":"https://bysejikuar.com/e/pjnu9pbh816r"},{"id":5,"url":"https://vidhidepro.com/v/1g0avr8pp9tg","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"1g0avr8pp9tg","player_url":"https://vidhidepro.com/v/1g0avr8pp9tg"},{"id":6,"url":"https://streamwish.to/e/pg6gypb8qmcs","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"pg6gypb8qmcs","player_url":"https://streamwish.to/e/pg6gypb8qmcs"},{"id":7,"url":"https://vidhidepro.com/v/se57jbocienn","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"se57jbocienn","player_url":"https://vidhidepro.com/v/se57jbocienn"}]}
+{
+  "id": 728949,
+  "titulo": "Canina",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/z9iXgha64p1UQeDu2ApKV4KYRRM.jpg",
+  "release_date": "2024-12-06",
+  "genres": [
+    "Comedia",
+    "Drama"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/jvFj4V2C6fQziMhOzCYdeW2vEbS.jpg",
+  "overview": "Una mujer hace una pausa en su carrera para ser ama de casa y mamá, pero pronto su nueva vida doméstica da un giro surrealista.",
+  "trailer": "",
+  "runtime": "99",
+  "slug": "nightbitch",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/r4vk3j9m8m4y",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "r4vk3j9m8m4y",
+      "player_url": "https://streamwish.to/e/r4vk3j9m8m4y"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/6ww63x2jcm1l",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "6ww63x2jcm1l",
+      "player_url": "https://vidhidepro.com/v/6ww63x2jcm1l"
+    },
+    {
+      "id": 3,
+      "url": "https://streamwish.to/e/41cl4a3wuwem",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "41cl4a3wuwem",
+      "player_url": "https://streamwish.to/e/41cl4a3wuwem"
+    },
+    {
+      "id": 4,
+      "url": "https://bysejikuar.com/e/pjnu9pbh816r",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "pjnu9pbh816r",
+      "player_url": "https://bysejikuar.com/e/pjnu9pbh816r"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/1g0avr8pp9tg",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1g0avr8pp9tg",
+      "player_url": "https://vidhidepro.com/v/1g0avr8pp9tg"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/pg6gypb8qmcs",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "pg6gypb8qmcs",
+      "player_url": "https://streamwish.to/e/pg6gypb8qmcs"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/se57jbocienn",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "se57jbocienn",
+      "player_url": "https://vidhidepro.com/v/se57jbocienn"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/qj271ky6rkp7",
+      "player_url": "https://minochinos.com/embed/qj271ky6rkp7",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qj271ky6rkp7"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/sbobztju4gaq",
+      "player_url": "https://hglink.to/e/sbobztju4gaq",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sbobztju4gaq"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/4mvao6esvgrh",
+      "player_url": "https://voe.sx/e/4mvao6esvgrh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4mvao6esvgrh"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/4mvao6esvgrh/download",
+      "player_url": "https://voe.sx/4mvao6esvgrh/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 12,
+      "url": "https://rapidvideo.link/e/etjr6zyb2pwf",
+      "player_url": "https://rapidvideo.link/e/etjr6zyb2pwf",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "etjr6zyb2pwf"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/r6oyo528ukp5",
+      "player_url": "https://minochinos.com/embed/r6oyo528ukp5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r6oyo528ukp5"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/8dlkq6hd02nu",
+      "player_url": "https://hglink.to/e/8dlkq6hd02nu",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8dlkq6hd02nu"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/rlath6f8zzlh",
+      "player_url": "https://bysedikamoum.com/e/rlath6f8zzlh",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rlath6f8zzlh"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/icoxw7h00dwe",
+      "player_url": "https://voe.sx/e/icoxw7h00dwe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "icoxw7h00dwe"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/zy2dl5j1qr60",
+      "player_url": "https://rapidvideo.link/e/zy2dl5j1qr60",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zy2dl5j1qr60"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/qd8yt10et6tx",
+      "player_url": "https://minochinos.com/embed/qd8yt10et6tx",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qd8yt10et6tx"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/syksc2gf8av4",
+      "player_url": "https://hglink.to/e/syksc2gf8av4",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "syksc2gf8av4"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/6xq3mk4vmmfk",
+      "player_url": "https://bysedikamoum.com/e/6xq3mk4vmmfk",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6xq3mk4vmmfk"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/utmwhpm435du",
+      "player_url": "https://voe.sx/e/utmwhpm435du",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "utmwhpm435du"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/utmwhpm435du/download",
+      "player_url": "https://voe.sx/utmwhpm435du/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/1uycnzlmehdw",
+      "player_url": "https://rapidvideo.link/e/1uycnzlmehdw",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1uycnzlmehdw"
+    }
+  ]
+}
