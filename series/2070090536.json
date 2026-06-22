@@ -18,7 +18,17 @@
   "slug": "jurassic-world-teoria-del-dinocaos",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf031c04c38276b815e0238a19a0bb9a5c3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf031c04c38276b815e0238a19a0bb9a5c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf031c04c38276b815e0238a19a0bb9a5c3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
