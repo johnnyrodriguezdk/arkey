@@ -14,7 +14,17 @@
   "slug": "vigil-conspiracion-nuclear",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/v2c4gd7mj6ea",
+      "player_url": "https://dsvplay.com/e/v2c4gd7mj6ea",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v2c4gd7mj6ea"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
