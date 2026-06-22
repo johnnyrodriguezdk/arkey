@@ -1,1 +1,270 @@
-{"id":1144911,"titulo":"Skincare","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/ikPzv7el0RcBhtXj3ElCoH54icd.jpg","release_date":"2024-08-15","genres":["drama"],"rating":"6.0","backdrop":"https://image.tmdb.org/t/p/original/cxDae3pWJf2D8LMeRRaaE9zoYK7.jpg","overview":"El negocio de cuidado de la piel de la famosa esteticista Hope Goldman se enfrenta a un sabotaje cuando su rival Angel Vergara abre una boutique al otro lado de la calle. Ayudada por su amiga Jordan, Hope intenta descubrir quién está tratando de arruinar su reputación.","trailer":"","runtime":"96","slug":"skincare","servidores":[{"id":1,"url":"https://streamwish.to/e/qn0gbwrkpu14","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"qn0gbwrkpu14","player_url":"https://streamwish.to/e/qn0gbwrkpu14"},{"id":2,"url":"https://bysejikuar.com/e/cglmej4btkk3","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"cglmej4btkk3","player_url":"https://bysejikuar.com/e/cglmej4btkk3"},{"id":3,"url":"https://vidhidepro.com/v/b3k1fpse5bn0","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"b3k1fpse5bn0","player_url":"https://vidhidepro.com/v/b3k1fpse5bn0"},{"id":4,"url":"https://voe.sx/e/tbnpkqoj3oi2","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"tbnpkqoj3oi2","player_url":"https://voe.sx/e/tbnpkqoj3oi2"},{"id":5,"url":"https://doodstream.com/e/0xtob20oc126","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"0xtob20oc126","player_url":"https://doodstream.com/e/0xtob20oc126"},{"id":6,"url":"https://streamwish.to/e/d7dlzf8zeoxf","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"d7dlzf8zeoxf","player_url":"https://streamwish.to/e/d7dlzf8zeoxf"},{"id":7,"url":"https://vidhidepro.com/v/mxdz8zo5c9xk","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"mxdz8zo5c9xk","player_url":"https://vidhidepro.com/v/mxdz8zo5c9xk"},{"id":8,"url":"https://doodstream.com/e/7k0qllk08961","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"7k0qllk08961","player_url":"https://doodstream.com/e/7k0qllk08961"},{"id":9,"url":"https://streamwish.to/e/rk36filaegua","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"rk36filaegua","player_url":"https://streamwish.to/e/rk36filaegua"},{"id":10,"url":"https://vidhidepro.com/v/3dnugb7tdkmp","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"3dnugb7tdkmp","player_url":"https://vidhidepro.com/v/3dnugb7tdkmp"},{"id":11,"url":"https://doodstream.com/e/9wcxnatj7x7c","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"9wcxnatj7x7c","player_url":"https://doodstream.com/e/9wcxnatj7x7c"}]}
+{
+  "id": 1144911,
+  "titulo": "Skincare",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/ikPzv7el0RcBhtXj3ElCoH54icd.jpg",
+  "release_date": "2024-08-15",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/cxDae3pWJf2D8LMeRRaaE9zoYK7.jpg",
+  "overview": "El negocio de cuidado de la piel de la famosa esteticista Hope Goldman se enfrenta a un sabotaje cuando su rival Angel Vergara abre una boutique al otro lado de la calle. Ayudada por su amiga Jordan, Hope intenta descubrir quién está tratando de arruinar su reputación.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "skincare",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/qn0gbwrkpu14",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "qn0gbwrkpu14",
+      "player_url": "https://streamwish.to/e/qn0gbwrkpu14"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/cglmej4btkk3",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "cglmej4btkk3",
+      "player_url": "https://bysejikuar.com/e/cglmej4btkk3"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/b3k1fpse5bn0",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "b3k1fpse5bn0",
+      "player_url": "https://vidhidepro.com/v/b3k1fpse5bn0"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/tbnpkqoj3oi2",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "tbnpkqoj3oi2",
+      "player_url": "https://voe.sx/e/tbnpkqoj3oi2"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/0xtob20oc126",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0xtob20oc126",
+      "player_url": "https://doodstream.com/e/0xtob20oc126"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/d7dlzf8zeoxf",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "d7dlzf8zeoxf",
+      "player_url": "https://streamwish.to/e/d7dlzf8zeoxf"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/mxdz8zo5c9xk",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mxdz8zo5c9xk",
+      "player_url": "https://vidhidepro.com/v/mxdz8zo5c9xk"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/7k0qllk08961",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7k0qllk08961",
+      "player_url": "https://doodstream.com/e/7k0qllk08961"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/rk36filaegua",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "rk36filaegua",
+      "player_url": "https://streamwish.to/e/rk36filaegua"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/3dnugb7tdkmp",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3dnugb7tdkmp",
+      "player_url": "https://vidhidepro.com/v/3dnugb7tdkmp"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/9wcxnatj7x7c",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9wcxnatj7x7c",
+      "player_url": "https://doodstream.com/e/9wcxnatj7x7c"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/smfkuds4co3c",
+      "player_url": "https://minochinos.com/embed/smfkuds4co3c",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "smfkuds4co3c"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/z5kirc7wf888",
+      "player_url": "https://hglink.to/e/z5kirc7wf888",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z5kirc7wf888"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/ifdzi3zyy8qs",
+      "player_url": "https://bysedikamoum.com/e/ifdzi3zyy8qs",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ifdzi3zyy8qs"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/udcg4mlfjpfz",
+      "player_url": "https://voe.sx/e/udcg4mlfjpfz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "udcg4mlfjpfz"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/udcg4mlfjpfz/download",
+      "player_url": "https://voe.sx/udcg4mlfjpfz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/b5sth2anxgd1",
+      "player_url": "https://rapidvideo.link/e/b5sth2anxgd1",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b5sth2anxgd1"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/vaun492dgg1w",
+      "player_url": "https://minochinos.com/embed/vaun492dgg1w",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vaun492dgg1w"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/k9jgq6k4l52e",
+      "player_url": "https://hglink.to/e/k9jgq6k4l52e",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k9jgq6k4l52e"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/1irwj837ig1f",
+      "player_url": "https://bysedikamoum.com/e/1irwj837ig1f",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1irwj837ig1f"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/za7arcl1pmdg",
+      "player_url": "https://voe.sx/e/za7arcl1pmdg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "za7arcl1pmdg"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/uj7r8ovyx40e",
+      "player_url": "https://rapidvideo.link/e/uj7r8ovyx40e",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uj7r8ovyx40e"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/rrke2zjj56pq",
+      "player_url": "https://minochinos.com/embed/rrke2zjj56pq",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rrke2zjj56pq"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/41w0kzt28csd",
+      "player_url": "https://hglink.to/e/41w0kzt28csd",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "41w0kzt28csd"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/auie8wvp79k7",
+      "player_url": "https://bysedikamoum.com/e/auie8wvp79k7",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "auie8wvp79k7"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/xkfzoqwcuwmv",
+      "player_url": "https://voe.sx/e/xkfzoqwcuwmv",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xkfzoqwcuwmv"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/xkfzoqwcuwmv/download",
+      "player_url": "https://voe.sx/xkfzoqwcuwmv/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/dngf948h62we",
+      "player_url": "https://rapidvideo.link/e/dngf948h62we",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dngf948h62we"
+    }
+  ]
+}
