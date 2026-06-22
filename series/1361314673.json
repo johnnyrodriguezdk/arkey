@@ -15,7 +15,17 @@
   "slug": "cars-aventuras-en-el-camino",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf4ffead874f5f59efc610fe6e5596ed293a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf4ffead874f5f59efc610fe6e5596ed293a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf4ffead874f5f59efc610fe6e5596ed293a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
