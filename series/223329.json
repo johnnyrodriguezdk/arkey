@@ -1,1 +1,26 @@
-{"id":223329,"titulo":"La vorágine","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/niabu7iVMCier4vtIGMR5r5Xm1Y.jpg","release_date":"2024-06-28","genres":["drama"],"rating":"6.8","backdrop":"https://image.tmdb.org/t/p/original/tYEglssQT3HMngKm5bQA5mw4n0u.jpg","overview":"La batalla campal entre el primer ministro y la vice primera ministra se desata el día en que el presidente sufre un intento de asesinato.","trailer":"","slug":"la-voragine"}
+{
+  "id": 223329,
+  "titulo": "La vorágine",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/niabu7iVMCier4vtIGMR5r5Xm1Y.jpg",
+  "release_date": "2024-06-28",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/tYEglssQT3HMngKm5bQA5mw4n0u.jpg",
+  "overview": "La batalla campal entre el primer ministro y la vice primera ministra se desata el día en que el presidente sufre un intento de asesinato.",
+  "trailer": "",
+  "slug": "la-voragine",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf893ae47f5bf9f1f3b5cd9c03caa7cfe13a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf893ae47f5bf9f1f3b5cd9c03caa7cfe13a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf893ae47f5bf9f1f3b5cd9c03caa7cfe13a"
+    }
+  ]
+}
