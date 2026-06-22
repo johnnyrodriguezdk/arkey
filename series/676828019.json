@@ -1,0 +1,35 @@
+{
+  "id": 676828019,
+  "titulo": "Portobello",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/b8fa7fd38331444b05aa54244bd029b1.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "crimen",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Enzo Tortora fue el famoso presentador del programa de televisión italiano &quot;Portobello&quot;, acusado por algunos colaboradores de la justicia de formar parte de",
+  "slug": "portobello",
+  "iframe_url": "https://lacloud.live/7a0539ce0df11c2e",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/7a0539ce0df11c2e/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/7a0539ce0df11c2e/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7a0539ce0df11c2e"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/portobello?season=1&ep=1"
+    }
+  ]
+}
