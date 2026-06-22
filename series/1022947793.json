@@ -14,7 +14,17 @@
   "slug": "uzaki-chan-wants-to-hang-out",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf2c2a3263423cd6d40b253955d92f2be63a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf2c2a3263423cd6d40b253955d92f2be63a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf2c2a3263423cd6d40b253955d92f2be63a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
