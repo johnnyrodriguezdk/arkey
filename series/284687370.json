@@ -16,7 +16,17 @@
   "slug": "manifiesto",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/1z9xyrhiz2c0",
+      "player_url": "https://dsvplay.com/e/1z9xyrhiz2c0",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1z9xyrhiz2c0"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
