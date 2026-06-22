@@ -11,7 +11,17 @@
   "slug": "habilidad-fisica-100",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf37cb7d3616660c1e2d52655701dc6a8e3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf37cb7d3616660c1e2d52655701dc6a8e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf37cb7d3616660c1e2d52655701dc6a8e3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
