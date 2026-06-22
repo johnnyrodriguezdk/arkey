@@ -1,1 +1,198 @@
-{"id":1185719,"titulo":"El castillo de arena","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/cLoqI44qfEyc0IGzvOI6m0S2bil.jpg","release_date":"2024-12-07","genres":["drama"],"rating":"5.5","backdrop":"https://image.tmdb.org/t/p/original/jyiS3eQFQzSNlY4TRIIkTSyI1ce.jpg","overview":"Varada en una isla desierta, una familia busca sobrevivir mientras su pasado se revela y los sumerge en un torbellino de dolorosos acontecimientos.","trailer":"","runtime":"98","slug":"el-castillo-de-arena","servidores":[{"id":1,"url":"https://streamwish.to/e/ksidnicw8duo","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"ksidnicw8duo","player_url":"https://streamwish.to/e/ksidnicw8duo"},{"id":2,"url":"https://vidhidepro.com/v/91wbx7n5cik5","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"91wbx7n5cik5","player_url":"https://vidhidepro.com/v/91wbx7n5cik5"},{"id":3,"url":"https://voe.sx/e/wtb6jg0drinb","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"wtb6jg0drinb","player_url":"https://voe.sx/e/wtb6jg0drinb"},{"id":4,"url":"https://doodstream.com/e/vxq9mevh5trq","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"vxq9mevh5trq","player_url":"https://doodstream.com/e/vxq9mevh5trq"},{"id":5,"url":"https://streamwish.to/e/e7ghs5u4ecah","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"e7ghs5u4ecah","player_url":"https://streamwish.to/e/e7ghs5u4ecah"},{"id":6,"url":"https://vidhidepro.com/v/8q9nqkcv2wi6","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"8q9nqkcv2wi6","player_url":"https://vidhidepro.com/v/8q9nqkcv2wi6"},{"id":7,"url":"https://voe.sx/e/hulpntxiwfhv","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"hulpntxiwfhv","player_url":"https://voe.sx/e/hulpntxiwfhv"},{"id":8,"url":"https://doodstream.com/e/7ud1ffmz855r","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"7ud1ffmz855r","player_url":"https://doodstream.com/e/7ud1ffmz855r"}]}
+{
+  "id": 1185719,
+  "titulo": "El castillo de arena",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/cLoqI44qfEyc0IGzvOI6m0S2bil.jpg",
+  "release_date": "2024-12-07",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/jyiS3eQFQzSNlY4TRIIkTSyI1ce.jpg",
+  "overview": "Varada en una isla desierta, una familia busca sobrevivir mientras su pasado se revela y los sumerge en un torbellino de dolorosos acontecimientos.",
+  "trailer": "",
+  "runtime": "98",
+  "slug": "el-castillo-de-arena",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ksidnicw8duo",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ksidnicw8duo",
+      "player_url": "https://streamwish.to/e/ksidnicw8duo"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/91wbx7n5cik5",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "91wbx7n5cik5",
+      "player_url": "https://vidhidepro.com/v/91wbx7n5cik5"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/wtb6jg0drinb",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "wtb6jg0drinb",
+      "player_url": "https://voe.sx/e/wtb6jg0drinb"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/vxq9mevh5trq",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "vxq9mevh5trq",
+      "player_url": "https://doodstream.com/e/vxq9mevh5trq"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/e7ghs5u4ecah",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "e7ghs5u4ecah",
+      "player_url": "https://streamwish.to/e/e7ghs5u4ecah"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/8q9nqkcv2wi6",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8q9nqkcv2wi6",
+      "player_url": "https://vidhidepro.com/v/8q9nqkcv2wi6"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/hulpntxiwfhv",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "hulpntxiwfhv",
+      "player_url": "https://voe.sx/e/hulpntxiwfhv"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/7ud1ffmz855r",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7ud1ffmz855r",
+      "player_url": "https://doodstream.com/e/7ud1ffmz855r"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/c7o2p5ciertr",
+      "player_url": "https://minochinos.com/embed/c7o2p5ciertr",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c7o2p5ciertr"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/3p4ftos8sjso",
+      "player_url": "https://hglink.to/e/3p4ftos8sjso",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3p4ftos8sjso"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/kmevevhg9bfu",
+      "player_url": "https://bysedikamoum.com/e/kmevevhg9bfu",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kmevevhg9bfu"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/qzstw9f9rw42",
+      "player_url": "https://voe.sx/e/qzstw9f9rw42",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qzstw9f9rw42"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/qzstw9f9rw42/download",
+      "player_url": "https://voe.sx/qzstw9f9rw42/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/s2teoqwyzudf",
+      "player_url": "https://rapidvideo.link/e/s2teoqwyzudf",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s2teoqwyzudf"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/uvv5x85au3v8",
+      "player_url": "https://minochinos.com/embed/uvv5x85au3v8",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "uvv5x85au3v8"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/fshso1a34j6u",
+      "player_url": "https://hglink.to/e/fshso1a34j6u",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fshso1a34j6u"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/dgiphgoybnos",
+      "player_url": "https://bysedikamoum.com/e/dgiphgoybnos",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dgiphgoybnos"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/oebzj5d0fosf",
+      "player_url": "https://voe.sx/e/oebzj5d0fosf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "oebzj5d0fosf"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/oebzj5d0fosf/download",
+      "player_url": "https://voe.sx/oebzj5d0fosf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/u0jasypwhef9",
+      "player_url": "https://rapidvideo.link/e/u0jasypwhef9",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u0jasypwhef9"
+    }
+  ]
+}
