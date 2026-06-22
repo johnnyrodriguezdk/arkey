@@ -16,7 +16,17 @@
   "slug": "the-boys",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfa77ff47285506f4bb808b5ea7b4535723a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfa77ff47285506f4bb808b5ea7b4535723a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa77ff47285506f4bb808b5ea7b4535723a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
