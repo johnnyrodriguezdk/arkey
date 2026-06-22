@@ -13,7 +13,17 @@
   "slug": "como-conoci-a-tu-madre",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfa52fdac348b526ec84b6808333fdba753a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfa52fdac348b526ec84b6808333fdba753a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa52fdac348b526ec84b6808333fdba753a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
