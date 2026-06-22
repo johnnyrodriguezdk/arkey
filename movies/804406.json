@@ -1,1 +1,234 @@
-{"id":804406,"titulo":"La lección de piano","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/hNJhKFzRrmFaDgOAFUczXHE7rBA.jpg","release_date":"2024-11-07","genres":["drama"],"rating":"5.9","backdrop":"https://image.tmdb.org/t/p/original/ytorq8y3v9g1P4sXDFv2tbNg7Ms.jpg","overview":"La batalla entre un hermano y una hermana por un preciado piano heredado desata verdades inquietantes sobre cómo se percibe el pasado y quién define el legado familiar.","trailer":"","runtime":"127","slug":"la-leccion-de-piano","servidores":[{"id":1,"url":"https://streamwish.to/e/xvsf8dm2mdfo","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"xvsf8dm2mdfo","player_url":"https://streamwish.to/e/xvsf8dm2mdfo"},{"id":2,"url":"https://vidhidepro.com/v/8g90fx751mix","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"8g90fx751mix","player_url":"https://vidhidepro.com/v/8g90fx751mix"},{"id":3,"url":"https://doodstream.com/e/mqst7gxmpo49","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"mqst7gxmpo49","player_url":"https://doodstream.com/e/mqst7gxmpo49"},{"id":4,"url":"https://streamwish.to/e/56e2bm9e91i6","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"56e2bm9e91i6","player_url":"https://streamwish.to/e/56e2bm9e91i6"},{"id":5,"url":"https://vidhidepro.com/v/vwxqi5ljkwz4","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"vwxqi5ljkwz4","player_url":"https://vidhidepro.com/v/vwxqi5ljkwz4"},{"id":6,"url":"https://streamwish.to/e/p3hbr5flzsf8","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"p3hbr5flzsf8","player_url":"https://streamwish.to/e/p3hbr5flzsf8"},{"id":7,"url":"https://vidhidepro.com/v/0kz04ypwcewm","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"0kz04ypwcewm","player_url":"https://vidhidepro.com/v/0kz04ypwcewm"}]}
+{
+  "id": 804406,
+  "titulo": "La lección de piano",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/hNJhKFzRrmFaDgOAFUczXHE7rBA.jpg",
+  "release_date": "2024-11-07",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/ytorq8y3v9g1P4sXDFv2tbNg7Ms.jpg",
+  "overview": "La batalla entre un hermano y una hermana por un preciado piano heredado desata verdades inquietantes sobre cómo se percibe el pasado y quién define el legado familiar.",
+  "trailer": "",
+  "runtime": "127",
+  "slug": "la-leccion-de-piano",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/xvsf8dm2mdfo",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "xvsf8dm2mdfo",
+      "player_url": "https://streamwish.to/e/xvsf8dm2mdfo"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/8g90fx751mix",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8g90fx751mix",
+      "player_url": "https://vidhidepro.com/v/8g90fx751mix"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/mqst7gxmpo49",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "mqst7gxmpo49",
+      "player_url": "https://doodstream.com/e/mqst7gxmpo49"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/56e2bm9e91i6",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "56e2bm9e91i6",
+      "player_url": "https://streamwish.to/e/56e2bm9e91i6"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/vwxqi5ljkwz4",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "vwxqi5ljkwz4",
+      "player_url": "https://vidhidepro.com/v/vwxqi5ljkwz4"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/p3hbr5flzsf8",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "p3hbr5flzsf8",
+      "player_url": "https://streamwish.to/e/p3hbr5flzsf8"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/0kz04ypwcewm",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0kz04ypwcewm",
+      "player_url": "https://vidhidepro.com/v/0kz04ypwcewm"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/y7pog7d1cm0g",
+      "player_url": "https://minochinos.com/embed/y7pog7d1cm0g",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y7pog7d1cm0g"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/gewfowe5zbi8",
+      "player_url": "https://hglink.to/e/gewfowe5zbi8",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gewfowe5zbi8"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/54279c2mtguo",
+      "player_url": "https://bysedikamoum.com/e/54279c2mtguo",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "54279c2mtguo"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/fojgu7m6wqp5",
+      "player_url": "https://voe.sx/e/fojgu7m6wqp5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fojgu7m6wqp5"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/fojgu7m6wqp5/download",
+      "player_url": "https://voe.sx/fojgu7m6wqp5/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/xyznvtps1m5e",
+      "player_url": "https://rapidvideo.link/e/xyznvtps1m5e",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xyznvtps1m5e"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/f6suu06qub9h",
+      "player_url": "https://minochinos.com/embed/f6suu06qub9h",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f6suu06qub9h"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/5t10vqdgqn8e",
+      "player_url": "https://hglink.to/e/5t10vqdgqn8e",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5t10vqdgqn8e"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/yxoens1z7r2p",
+      "player_url": "https://bysedikamoum.com/e/yxoens1z7r2p",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yxoens1z7r2p"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/9ngfdynbo58f",
+      "player_url": "https://voe.sx/e/9ngfdynbo58f",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9ngfdynbo58f"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/ay8mtgs1eol3",
+      "player_url": "https://rapidvideo.link/e/ay8mtgs1eol3",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ay8mtgs1eol3"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/isy84rsa76vl",
+      "player_url": "https://minochinos.com/embed/isy84rsa76vl",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "isy84rsa76vl"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/3n4vmw4mp7yf",
+      "player_url": "https://hglink.to/e/3n4vmw4mp7yf",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3n4vmw4mp7yf"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/a5fnrl8xv207",
+      "player_url": "https://bysedikamoum.com/e/a5fnrl8xv207",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "a5fnrl8xv207"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/dlim3nyhk6vb",
+      "player_url": "https://voe.sx/e/dlim3nyhk6vb",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dlim3nyhk6vb"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/dlim3nyhk6vb/download",
+      "player_url": "https://voe.sx/dlim3nyhk6vb/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/l5bzkqi3r0ms",
+      "player_url": "https://rapidvideo.link/e/l5bzkqi3r0ms",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l5bzkqi3r0ms"
+    }
+  ]
+}
