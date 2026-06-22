@@ -1,1 +1,236 @@
-{"id":1010161,"titulo":"The Clean Up Crew","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/iiCO3ADeGsFq5clZh52VDBnRInm.jpg","release_date":"2024-09-12","genres":[],"rating":"5.6","backdrop":"https://image.tmdb.org/t/p/original/ansCWyqoyjLEueDXOUZeLrQlZ9J.jpg","overview":"Un equipo de limpieza de la escena del crimen descubre un maletín lleno de dinero en efectivo y, sin darse cuenta, es enviado a una batalla con mafiosos, dirigido por un jefe criminal despiadado y corrupto y agentes del gobierno que están empeñados en recuperar el dinero","trailer":"","runtime":"95","slug":"the-clean-up-crew","servidores":[{"id":1,"url":"https://streamwish.to/e/r38kayavuf5u","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"r38kayavuf5u","player_url":"https://streamwish.to/e/r38kayavuf5u"},{"id":2,"url":"https://bysejikuar.com/e/fufoxw44g9cs","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"fufoxw44g9cs","player_url":"https://bysejikuar.com/e/fufoxw44g9cs"},{"id":3,"url":"https://voe.sx/e/8zuhswzbqi7w","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"8zuhswzbqi7w","player_url":"https://voe.sx/e/8zuhswzbqi7w"},{"id":4,"url":"https://doodstream.com/e/32u16h0xwg51","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"32u16h0xwg51","player_url":"https://doodstream.com/e/32u16h0xwg51"},{"id":5,"url":"https://streamwish.to/e/8vjzd3xkfayy","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"8vjzd3xkfayy","player_url":"https://streamwish.to/e/8vjzd3xkfayy"},{"id":6,"url":"https://vidhidepro.com/v/7z69c05pppb3","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"7z69c05pppb3","player_url":"https://vidhidepro.com/v/7z69c05pppb3"},{"id":7,"url":"https://voe.sx/e/rdjw4dqyxcpt","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"rdjw4dqyxcpt","player_url":"https://voe.sx/e/rdjw4dqyxcpt"},{"id":8,"url":"https://doodstream.com/e/9z4gum5t24yz","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"9z4gum5t24yz","player_url":"https://doodstream.com/e/9z4gum5t24yz"},{"id":9,"url":"https://streamwish.to/e/q8lcf23vyj7z","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"q8lcf23vyj7z","player_url":"https://streamwish.to/e/q8lcf23vyj7z"},{"id":10,"url":"https://vidhidepro.com/v/y3gpobqjqzj3","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"y3gpobqjqzj3","player_url":"https://vidhidepro.com/v/y3gpobqjqzj3"},{"id":11,"url":"https://voe.sx/e/j3lwdyn7aa7h","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"j3lwdyn7aa7h","player_url":"https://voe.sx/e/j3lwdyn7aa7h"},{"id":12,"url":"https://doodstream.com/e/okl7fqwvra49","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"okl7fqwvra49","player_url":"https://doodstream.com/e/okl7fqwvra49"}]}
+{
+  "id": 1010161,
+  "titulo": "The Clean Up Crew",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/iiCO3ADeGsFq5clZh52VDBnRInm.jpg",
+  "release_date": "2024-09-12",
+  "genres": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "rating": "5.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/ansCWyqoyjLEueDXOUZeLrQlZ9J.jpg",
+  "overview": "Un equipo de limpieza de la escena del crimen descubre un maletín lleno de dinero en efectivo y, sin darse cuenta, es enviado a una batalla con mafiosos, dirigido por un jefe criminal despiadado y corrupto y agentes del gobierno que están empeñados en recuperar el dinero",
+  "trailer": "",
+  "runtime": "95",
+  "slug": "the-clean-up-crew",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/r38kayavuf5u",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "r38kayavuf5u",
+      "player_url": "https://streamwish.to/e/r38kayavuf5u"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/fufoxw44g9cs",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "fufoxw44g9cs",
+      "player_url": "https://bysejikuar.com/e/fufoxw44g9cs"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/8zuhswzbqi7w",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "8zuhswzbqi7w",
+      "player_url": "https://voe.sx/e/8zuhswzbqi7w"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/32u16h0xwg51",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "32u16h0xwg51",
+      "player_url": "https://doodstream.com/e/32u16h0xwg51"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/8vjzd3xkfayy",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "8vjzd3xkfayy",
+      "player_url": "https://streamwish.to/e/8vjzd3xkfayy"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/7z69c05pppb3",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "7z69c05pppb3",
+      "player_url": "https://vidhidepro.com/v/7z69c05pppb3"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/rdjw4dqyxcpt",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rdjw4dqyxcpt",
+      "player_url": "https://voe.sx/e/rdjw4dqyxcpt"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/9z4gum5t24yz",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9z4gum5t24yz",
+      "player_url": "https://doodstream.com/e/9z4gum5t24yz"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/q8lcf23vyj7z",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "q8lcf23vyj7z",
+      "player_url": "https://streamwish.to/e/q8lcf23vyj7z"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/y3gpobqjqzj3",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "y3gpobqjqzj3",
+      "player_url": "https://vidhidepro.com/v/y3gpobqjqzj3"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/j3lwdyn7aa7h",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "j3lwdyn7aa7h",
+      "player_url": "https://voe.sx/e/j3lwdyn7aa7h"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/okl7fqwvra49",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "okl7fqwvra49",
+      "player_url": "https://doodstream.com/e/okl7fqwvra49"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/fiaerpikpufi",
+      "player_url": "https://minochinos.com/embed/fiaerpikpufi",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fiaerpikpufi"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/xpt885z2des7",
+      "player_url": "https://hglink.to/e/xpt885z2des7",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xpt885z2des7"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/lw3pgd0yte0g",
+      "player_url": "https://bysedikamoum.com/e/lw3pgd0yte0g",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lw3pgd0yte0g"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/c9tk0uqx7bqp",
+      "player_url": "https://voe.sx/e/c9tk0uqx7bqp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c9tk0uqx7bqp"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/c9tk0uqx7bqp/download",
+      "player_url": "https://voe.sx/c9tk0uqx7bqp/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/5bx1ofkveiqa",
+      "player_url": "https://rapidvideo.link/e/5bx1ofkveiqa",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5bx1ofkveiqa"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/hoqw8c9e5k97",
+      "player_url": "https://minochinos.com/embed/hoqw8c9e5k97",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hoqw8c9e5k97"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/lh1ww8g3sjk6",
+      "player_url": "https://hglink.to/e/lh1ww8g3sjk6",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lh1ww8g3sjk6"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/exaxldgwt1b8",
+      "player_url": "https://bysedikamoum.com/e/exaxldgwt1b8",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "exaxldgwt1b8"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/lyqzliwfb21b",
+      "player_url": "https://voe.sx/e/lyqzliwfb21b",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lyqzliwfb21b"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/lyqzliwfb21b/download",
+      "player_url": "https://voe.sx/lyqzliwfb21b/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/f8h5bo17nzge",
+      "player_url": "https://rapidvideo.link/e/f8h5bo17nzge",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "f8h5bo17nzge"
+    }
+  ]
+}
