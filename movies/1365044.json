@@ -1,1 +1,261 @@
-{"id":1365044,"titulo":"La hermana de nieve","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/2Ct65EWmZeE0Fd32YDRDN89d57W.jpg","release_date":"2024-11-28","genres":["drama"],"rating":"6.8","backdrop":"https://image.tmdb.org/t/p/original/A2g1tlceVs7liy765ozaJ27aH0M.jpg","overview":"Un chico cuya familia en duelo se olvidó de la Navidad forma un inesperado y sanador vínculo con una carismática chica con un gran espíritu festivo.","trailer":"","runtime":"98","slug":"la-hermana-de-nieve","servidores":[{"id":1,"url":"https://streamwish.to/e/7c646med1fhk","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"7c646med1fhk","player_url":"https://streamwish.to/e/7c646med1fhk"},{"id":2,"url":"https://vidhidepro.com/v/br1491cks4mo","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"br1491cks4mo","player_url":"https://vidhidepro.com/v/br1491cks4mo"},{"id":3,"url":"https://voe.sx/e/rpllyiccpbmt","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"rpllyiccpbmt","player_url":"https://voe.sx/e/rpllyiccpbmt"},{"id":4,"url":"https://doodstream.com/e/vew1tgwp9sjm","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"vew1tgwp9sjm","player_url":"https://doodstream.com/e/vew1tgwp9sjm"},{"id":5,"url":"https://streamwish.to/e/vapf8eza5xl5","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"vapf8eza5xl5","player_url":"https://streamwish.to/e/vapf8eza5xl5"},{"id":6,"url":"https://vidhidepro.com/v/10m5d7wpjz1a","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"10m5d7wpjz1a","player_url":"https://vidhidepro.com/v/10m5d7wpjz1a"},{"id":7,"url":"https://doodstream.com/e/gjy662umkcob","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"gjy662umkcob","player_url":"https://doodstream.com/e/gjy662umkcob"},{"id":8,"url":"https://streamwish.to/e/zmp8dh0x12uo","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"zmp8dh0x12uo","player_url":"https://streamwish.to/e/zmp8dh0x12uo"},{"id":9,"url":"https://vidhidepro.com/v/t4mschh932vq","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"t4mschh932vq","player_url":"https://vidhidepro.com/v/t4mschh932vq"},{"id":10,"url":"https://doodstream.com/e/duqtx5nmhqa1","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"duqtx5nmhqa1","player_url":"https://doodstream.com/e/duqtx5nmhqa1"}]}
+{
+  "id": 1365044,
+  "titulo": "La hermana de nieve",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/2Ct65EWmZeE0Fd32YDRDN89d57W.jpg",
+  "release_date": "2024-11-28",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/A2g1tlceVs7liy765ozaJ27aH0M.jpg",
+  "overview": "Un chico cuya familia en duelo se olvidó de la Navidad forma un inesperado y sanador vínculo con una carismática chica con un gran espíritu festivo.",
+  "trailer": "",
+  "runtime": "98",
+  "slug": "la-hermana-de-nieve",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/7c646med1fhk",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7c646med1fhk",
+      "player_url": "https://streamwish.to/e/7c646med1fhk"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/br1491cks4mo",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "br1491cks4mo",
+      "player_url": "https://vidhidepro.com/v/br1491cks4mo"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/rpllyiccpbmt",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rpllyiccpbmt",
+      "player_url": "https://voe.sx/e/rpllyiccpbmt"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/vew1tgwp9sjm",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "vew1tgwp9sjm",
+      "player_url": "https://doodstream.com/e/vew1tgwp9sjm"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/vapf8eza5xl5",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vapf8eza5xl5",
+      "player_url": "https://streamwish.to/e/vapf8eza5xl5"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/10m5d7wpjz1a",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "10m5d7wpjz1a",
+      "player_url": "https://vidhidepro.com/v/10m5d7wpjz1a"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/gjy662umkcob",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "gjy662umkcob",
+      "player_url": "https://doodstream.com/e/gjy662umkcob"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/zmp8dh0x12uo",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zmp8dh0x12uo",
+      "player_url": "https://streamwish.to/e/zmp8dh0x12uo"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/t4mschh932vq",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "t4mschh932vq",
+      "player_url": "https://vidhidepro.com/v/t4mschh932vq"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/duqtx5nmhqa1",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "duqtx5nmhqa1",
+      "player_url": "https://doodstream.com/e/duqtx5nmhqa1"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/iuh619bc7lz4",
+      "player_url": "https://minochinos.com/embed/iuh619bc7lz4",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iuh619bc7lz4"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/6tj8rec70g5n",
+      "player_url": "https://hglink.to/e/6tj8rec70g5n",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6tj8rec70g5n"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/a83v6l14q16a",
+      "player_url": "https://bysedikamoum.com/e/a83v6l14q16a",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a83v6l14q16a"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/sievu0efqwz5",
+      "player_url": "https://voe.sx/e/sievu0efqwz5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sievu0efqwz5"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/sievu0efqwz5/download",
+      "player_url": "https://voe.sx/sievu0efqwz5/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/logr0cwqz9vp",
+      "player_url": "https://rapidvideo.link/e/logr0cwqz9vp",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "logr0cwqz9vp"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/06gv0rhdx002",
+      "player_url": "https://minochinos.com/embed/06gv0rhdx002",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "06gv0rhdx002"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/fgb6gh7vcgfj",
+      "player_url": "https://hglink.to/e/fgb6gh7vcgfj",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fgb6gh7vcgfj"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/1ai9uak2m6zu",
+      "player_url": "https://bysedikamoum.com/e/1ai9uak2m6zu",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1ai9uak2m6zu"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/ekuwc3qtsh96",
+      "player_url": "https://voe.sx/e/ekuwc3qtsh96",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ekuwc3qtsh96"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/lu7zre51tyfg",
+      "player_url": "https://rapidvideo.link/e/lu7zre51tyfg",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lu7zre51tyfg"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/t2y3ndbhhh74",
+      "player_url": "https://minochinos.com/embed/t2y3ndbhhh74",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "t2y3ndbhhh74"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/4tfplcxlpwxq",
+      "player_url": "https://hglink.to/e/4tfplcxlpwxq",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4tfplcxlpwxq"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/vxquatpjufhw",
+      "player_url": "https://bysedikamoum.com/e/vxquatpjufhw",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vxquatpjufhw"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/ndzwdkvvy6g2",
+      "player_url": "https://voe.sx/e/ndzwdkvvy6g2",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ndzwdkvvy6g2"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/ndzwdkvvy6g2/download",
+      "player_url": "https://voe.sx/ndzwdkvvy6g2/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/wjt2iqgel7vr",
+      "player_url": "https://rapidvideo.link/e/wjt2iqgel7vr",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wjt2iqgel7vr"
+    }
+  ]
+}
