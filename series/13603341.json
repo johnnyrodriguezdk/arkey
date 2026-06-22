@@ -1,0 +1,52 @@
+{
+  "id": 13603341,
+  "titulo": "Lucky Luke",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/2f87d717bf556321774d1b4975d2e1c1.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia",
+    "western"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Lucky Luke debe ayudar a Louise a encontrar a su madre, desaparecida misteriosamente, mientras frustra un complot que podría cambiar el curso de la historia",
+  "slug": "lucky-luke",
+  "iframe_url": "https://lacloud.live/05a0ddbaafb82cd4",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/05a0ddbaafb82cd4/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/05a0ddbaafb82cd4/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "05a0ddbaafb82cd4"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/lucky-luke?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://lacloud.live/public/stream/05a0ddbaafb82cd4/master.m3u8",
+          "player_url": "https://lacloud.live/public/stream/05a0ddbaafb82cd4/master.m3u8",
+          "nombre": "LaCloud",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "05a0ddbaafb82cd4"
+        }
+      ]
+    }
+  ]
+}
