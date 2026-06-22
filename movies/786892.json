@@ -1,1 +1,245 @@
-{"id":786892,"titulo":"Furiosa: De la saga Mad Max","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg","release_date":"2024-05-22","genres":[],"rating":"7.5","backdrop":"https://image.tmdb.org/t/p/original/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg","overview":"Mientras el mundo se derrumba, la joven Furiosa es secuestrada del Lugar Verde de Muchas Madres y cae en manos de una Horda de Motociclistas liderada por el Señor de la Guerra Dementus. Recorriendo la tierra baldía llega a la Ciudadela, presidida por Inmortan Joe. Mientras los dos tiranos luchan por el dominio de la zona, Furiosa deberá sobrevivir a muchas pruebas buscando volver a casa","trailer":"","runtime":"149","slug":"furiosa-de-la-saga-mad-max","servidores":[{"id":1,"url":"https://streamwish.to/e/p65dacf7dp57","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"p65dacf7dp57","player_url":"https://streamwish.to/e/p65dacf7dp57"},{"id":2,"url":"https://bysejikuar.com/e/236j8ojf4kgl","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"236j8ojf4kgl","player_url":"https://bysejikuar.com/e/236j8ojf4kgl"},{"id":3,"url":"https://vidhidepro.com/v/uebbj3pda9h0","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"uebbj3pda9h0","player_url":"https://vidhidepro.com/v/uebbj3pda9h0"},{"id":4,"url":"https://doodstream.com/e/5n5hlhi0fsgv","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"5n5hlhi0fsgv","player_url":"https://doodstream.com/e/5n5hlhi0fsgv"},{"id":5,"url":"https://streamwish.to/e/hy4d12a4gr8l","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hy4d12a4gr8l","player_url":"https://streamwish.to/e/hy4d12a4gr8l"},{"id":6,"url":"https://bysejikuar.com/e/xjjyndsmf4oc","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"xjjyndsmf4oc","player_url":"https://bysejikuar.com/e/xjjyndsmf4oc"},{"id":7,"url":"https://vidhidepro.com/v/ukjnrl7n1aue","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ukjnrl7n1aue","player_url":"https://vidhidepro.com/v/ukjnrl7n1aue"},{"id":8,"url":"https://doodstream.com/e/z3vuj4z6fx7c","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"z3vuj4z6fx7c","player_url":"https://doodstream.com/e/z3vuj4z6fx7c"}]}
+{
+  "id": 786892,
+  "titulo": "Furiosa: De la saga Mad Max",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg",
+  "release_date": "2024-05-22",
+  "genres": [
+    "Acción",
+    "Aventura",
+    "Ciencia Ficción"
+  ],
+  "rating": "7.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg",
+  "overview": "Mientras el mundo se derrumba, la joven Furiosa es secuestrada del Lugar Verde de Muchas Madres y cae en manos de una Horda de Motociclistas liderada por el Señor de la Guerra Dementus. Recorriendo la tierra baldía llega a la Ciudadela, presidida por Inmortan Joe. Mientras los dos tiranos luchan por el dominio de la zona, Furiosa deberá sobrevivir a muchas pruebas buscando volver a casa",
+  "trailer": "",
+  "runtime": "149",
+  "slug": "furiosa-de-la-saga-mad-max",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/p65dacf7dp57",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "p65dacf7dp57",
+      "player_url": "https://streamwish.to/e/p65dacf7dp57"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/236j8ojf4kgl",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "236j8ojf4kgl",
+      "player_url": "https://bysejikuar.com/e/236j8ojf4kgl"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/uebbj3pda9h0",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "uebbj3pda9h0",
+      "player_url": "https://vidhidepro.com/v/uebbj3pda9h0"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/5n5hlhi0fsgv",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "5n5hlhi0fsgv",
+      "player_url": "https://doodstream.com/e/5n5hlhi0fsgv"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/hy4d12a4gr8l",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hy4d12a4gr8l",
+      "player_url": "https://streamwish.to/e/hy4d12a4gr8l"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/xjjyndsmf4oc",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "xjjyndsmf4oc",
+      "player_url": "https://bysejikuar.com/e/xjjyndsmf4oc"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/ukjnrl7n1aue",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ukjnrl7n1aue",
+      "player_url": "https://vidhidepro.com/v/ukjnrl7n1aue"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/z3vuj4z6fx7c",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "z3vuj4z6fx7c",
+      "player_url": "https://doodstream.com/e/z3vuj4z6fx7c"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/n4cesr1irjl0",
+      "player_url": "https://minochinos.com/embed/n4cesr1irjl0",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n4cesr1irjl0"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/fwx0141muqdj",
+      "player_url": "https://hglink.to/e/fwx0141muqdj",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fwx0141muqdj"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/73vzic1fitev",
+      "player_url": "https://bysedikamoum.com/e/73vzic1fitev",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "73vzic1fitev"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/ujjwdba0pzjx",
+      "player_url": "https://voe.sx/e/ujjwdba0pzjx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ujjwdba0pzjx"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/ujjwdba0pzjx/download",
+      "player_url": "https://voe.sx/ujjwdba0pzjx/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/7urwz3l6c1vg",
+      "player_url": "https://rapidvideo.link/e/7urwz3l6c1vg",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7urwz3l6c1vg"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/4h8p3duhpzwn",
+      "player_url": "https://minochinos.com/embed/4h8p3duhpzwn",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4h8p3duhpzwn"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/59sp8noe9zzl",
+      "player_url": "https://hglink.to/e/59sp8noe9zzl",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "59sp8noe9zzl"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/gqrbl2oe9j2y",
+      "player_url": "https://bysedikamoum.com/e/gqrbl2oe9j2y",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gqrbl2oe9j2y"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/7hpuco7psvah",
+      "player_url": "https://voe.sx/e/7hpuco7psvah",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7hpuco7psvah"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/flzbhpk712vy",
+      "player_url": "https://rapidvideo.link/e/flzbhpk712vy",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "flzbhpk712vy"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/hf28wynbon60",
+      "player_url": "https://minochinos.com/embed/hf28wynbon60",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hf28wynbon60"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/dartuys6vxqw",
+      "player_url": "https://hglink.to/e/dartuys6vxqw",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dartuys6vxqw"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/dvzpd21watt8",
+      "player_url": "https://bysedikamoum.com/e/dvzpd21watt8",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dvzpd21watt8"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/qrcjuogxbkb0",
+      "player_url": "https://voe.sx/e/qrcjuogxbkb0",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qrcjuogxbkb0"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/qrcjuogxbkb0/download",
+      "player_url": "https://voe.sx/qrcjuogxbkb0/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/xy0kjvbocqh3",
+      "player_url": "https://rapidvideo.link/e/xy0kjvbocqh3",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xy0kjvbocqh3"
+    }
+  ]
+}
