@@ -1,0 +1,35 @@
+{
+  "id": 1459349276,
+  "titulo": "La fiscal",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/3e0d8c62831be543274f481342713d08.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "crimen",
+    "documental"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Esta serie documental sigue a la primera Fiscal de Feminicidios de la Ciudad de México, una oficina creada para investigar y erradicar la violencia contra l",
+  "slug": "la-fiscal",
+  "iframe_url": "https://lacloud.live/65999ea9f54c5595",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/65999ea9f54c5595/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/65999ea9f54c5595/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "65999ea9f54c5595"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/la-fiscal?season=1&ep=1"
+    }
+  ]
+}
