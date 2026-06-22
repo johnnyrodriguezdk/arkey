@@ -1,1 +1,283 @@
-{"id":1117857,"titulo":"En sueños","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/qBfJ4x6rrhtU4Frwp3GFoBwFzsU.jpg","release_date":"2025-11-07","genres":[],"rating":"7.0","backdrop":"https://image.tmdb.org/t/p/original/cTuFz80FozP54Aob9TYl4mF1wKk.jpg","overview":"Stevie y su hermano menor Elliot emprenden un viaje al universo absurdo de sus propios sueños para pedirle a Sandman que les conceda un deseo: tener una familia perfecta.","trailer":"","runtime":"87","slug":"en-suenos","servidores":[{"id":1,"url":"https://streamwish.to/e/92w8sech8fc5","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"92w8sech8fc5","player_url":"https://streamwish.to/e/92w8sech8fc5"},{"id":2,"url":"https://vidhidepro.com/v/5bhbpbwi50kq","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"5bhbpbwi50kq","player_url":"https://vidhidepro.com/v/5bhbpbwi50kq"},{"id":3,"url":"https://voe.sx/e/ylqyzgajdzn7","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ylqyzgajdzn7","player_url":"https://voe.sx/e/ylqyzgajdzn7"},{"id":4,"url":"https://doodstream.com/e/fx37e8f2yoz0","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"fx37e8f2yoz0","player_url":"https://doodstream.com/e/fx37e8f2yoz0"},{"id":5,"url":"https://streamwish.to/e/lud68n6v3z64","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"lud68n6v3z64","player_url":"https://streamwish.to/e/lud68n6v3z64"},{"id":6,"url":"https://vidhidepro.com/v/1tdwkcp14ge3","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"1tdwkcp14ge3","player_url":"https://vidhidepro.com/v/1tdwkcp14ge3"},{"id":7,"url":"https://voe.sx/e/1dwgqgfebulg","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"1dwgqgfebulg","player_url":"https://voe.sx/e/1dwgqgfebulg"},{"id":8,"url":"https://doodstream.com/e/02bs4tv4tz85","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"02bs4tv4tz85","player_url":"https://doodstream.com/e/02bs4tv4tz85"},{"id":9,"url":"https://streamwish.to/e/7t91qd19t9gh","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"7t91qd19t9gh","player_url":"https://streamwish.to/e/7t91qd19t9gh"},{"id":10,"url":"https://vidhidepro.com/v/fna4tjkxat22","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"fna4tjkxat22","player_url":"https://vidhidepro.com/v/fna4tjkxat22"},{"id":11,"url":"https://voe.sx/e/mztq9vglpy1e","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"mztq9vglpy1e","player_url":"https://voe.sx/e/mztq9vglpy1e"},{"id":12,"url":"https://doodstream.com/e/qg63mqep88g2","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"qg63mqep88g2","player_url":"https://doodstream.com/e/qg63mqep88g2"}]}
+{
+  "id": 1117857,
+  "titulo": "En sueños",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/qBfJ4x6rrhtU4Frwp3GFoBwFzsU.jpg",
+  "release_date": "2025-11-07",
+  "genres": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Aventura",
+    "Fantasía"
+  ],
+  "rating": "7.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
+  "overview": "En San Martín Tilcajete y San Antonio Arrazola, Oaxaca, dos pueblos son famosos por crear los alebrijes (tallados en madera). Es una tradición nueva pero fuerte en el folclor mexicano. En cada comunidad, una familia dice que su papá inició todo esto en todo el estado.",
+  "trailer": "",
+  "runtime": "87",
+  "slug": "en-suenos",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/92w8sech8fc5",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "92w8sech8fc5",
+      "player_url": "https://streamwish.to/e/92w8sech8fc5"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/5bhbpbwi50kq",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5bhbpbwi50kq",
+      "player_url": "https://vidhidepro.com/v/5bhbpbwi50kq"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/ylqyzgajdzn7",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ylqyzgajdzn7",
+      "player_url": "https://voe.sx/e/ylqyzgajdzn7"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/fx37e8f2yoz0",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fx37e8f2yoz0",
+      "player_url": "https://doodstream.com/e/fx37e8f2yoz0"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/lud68n6v3z64",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lud68n6v3z64",
+      "player_url": "https://streamwish.to/e/lud68n6v3z64"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/1tdwkcp14ge3",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1tdwkcp14ge3",
+      "player_url": "https://vidhidepro.com/v/1tdwkcp14ge3"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/1dwgqgfebulg",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "1dwgqgfebulg",
+      "player_url": "https://voe.sx/e/1dwgqgfebulg"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/02bs4tv4tz85",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "02bs4tv4tz85",
+      "player_url": "https://doodstream.com/e/02bs4tv4tz85"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/7t91qd19t9gh",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7t91qd19t9gh",
+      "player_url": "https://streamwish.to/e/7t91qd19t9gh"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/fna4tjkxat22",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fna4tjkxat22",
+      "player_url": "https://vidhidepro.com/v/fna4tjkxat22"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/mztq9vglpy1e",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "mztq9vglpy1e",
+      "player_url": "https://voe.sx/e/mztq9vglpy1e"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/qg63mqep88g2",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "qg63mqep88g2",
+      "player_url": "https://doodstream.com/e/qg63mqep88g2"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/g5mn92b4z3uj",
+      "player_url": "https://minochinos.com/embed/g5mn92b4z3uj",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g5mn92b4z3uj"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/wgvfmzzhcwzj",
+      "player_url": "https://hglink.to/e/wgvfmzzhcwzj",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wgvfmzzhcwzj"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/bto97nhjj99q",
+      "player_url": "https://bysedikamoum.com/e/bto97nhjj99q",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bto97nhjj99q"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/fzwzrvtmkqm1",
+      "player_url": "https://voe.sx/e/fzwzrvtmkqm1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fzwzrvtmkqm1"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/fzwzrvtmkqm1/download",
+      "player_url": "https://voe.sx/fzwzrvtmkqm1/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/pwjof9v6tu1b",
+      "player_url": "https://rapidvideo.link/e/pwjof9v6tu1b",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pwjof9v6tu1b"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/hnct3827ewp4",
+      "player_url": "https://minochinos.com/embed/hnct3827ewp4",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hnct3827ewp4"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/m3crsvlkuoms",
+      "player_url": "https://hglink.to/e/m3crsvlkuoms",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m3crsvlkuoms"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/r5uh4htzsxdq",
+      "player_url": "https://bysedikamoum.com/e/r5uh4htzsxdq",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r5uh4htzsxdq"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/prd9zkceevqh",
+      "player_url": "https://voe.sx/e/prd9zkceevqh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "prd9zkceevqh"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/13mhkyvzr2xa",
+      "player_url": "https://rapidvideo.link/e/13mhkyvzr2xa",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "13mhkyvzr2xa"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/l4l5mjgx1u8j",
+      "player_url": "https://minochinos.com/embed/l4l5mjgx1u8j",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l4l5mjgx1u8j"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/2lpczaabl4gi",
+      "player_url": "https://hglink.to/e/2lpczaabl4gi",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2lpczaabl4gi"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/xm7lnoa5yfuk",
+      "player_url": "https://bysedikamoum.com/e/xm7lnoa5yfuk",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xm7lnoa5yfuk"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/bsneiod0pslf",
+      "player_url": "https://voe.sx/e/bsneiod0pslf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bsneiod0pslf"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/bsneiod0pslf/download",
+      "player_url": "https://voe.sx/bsneiod0pslf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/gz25sj7hyx4o",
+      "player_url": "https://rapidvideo.link/e/gz25sj7hyx4o",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gz25sj7hyx4o"
+    }
+  ]
+}
