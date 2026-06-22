@@ -1,0 +1,34 @@
+{
+  "id": 1165343459,
+  "titulo": "Cochinas",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/e9068bc85422c7253ec3d4fd32e5a285.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "La historia de una mujer madura en el Valladolid de los 90, que tiene que coger las riendas del videoclub familiar. Para salvar el negocio apuesta por el po",
+  "slug": "cochinas",
+  "iframe_url": "https://lacloud.live/04fe280f4bfb8325",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/04fe280f4bfb8325/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/04fe280f4bfb8325/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "04fe280f4bfb8325"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/cochinas?season=1&ep=1"
+    }
+  ]
+}
