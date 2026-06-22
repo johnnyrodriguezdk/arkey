@@ -1,1 +1,54 @@
-{"id":1999626490,"titulo":"Busboys","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w342//z7aBU98usPaaFymldN6IcYRsHZr.jpg","release_date":"2026-01-01","genres":[],"rating":"","backdrop":"https://cuevana.gs/qOz6dnXtMJGi2OkVK9VxAwofgpO.jpg","overview":"","trailer":"","runtime":"","slug":"","servidores":[{"id":1,"url":"https://vimeos.net/embed-rcry585jar21.html","idioma":"Latino","nombre":"Vimeos Recomendado","calidad":"HD","embed_id":"embed-rcry585jar21.html","player_url":"https://vimeos.net/embed-rcry585jar21.html"},{"id":2,"url":"https://voe.sx/e/zrvwrltuinds","idioma":"Latino","nombre":"Voe","calidad":"HD","embed_id":"zrvwrltuinds","player_url":"https://voe.sx/e/zrvwrltuinds"},{"id":3,"url":"https://hlswish.com/e/h9e00syjw8nb","idioma":"Latino","nombre":"Hlswish","calidad":"HD","embed_id":"h9e00syjw8nb","player_url":"https://hlswish.com/e/h9e00syjw8nb"}]}
+{
+  "id": 1999626490,
+  "titulo": "Busboys",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w342//z7aBU98usPaaFymldN6IcYRsHZr.jpg",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "https://cuevana.gs/qOz6dnXtMJGi2OkVK9VxAwofgpO.jpg",
+  "overview": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren&#039;t entirely wrong, but they aren&#039;t entirely righ",
+  "trailer": "",
+  "runtime": "",
+  "slug": "",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://vimeos.net/embed-rcry585jar21.html",
+      "idioma": "Latino",
+      "nombre": "Vimeos Recomendado",
+      "calidad": "HD",
+      "embed_id": "embed-rcry585jar21.html",
+      "player_url": "https://vimeos.net/embed-rcry585jar21.html"
+    },
+    {
+      "id": 2,
+      "url": "https://voe.sx/e/zrvwrltuinds",
+      "idioma": "Latino",
+      "nombre": "Voe",
+      "calidad": "HD",
+      "embed_id": "zrvwrltuinds",
+      "player_url": "https://voe.sx/e/zrvwrltuinds"
+    },
+    {
+      "id": 3,
+      "url": "https://hlswish.com/e/h9e00syjw8nb",
+      "idioma": "Latino",
+      "nombre": "Hlswish",
+      "calidad": "HD",
+      "embed_id": "h9e00syjw8nb",
+      "player_url": "https://hlswish.com/e/h9e00syjw8nb"
+    },
+    {
+      "id": 4,
+      "url": "https://lacloud.live/public/stream/93c1d4c15b5c44ef/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/93c1d4c15b5c44ef/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "93c1d4c15b5c44ef"
+    }
+  ]
+}
