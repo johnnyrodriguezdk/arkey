@@ -15,7 +15,17 @@
   "slug": "la-niebla",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/4krffywvolsw",
+      "player_url": "https://streamfort.online/e/4krffywvolsw",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4krffywvolsw"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
