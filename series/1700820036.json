@@ -1,0 +1,36 @@
+{
+  "id": 1700820036,
+  "titulo": "El joven Sherlock",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/cc83ee3e84c79e7fbf27cb415c68bbcf.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un Sherlock Holmes de 19 años se ve enredado en un asesinato en Oxford que pone en peligro su libertad. Su primer caso, abordado imprudentemente, le lleva a",
+  "slug": "el-joven-sherlock",
+  "iframe_url": "https://lacloud.live/716d155502fed51f",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/716d155502fed51f/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/716d155502fed51f/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "716d155502fed51f"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/el-joven-sherlock?season=1&ep=1"
+    }
+  ]
+}
