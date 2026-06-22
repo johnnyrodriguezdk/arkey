@@ -15,7 +15,17 @@
   "slug": "dr-house",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hffdb2f7bb4aad51a474ced14ba5c052373a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hffdb2f7bb4aad51a474ced14ba5c052373a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hffdb2f7bb4aad51a474ced14ba5c052373a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
