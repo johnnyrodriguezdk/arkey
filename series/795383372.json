@@ -13,7 +13,17 @@
   "slug": "el-cuco-de-cristal",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hff2b2d446fc46e0242af9a78ea68a7c833a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hff2b2d446fc46e0242af9a78ea68a7c833a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff2b2d446fc46e0242af9a78ea68a7c833a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
