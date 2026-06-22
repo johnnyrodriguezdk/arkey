@@ -1,0 +1,35 @@
+{
+  "id": 1521345300,
+  "titulo": "The Lady",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/08f3648792fc7148287e0934cafdd002.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "crimen",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Jane Andrews, una joven brillante de origen humilde que sueña con escapar de su vida en la pequeña ciudad costera de Grimsby logra un trabajo como ayudante ",
+  "slug": "the-lady",
+  "iframe_url": "https://lacloud.live/275e664adb3884cd",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/275e664adb3884cd/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/275e664adb3884cd/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "275e664adb3884cd"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/the-lady?season=1&ep=1"
+    }
+  ]
+}
