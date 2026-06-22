@@ -15,7 +15,17 @@
   "slug": "the-walking-dead-world-beyond",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf169d1b34beccf5778b17b89a0a82a5673a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf169d1b34beccf5778b17b89a0a82a5673a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf169d1b34beccf5778b17b89a0a82a5673a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
