@@ -13,7 +13,17 @@
   "slug": "harriet-la-espia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/47ewljrlf51w",
+      "player_url": "https://dsvplay.com/e/47ewljrlf51w",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "47ewljrlf51w"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
