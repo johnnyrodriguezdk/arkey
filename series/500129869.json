@@ -14,7 +14,17 @@
   "slug": "black-bird-confesiones-de-un-asesino",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://voe.sx/e/k1onx989th20",
+      "player_url": "https://voe.sx/e/k1onx989th20",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k1onx989th20"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
