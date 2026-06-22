@@ -1,1 +1,243 @@
-{"id":858414,"titulo":"Rez Ball","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/b3wlEN6rrITSm6SUzu2NbEFmDdB.jpg","release_date":"2024-09-08","genres":["drama"],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/gPok6BQpPvPHqcvga60Lq40UwGl.jpg","overview":"Tras perder a su jugador estrella, un equipo escolar nativo americano de básquetbol debe trabajar codo a codo para mantener vivos sus sueños de gloria.","trailer":"","runtime":"113","slug":"rez-ball","servidores":[{"id":1,"url":"https://streamwish.to/e/q7p766exhsvi","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"q7p766exhsvi","player_url":"https://streamwish.to/e/q7p766exhsvi"},{"id":2,"url":"https://vidhidepro.com/v/nzzqyucfgkl4","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"nzzqyucfgkl4","player_url":"https://vidhidepro.com/v/nzzqyucfgkl4"},{"id":3,"url":"https://doodstream.com/e/xprrvjvhqjho","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"xprrvjvhqjho","player_url":"https://doodstream.com/e/xprrvjvhqjho"},{"id":4,"url":"https://streamwish.to/e/dwv6k02emifn","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"dwv6k02emifn","player_url":"https://streamwish.to/e/dwv6k02emifn"},{"id":5,"url":"https://vidhidepro.com/v/fpbz05eq06zh","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"fpbz05eq06zh","player_url":"https://vidhidepro.com/v/fpbz05eq06zh"},{"id":6,"url":"https://streamwish.to/e/q9fgg9hjigsx","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"q9fgg9hjigsx","player_url":"https://streamwish.to/e/q9fgg9hjigsx"},{"id":7,"url":"https://vidhidepro.com/v/zhe9kznbgbve","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"zhe9kznbgbve","player_url":"https://vidhidepro.com/v/zhe9kznbgbve"},{"id":8,"url":"https://doodstream.com/e/vd9lvbwaz9gx","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"vd9lvbwaz9gx","player_url":"https://doodstream.com/e/vd9lvbwaz9gx"}]}
+{
+  "id": 858414,
+  "titulo": "Rez Ball",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/b3wlEN6rrITSm6SUzu2NbEFmDdB.jpg",
+  "release_date": "2024-09-08",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/gPok6BQpPvPHqcvga60Lq40UwGl.jpg",
+  "overview": "Tras perder a su jugador estrella, un equipo escolar nativo americano de básquetbol debe trabajar codo a codo para mantener vivos sus sueños de gloria.",
+  "trailer": "",
+  "runtime": "113",
+  "slug": "rez-ball",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/q7p766exhsvi",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "q7p766exhsvi",
+      "player_url": "https://streamwish.to/e/q7p766exhsvi"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/nzzqyucfgkl4",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "nzzqyucfgkl4",
+      "player_url": "https://vidhidepro.com/v/nzzqyucfgkl4"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/xprrvjvhqjho",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "xprrvjvhqjho",
+      "player_url": "https://doodstream.com/e/xprrvjvhqjho"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/dwv6k02emifn",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "dwv6k02emifn",
+      "player_url": "https://streamwish.to/e/dwv6k02emifn"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/fpbz05eq06zh",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fpbz05eq06zh",
+      "player_url": "https://vidhidepro.com/v/fpbz05eq06zh"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/q9fgg9hjigsx",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "q9fgg9hjigsx",
+      "player_url": "https://streamwish.to/e/q9fgg9hjigsx"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/zhe9kznbgbve",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "zhe9kznbgbve",
+      "player_url": "https://vidhidepro.com/v/zhe9kznbgbve"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/vd9lvbwaz9gx",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "vd9lvbwaz9gx",
+      "player_url": "https://doodstream.com/e/vd9lvbwaz9gx"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/592eexuialav",
+      "player_url": "https://minochinos.com/embed/592eexuialav",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "592eexuialav"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/byd9gaav0qnz",
+      "player_url": "https://hglink.to/e/byd9gaav0qnz",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "byd9gaav0qnz"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/klnt0b2h8gcx",
+      "player_url": "https://bysedikamoum.com/e/klnt0b2h8gcx",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "klnt0b2h8gcx"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/b3os34dvntrs",
+      "player_url": "https://voe.sx/e/b3os34dvntrs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b3os34dvntrs"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/b3os34dvntrs/download",
+      "player_url": "https://voe.sx/b3os34dvntrs/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/rtnw59i1hpdv",
+      "player_url": "https://rapidvideo.link/e/rtnw59i1hpdv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rtnw59i1hpdv"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/kjs7bnlxm7hh",
+      "player_url": "https://minochinos.com/embed/kjs7bnlxm7hh",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kjs7bnlxm7hh"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/p7k4i4jzmot5",
+      "player_url": "https://hglink.to/e/p7k4i4jzmot5",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p7k4i4jzmot5"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/fnbs97udov5q",
+      "player_url": "https://bysedikamoum.com/e/fnbs97udov5q",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fnbs97udov5q"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/nzc7ptnh9slc",
+      "player_url": "https://voe.sx/e/nzc7ptnh9slc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nzc7ptnh9slc"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/g5cnh2uqirx8",
+      "player_url": "https://rapidvideo.link/e/g5cnh2uqirx8",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g5cnh2uqirx8"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/667hzg0vpovz",
+      "player_url": "https://minochinos.com/embed/667hzg0vpovz",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "667hzg0vpovz"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/zq9413z9aq12",
+      "player_url": "https://hglink.to/e/zq9413z9aq12",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zq9413z9aq12"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/j9cp7j8pxtr9",
+      "player_url": "https://bysedikamoum.com/e/j9cp7j8pxtr9",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "j9cp7j8pxtr9"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/ibr0wajuhyuc",
+      "player_url": "https://voe.sx/e/ibr0wajuhyuc",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ibr0wajuhyuc"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/ibr0wajuhyuc/download",
+      "player_url": "https://voe.sx/ibr0wajuhyuc/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/wu9skgih852j",
+      "player_url": "https://rapidvideo.link/e/wu9skgih852j",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wu9skgih852j"
+    }
+  ]
+}
