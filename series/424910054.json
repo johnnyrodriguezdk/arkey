@@ -1,0 +1,37 @@
+{
+  "id": 424910054,
+  "titulo": "Sandokan",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/ab1062ab25eb85eb767d2d376dec519e.webp",
+  "release_date": "2025-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "drama",
+    "guerra"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Sigue al intrépido &quot;Tigre de Malasia&quot; y su tripulación en su lucha contra el colonialismo británico en el Borneo del siglo XIX.",
+  "slug": "sandokan",
+  "iframe_url": "https://lacloud.live/2f49a00ab3f30013",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/2f49a00ab3f30013/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/2f49a00ab3f30013/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2f49a00ab3f30013"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/sandokan?season=1&ep=1"
+    }
+  ]
+}
