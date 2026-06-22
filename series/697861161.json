@@ -17,12 +17,66 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hfa79b9104748eab72a4c9525100ab652f3a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hfa79b9104748eab72a4c9525100ab652f3a/master.m3u8",
+      "url": "https://lalafilecdn.space/hfa79b9104748eab72a4c9525100ab652f3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa79b9104748eab72a4c9525100ab652f3a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hfa79b9104748eab72a4c9525100ab652f3a"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hf17ef0812572d752652cb97f440013fdf3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf17ef0812572d752652cb97f440013fdf3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf17ef0812572d752652cb97f440013fdf3a"
+    },
+    {
+      "url": "https://streamfort.online/e/6mlvdg7qo20k",
+      "player_url": "https://streamfort.online/e/6mlvdg7qo20k",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6mlvdg7qo20k",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/swnmvste8c0f",
+      "player_url": "https://dsvplay.com/e/swnmvste8c0f",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "swnmvste8c0f",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/kh3vnwffl33y",
+      "player_url": "https://voe.sx/e/kh3vnwffl33y",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kh3vnwffl33y",
+      "id": 5
+    },
+    {
+      "url": "https://streamfort.online/e/57x0m5pb3kjt",
+      "player_url": "https://streamfort.online/e/57x0m5pb3kjt",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "57x0m5pb3kjt",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/s8rvy5pynnjl",
+      "player_url": "https://voe.sx/e/s8rvy5pynnjl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s8rvy5pynnjl",
+      "id": 7
     }
   ],
   "episodes": [
