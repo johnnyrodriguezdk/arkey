@@ -1,0 +1,36 @@
+{
+  "id": 1194618823,
+  "titulo": "Ponies",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/5edd7a7c6dc18a9daec4e9f57d516d87.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia",
+    "drama",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Dos secretarias de la embajada estadounidense en Moscú en la década de 1970 se convierten en agentes de la CIA tras la muerte de sus maridos, descubriendo u",
+  "slug": "ponies",
+  "iframe_url": "https://lacloud.live/5a8a60a36fdadc24",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/5a8a60a36fdadc24/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/5a8a60a36fdadc24/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5a8a60a36fdadc24"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/ponies?season=1&ep=1"
+    }
+  ]
+}
