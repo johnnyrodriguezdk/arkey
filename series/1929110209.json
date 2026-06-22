@@ -16,7 +16,17 @@
   "slug": "tasuketsu-fate-of-the-majority",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://voe.sx/e/4bu75j3mpaq7",
+      "player_url": "https://voe.sx/e/4bu75j3mpaq7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4bu75j3mpaq7"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
