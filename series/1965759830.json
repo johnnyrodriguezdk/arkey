@@ -13,7 +13,17 @@
   "slug": "el-heredero-imposible",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/0vcmcr4alk9x",
+      "player_url": "https://streamfort.online/e/0vcmcr4alk9x",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0vcmcr4alk9x"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
