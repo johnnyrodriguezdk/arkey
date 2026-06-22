@@ -1,0 +1,35 @@
+{
+  "id": 202450467,
+  "titulo": "DTF St. Louis",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/2c5f3e299fe9689225571a70f336a93e.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "crimen",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Tres personas de mediana edad se enredan en un triángulo amoroso que conduce a la muerte prematura de una de ellas.",
+  "slug": "dtf-st-louis",
+  "iframe_url": "https://lacloud.live/d5c2871052d7fff7",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/d5c2871052d7fff7/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/d5c2871052d7fff7/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d5c2871052d7fff7"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/dtf-st-louis?season=1&ep=1"
+    }
+  ]
+}
