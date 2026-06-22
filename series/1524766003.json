@@ -1,0 +1,35 @@
+{
+  "id": 1524766003,
+  "titulo": "Vladimir",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/aa3be8a1142f338f1504b9b4b34fa4e2.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Una académica se obsesiona con un apuesto colega nuevo... y lanza al vacío su ya de por sí complicados matrimonio y carrera.",
+  "slug": "vladimir",
+  "iframe_url": "https://lacloud.live/9b017c9be765ea9f",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/9b017c9be765ea9f/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/9b017c9be765ea9f/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9b017c9be765ea9f"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/vladimir?season=1&ep=1"
+    }
+  ]
+}
