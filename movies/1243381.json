@@ -1,1 +1,243 @@
-{"id":1243381,"titulo":"María","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg","release_date":"2024-12-12","genres":["drama"],"rating":"6.2","backdrop":"https://image.tmdb.org/t/p/original/vfbxysLCXrvcI8NdzeQTR1Kxfky.jpg","overview":"Una concepción milagrosa. Un rey sin piedad. Una persecución letal. Este relato bíblico épico se centra en la valentía de la joven María y el nacimiento de Jesús.","trailer":"","runtime":"112","slug":"maria","servidores":[{"id":1,"url":"https://streamwish.to/e/fph0zgnlcxxt","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"fph0zgnlcxxt","player_url":"https://streamwish.to/e/fph0zgnlcxxt"},{"id":2,"url":"https://vidhidepro.com/v/jcgbsw9dosgd","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"jcgbsw9dosgd","player_url":"https://vidhidepro.com/v/jcgbsw9dosgd"},{"id":3,"url":"https://voe.sx/e/yxjwq31eswac","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"yxjwq31eswac","player_url":"https://voe.sx/e/yxjwq31eswac"},{"id":4,"url":"https://streamwish.to/e/tftewx0191iu","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"tftewx0191iu","player_url":"https://streamwish.to/e/tftewx0191iu"},{"id":5,"url":"https://vidhidepro.com/v/cuc4f27vpn8y","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"cuc4f27vpn8y","player_url":"https://vidhidepro.com/v/cuc4f27vpn8y"},{"id":6,"url":"https://voe.sx/e/hxn97jn6umnl","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"hxn97jn6umnl","player_url":"https://voe.sx/e/hxn97jn6umnl"},{"id":7,"url":"https://doodstream.com/e/8gqbpl16ritm","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"8gqbpl16ritm","player_url":"https://doodstream.com/e/8gqbpl16ritm"},{"id":8,"url":"https://streamwish.to/e/5l2kya2qzdxi","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"5l2kya2qzdxi","player_url":"https://streamwish.to/e/5l2kya2qzdxi"},{"id":9,"url":"https://vidhidepro.com/v/x2imq0cslrxs","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"x2imq0cslrxs","player_url":"https://vidhidepro.com/v/x2imq0cslrxs"},{"id":10,"url":"https://doodstream.com/e/ja2n4an8bzpg","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"ja2n4an8bzpg","player_url":"https://doodstream.com/e/ja2n4an8bzpg"}]}
+{
+  "id": 1243381,
+  "titulo": "María",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg",
+  "release_date": "2024-12-12",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/vfbxysLCXrvcI8NdzeQTR1Kxfky.jpg",
+  "overview": "Una concepción milagrosa. Un rey sin piedad. Una persecución letal. Este relato bíblico épico se centra en la valentía de la joven María y el nacimiento de Jesús.",
+  "trailer": "",
+  "runtime": "112",
+  "slug": "maria",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/fph0zgnlcxxt",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "fph0zgnlcxxt",
+      "player_url": "https://streamwish.to/e/fph0zgnlcxxt"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/jcgbsw9dosgd",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jcgbsw9dosgd",
+      "player_url": "https://vidhidepro.com/v/jcgbsw9dosgd"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/yxjwq31eswac",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "yxjwq31eswac",
+      "player_url": "https://voe.sx/e/yxjwq31eswac"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/tftewx0191iu",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "tftewx0191iu",
+      "player_url": "https://streamwish.to/e/tftewx0191iu"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/cuc4f27vpn8y",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "cuc4f27vpn8y",
+      "player_url": "https://vidhidepro.com/v/cuc4f27vpn8y"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/hxn97jn6umnl",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "hxn97jn6umnl",
+      "player_url": "https://voe.sx/e/hxn97jn6umnl"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/8gqbpl16ritm",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "8gqbpl16ritm",
+      "player_url": "https://doodstream.com/e/8gqbpl16ritm"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/5l2kya2qzdxi",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5l2kya2qzdxi",
+      "player_url": "https://streamwish.to/e/5l2kya2qzdxi"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/x2imq0cslrxs",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "x2imq0cslrxs",
+      "player_url": "https://vidhidepro.com/v/x2imq0cslrxs"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/ja2n4an8bzpg",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ja2n4an8bzpg",
+      "player_url": "https://doodstream.com/e/ja2n4an8bzpg"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/gxia33hkogt5",
+      "player_url": "https://minochinos.com/embed/gxia33hkogt5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gxia33hkogt5"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/vgc85d4zk044",
+      "player_url": "https://hglink.to/e/vgc85d4zk044",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vgc85d4zk044"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/485sol4161mf",
+      "player_url": "https://bysedikamoum.com/e/485sol4161mf",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "485sol4161mf"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/3oktagvenobj",
+      "player_url": "https://voe.sx/e/3oktagvenobj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3oktagvenobj"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/3oktagvenobj/download",
+      "player_url": "https://voe.sx/3oktagvenobj/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/9lgminze6ybh",
+      "player_url": "https://rapidvideo.link/e/9lgminze6ybh",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9lgminze6ybh"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/s4dam9lwotyb",
+      "player_url": "https://minochinos.com/embed/s4dam9lwotyb",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s4dam9lwotyb"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/wd2mfj2e1amh",
+      "player_url": "https://hglink.to/e/wd2mfj2e1amh",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wd2mfj2e1amh"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/vrpw3s1rxvyi",
+      "player_url": "https://bysedikamoum.com/e/vrpw3s1rxvyi",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vrpw3s1rxvyi"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/tvlbvztbljg4",
+      "player_url": "https://voe.sx/e/tvlbvztbljg4",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tvlbvztbljg4"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/xw5lsq60vcph",
+      "player_url": "https://rapidvideo.link/e/xw5lsq60vcph",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xw5lsq60vcph"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/y7ewwp8cn91g",
+      "player_url": "https://minochinos.com/embed/y7ewwp8cn91g",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "y7ewwp8cn91g"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/j6q9e4v05svx",
+      "player_url": "https://hglink.to/e/j6q9e4v05svx",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "j6q9e4v05svx"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/dzp9n9fnad4y",
+      "player_url": "https://bysedikamoum.com/e/dzp9n9fnad4y",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dzp9n9fnad4y"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/rmfy58p14zih",
+      "player_url": "https://rapidvideo.link/e/rmfy58p14zih",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rmfy58p14zih"
+    }
+  ]
+}
