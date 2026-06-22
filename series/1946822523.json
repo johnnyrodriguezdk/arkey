@@ -14,7 +14,17 @@
   "slug": "su-seoria",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/p8rz7xmhwaof",
+      "player_url": "https://dsvplay.com/e/p8rz7xmhwaof",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p8rz7xmhwaof"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
