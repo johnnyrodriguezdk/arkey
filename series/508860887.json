@@ -17,12 +17,39 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hfc23946038b390496df547840b0db77a33a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hfc23946038b390496df547840b0db77a33a/master.m3u8",
+      "url": "https://lalafilecdn.space/hfc23946038b390496df547840b0db77a33a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc23946038b390496df547840b0db77a33a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hfc23946038b390496df547840b0db77a33a"
+    },
+    {
+      "url": "https://streamfort.online/e/r5wv649ylrxl",
+      "player_url": "https://streamfort.online/e/r5wv649ylrxl",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r5wv649ylrxl",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/e12833wdfcgm",
+      "player_url": "https://dsvplay.com/e/e12833wdfcgm",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "12833wdfcgm",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/gcoruvc3pomc",
+      "player_url": "https://voe.sx/e/gcoruvc3pomc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gcoruvc3pomc",
+      "id": 4
     }
   ],
   "episodes": [
