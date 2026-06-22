@@ -1,1 +1,198 @@
-{"id":1135303,"titulo":"The Senior","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/h1bNZTFvh1eVwTh5YESfKCAB8KQ.jpg","release_date":"2025-09-18","genres":["drama"],"rating":"6.9","backdrop":"https://image.tmdb.org/t/p/original/hfrWfc7wLeex6vPuhaDR4lweZx2.jpg","overview":"Hace 37 años, un hombre fue expulsado de su equipo universitario de fútbol por un altercado. Ahora, a los 59, todavía lleva esa carga, por lo que decide volver a la escuela para obtener su título y probar con el equipo para redimir su pasado.","trailer":"","runtime":"99","slug":"the-senior","servidores":[{"id":1,"url":"https://streamwish.to/e/0v9kkvgqx2st","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"0v9kkvgqx2st","player_url":"https://streamwish.to/e/0v9kkvgqx2st"},{"id":2,"url":"https://vidhidepro.com/v/e9ksvbqbjxwa","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"e9ksvbqbjxwa","player_url":"https://vidhidepro.com/v/e9ksvbqbjxwa"},{"id":3,"url":"https://voe.sx/e/xxmwgez5k4he","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"xxmwgez5k4he","player_url":"https://voe.sx/e/xxmwgez5k4he"},{"id":4,"url":"https://doodstream.com/e/0j9opt9nhhkv","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"0j9opt9nhhkv","player_url":"https://doodstream.com/e/0j9opt9nhhkv"},{"id":5,"url":"https://streamwish.to/e/owha0mbf9bd3","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"owha0mbf9bd3","player_url":"https://streamwish.to/e/owha0mbf9bd3"},{"id":6,"url":"https://vidhidepro.com/v/592kmrgtuvnu","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"592kmrgtuvnu","player_url":"https://vidhidepro.com/v/592kmrgtuvnu"},{"id":7,"url":"https://voe.sx/e/zlo03kw9nrym","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"zlo03kw9nrym","player_url":"https://voe.sx/e/zlo03kw9nrym"},{"id":8,"url":"https://doodstream.com/e/eimiv18zvcyz","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"eimiv18zvcyz","player_url":"https://doodstream.com/e/eimiv18zvcyz"}]}
+{
+  "id": 1135303,
+  "titulo": "The Senior",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/h1bNZTFvh1eVwTh5YESfKCAB8KQ.jpg",
+  "release_date": "2025-09-18",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/hfrWfc7wLeex6vPuhaDR4lweZx2.jpg",
+  "overview": "Mike Flynt tiene 59 años. Demasiado viejo para jugar fútbol americano universitario, pero no para cargar con lo que dejó pendiente. Casi 40 años después, vuelve a su universidad para recibir ese golpe que le cambió la vida. Golpeado, criticado, al borde del colapso, pero busca un partido más. No por fama. Lo hace por los compañeros que perdió, por la familia que deshizo, y por un final que todavía cree posible.",
+  "trailer": "",
+  "runtime": "99",
+  "slug": "the-senior",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/0v9kkvgqx2st",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "0v9kkvgqx2st",
+      "player_url": "https://streamwish.to/e/0v9kkvgqx2st"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/e9ksvbqbjxwa",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "e9ksvbqbjxwa",
+      "player_url": "https://vidhidepro.com/v/e9ksvbqbjxwa"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/xxmwgez5k4he",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xxmwgez5k4he",
+      "player_url": "https://voe.sx/e/xxmwgez5k4he"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/0j9opt9nhhkv",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0j9opt9nhhkv",
+      "player_url": "https://doodstream.com/e/0j9opt9nhhkv"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/owha0mbf9bd3",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "owha0mbf9bd3",
+      "player_url": "https://streamwish.to/e/owha0mbf9bd3"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/592kmrgtuvnu",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "592kmrgtuvnu",
+      "player_url": "https://vidhidepro.com/v/592kmrgtuvnu"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/zlo03kw9nrym",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zlo03kw9nrym",
+      "player_url": "https://voe.sx/e/zlo03kw9nrym"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/eimiv18zvcyz",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "eimiv18zvcyz",
+      "player_url": "https://doodstream.com/e/eimiv18zvcyz"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/5o68usao39cj",
+      "player_url": "https://minochinos.com/embed/5o68usao39cj",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5o68usao39cj"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/jr0dzgxdpnan",
+      "player_url": "https://hglink.to/e/jr0dzgxdpnan",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jr0dzgxdpnan"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/jeyp5prc5gu9",
+      "player_url": "https://bysedikamoum.com/e/jeyp5prc5gu9",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jeyp5prc5gu9"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/35ofwn4llebe",
+      "player_url": "https://voe.sx/e/35ofwn4llebe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "35ofwn4llebe"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/35ofwn4llebe/download",
+      "player_url": "https://voe.sx/35ofwn4llebe/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/k201j7ml94bf",
+      "player_url": "https://rapidvideo.link/e/k201j7ml94bf",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k201j7ml94bf"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/kr2ngw3nq3q1",
+      "player_url": "https://minochinos.com/embed/kr2ngw3nq3q1",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kr2ngw3nq3q1"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/9e2boyd41rai",
+      "player_url": "https://hglink.to/e/9e2boyd41rai",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9e2boyd41rai"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/qffz4lpqeoam",
+      "player_url": "https://bysedikamoum.com/e/qffz4lpqeoam",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qffz4lpqeoam"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/ngyvxhtgbash",
+      "player_url": "https://voe.sx/e/ngyvxhtgbash",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ngyvxhtgbash"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/ngyvxhtgbash/download",
+      "player_url": "https://voe.sx/ngyvxhtgbash/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/810og2aekq4x",
+      "player_url": "https://rapidvideo.link/e/810og2aekq4x",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "810og2aekq4x"
+    }
+  ]
+}
