@@ -17,7 +17,17 @@
   "slug": "krypton",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hff08f2dfcd3ee7ade6c5c80d86bdc67033a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hff08f2dfcd3ee7ade6c5c80d86bdc67033a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff08f2dfcd3ee7ade6c5c80d86bdc67033a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
