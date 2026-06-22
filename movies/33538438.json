@@ -11,7 +11,7 @@
   ],
   "rating": "",
   "backdrop": "https://image.tmdb.org/t/p/original/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
-  "overview": "Plataforma de streaming estrena Ay Mamá, una película con humor, nostalgia y tradiciones navideñas, dirigida por Emil Zabala.",
+  "overview": "En una comunidad donde no hay secretos, una madre desesperada recurre a sus hijas ―de quienes estaba distanciada― cuando ocurre un crimen en su casa.",
   "trailer": "",
   "runtime": "",
   "slug": "ay-mama-0cR66A",
@@ -177,6 +177,15 @@
       "idioma": "subtitulado",
       "calidad": "HD",
       "embed_id": "cgv6j3zy5tmi"
+    },
+    {
+      "id": 19,
+      "url": "https://lacloud.live/public/stream/749368d2a08e056/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/749368d2a08e056/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "749368d2a08e056"
     }
   ]
 }
