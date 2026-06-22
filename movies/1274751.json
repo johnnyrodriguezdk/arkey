@@ -1,1 +1,207 @@
-{"id":1274751,"titulo":"Blue Sun Palace","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/bg8Fi5Vt9DhtuzWmyUn9qkljblu.jpg","release_date":"2025-03-12","genres":["drama"],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/yHirNou62aeQwEQiuqcEqcgXLAp.jpg","overview":"Amy y Didi viven y trabajan en un salón de masajes en la comunidad china de Queens, Nueva York. Lejos de su país de origen, comparten risas y sueños mientras cumplen con sus responsabilidades familiares. A pesar del esfuerzo diario y las jornadas extenuantes, han formado junto a sus compañeras una hermandad fuerte que las sostiene cada día. Cuando una tragedia ocurre durante el Año Nuevo Lunar, Amy encuentra consuelo en Cheung, el solitario amante de su amiga. Pero, para sobrevivir, tendrá que alejarse y empezar a pensar en sí misma.","trailer":"","runtime":"117","slug":"blue-sun-palace","servidores":[{"id":1,"url":"https://streamwish.to/e/m9i0wtzu81n5","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"m9i0wtzu81n5","player_url":"https://streamwish.to/e/m9i0wtzu81n5"},{"id":2,"url":"https://vidhidepro.com/v/fcz4u71jf2ut","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"fcz4u71jf2ut","player_url":"https://vidhidepro.com/v/fcz4u71jf2ut"},{"id":3,"url":"https://voe.sx/e/m70crbsnhbr7","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"m70crbsnhbr7","player_url":"https://voe.sx/e/m70crbsnhbr7"},{"id":4,"url":"https://doodstream.com/e/mncq958dmhfv","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"mncq958dmhfv","player_url":"https://doodstream.com/e/mncq958dmhfv"},{"id":5,"url":"https://waaw.to/f/dRXAKxXFnvOe","idioma":"english","nombre":"Netu","calidad":"HD","embed_id":"dRXAKxXFnvOe","player_url":"https://waaw.to/f/dRXAKxXFnvOe"},{"id":6,"url":"https://streamwish.to/e/syk4q22orgi2","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"syk4q22orgi2","player_url":"https://streamwish.to/e/syk4q22orgi2"},{"id":7,"url":"https://vidhidepro.com/v/4wb4oqazqup6","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"4wb4oqazqup6","player_url":"https://vidhidepro.com/v/4wb4oqazqup6"},{"id":8,"url":"https://voe.sx/e/artaecy09fdw","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"artaecy09fdw","player_url":"https://voe.sx/e/artaecy09fdw"},{"id":9,"url":"https://doodstream.com/e/old5ygpq3d1g","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"old5ygpq3d1g","player_url":"https://doodstream.com/e/old5ygpq3d1g"}]}
+{
+  "id": 1274751,
+  "titulo": "Blue Sun Palace",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/bg8Fi5Vt9DhtuzWmyUn9qkljblu.jpg",
+  "release_date": "2025-03-12",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/yHirNou62aeQwEQiuqcEqcgXLAp.jpg",
+  "overview": "Amy y Didi viven y trabajan en un salón de masajes en la comunidad china de Queens, Nueva York. Lejos de su país de origen, comparten risas y sueños mientras cumplen con sus responsabilidades familiares. A pesar del esfuerzo diario y las jornadas extenuantes, han formado junto a sus compañeras una hermandad fuerte que las sostiene cada día. Cuando una tragedia ocurre durante el Año Nuevo Lunar, Amy encuentra consuelo en Cheung, el solitario amante de su amiga. Pero, para sobrevivir, tendrá que alejarse y empezar a pensar en sí misma.",
+  "trailer": "",
+  "runtime": "117",
+  "slug": "blue-sun-palace",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/m9i0wtzu81n5",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "m9i0wtzu81n5",
+      "player_url": "https://streamwish.to/e/m9i0wtzu81n5"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/fcz4u71jf2ut",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fcz4u71jf2ut",
+      "player_url": "https://vidhidepro.com/v/fcz4u71jf2ut"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/m70crbsnhbr7",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "m70crbsnhbr7",
+      "player_url": "https://voe.sx/e/m70crbsnhbr7"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/mncq958dmhfv",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "mncq958dmhfv",
+      "player_url": "https://doodstream.com/e/mncq958dmhfv"
+    },
+    {
+      "id": 5,
+      "url": "https://waaw.to/f/dRXAKxXFnvOe",
+      "idioma": "english",
+      "nombre": "Netu",
+      "calidad": "HD",
+      "embed_id": "dRXAKxXFnvOe",
+      "player_url": "https://waaw.to/f/dRXAKxXFnvOe"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/syk4q22orgi2",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "syk4q22orgi2",
+      "player_url": "https://streamwish.to/e/syk4q22orgi2"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/4wb4oqazqup6",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "4wb4oqazqup6",
+      "player_url": "https://vidhidepro.com/v/4wb4oqazqup6"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/artaecy09fdw",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "artaecy09fdw",
+      "player_url": "https://voe.sx/e/artaecy09fdw"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/old5ygpq3d1g",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "old5ygpq3d1g",
+      "player_url": "https://doodstream.com/e/old5ygpq3d1g"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/e04l3ok0gac9",
+      "player_url": "https://minochinos.com/embed/e04l3ok0gac9",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e04l3ok0gac9"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/i27bb8w7yyoi",
+      "player_url": "https://hglink.to/e/i27bb8w7yyoi",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i27bb8w7yyoi"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/pvyqowfelhiy",
+      "player_url": "https://bysedikamoum.com/e/pvyqowfelhiy",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pvyqowfelhiy"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/4vilkpczoghq",
+      "player_url": "https://voe.sx/e/4vilkpczoghq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4vilkpczoghq"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/4vilkpczoghq/download",
+      "player_url": "https://voe.sx/4vilkpczoghq/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/bfmepa9ylhv6",
+      "player_url": "https://rapidvideo.link/e/bfmepa9ylhv6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bfmepa9ylhv6"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/71gyo8gexldm",
+      "player_url": "https://minochinos.com/embed/71gyo8gexldm",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "71gyo8gexldm"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/pgbk7ov5jm2j",
+      "player_url": "https://hglink.to/e/pgbk7ov5jm2j",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pgbk7ov5jm2j"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/6jgn26njhuhx",
+      "player_url": "https://bysedikamoum.com/e/6jgn26njhuhx",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6jgn26njhuhx"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/rackxcwcqhwr",
+      "player_url": "https://voe.sx/e/rackxcwcqhwr",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rackxcwcqhwr"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/rackxcwcqhwr/download",
+      "player_url": "https://voe.sx/rackxcwcqhwr/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/qh9ujoen6mid",
+      "player_url": "https://rapidvideo.link/e/qh9ujoen6mid",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qh9ujoen6mid"
+    }
+  ]
+}
