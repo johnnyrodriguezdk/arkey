@@ -14,7 +14,17 @@
   "slug": "oye-tonbo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfecb198754124632197e94089ec8acf1f3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfecb198754124632197e94089ec8acf1f3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfecb198754124632197e94089ec8acf1f3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
