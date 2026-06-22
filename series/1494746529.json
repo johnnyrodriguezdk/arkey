@@ -1,0 +1,34 @@
+{
+  "id": 1494746529,
+  "titulo": "Bandi",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/a7b344c58979fefcf891b91a8e5abb22.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Tras la muerte de su madre, un grupo de hermanos huérfanos de Martinica lucha por salir adelante, lo que lleva a algunos de ellos a delinquir para permanece",
+  "slug": "bandi",
+  "iframe_url": "https://lacloud.live/b9a3a0573dcb7cf1",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/b9a3a0573dcb7cf1/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/b9a3a0573dcb7cf1/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b9a3a0573dcb7cf1"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/bandi?season=1&ep=1"
+    }
+  ]
+}
