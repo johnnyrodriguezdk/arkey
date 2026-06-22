@@ -10,7 +10,7 @@
   ],
   "rating": "5.7",
   "backdrop": "https://image.tmdb.org/t/p/original/g1O3wEA0ZaigQG0RHx7zXeuWbSc.jpg",
-  "overview": "Tras liberar Auschwitz, un prisionero italiano empieza un viaje difícil de vuelta a Turín. Europa está partida entre guerra y paz.",
+  "overview": "Reyes y Salgado son dos militares que durante la guerra civil española lucharon en bandos contrarios, pero que deberán compartir el sufrimiento y la esperan",
   "trailer": "",
   "runtime": "",
   "slug": "la-tregua-oMRpBz",
@@ -77,6 +77,15 @@
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "7dsef1bmnlyg"
+    },
+    {
+      "id": 8,
+      "url": "https://lacloud.live/public/stream/075c77f0e8a72e69/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/075c77f0e8a72e69/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "075c77f0e8a72e69"
     }
   ]
 }
