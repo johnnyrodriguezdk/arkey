@@ -13,7 +13,17 @@
   "slug": "rosalinda",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/g9viwgbre1tf",
+      "player_url": "https://streamfort.online/e/g9viwgbre1tf",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g9viwgbre1tf"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
