@@ -1,1 +1,208 @@
-{"id":1316673,"titulo":"Shark Girl","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/o9TpXnGskHRQcHtX4NYndP6o0zA.jpg","release_date":"2024-07-09","genres":[],"rating":"3.1","backdrop":"https://image.tmdb.org/t/p/original/gmkgsEFAT7SRiOhDGXULREWN0SK.jpg","overview":"Cuando una joven influencer sobrevive a un misterioso ataque de tiburón, se convierte en un monstruoso depredador ápice, cazando y alimentándose en la soleada Venice Beach, California.","trailer":"","runtime":"82","slug":"shark-girl","servidores":[{"id":1,"url":"https://voe.sx/e/uc0p7f9uhtul","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"uc0p7f9uhtul","player_url":"https://voe.sx/e/uc0p7f9uhtul"},{"id":2,"url":"https://doodstream.com/e/u8yqp3xilp4e","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"u8yqp3xilp4e","player_url":"https://doodstream.com/e/u8yqp3xilp4e"},{"id":3,"url":"https://streamwish.to/e/1ex6v4kepevg","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"1ex6v4kepevg","player_url":"https://streamwish.to/e/1ex6v4kepevg"},{"id":4,"url":"https://bysejikuar.com/e/k8wuupfhcidn","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"k8wuupfhcidn","player_url":"https://bysejikuar.com/e/k8wuupfhcidn"},{"id":5,"url":"https://vidhidepro.com/v/ux42dr6jq7ji","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ux42dr6jq7ji","player_url":"https://vidhidepro.com/v/ux42dr6jq7ji"},{"id":6,"url":"https://voe.sx/e/712an9orc7px","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"712an9orc7px","player_url":"https://voe.sx/e/712an9orc7px"},{"id":7,"url":"https://streamwish.to/e/zi8kx29pgsnb","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"zi8kx29pgsnb","player_url":"https://streamwish.to/e/zi8kx29pgsnb"},{"id":8,"url":"https://vidhidepro.com/v/tuo0smyfq13x","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"tuo0smyfq13x","player_url":"https://vidhidepro.com/v/tuo0smyfq13x"},{"id":9,"url":"https://doodstream.com/e/rl29dnngjqgr","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"rl29dnngjqgr","player_url":"https://doodstream.com/e/rl29dnngjqgr"}]}
+{
+  "id": 1316673,
+  "titulo": "Shark Girl",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/o9TpXnGskHRQcHtX4NYndP6o0zA.jpg",
+  "release_date": "2024-07-09",
+  "genres": [
+    "Suspense",
+    "Terror"
+  ],
+  "rating": "3.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/gmkgsEFAT7SRiOhDGXULREWN0SK.jpg",
+  "overview": "Cuando una joven influencer sobrevive a un misterioso ataque de tiburón, se convierte en un monstruoso depredador ápice, cazando y alimentándose en la soleada Venice Beach, California.",
+  "trailer": "",
+  "runtime": "82",
+  "slug": "shark-girl",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://voe.sx/e/uc0p7f9uhtul",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "uc0p7f9uhtul",
+      "player_url": "https://voe.sx/e/uc0p7f9uhtul"
+    },
+    {
+      "id": 2,
+      "url": "https://doodstream.com/e/u8yqp3xilp4e",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "u8yqp3xilp4e",
+      "player_url": "https://doodstream.com/e/u8yqp3xilp4e"
+    },
+    {
+      "id": 3,
+      "url": "https://streamwish.to/e/1ex6v4kepevg",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "1ex6v4kepevg",
+      "player_url": "https://streamwish.to/e/1ex6v4kepevg"
+    },
+    {
+      "id": 4,
+      "url": "https://bysejikuar.com/e/k8wuupfhcidn",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "k8wuupfhcidn",
+      "player_url": "https://bysejikuar.com/e/k8wuupfhcidn"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/ux42dr6jq7ji",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ux42dr6jq7ji",
+      "player_url": "https://vidhidepro.com/v/ux42dr6jq7ji"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/712an9orc7px",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "712an9orc7px",
+      "player_url": "https://voe.sx/e/712an9orc7px"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/zi8kx29pgsnb",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zi8kx29pgsnb",
+      "player_url": "https://streamwish.to/e/zi8kx29pgsnb"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/tuo0smyfq13x",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "tuo0smyfq13x",
+      "player_url": "https://vidhidepro.com/v/tuo0smyfq13x"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/rl29dnngjqgr",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "rl29dnngjqgr",
+      "player_url": "https://doodstream.com/e/rl29dnngjqgr"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/9autw8s3whe5",
+      "player_url": "https://minochinos.com/embed/9autw8s3whe5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9autw8s3whe5"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/vt7kajxc9n4h",
+      "player_url": "https://hglink.to/e/vt7kajxc9n4h",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vt7kajxc9n4h"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/1il3jcihuyru",
+      "player_url": "https://bysedikamoum.com/e/1il3jcihuyru",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1il3jcihuyru"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/wion1pzzucd7",
+      "player_url": "https://voe.sx/e/wion1pzzucd7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wion1pzzucd7"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/wion1pzzucd7/download",
+      "player_url": "https://voe.sx/wion1pzzucd7/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/2lcdqtfg6xo7",
+      "player_url": "https://rapidvideo.link/e/2lcdqtfg6xo7",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2lcdqtfg6xo7"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/vi4wy4vfdgxi",
+      "player_url": "https://minochinos.com/embed/vi4wy4vfdgxi",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vi4wy4vfdgxi"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/24na6mt9d31j",
+      "player_url": "https://hglink.to/e/24na6mt9d31j",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "24na6mt9d31j"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/2iknfqm6fmxq",
+      "player_url": "https://bysedikamoum.com/e/2iknfqm6fmxq",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2iknfqm6fmxq"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/6sregia6fggv",
+      "player_url": "https://voe.sx/e/6sregia6fggv",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6sregia6fggv"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/6sregia6fggv/download",
+      "player_url": "https://voe.sx/6sregia6fggv/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/kve16hlbg2yc",
+      "player_url": "https://rapidvideo.link/e/kve16hlbg2yc",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kve16hlbg2yc"
+    }
+  ]
+}
