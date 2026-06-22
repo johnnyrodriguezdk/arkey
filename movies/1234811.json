@@ -1,1 +1,262 @@
-{"id":1234811,"titulo":"Nuestro Secretito","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/nhcSZTzQ4euUYvuiFVvyINnhAV4.jpg","release_date":"2024-11-27","genres":["romance","drama"],"rating":"6.2","backdrop":"https://image.tmdb.org/t/p/original/aJkOBOdbzUc788VDGJp3nEAlC3I.jpg","overview":"Dos ex resentidos se ven obligados a pasar la Navidad bajo el mismo techo tras descubrir que sus parejas actuales son hermanos.","trailer":"","runtime":"101","slug":"nuestro-secretito","servidores":[{"id":1,"url":"https://streamwish.to/e/djwjto5llysx","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"djwjto5llysx","player_url":"https://streamwish.to/e/djwjto5llysx"},{"id":2,"url":"https://vidhidepro.com/v/hbmnk9b8aw18","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"hbmnk9b8aw18","player_url":"https://vidhidepro.com/v/hbmnk9b8aw18"},{"id":3,"url":"https://voe.sx/e/alfkqgwrlusy","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"alfkqgwrlusy","player_url":"https://voe.sx/e/alfkqgwrlusy"},{"id":4,"url":"https://doodstream.com/e/rkuf16ust59y","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"rkuf16ust59y","player_url":"https://doodstream.com/e/rkuf16ust59y"},{"id":5,"url":"https://streamwish.to/e/jrzk5bvak5lm","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"jrzk5bvak5lm","player_url":"https://streamwish.to/e/jrzk5bvak5lm"},{"id":6,"url":"https://vidhidepro.com/v/8fdu5tquvwwi","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"8fdu5tquvwwi","player_url":"https://vidhidepro.com/v/8fdu5tquvwwi"},{"id":7,"url":"https://doodstream.com/e/od1gtqtfzxlw","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"od1gtqtfzxlw","player_url":"https://doodstream.com/e/od1gtqtfzxlw"},{"id":8,"url":"https://streamwish.to/e/gjchuy1qvcol","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"gjchuy1qvcol","player_url":"https://streamwish.to/e/gjchuy1qvcol"},{"id":9,"url":"https://vidhidepro.com/v/fon2843nqwxb","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"fon2843nqwxb","player_url":"https://vidhidepro.com/v/fon2843nqwxb"},{"id":10,"url":"https://voe.sx/e/lbwqcvjo0x4z","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"lbwqcvjo0x4z","player_url":"https://voe.sx/e/lbwqcvjo0x4z"},{"id":11,"url":"https://doodstream.com/e/eqitly3yivb6","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"eqitly3yivb6","player_url":"https://doodstream.com/e/eqitly3yivb6"}]}
+{
+  "id": 1234811,
+  "titulo": "Nuestro Secretito",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/nhcSZTzQ4euUYvuiFVvyINnhAV4.jpg",
+  "release_date": "2024-11-27",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "6.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/aJkOBOdbzUc788VDGJp3nEAlC3I.jpg",
+  "overview": "Dos ex resentidos se ven obligados a pasar la Navidad bajo el mismo techo tras descubrir que sus parejas actuales son hermanos.",
+  "trailer": "",
+  "runtime": "101",
+  "slug": "nuestro-secretito",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/djwjto5llysx",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "djwjto5llysx",
+      "player_url": "https://streamwish.to/e/djwjto5llysx"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/hbmnk9b8aw18",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "hbmnk9b8aw18",
+      "player_url": "https://vidhidepro.com/v/hbmnk9b8aw18"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/alfkqgwrlusy",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "alfkqgwrlusy",
+      "player_url": "https://voe.sx/e/alfkqgwrlusy"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/rkuf16ust59y",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "rkuf16ust59y",
+      "player_url": "https://doodstream.com/e/rkuf16ust59y"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/jrzk5bvak5lm",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "jrzk5bvak5lm",
+      "player_url": "https://streamwish.to/e/jrzk5bvak5lm"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/8fdu5tquvwwi",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8fdu5tquvwwi",
+      "player_url": "https://vidhidepro.com/v/8fdu5tquvwwi"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/od1gtqtfzxlw",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "od1gtqtfzxlw",
+      "player_url": "https://doodstream.com/e/od1gtqtfzxlw"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/gjchuy1qvcol",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "gjchuy1qvcol",
+      "player_url": "https://streamwish.to/e/gjchuy1qvcol"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/fon2843nqwxb",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fon2843nqwxb",
+      "player_url": "https://vidhidepro.com/v/fon2843nqwxb"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/lbwqcvjo0x4z",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "lbwqcvjo0x4z",
+      "player_url": "https://voe.sx/e/lbwqcvjo0x4z"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/eqitly3yivb6",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "eqitly3yivb6",
+      "player_url": "https://doodstream.com/e/eqitly3yivb6"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/093b61rqvh0f",
+      "player_url": "https://minochinos.com/embed/093b61rqvh0f",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "093b61rqvh0f"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/f4vn04pxomo4",
+      "player_url": "https://hglink.to/e/f4vn04pxomo4",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f4vn04pxomo4"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/3kvykhohk0et",
+      "player_url": "https://bysedikamoum.com/e/3kvykhohk0et",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3kvykhohk0et"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/vlpimpq6tdtb",
+      "player_url": "https://voe.sx/e/vlpimpq6tdtb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vlpimpq6tdtb"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/vlpimpq6tdtb/download",
+      "player_url": "https://voe.sx/vlpimpq6tdtb/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/ug17rlse0wob",
+      "player_url": "https://rapidvideo.link/e/ug17rlse0wob",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ug17rlse0wob"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/rhxp6zf00lrg",
+      "player_url": "https://minochinos.com/embed/rhxp6zf00lrg",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rhxp6zf00lrg"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/w6iy08u1rdqf",
+      "player_url": "https://hglink.to/e/w6iy08u1rdqf",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w6iy08u1rdqf"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/19z6qaotzvpr",
+      "player_url": "https://bysedikamoum.com/e/19z6qaotzvpr",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "19z6qaotzvpr"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/4lrfn2je9ouz",
+      "player_url": "https://rapidvideo.link/e/4lrfn2je9ouz",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4lrfn2je9ouz"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/c3v90ye4qd4c",
+      "player_url": "https://minochinos.com/embed/c3v90ye4qd4c",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c3v90ye4qd4c"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/a94m310jb2x4",
+      "player_url": "https://hglink.to/e/a94m310jb2x4",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "a94m310jb2x4"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/axgdt2ugyr73",
+      "player_url": "https://bysedikamoum.com/e/axgdt2ugyr73",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "axgdt2ugyr73"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/pmjteycws84s",
+      "player_url": "https://voe.sx/e/pmjteycws84s",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pmjteycws84s"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/pmjteycws84s/download",
+      "player_url": "https://voe.sx/pmjteycws84s/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/v4oku0sdna7p",
+      "player_url": "https://rapidvideo.link/e/v4oku0sdna7p",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "v4oku0sdna7p"
+    }
+  ]
+}
