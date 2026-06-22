@@ -1,1 +1,219 @@
-{"id":1184918,"titulo":"Robot salvaje","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/cYMihyFZreVBn8x6KnyPY4ea0HX.jpg","release_date":"2024-09-12","genres":[],"rating":"8.3","backdrop":"https://image.tmdb.org/t/p/original/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg","overview":"Un robot - ROZZUM unidad 7134, \"Roz\" para abreviar - naufraga en una isla deshabitada y debe aprender a adaptarse al duro entorno, estableciendo gradualmente relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de un ganso huérfano.","trailer":"","runtime":"101","slug":"robot-salvaje","servidores":[{"id":1,"url":"https://streamwish.to/e/20vg392org51","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"20vg392org51","player_url":"https://streamwish.to/e/20vg392org51"},{"id":2,"url":"https://vidhidepro.com/v/rqjionqknsdi","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"rqjionqknsdi","player_url":"https://vidhidepro.com/v/rqjionqknsdi"},{"id":3,"url":"https://streamwish.to/e/xm615f8qrmja","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"xm615f8qrmja","player_url":"https://streamwish.to/e/xm615f8qrmja"},{"id":4,"url":"https://vidhidepro.com/v/prffdu4r6fkt","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"prffdu4r6fkt","player_url":"https://vidhidepro.com/v/prffdu4r6fkt"},{"id":5,"url":"https://streamwish.to/e/o6lchhhzkxoc","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"o6lchhhzkxoc","player_url":"https://streamwish.to/e/o6lchhhzkxoc"},{"id":6,"url":"https://vidhidepro.com/v/jb4dcqb93z3y","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"jb4dcqb93z3y","player_url":"https://vidhidepro.com/v/jb4dcqb93z3y"}]}
+{
+  "id": 1184918,
+  "titulo": "Robot salvaje",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/cYMihyFZreVBn8x6KnyPY4ea0HX.jpg",
+  "release_date": "2024-09-12",
+  "genres": [
+    "Animación",
+    "Acción",
+    "Ciencia Ficción",
+    "Familia"
+  ],
+  "rating": "8.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+  "overview": "Un robot - ROZZUM unidad 7134, \"Roz\" para abreviar - naufraga en una isla deshabitada y debe aprender a adaptarse al duro entorno, estableciendo gradualmente relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de un ganso huérfano.",
+  "trailer": "",
+  "runtime": "101",
+  "slug": "robot-salvaje",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/20vg392org51",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "20vg392org51",
+      "player_url": "https://streamwish.to/e/20vg392org51"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/rqjionqknsdi",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rqjionqknsdi",
+      "player_url": "https://vidhidepro.com/v/rqjionqknsdi"
+    },
+    {
+      "id": 3,
+      "url": "https://streamwish.to/e/xm615f8qrmja",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "xm615f8qrmja",
+      "player_url": "https://streamwish.to/e/xm615f8qrmja"
+    },
+    {
+      "id": 4,
+      "url": "https://vidhidepro.com/v/prffdu4r6fkt",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "prffdu4r6fkt",
+      "player_url": "https://vidhidepro.com/v/prffdu4r6fkt"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/o6lchhhzkxoc",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "o6lchhhzkxoc",
+      "player_url": "https://streamwish.to/e/o6lchhhzkxoc"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/jb4dcqb93z3y",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jb4dcqb93z3y",
+      "player_url": "https://vidhidepro.com/v/jb4dcqb93z3y"
+    },
+    {
+      "id": 7,
+      "url": "https://minochinos.com/embed/t2scwivh2nhc",
+      "player_url": "https://minochinos.com/embed/t2scwivh2nhc",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t2scwivh2nhc"
+    },
+    {
+      "id": 8,
+      "url": "https://hglink.to/e/ux2ccyn62o9i",
+      "player_url": "https://hglink.to/e/ux2ccyn62o9i",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ux2ccyn62o9i"
+    },
+    {
+      "id": 9,
+      "url": "https://bysedikamoum.com/e/m5o590sv71dm",
+      "player_url": "https://bysedikamoum.com/e/m5o590sv71dm",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m5o590sv71dm"
+    },
+    {
+      "id": 10,
+      "url": "https://rapidvideo.link/e/eaf79c30qgdr",
+      "player_url": "https://rapidvideo.link/e/eaf79c30qgdr",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eaf79c30qgdr"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/78n9ba9oku5d",
+      "player_url": "https://minochinos.com/embed/78n9ba9oku5d",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "78n9ba9oku5d"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/27fbpvpvni6n",
+      "player_url": "https://hglink.to/e/27fbpvpvni6n",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "27fbpvpvni6n"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/95ptnale5af1",
+      "player_url": "https://bysedikamoum.com/e/95ptnale5af1",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "95ptnale5af1"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/om0wajq2ucx9",
+      "player_url": "https://voe.sx/e/om0wajq2ucx9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "om0wajq2ucx9"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/om0wajq2ucx9/download",
+      "player_url": "https://voe.sx/om0wajq2ucx9/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/dhe7ovbz2tkf",
+      "player_url": "https://rapidvideo.link/e/dhe7ovbz2tkf",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dhe7ovbz2tkf"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/gw9cngtli9dz",
+      "player_url": "https://minochinos.com/embed/gw9cngtli9dz",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gw9cngtli9dz"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/66r3e06kc0cs",
+      "player_url": "https://hglink.to/e/66r3e06kc0cs",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "66r3e06kc0cs"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/rr18wlxh8048",
+      "player_url": "https://bysedikamoum.com/e/rr18wlxh8048",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rr18wlxh8048"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/4ntlgiik1fmg",
+      "player_url": "https://voe.sx/e/4ntlgiik1fmg",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4ntlgiik1fmg"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/4ntlgiik1fmg/download",
+      "player_url": "https://voe.sx/4ntlgiik1fmg/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/m6ykn284lbh1",
+      "player_url": "https://rapidvideo.link/e/m6ykn284lbh1",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "m6ykn284lbh1"
+    }
+  ]
+}
