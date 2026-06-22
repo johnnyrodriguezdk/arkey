@@ -17,7 +17,17 @@
   "slug": "nugget-de-pollo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/qj58wbn9ybxq",
+      "player_url": "https://streamfort.online/e/qj58wbn9ybxq",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qj58wbn9ybxq"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
