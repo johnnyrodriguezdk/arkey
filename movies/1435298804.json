@@ -1,1 +1,36 @@
-{"id":1435298804,"titulo":"Hokum: La maldición de la bruja","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w342//hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg","release_date":"2026-01-01","genres":[],"rating":"","backdrop":"https://cuevana.gs/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg","overview":"","trailer":"","runtime":"","slug":"","servidores":[{"id":1,"url":"https://vimeos.net/embed-u4ruvr0ss4xw.html","idioma":"Latino","nombre":"Vimeos Recomendado","calidad":"HD","embed_id":"embed-u4ruvr0ss4xw.html","player_url":"https://vimeos.net/embed-u4ruvr0ss4xw.html"}]}
+{
+  "id": 1435298804,
+  "titulo": "Hokum: La maldición de la bruja",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w342//hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
+  "release_date": "2026-01-01",
+  "genres": [
+    "terror"
+  ],
+  "rating": "",
+  "backdrop": "https://cuevana.gs/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
+  "overview": "Un escritor de terror visita una posada irlandesa para esparcir las cenizas de sus padres, sin saber que se dice que la propiedad está embrujada.",
+  "trailer": "",
+  "runtime": "",
+  "slug": "",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://vimeos.net/embed-u4ruvr0ss4xw.html",
+      "idioma": "Latino",
+      "nombre": "Vimeos Recomendado",
+      "calidad": "HD",
+      "embed_id": "embed-u4ruvr0ss4xw.html",
+      "player_url": "https://vimeos.net/embed-u4ruvr0ss4xw.html"
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/f7d4db8bb35cd354/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/f7d4db8bb35cd354/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f7d4db8bb35cd354"
+    }
+  ]
+}
