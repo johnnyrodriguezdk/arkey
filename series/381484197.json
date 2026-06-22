@@ -1,0 +1,37 @@
+{
+  "id": 381484197,
+  "titulo": "Leyendas",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/2a07e653170f3679b2fc660d3ade0d0f.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "crimen",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "En los 90, las drogas inundan Gran Bretaña y un grupo de funcionarios públicos se infiltra en las bandas responsables para desmantelarlas.",
+  "slug": "leyendas",
+  "iframe_url": "https://lacloud.live/e5e410f8666e2d1e",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/5e410f8666e2d1e/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/5e410f8666e2d1e/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5e410f8666e2d1e"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/leyendas?season=1&ep=1"
+    }
+  ]
+}
