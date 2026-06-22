@@ -15,7 +15,17 @@
   "slug": "soy-extraordinaria",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf20ef38ffc3e4ffae4a07767008ab981d3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf20ef38ffc3e4ffae4a07767008ab981d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf20ef38ffc3e4ffae4a07767008ab981d3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
