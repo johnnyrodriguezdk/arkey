@@ -1,1 +1,191 @@
-{"id":1125510,"titulo":"El hoyo 2","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/jHGgM019xAoy62cKZtDmTxvQlUY.jpg","release_date":"2024-09-27","genres":[],"rating":"5.6","backdrop":"https://image.tmdb.org/t/p/original/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg","overview":"Cuando un líder misterioso impone sus leyes en un brutal sistema vertical de celdas, una recién llegada decide desafiar su dudoso método de distribución de comida.","trailer":"","runtime":"100","slug":"el-hoyo-2","servidores":[{"id":1,"url":"https://streamwish.to/e/h15aj5plok6l","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"h15aj5plok6l","player_url":"https://streamwish.to/e/h15aj5plok6l"},{"id":2,"url":"https://voe.sx/e/h8uop5nuzoym","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"h8uop5nuzoym","player_url":"https://voe.sx/e/h8uop5nuzoym"},{"id":3,"url":"https://doodstream.com/e/coxmkngyy63q","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"coxmkngyy63q","player_url":"https://doodstream.com/e/coxmkngyy63q"},{"id":4,"url":"https://streamwish.to/e/qiblx7j7c4xz","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"qiblx7j7c4xz","player_url":"https://streamwish.to/e/qiblx7j7c4xz"},{"id":5,"url":"https://vidhidepro.com/v/yagjby8548f4","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"yagjby8548f4","player_url":"https://vidhidepro.com/v/yagjby8548f4"},{"id":6,"url":"https://voe.sx/e/ywn6rpwvvhdo","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"ywn6rpwvvhdo","player_url":"https://voe.sx/e/ywn6rpwvvhdo"},{"id":7,"url":"https://doodstream.com/e/p13tu6opv2nw","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"p13tu6opv2nw","player_url":"https://doodstream.com/e/p13tu6opv2nw"}]}
+{
+  "id": 1125510,
+  "titulo": "El hoyo 2",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/jHGgM019xAoy62cKZtDmTxvQlUY.jpg",
+  "release_date": "2024-09-27",
+  "genres": [
+    "Suspense",
+    "Ciencia Ficción",
+    "Drama"
+  ],
+  "rating": "5.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg",
+  "overview": "Cuando un líder misterioso impone sus leyes en un brutal sistema vertical de celdas, una recién llegada decide desafiar su dudoso método de distribución de comida.",
+  "trailer": "",
+  "runtime": "100",
+  "slug": "el-hoyo-2",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/h15aj5plok6l",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "h15aj5plok6l",
+      "player_url": "https://streamwish.to/e/h15aj5plok6l"
+    },
+    {
+      "id": 2,
+      "url": "https://voe.sx/e/h8uop5nuzoym",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "h8uop5nuzoym",
+      "player_url": "https://voe.sx/e/h8uop5nuzoym"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/coxmkngyy63q",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "coxmkngyy63q",
+      "player_url": "https://doodstream.com/e/coxmkngyy63q"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/qiblx7j7c4xz",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "qiblx7j7c4xz",
+      "player_url": "https://streamwish.to/e/qiblx7j7c4xz"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/yagjby8548f4",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "yagjby8548f4",
+      "player_url": "https://vidhidepro.com/v/yagjby8548f4"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/ywn6rpwvvhdo",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ywn6rpwvvhdo",
+      "player_url": "https://voe.sx/e/ywn6rpwvvhdo"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/p13tu6opv2nw",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "p13tu6opv2nw",
+      "player_url": "https://doodstream.com/e/p13tu6opv2nw"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/awmq3zc4znw3",
+      "player_url": "https://minochinos.com/embed/awmq3zc4znw3",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "awmq3zc4znw3"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/ch4pf7jov9oz",
+      "player_url": "https://hglink.to/e/ch4pf7jov9oz",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ch4pf7jov9oz"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/c364mki3jagu",
+      "player_url": "https://bysedikamoum.com/e/c364mki3jagu",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c364mki3jagu"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/us4yujnj76f4",
+      "player_url": "https://voe.sx/e/us4yujnj76f4",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "us4yujnj76f4"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/us4yujnj76f4/download",
+      "player_url": "https://voe.sx/us4yujnj76f4/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/qbys5t0kpgve",
+      "player_url": "https://rapidvideo.link/e/qbys5t0kpgve",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qbys5t0kpgve"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/h1i77cesyha1",
+      "player_url": "https://minochinos.com/embed/h1i77cesyha1",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "h1i77cesyha1"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/xmlf2k66de92",
+      "player_url": "https://hglink.to/e/xmlf2k66de92",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xmlf2k66de92"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/fqajylvxk2li",
+      "player_url": "https://bysedikamoum.com/e/fqajylvxk2li",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fqajylvxk2li"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/rjqqreozg9fs",
+      "player_url": "https://voe.sx/e/rjqqreozg9fs",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rjqqreozg9fs"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/rjqqreozg9fs/download",
+      "player_url": "https://voe.sx/rjqqreozg9fs/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/lpr1ek23wzvf",
+      "player_url": "https://rapidvideo.link/e/lpr1ek23wzvf",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lpr1ek23wzvf"
+    }
+  ]
+}
