@@ -13,7 +13,17 @@
   "slug": "los-bandidos-del-oro",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf25826da5a304d70220725c63e18e0d763a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf25826da5a304d70220725c63e18e0d763a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf25826da5a304d70220725c63e18e0d763a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
