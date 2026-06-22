@@ -1,1 +1,198 @@
-{"id":1243800,"titulo":"Baja de paternidad","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/4zEzivNNh0FhKkHjEtohmMuIe51.jpg","release_date":"2025-05-15","genres":["drama"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/1WzM4tNJzEtgn0b413hIR8i0qYk.jpg","overview":"Leo es una adolescente de quince años que ha crecido en Alemania sin padre. Cuando descubre su identidad, se pone inmediatamente en marcha para localizarlo. Lo encuentra en un chiringuito de la costa del norte de Italia. El reencuentro deja a Paolo abrumado y en conflicto. Tras la repentina aparición de Leo en su vida, lucha por equilibrar su relación con ella y con la familia que tiene ahora. Al principio, Leo solo quiere respuestas, pero pronto empieza a desear formar parte de la vida de Paolo.","trailer":"","runtime":"113","slug":"paternal-leave","servidores":[{"id":1,"url":"https://streamwish.to/e/oo16fkjnvstq","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"oo16fkjnvstq","player_url":"https://streamwish.to/e/oo16fkjnvstq"},{"id":2,"url":"https://vidhidepro.com/v/why6su4ml3ej","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"why6su4ml3ej","player_url":"https://vidhidepro.com/v/why6su4ml3ej"},{"id":3,"url":"https://voe.sx/e/ysigyeyrfy2h","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ysigyeyrfy2h","player_url":"https://voe.sx/e/ysigyeyrfy2h"},{"id":4,"url":"https://doodstream.com/e/9kqvykktql94","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"9kqvykktql94","player_url":"https://doodstream.com/e/9kqvykktql94"},{"id":5,"url":"https://streamwish.to/e/h3k53r65vv8p","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"h3k53r65vv8p","player_url":"https://streamwish.to/e/h3k53r65vv8p"},{"id":6,"url":"https://vidhidepro.com/v/iv785vgf6k7h","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"iv785vgf6k7h","player_url":"https://vidhidepro.com/v/iv785vgf6k7h"},{"id":7,"url":"https://voe.sx/e/lixtiwzqslg1","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"lixtiwzqslg1","player_url":"https://voe.sx/e/lixtiwzqslg1"},{"id":8,"url":"https://doodstream.com/e/0wlehiy4f2p3","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"0wlehiy4f2p3","player_url":"https://doodstream.com/e/0wlehiy4f2p3"}]}
+{
+  "id": 1243800,
+  "titulo": "Baja de paternidad",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/4zEzivNNh0FhKkHjEtohmMuIe51.jpg",
+  "release_date": "2025-05-15",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/1WzM4tNJzEtgn0b413hIR8i0qYk.jpg",
+  "overview": "Leo es una adolescente de quince años que ha crecido en Alemania sin padre. Cuando descubre su identidad, se pone inmediatamente en marcha para localizarlo. Lo encuentra en un chiringuito de la costa del norte de Italia. El reencuentro deja a Paolo abrumado y en conflicto. Tras la repentina aparición de Leo en su vida, lucha por equilibrar su relación con ella y con la familia que tiene ahora. Al principio, Leo solo quiere respuestas, pero pronto empieza a desear formar parte de la vida de Paolo.",
+  "trailer": "",
+  "runtime": "113",
+  "slug": "paternal-leave",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/oo16fkjnvstq",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "oo16fkjnvstq",
+      "player_url": "https://streamwish.to/e/oo16fkjnvstq"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/why6su4ml3ej",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "why6su4ml3ej",
+      "player_url": "https://vidhidepro.com/v/why6su4ml3ej"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/ysigyeyrfy2h",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ysigyeyrfy2h",
+      "player_url": "https://voe.sx/e/ysigyeyrfy2h"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/9kqvykktql94",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9kqvykktql94",
+      "player_url": "https://doodstream.com/e/9kqvykktql94"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/h3k53r65vv8p",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "h3k53r65vv8p",
+      "player_url": "https://streamwish.to/e/h3k53r65vv8p"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/iv785vgf6k7h",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "iv785vgf6k7h",
+      "player_url": "https://vidhidepro.com/v/iv785vgf6k7h"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/lixtiwzqslg1",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "lixtiwzqslg1",
+      "player_url": "https://voe.sx/e/lixtiwzqslg1"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/0wlehiy4f2p3",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0wlehiy4f2p3",
+      "player_url": "https://doodstream.com/e/0wlehiy4f2p3"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/ua0cflv3s09a",
+      "player_url": "https://minochinos.com/embed/ua0cflv3s09a",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ua0cflv3s09a"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/mpn6o2jnwvuu",
+      "player_url": "https://hglink.to/e/mpn6o2jnwvuu",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mpn6o2jnwvuu"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/v33oiwqucxt7",
+      "player_url": "https://bysedikamoum.com/e/v33oiwqucxt7",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v33oiwqucxt7"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/b8dak6idrpwr",
+      "player_url": "https://voe.sx/e/b8dak6idrpwr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b8dak6idrpwr"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/b8dak6idrpwr/download",
+      "player_url": "https://voe.sx/b8dak6idrpwr/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/flvxnr9hkj3m",
+      "player_url": "https://rapidvideo.link/e/flvxnr9hkj3m",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "flvxnr9hkj3m"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/w3fe2ihq5r3i",
+      "player_url": "https://minochinos.com/embed/w3fe2ihq5r3i",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "w3fe2ihq5r3i"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/1xt5izgpp2ra",
+      "player_url": "https://hglink.to/e/1xt5izgpp2ra",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1xt5izgpp2ra"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/uu0lwsnwtxyh",
+      "player_url": "https://bysedikamoum.com/e/uu0lwsnwtxyh",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "uu0lwsnwtxyh"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/bynjvgp0bspp",
+      "player_url": "https://voe.sx/e/bynjvgp0bspp",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bynjvgp0bspp"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/bynjvgp0bspp/download",
+      "player_url": "https://voe.sx/bynjvgp0bspp/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/smp9qywz0hf5",
+      "player_url": "https://rapidvideo.link/e/smp9qywz0hf5",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "smp9qywz0hf5"
+    }
+  ]
+}
