@@ -1,1 +1,216 @@
-{"id":1317887,"titulo":"El Abuelo y Kid","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/27y5QGbOligWKc04A9OLNbg8x5d.jpg","release_date":"2024-08-07","genres":["drama"],"rating":"7.7","backdrop":"https://image.tmdb.org/t/p/original/fzj8QCwi9zZBO7pi81bfbTa5fak.jpg","overview":"Un estafador se dedica a engañar a los ricos, acompañado del niño que crio. Pero su inseparable lazo podría romperse ante una oportunidad que le cambiaría la vida al pequeño.","trailer":"","runtime":"97","slug":"el-abuelo-y-kid","servidores":[{"id":1,"url":"https://streamwish.to/e/09mktfybtdon","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"09mktfybtdon","player_url":"https://streamwish.to/e/09mktfybtdon"},{"id":2,"url":"https://bysejikuar.com/e/au1gr2xgonyk","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"au1gr2xgonyk","player_url":"https://bysejikuar.com/e/au1gr2xgonyk"},{"id":3,"url":"https://vidhidepro.com/v/kk32og3yzm27","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"kk32og3yzm27","player_url":"https://vidhidepro.com/v/kk32og3yzm27"},{"id":4,"url":"https://voe.sx/e/nqb67i4uph4g","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"nqb67i4uph4g","player_url":"https://voe.sx/e/nqb67i4uph4g"},{"id":5,"url":"https://doodstream.com/e/ty3f1okw0m3k","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"ty3f1okw0m3k","player_url":"https://doodstream.com/e/ty3f1okw0m3k"},{"id":6,"url":"https://streamwish.to/e/jn9afrtumhky","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"jn9afrtumhky","player_url":"https://streamwish.to/e/jn9afrtumhky"},{"id":7,"url":"https://bysejikuar.com/e/jtp1lyy760k4","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"jtp1lyy760k4","player_url":"https://bysejikuar.com/e/jtp1lyy760k4"},{"id":8,"url":"https://vidhidepro.com/v/7qhrjp91fhzn","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"7qhrjp91fhzn","player_url":"https://vidhidepro.com/v/7qhrjp91fhzn"},{"id":9,"url":"https://voe.sx/e/sma9jsj8iiba","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"sma9jsj8iiba","player_url":"https://voe.sx/e/sma9jsj8iiba"},{"id":10,"url":"https://doodstream.com/e/n9666p8qrnq4","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"n9666p8qrnq4","player_url":"https://doodstream.com/e/n9666p8qrnq4"}]}
+{
+  "id": 1317887,
+  "titulo": "El Abuelo y Kid",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/27y5QGbOligWKc04A9OLNbg8x5d.jpg",
+  "release_date": "2024-08-07",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/fzj8QCwi9zZBO7pi81bfbTa5fak.jpg",
+  "overview": "Un estafador se dedica a engañar a los ricos, acompañado del niño que crio. Pero su inseparable lazo podría romperse ante una oportunidad que le cambiaría la vida al pequeño.",
+  "trailer": "",
+  "runtime": "97",
+  "slug": "el-abuelo-y-kid",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/09mktfybtdon",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "09mktfybtdon",
+      "player_url": "https://streamwish.to/e/09mktfybtdon"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/au1gr2xgonyk",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "au1gr2xgonyk",
+      "player_url": "https://bysejikuar.com/e/au1gr2xgonyk"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/kk32og3yzm27",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "kk32og3yzm27",
+      "player_url": "https://vidhidepro.com/v/kk32og3yzm27"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/nqb67i4uph4g",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "nqb67i4uph4g",
+      "player_url": "https://voe.sx/e/nqb67i4uph4g"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/ty3f1okw0m3k",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ty3f1okw0m3k",
+      "player_url": "https://doodstream.com/e/ty3f1okw0m3k"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/jn9afrtumhky",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "jn9afrtumhky",
+      "player_url": "https://streamwish.to/e/jn9afrtumhky"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/jtp1lyy760k4",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "jtp1lyy760k4",
+      "player_url": "https://bysejikuar.com/e/jtp1lyy760k4"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/7qhrjp91fhzn",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "7qhrjp91fhzn",
+      "player_url": "https://vidhidepro.com/v/7qhrjp91fhzn"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/sma9jsj8iiba",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "sma9jsj8iiba",
+      "player_url": "https://voe.sx/e/sma9jsj8iiba"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/n9666p8qrnq4",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "n9666p8qrnq4",
+      "player_url": "https://doodstream.com/e/n9666p8qrnq4"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/klqm1apvgsz4",
+      "player_url": "https://minochinos.com/embed/klqm1apvgsz4",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "klqm1apvgsz4"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/dtc8f5uibqet",
+      "player_url": "https://hglink.to/e/dtc8f5uibqet",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dtc8f5uibqet"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/dn3hmg1qs4p0",
+      "player_url": "https://bysedikamoum.com/e/dn3hmg1qs4p0",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dn3hmg1qs4p0"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/a1cr2sxwgmjl",
+      "player_url": "https://voe.sx/e/a1cr2sxwgmjl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a1cr2sxwgmjl"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/a1cr2sxwgmjl/download",
+      "player_url": "https://voe.sx/a1cr2sxwgmjl/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/g0qr6dxe9yct",
+      "player_url": "https://rapidvideo.link/e/g0qr6dxe9yct",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g0qr6dxe9yct"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/t3a4ip2neegb",
+      "player_url": "https://minochinos.com/embed/t3a4ip2neegb",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "t3a4ip2neegb"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/n419bfv328bl",
+      "player_url": "https://hglink.to/e/n419bfv328bl",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "n419bfv328bl"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/s0e9l7kaee26",
+      "player_url": "https://bysedikamoum.com/e/s0e9l7kaee26",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "s0e9l7kaee26"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/gfqyfqyybrpy",
+      "player_url": "https://voe.sx/e/gfqyfqyybrpy",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gfqyfqyybrpy"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/gfqyfqyybrpy/download",
+      "player_url": "https://voe.sx/gfqyfqyybrpy/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/pdhv18ntlzmq",
+      "player_url": "https://rapidvideo.link/e/pdhv18ntlzmq",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pdhv18ntlzmq"
+    }
+  ]
+}
