@@ -14,7 +14,17 @@
   "slug": "catalina-la-grande",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfab31d62a6b7c78fb507e0ba6292a1f9c3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfab31d62a6b7c78fb507e0ba6292a1f9c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfab31d62a6b7c78fb507e0ba6292a1f9c3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
