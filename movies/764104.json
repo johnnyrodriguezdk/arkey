@@ -1,1 +1,235 @@
-{"id":764104,"titulo":"Sorpresa en Navidad","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/v8zNSSglVJ9c8BpOLmUghuPCtP2.jpg","release_date":"2020-11-13","genres":["romance","drama"],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/k7rxfxdroEsfzHx3P3ADYx2xm6I.jpg","overview":"Hayley planea pasar la Navidad con la nueva familia de su hermana, pero el festejo se complica cuando el hombre que la llevó a separarse de su ex llega inesperadamente.","trailer":"","runtime":"99","slug":"sorpresa-en-navidad","servidores":[{"id":1,"url":"https://streamwish.to/e/in06xrochdkg","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"in06xrochdkg","player_url":"https://streamwish.to/e/in06xrochdkg"},{"id":2,"url":"https://vidhidepro.com/v/avkacg0etz2h","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"avkacg0etz2h","player_url":"https://vidhidepro.com/v/avkacg0etz2h"},{"id":3,"url":"https://voe.sx/e/1clbrfqhdlo9","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"1clbrfqhdlo9","player_url":"https://voe.sx/e/1clbrfqhdlo9"},{"id":4,"url":"https://doodstream.com/e/2zdtio18xhp6","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"2zdtio18xhp6","player_url":"https://doodstream.com/e/2zdtio18xhp6"},{"id":5,"url":"https://streamwish.to/e/l6rcja8ijgzw","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"l6rcja8ijgzw","player_url":"https://streamwish.to/e/l6rcja8ijgzw"},{"id":6,"url":"https://vidhidepro.com/v/94wg6wfzf640","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"94wg6wfzf640","player_url":"https://vidhidepro.com/v/94wg6wfzf640"},{"id":7,"url":"https://voe.sx/e/vlnjcs0jlymi","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"vlnjcs0jlymi","player_url":"https://voe.sx/e/vlnjcs0jlymi"},{"id":8,"url":"https://doodstream.com/e/m54cogy44wdf","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"m54cogy44wdf","player_url":"https://doodstream.com/e/m54cogy44wdf"},{"id":9,"url":"https://streamwish.to/e/l3qc5rpk0yl4","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"l3qc5rpk0yl4","player_url":"https://streamwish.to/e/l3qc5rpk0yl4"},{"id":10,"url":"https://vidhidepro.com/v/5ukdzf0ll4q6","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"5ukdzf0ll4q6","player_url":"https://vidhidepro.com/v/5ukdzf0ll4q6"},{"id":11,"url":"https://voe.sx/e/afhtauemrjeu","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"afhtauemrjeu","player_url":"https://voe.sx/e/afhtauemrjeu"},{"id":12,"url":"https://doodstream.com/e/90lx3km811uv","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"90lx3km811uv","player_url":"https://doodstream.com/e/90lx3km811uv"}]}
+{
+  "id": 764104,
+  "titulo": "Sorpresa en Navidad",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/v8zNSSglVJ9c8BpOLmUghuPCtP2.jpg",
+  "release_date": "2020-11-13",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/k7rxfxdroEsfzHx3P3ADYx2xm6I.jpg",
+  "overview": "Hayley acepta una invitación para pasar la Navidad con la nueva familia de su hermana. Todo parece perfecto, pero llega Paul, el hermano del cuñado. Hayley le guarda rencor por haber terminado su última relación. A regañadientes, pasa tiempo con él y se da cuenta de que quizá lo juzgó muy rápido.",
+  "trailer": "",
+  "runtime": "99",
+  "slug": "sorpresa-en-navidad",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/in06xrochdkg",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "in06xrochdkg",
+      "player_url": "https://streamwish.to/e/in06xrochdkg"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/avkacg0etz2h",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "avkacg0etz2h",
+      "player_url": "https://vidhidepro.com/v/avkacg0etz2h"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/1clbrfqhdlo9",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "1clbrfqhdlo9",
+      "player_url": "https://voe.sx/e/1clbrfqhdlo9"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/2zdtio18xhp6",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "2zdtio18xhp6",
+      "player_url": "https://doodstream.com/e/2zdtio18xhp6"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/l6rcja8ijgzw",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "l6rcja8ijgzw",
+      "player_url": "https://streamwish.to/e/l6rcja8ijgzw"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/94wg6wfzf640",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "94wg6wfzf640",
+      "player_url": "https://vidhidepro.com/v/94wg6wfzf640"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/vlnjcs0jlymi",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vlnjcs0jlymi",
+      "player_url": "https://voe.sx/e/vlnjcs0jlymi"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/m54cogy44wdf",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "m54cogy44wdf",
+      "player_url": "https://doodstream.com/e/m54cogy44wdf"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/l3qc5rpk0yl4",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "l3qc5rpk0yl4",
+      "player_url": "https://streamwish.to/e/l3qc5rpk0yl4"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/5ukdzf0ll4q6",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5ukdzf0ll4q6",
+      "player_url": "https://vidhidepro.com/v/5ukdzf0ll4q6"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/afhtauemrjeu",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "afhtauemrjeu",
+      "player_url": "https://voe.sx/e/afhtauemrjeu"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/90lx3km811uv",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "90lx3km811uv",
+      "player_url": "https://doodstream.com/e/90lx3km811uv"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/32zsufkm6g84",
+      "player_url": "https://minochinos.com/embed/32zsufkm6g84",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "32zsufkm6g84"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/ajy3ix67d9hy",
+      "player_url": "https://hglink.to/e/ajy3ix67d9hy",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ajy3ix67d9hy"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/94awia2cpt91",
+      "player_url": "https://bysedikamoum.com/e/94awia2cpt91",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "94awia2cpt91"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/kogbhyyzpvbx",
+      "player_url": "https://voe.sx/e/kogbhyyzpvbx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kogbhyyzpvbx"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/kogbhyyzpvbx/download",
+      "player_url": "https://voe.sx/kogbhyyzpvbx/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/elbh05mg2rut",
+      "player_url": "https://rapidvideo.link/e/elbh05mg2rut",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "elbh05mg2rut"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/d0sm213qv1c8",
+      "player_url": "https://minochinos.com/embed/d0sm213qv1c8",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "d0sm213qv1c8"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/bhstfwxq711o",
+      "player_url": "https://hglink.to/e/bhstfwxq711o",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bhstfwxq711o"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/2dalktrsn6n9",
+      "player_url": "https://bysedikamoum.com/e/2dalktrsn6n9",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2dalktrsn6n9"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/ssg8bjsdkiyb",
+      "player_url": "https://voe.sx/e/ssg8bjsdkiyb",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ssg8bjsdkiyb"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/ssg8bjsdkiyb/download",
+      "player_url": "https://voe.sx/ssg8bjsdkiyb/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/3szwpgeq2ohk",
+      "player_url": "https://rapidvideo.link/e/3szwpgeq2ohk",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3szwpgeq2ohk"
+    }
+  ]
+}
