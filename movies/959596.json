@@ -1,1 +1,243 @@
-{"id":959596,"titulo":"El dosier Maldoror","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/nscnLW6csnYLedioaFFnoNDA6dH.jpg","release_date":"2024-09-08","genres":["drama"],"rating":"6.4","backdrop":"https://image.tmdb.org/t/p/original/5N3w3cC5d8fDMLuuDMn8io4StUE.jpg","overview":"Cuando dos chicas desaparecen, Paul Chartier, un joven e impulsivo policía, es destinado a 'Maldoror'. Esta unidad secreta se ha creado para vigilar a un peligroso delincuente sexual. Cuando la operación fracasa, harto de los límites del sistema judicial, Chartier se embarca en una cacería en solitario.","trailer":"","runtime":"155","slug":"el-dosier-maldoror","servidores":[{"id":1,"url":"https://streamwish.to/e/rgej78njnxy7","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"rgej78njnxy7","player_url":"https://streamwish.to/e/rgej78njnxy7"},{"id":2,"url":"https://vidhidepro.com/v/y1gnwecm6l4d","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"y1gnwecm6l4d","player_url":"https://vidhidepro.com/v/y1gnwecm6l4d"},{"id":3,"url":"https://voe.sx/e/imhtbyn7ddwd","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"imhtbyn7ddwd","player_url":"https://voe.sx/e/imhtbyn7ddwd"},{"id":4,"url":"https://doodstream.com/e/xnxv5scmxw0y","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"xnxv5scmxw0y","player_url":"https://doodstream.com/e/xnxv5scmxw0y"},{"id":5,"url":"https://streamwish.to/e/n4khazgg8cbk","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"n4khazgg8cbk","player_url":"https://streamwish.to/e/n4khazgg8cbk"},{"id":6,"url":"https://vidhidepro.com/v/rf5ruobucikb","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"rf5ruobucikb","player_url":"https://vidhidepro.com/v/rf5ruobucikb"},{"id":7,"url":"https://voe.sx/e/6ubvugrhm0tc","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"6ubvugrhm0tc","player_url":"https://voe.sx/e/6ubvugrhm0tc"},{"id":8,"url":"https://doodstream.com/e/58q6jlrqgfau","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"58q6jlrqgfau","player_url":"https://doodstream.com/e/58q6jlrqgfau"}]}
+{
+  "id": 959596,
+  "titulo": "El dosier Maldoror",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/nscnLW6csnYLedioaFFnoNDA6dH.jpg",
+  "release_date": "2024-09-08",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/5N3w3cC5d8fDMLuuDMn8io4StUE.jpg",
+  "overview": "Cuando dos chicas desaparecen, Paul Chartier, un joven e impulsivo policía, es destinado a 'Maldoror'. Esta unidad secreta se ha creado para vigilar a un peligroso delincuente sexual. Cuando la operación fracasa, harto de los límites del sistema judicial, Chartier se embarca en una cacería en solitario.",
+  "trailer": "",
+  "runtime": "155",
+  "slug": "el-dosier-maldoror",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/rgej78njnxy7",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "rgej78njnxy7",
+      "player_url": "https://streamwish.to/e/rgej78njnxy7"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/y1gnwecm6l4d",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "y1gnwecm6l4d",
+      "player_url": "https://vidhidepro.com/v/y1gnwecm6l4d"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/imhtbyn7ddwd",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "imhtbyn7ddwd",
+      "player_url": "https://voe.sx/e/imhtbyn7ddwd"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/xnxv5scmxw0y",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "xnxv5scmxw0y",
+      "player_url": "https://doodstream.com/e/xnxv5scmxw0y"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/n4khazgg8cbk",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "n4khazgg8cbk",
+      "player_url": "https://streamwish.to/e/n4khazgg8cbk"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/rf5ruobucikb",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rf5ruobucikb",
+      "player_url": "https://vidhidepro.com/v/rf5ruobucikb"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/6ubvugrhm0tc",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "6ubvugrhm0tc",
+      "player_url": "https://voe.sx/e/6ubvugrhm0tc"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/58q6jlrqgfau",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "58q6jlrqgfau",
+      "player_url": "https://doodstream.com/e/58q6jlrqgfau"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/aux74wmp08yj",
+      "player_url": "https://minochinos.com/embed/aux74wmp08yj",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aux74wmp08yj"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/20g8ker7sbor",
+      "player_url": "https://hglink.to/e/20g8ker7sbor",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "20g8ker7sbor"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/bddpudcs9msm",
+      "player_url": "https://bysedikamoum.com/e/bddpudcs9msm",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bddpudcs9msm"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/8igj5lcpgdri",
+      "player_url": "https://voe.sx/e/8igj5lcpgdri",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8igj5lcpgdri"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/8igj5lcpgdri/download",
+      "player_url": "https://voe.sx/8igj5lcpgdri/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/0fo9g78ebp62",
+      "player_url": "https://rapidvideo.link/e/0fo9g78ebp62",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0fo9g78ebp62"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/59ydfzqro8qr",
+      "player_url": "https://minochinos.com/embed/59ydfzqro8qr",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "59ydfzqro8qr"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/appps89nwlwu",
+      "player_url": "https://hglink.to/e/appps89nwlwu",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "appps89nwlwu"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/1v5i9i94qmzx",
+      "player_url": "https://bysedikamoum.com/e/1v5i9i94qmzx",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1v5i9i94qmzx"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/expu5zjxu5eo",
+      "player_url": "https://voe.sx/e/expu5zjxu5eo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "expu5zjxu5eo"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/vylx97p4i0jo",
+      "player_url": "https://rapidvideo.link/e/vylx97p4i0jo",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vylx97p4i0jo"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/92utk487qeji",
+      "player_url": "https://minochinos.com/embed/92utk487qeji",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "92utk487qeji"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/3flxwf0j4uh6",
+      "player_url": "https://hglink.to/e/3flxwf0j4uh6",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3flxwf0j4uh6"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/s9viohgzsib3",
+      "player_url": "https://bysedikamoum.com/e/s9viohgzsib3",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "s9viohgzsib3"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/ayhhuo6jmnck",
+      "player_url": "https://voe.sx/e/ayhhuo6jmnck",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ayhhuo6jmnck"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/ayhhuo6jmnck/download",
+      "player_url": "https://voe.sx/ayhhuo6jmnck/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/te175nxkpvof",
+      "player_url": "https://rapidvideo.link/e/te175nxkpvof",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "te175nxkpvof"
+    }
+  ]
+}
