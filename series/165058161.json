@@ -14,7 +14,17 @@
   "slug": "the-cafe-terrace-and-its-goddesses",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf472b26d13cb36dad60222a0c22d0cd063a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf472b26d13cb36dad60222a0c22d0cd063a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf472b26d13cb36dad60222a0c22d0cd063a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
