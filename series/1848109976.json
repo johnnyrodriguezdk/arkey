@@ -14,7 +14,17 @@
   "slug": "la-reina-de-las-lagrimas",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf1fe365913d84c09a5663e777c92d933b3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf1fe365913d84c09a5663e777c92d933b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1fe365913d84c09a5663e777c92d933b3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
