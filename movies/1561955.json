@@ -1,1 +1,198 @@
-{"id":1561955,"titulo":"Stephen","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg","release_date":"2025-12-05","genres":[],"rating":"6.6","backdrop":"https://image.tmdb.org/t/p/original/7cQjb8cRbRjF5tM5gOCnqsvC0iT.jpg","overview":"Una psiquiatra investiga a un asesino en serie confeso tras la desaparición de nueve niñas, pero termina cuestionándose si es culpable o víctima de un oscuro juego.","trailer":"","runtime":"124","slug":"stephen","servidores":[{"id":1,"url":"https://streamwish.to/e/7notcdkvnsrh","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"7notcdkvnsrh","player_url":"https://streamwish.to/e/7notcdkvnsrh"},{"id":2,"url":"https://vidhidepro.com/v/3cq2dhoas2ns","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"3cq2dhoas2ns","player_url":"https://vidhidepro.com/v/3cq2dhoas2ns"},{"id":3,"url":"https://voe.sx/e/siga53d3qjbe","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"siga53d3qjbe","player_url":"https://voe.sx/e/siga53d3qjbe"},{"id":4,"url":"https://doodstream.com/e/6lcha6ui2x2x","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"6lcha6ui2x2x","player_url":"https://doodstream.com/e/6lcha6ui2x2x"},{"id":5,"url":"https://streamwish.to/e/hmu6ibffqfru","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hmu6ibffqfru","player_url":"https://streamwish.to/e/hmu6ibffqfru"},{"id":6,"url":"https://vidhidepro.com/v/0e9meo6swxma","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"0e9meo6swxma","player_url":"https://vidhidepro.com/v/0e9meo6swxma"},{"id":7,"url":"https://voe.sx/e/903ltacsw3vq","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"903ltacsw3vq","player_url":"https://voe.sx/e/903ltacsw3vq"},{"id":8,"url":"https://doodstream.com/e/5x1l00q1ab5k","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"5x1l00q1ab5k","player_url":"https://doodstream.com/e/5x1l00q1ab5k"}]}
+{
+  "id": 1561955,
+  "titulo": "Stephen",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg",
+  "release_date": "2025-12-05",
+  "genres": [
+    "Suspense"
+  ],
+  "rating": "6.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/7cQjb8cRbRjF5tM5gOCnqsvC0iT.jpg",
+  "overview": "Un psiquiatra entrevista a un asesino serial que ya confesó todo. Pero al revisar su pasado, descubre mentiras, traumas y manipulaciones. Entonces se pregunta: el tipo es realmente culpable o solo una víctima más de algo más retorcido",
+  "trailer": "",
+  "runtime": "124",
+  "slug": "stephen",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/7notcdkvnsrh",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7notcdkvnsrh",
+      "player_url": "https://streamwish.to/e/7notcdkvnsrh"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/3cq2dhoas2ns",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3cq2dhoas2ns",
+      "player_url": "https://vidhidepro.com/v/3cq2dhoas2ns"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/siga53d3qjbe",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "siga53d3qjbe",
+      "player_url": "https://voe.sx/e/siga53d3qjbe"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/6lcha6ui2x2x",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "6lcha6ui2x2x",
+      "player_url": "https://doodstream.com/e/6lcha6ui2x2x"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/hmu6ibffqfru",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hmu6ibffqfru",
+      "player_url": "https://streamwish.to/e/hmu6ibffqfru"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/0e9meo6swxma",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0e9meo6swxma",
+      "player_url": "https://vidhidepro.com/v/0e9meo6swxma"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/903ltacsw3vq",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "903ltacsw3vq",
+      "player_url": "https://voe.sx/e/903ltacsw3vq"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/5x1l00q1ab5k",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "5x1l00q1ab5k",
+      "player_url": "https://doodstream.com/e/5x1l00q1ab5k"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/maal37mrm9hu",
+      "player_url": "https://minochinos.com/embed/maal37mrm9hu",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "maal37mrm9hu"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/cc3ma1geqbcb",
+      "player_url": "https://hglink.to/e/cc3ma1geqbcb",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cc3ma1geqbcb"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/e1vtbiu1v4cf",
+      "player_url": "https://bysedikamoum.com/e/e1vtbiu1v4cf",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e1vtbiu1v4cf"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/dddjn2zf1igj",
+      "player_url": "https://voe.sx/e/dddjn2zf1igj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dddjn2zf1igj"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/dddjn2zf1igj/download",
+      "player_url": "https://voe.sx/dddjn2zf1igj/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/uweqj394z1bt",
+      "player_url": "https://rapidvideo.link/e/uweqj394z1bt",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uweqj394z1bt"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/gzjp8tktvwco",
+      "player_url": "https://minochinos.com/embed/gzjp8tktvwco",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gzjp8tktvwco"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/355s47ofu3c1",
+      "player_url": "https://hglink.to/e/355s47ofu3c1",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "355s47ofu3c1"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/7c2v80fo4tkv",
+      "player_url": "https://bysedikamoum.com/e/7c2v80fo4tkv",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7c2v80fo4tkv"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/9a1wwttgu1ij",
+      "player_url": "https://voe.sx/e/9a1wwttgu1ij",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9a1wwttgu1ij"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/9a1wwttgu1ij/download",
+      "player_url": "https://voe.sx/9a1wwttgu1ij/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/qkfh7yi2opnv",
+      "player_url": "https://rapidvideo.link/e/qkfh7yi2opnv",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qkfh7yi2opnv"
+    }
+  ]
+}
