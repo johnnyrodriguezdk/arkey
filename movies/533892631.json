@@ -1,1 +1,38 @@
-{"id":533892631,"titulo":"Normal","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w342//nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg","release_date":"2026-01-01","genres":[],"rating":"","backdrop":"https://cuevana.gs/kHdFlyJEHZq2vJDGDW5crp3d9Jv.jpg","overview":"","trailer":"","runtime":"","slug":"","servidores":[{"id":1,"url":"https://vimeos.net/embed-iqac2g1sbc0g.html","idioma":"Latino","nombre":"Vimeos Recomendado","calidad":"HD","embed_id":"embed-iqac2g1sbc0g.html","player_url":"https://vimeos.net/embed-iqac2g1sbc0g.html"}]}
+{
+  "id": 533892631,
+  "titulo": "Normal",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w342//nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "crimen",
+    "suspenso"
+  ],
+  "rating": "",
+  "backdrop": "https://cuevana.gs/kHdFlyJEHZq2vJDGDW5crp3d9Jv.jpg",
+  "overview": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco",
+  "trailer": "",
+  "runtime": "",
+  "slug": "",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://vimeos.net/embed-iqac2g1sbc0g.html",
+      "idioma": "Latino",
+      "nombre": "Vimeos Recomendado",
+      "calidad": "HD",
+      "embed_id": "embed-iqac2g1sbc0g.html",
+      "player_url": "https://vimeos.net/embed-iqac2g1sbc0g.html"
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/0393bdb1c968572b/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/0393bdb1c968572b/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0393bdb1c968572b"
+    }
+  ]
+}
