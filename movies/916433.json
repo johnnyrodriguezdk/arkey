@@ -1,1 +1,191 @@
-{"id":916433,"titulo":"Brooklyn 45","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/dN8IIAvzIW3XX8aOvA9aQubK4hd.jpg","release_date":"2023-03-12","genres":[],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/frs3Xvh6T0wQhtbrvCKyfIJ50Kl.jpg","overview":"Cinco veteranos militares, mejores amigos desde la infancia, se reúnen para apoyar a su problemático anfitrión y los fantasmas metafóricos de su pasado se vuelven demasiado literales.","trailer":"","runtime":"93","slug":"brooklyn-45","servidores":[{"id":1,"url":"https://streamwish.to/e/vg2a9hu71y8e","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"vg2a9hu71y8e","player_url":"https://streamwish.to/e/vg2a9hu71y8e"},{"id":2,"url":"https://vidhidepro.com/v/qkjku44wxgd1","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"qkjku44wxgd1","player_url":"https://vidhidepro.com/v/qkjku44wxgd1"},{"id":3,"url":"https://doodstream.com/e/s2brgm3y7hu1","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"s2brgm3y7hu1","player_url":"https://doodstream.com/e/s2brgm3y7hu1"},{"id":4,"url":"https://streamwish.to/e/svqdixz173ub","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"svqdixz173ub","player_url":"https://streamwish.to/e/svqdixz173ub"},{"id":5,"url":"https://vidhidepro.com/v/wwin353i7488","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"wwin353i7488","player_url":"https://vidhidepro.com/v/wwin353i7488"},{"id":6,"url":"https://voe.sx/e/fuypnloilktz","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"fuypnloilktz","player_url":"https://voe.sx/e/fuypnloilktz"},{"id":7,"url":"https://doodstream.com/e/urf4hfrcmub1","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"urf4hfrcmub1","player_url":"https://doodstream.com/e/urf4hfrcmub1"}]}
+{
+  "id": 916433,
+  "titulo": "Brooklyn 45",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/dN8IIAvzIW3XX8aOvA9aQubK4hd.jpg",
+  "release_date": "2023-03-12",
+  "genres": [
+    "Terror",
+    "Suspense",
+    "Historia"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/frs3Xvh6T0wQhtbrvCKyfIJ50Kl.jpg",
+  "overview": "Cinco veteranos militares, mejores amigos desde la infancia, se reúnen para apoyar a su problemático anfitrión y los fantasmas metafóricos de su pasado se vuelven demasiado literales.",
+  "trailer": "",
+  "runtime": "93",
+  "slug": "brooklyn-45",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/vg2a9hu71y8e",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vg2a9hu71y8e",
+      "player_url": "https://streamwish.to/e/vg2a9hu71y8e"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/qkjku44wxgd1",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "qkjku44wxgd1",
+      "player_url": "https://vidhidepro.com/v/qkjku44wxgd1"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/s2brgm3y7hu1",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "s2brgm3y7hu1",
+      "player_url": "https://doodstream.com/e/s2brgm3y7hu1"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/svqdixz173ub",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "svqdixz173ub",
+      "player_url": "https://streamwish.to/e/svqdixz173ub"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/wwin353i7488",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "wwin353i7488",
+      "player_url": "https://vidhidepro.com/v/wwin353i7488"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/fuypnloilktz",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "fuypnloilktz",
+      "player_url": "https://voe.sx/e/fuypnloilktz"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/urf4hfrcmub1",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "urf4hfrcmub1",
+      "player_url": "https://doodstream.com/e/urf4hfrcmub1"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/w4spgw8ob7zu",
+      "player_url": "https://minochinos.com/embed/w4spgw8ob7zu",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w4spgw8ob7zu"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/ar20f0uvhhf9",
+      "player_url": "https://hglink.to/e/ar20f0uvhhf9",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ar20f0uvhhf9"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/p7bb63g6dvkz",
+      "player_url": "https://bysedikamoum.com/e/p7bb63g6dvkz",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p7bb63g6dvkz"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/xwoyk0vyaptx",
+      "player_url": "https://voe.sx/e/xwoyk0vyaptx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xwoyk0vyaptx"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/xwoyk0vyaptx/download",
+      "player_url": "https://voe.sx/xwoyk0vyaptx/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/kt7j8n096iwv",
+      "player_url": "https://rapidvideo.link/e/kt7j8n096iwv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kt7j8n096iwv"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/l6hrbazgpze0",
+      "player_url": "https://minochinos.com/embed/l6hrbazgpze0",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l6hrbazgpze0"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/88ek4lkxm6s9",
+      "player_url": "https://hglink.to/e/88ek4lkxm6s9",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "88ek4lkxm6s9"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/w4dvqkssv6j7",
+      "player_url": "https://bysedikamoum.com/e/w4dvqkssv6j7",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "w4dvqkssv6j7"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/swn2ksysaoqr",
+      "player_url": "https://voe.sx/e/swn2ksysaoqr",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "swn2ksysaoqr"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/swn2ksysaoqr/download",
+      "player_url": "https://voe.sx/swn2ksysaoqr/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/orjwghsndexq",
+      "player_url": "https://rapidvideo.link/e/orjwghsndexq",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "orjwghsndexq"
+    }
+  ]
+}
