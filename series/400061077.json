@@ -16,7 +16,17 @@
   "slug": "dr-slump",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf87aa8457ca4cfb369676d308452c47883a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf87aa8457ca4cfb369676d308452c47883a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf87aa8457ca4cfb369676d308452c47883a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
