@@ -15,7 +15,17 @@
   "slug": "al-borde-de-la-tierra",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf856831e74a7c18701323aff0e3dc9bfe3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf856831e74a7c18701323aff0e3dc9bfe3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf856831e74a7c18701323aff0e3dc9bfe3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
