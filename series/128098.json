@@ -1,1 +1,26 @@
-{"id":128098,"titulo":"Entrevista con el vampiro","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/4R5VmjqGZdzUnEWZquQUAavfzEt.jpg","release_date":"2022-10-02","genres":["drama"],"rating":"7.4","backdrop":"https://image.tmdb.org/t/p/original/dp1XYfSZDEPH3vL9xoBi9fp2a4F.jpg","overview":"La épica historia de amor, sangre y los peligros de la inmortalidad de Louis de Pointe, contada al periodista Daniel Molloy. Irritado por las limitaciones de la vida como un hombre negro en la Nueva Orleans de 1900, a Louis le resulta imposible resistirse a la oferta del libertino Lestat De Lioncourt del último escape: unirse a él como su compañero vampiro.","trailer":"","slug":"interview-with-the-vampire"}
+{
+  "id": 128098,
+  "titulo": "Entrevista con el vampiro",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/4R5VmjqGZdzUnEWZquQUAavfzEt.jpg",
+  "release_date": "2022-10-02",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/dp1XYfSZDEPH3vL9xoBi9fp2a4F.jpg",
+  "overview": "La épica historia de amor, sangre y los peligros de la inmortalidad de Louis de Pointe, contada al periodista Daniel Molloy. Irritado por las limitaciones de la vida como un hombre negro en la Nueva Orleans de 1900, a Louis le resulta imposible resistirse a la oferta del libertino Lestat De Lioncourt del último escape: unirse a él como su compañero vampiro.",
+  "trailer": "",
+  "slug": "interview-with-the-vampire",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf7d147f207905895a23e8ab536320d37b3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf7d147f207905895a23e8ab536320d37b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf7d147f207905895a23e8ab536320d37b3a"
+    }
+  ]
+}
