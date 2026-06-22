@@ -15,7 +15,17 @@
   "slug": "bienvenidos-al-chippendale",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf71d0d06004d8f0eed03d883f09ee58333a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf71d0d06004d8f0eed03d883f09ee58333a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf71d0d06004d8f0eed03d883f09ee58333a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
