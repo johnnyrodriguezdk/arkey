@@ -1,0 +1,53 @@
+{
+  "id": 453270384,
+  "titulo": "Te encontraré",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/3c1e3c5426a0342042544b2bd3899571.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "crimen",
+    "drama",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Estaba en prisión por la falsa acusación de haber matado a su propio hijo, pero cuando se entera de que podría estar vivo, un padre se lanza en una peligros",
+  "slug": "te-encontrare",
+  "iframe_url": "https://lacloud.live/hf4e73ff420bb99b09b77b01b36db9a82b3a",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf4e73ff420bb99b09b77b01b36db9a82b3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf4e73ff420bb99b09b77b01b36db9a82b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf4e73ff420bb99b09b77b01b36db9a82b3a"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/te-encontrare?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://lacloud.live/public/stream/hf4e73ff420bb99b09b77b01b36db9a82b3a/master.m3u8",
+          "player_url": "https://lacloud.live/public/stream/hf4e73ff420bb99b09b77b01b36db9a82b3a/master.m3u8",
+          "nombre": "LaCloud",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "hf4e73ff420bb99b09b77b01b36db9a82b3a"
+        }
+      ]
+    }
+  ]
+}
