@@ -1,1 +1,198 @@
-{"id":861451,"titulo":"Martin","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/pR9lteeaGYYlH7kWtH2J8MIzpKF.jpg","release_date":"2024-10-11","genres":["drama"],"rating":"4.7","backdrop":"https://image.tmdb.org/t/p/original/42xAe6kVeTjml9Tww6vRoWa5tay.jpg","overview":"El viaje de un hombre que se descubre a sí mismo, encuentra el amor y lucha por su patria.","trailer":"","runtime":"147","slug":"martin","servidores":[{"id":1,"url":"https://streamwish.to/e/gv4pnudh603m","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"gv4pnudh603m","player_url":"https://streamwish.to/e/gv4pnudh603m"},{"id":2,"url":"https://vidhidepro.com/v/dgknqx628uu6","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"dgknqx628uu6","player_url":"https://vidhidepro.com/v/dgknqx628uu6"},{"id":3,"url":"https://voe.sx/e/36tc4fxcmfih","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"36tc4fxcmfih","player_url":"https://voe.sx/e/36tc4fxcmfih"},{"id":4,"url":"https://doodstream.com/e/otl24st3mppl","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"otl24st3mppl","player_url":"https://doodstream.com/e/otl24st3mppl"},{"id":5,"url":"https://streamwish.to/e/gjyyhnya25ll","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"gjyyhnya25ll","player_url":"https://streamwish.to/e/gjyyhnya25ll"},{"id":6,"url":"https://vidhidepro.com/v/xuk5znduguyg","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"xuk5znduguyg","player_url":"https://vidhidepro.com/v/xuk5znduguyg"},{"id":7,"url":"https://voe.sx/e/g0scwwcibdmu","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"g0scwwcibdmu","player_url":"https://voe.sx/e/g0scwwcibdmu"},{"id":8,"url":"https://doodstream.com/e/d21bbwt69ptr","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"d21bbwt69ptr","player_url":"https://doodstream.com/e/d21bbwt69ptr"}]}
+{
+  "id": 861451,
+  "titulo": "Martin",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/pR9lteeaGYYlH7kWtH2J8MIzpKF.jpg",
+  "release_date": "2024-10-11",
+  "genres": [
+    "drama"
+  ],
+  "rating": "4.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/42xAe6kVeTjml9Tww6vRoWa5tay.jpg",
+  "overview": "Martin sigue al teniente brigadier Arjun Saxena. Viaja de Pakistán a India para descubrir quién es en realidad. Se enfrenta a traficantes del mercado negro, que trabajan con terroristas para planear ataques grandes en el país.",
+  "trailer": "",
+  "runtime": "147",
+  "slug": "martin",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/gv4pnudh603m",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "gv4pnudh603m",
+      "player_url": "https://streamwish.to/e/gv4pnudh603m"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/dgknqx628uu6",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "dgknqx628uu6",
+      "player_url": "https://vidhidepro.com/v/dgknqx628uu6"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/36tc4fxcmfih",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "36tc4fxcmfih",
+      "player_url": "https://voe.sx/e/36tc4fxcmfih"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/otl24st3mppl",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "otl24st3mppl",
+      "player_url": "https://doodstream.com/e/otl24st3mppl"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/gjyyhnya25ll",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "gjyyhnya25ll",
+      "player_url": "https://streamwish.to/e/gjyyhnya25ll"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/xuk5znduguyg",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xuk5znduguyg",
+      "player_url": "https://vidhidepro.com/v/xuk5znduguyg"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/g0scwwcibdmu",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "g0scwwcibdmu",
+      "player_url": "https://voe.sx/e/g0scwwcibdmu"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/d21bbwt69ptr",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "d21bbwt69ptr",
+      "player_url": "https://doodstream.com/e/d21bbwt69ptr"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/zkt8w6a3ugzp",
+      "player_url": "https://minochinos.com/embed/zkt8w6a3ugzp",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zkt8w6a3ugzp"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/fml8ts6pbxv3",
+      "player_url": "https://hglink.to/e/fml8ts6pbxv3",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fml8ts6pbxv3"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/qsjapkiggm5z",
+      "player_url": "https://bysedikamoum.com/e/qsjapkiggm5z",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qsjapkiggm5z"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/au3yrydhbwbl",
+      "player_url": "https://voe.sx/e/au3yrydhbwbl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "au3yrydhbwbl"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/au3yrydhbwbl/download",
+      "player_url": "https://voe.sx/au3yrydhbwbl/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/rgj4le3coyfq",
+      "player_url": "https://rapidvideo.link/e/rgj4le3coyfq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rgj4le3coyfq"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/yp9dnq1tsao9",
+      "player_url": "https://minochinos.com/embed/yp9dnq1tsao9",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "yp9dnq1tsao9"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/1kj0ohp7bmdo",
+      "player_url": "https://hglink.to/e/1kj0ohp7bmdo",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1kj0ohp7bmdo"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/b8m8l0a7lzdt",
+      "player_url": "https://bysedikamoum.com/e/b8m8l0a7lzdt",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "b8m8l0a7lzdt"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/0yc2pybkpldq",
+      "player_url": "https://voe.sx/e/0yc2pybkpldq",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0yc2pybkpldq"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/0yc2pybkpldq/download",
+      "player_url": "https://voe.sx/0yc2pybkpldq/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/kcixw35yo42p",
+      "player_url": "https://rapidvideo.link/e/kcixw35yo42p",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kcixw35yo42p"
+    }
+  ]
+}
