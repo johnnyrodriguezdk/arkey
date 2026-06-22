@@ -13,7 +13,17 @@
   "slug": "tona-gura",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf3543885aa71a16e7df191c05ff4a5ab73a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf3543885aa71a16e7df191c05ff4a5ab73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3543885aa71a16e7df191c05ff4a5ab73a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
