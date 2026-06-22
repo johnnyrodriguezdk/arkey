@@ -1,1 +1,270 @@
-{"id":913001,"titulo":"El imaginario","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/mZlUUidADxGIJx0J7jevy1RvO1c.jpg","release_date":"2023-12-15","genres":["drama"],"rating":"7.7","backdrop":"https://image.tmdb.org/t/p/original/q72PB4UfXK3RH7aoxp4X5l85wD2.jpg","overview":"Amanda y Rudger, su amigo imaginario, viven emocionantes aventuras juntos. Pero un día Rudger se queda solo y debe enfrentar una amenaza misteriosa.","trailer":"","runtime":"108","slug":"el-imaginario","servidores":[{"id":1,"url":"https://streamwish.to/e/w4l42mlkc2m3","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"w4l42mlkc2m3","player_url":"https://streamwish.to/e/w4l42mlkc2m3"},{"id":2,"url":"https://bysejikuar.com/e/gljwihm1rnto","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"gljwihm1rnto","player_url":"https://bysejikuar.com/e/gljwihm1rnto"},{"id":3,"url":"https://vidhidepro.com/v/9n0ggsf1ljo6","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"9n0ggsf1ljo6","player_url":"https://vidhidepro.com/v/9n0ggsf1ljo6"},{"id":4,"url":"https://voe.sx/e/9cirroh0wlef","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"9cirroh0wlef","player_url":"https://voe.sx/e/9cirroh0wlef"},{"id":5,"url":"https://doodstream.com/e/boex9mvzjht3","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"boex9mvzjht3","player_url":"https://doodstream.com/e/boex9mvzjht3"},{"id":6,"url":"https://streamwish.to/e/hqr78q0f85rn","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hqr78q0f85rn","player_url":"https://streamwish.to/e/hqr78q0f85rn"},{"id":7,"url":"https://bysejikuar.com/e/qj9sedmkkokk","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"qj9sedmkkokk","player_url":"https://bysejikuar.com/e/qj9sedmkkokk"},{"id":8,"url":"https://vidhidepro.com/v/jpnw4f4dyt5u","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"jpnw4f4dyt5u","player_url":"https://vidhidepro.com/v/jpnw4f4dyt5u"},{"id":9,"url":"https://voe.sx/e/2zb1vcowocw0","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"2zb1vcowocw0","player_url":"https://voe.sx/e/2zb1vcowocw0"},{"id":10,"url":"https://streamwish.to/e/sfmg4o0mmxk9","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"sfmg4o0mmxk9","player_url":"https://streamwish.to/e/sfmg4o0mmxk9"},{"id":11,"url":"https://vidhidepro.com/v/id1mddk79dtn","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"id1mddk79dtn","player_url":"https://vidhidepro.com/v/id1mddk79dtn"}]}
+{
+  "id": 913001,
+  "titulo": "El imaginario",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/mZlUUidADxGIJx0J7jevy1RvO1c.jpg",
+  "release_date": "2023-12-15",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/q72PB4UfXK3RH7aoxp4X5l85wD2.jpg",
+  "overview": "Amanda y Rudger, su amigo imaginario, viven emocionantes aventuras juntos. Pero un día Rudger se queda solo y debe enfrentar una amenaza misteriosa.",
+  "trailer": "",
+  "runtime": "108",
+  "slug": "el-imaginario",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/w4l42mlkc2m3",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "w4l42mlkc2m3",
+      "player_url": "https://streamwish.to/e/w4l42mlkc2m3"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/gljwihm1rnto",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "gljwihm1rnto",
+      "player_url": "https://bysejikuar.com/e/gljwihm1rnto"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/9n0ggsf1ljo6",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "9n0ggsf1ljo6",
+      "player_url": "https://vidhidepro.com/v/9n0ggsf1ljo6"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/9cirroh0wlef",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "9cirroh0wlef",
+      "player_url": "https://voe.sx/e/9cirroh0wlef"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/boex9mvzjht3",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "boex9mvzjht3",
+      "player_url": "https://doodstream.com/e/boex9mvzjht3"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/hqr78q0f85rn",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hqr78q0f85rn",
+      "player_url": "https://streamwish.to/e/hqr78q0f85rn"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/qj9sedmkkokk",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "qj9sedmkkokk",
+      "player_url": "https://bysejikuar.com/e/qj9sedmkkokk"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/jpnw4f4dyt5u",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jpnw4f4dyt5u",
+      "player_url": "https://vidhidepro.com/v/jpnw4f4dyt5u"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/2zb1vcowocw0",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "2zb1vcowocw0",
+      "player_url": "https://voe.sx/e/2zb1vcowocw0"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/sfmg4o0mmxk9",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "sfmg4o0mmxk9",
+      "player_url": "https://streamwish.to/e/sfmg4o0mmxk9"
+    },
+    {
+      "id": 11,
+      "url": "https://vidhidepro.com/v/id1mddk79dtn",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "id1mddk79dtn",
+      "player_url": "https://vidhidepro.com/v/id1mddk79dtn"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/adoi0t3dro5r",
+      "player_url": "https://minochinos.com/embed/adoi0t3dro5r",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "adoi0t3dro5r"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/n2wi5xntgkaf",
+      "player_url": "https://hglink.to/e/n2wi5xntgkaf",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n2wi5xntgkaf"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/26g2jaorlq9i",
+      "player_url": "https://bysedikamoum.com/e/26g2jaorlq9i",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "26g2jaorlq9i"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/kcxrgp0rwmev",
+      "player_url": "https://voe.sx/e/kcxrgp0rwmev",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kcxrgp0rwmev"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/kcxrgp0rwmev/download",
+      "player_url": "https://voe.sx/kcxrgp0rwmev/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/i6box9grvalc",
+      "player_url": "https://rapidvideo.link/e/i6box9grvalc",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i6box9grvalc"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/vw108u0b023m",
+      "player_url": "https://minochinos.com/embed/vw108u0b023m",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vw108u0b023m"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/ojlqkaqwgafd",
+      "player_url": "https://hglink.to/e/ojlqkaqwgafd",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ojlqkaqwgafd"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/w3lkto4sj66d",
+      "player_url": "https://bysedikamoum.com/e/w3lkto4sj66d",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w3lkto4sj66d"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/fwo80mzvn4op",
+      "player_url": "https://voe.sx/e/fwo80mzvn4op",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fwo80mzvn4op"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/wedosyai5c42",
+      "player_url": "https://rapidvideo.link/e/wedosyai5c42",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wedosyai5c42"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/o7f54n92nh1p",
+      "player_url": "https://minochinos.com/embed/o7f54n92nh1p",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "o7f54n92nh1p"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/u5t3aar3vrdw",
+      "player_url": "https://hglink.to/e/u5t3aar3vrdw",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u5t3aar3vrdw"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/bwcsa3smeqlm",
+      "player_url": "https://bysedikamoum.com/e/bwcsa3smeqlm",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bwcsa3smeqlm"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/irg8elykx09p",
+      "player_url": "https://voe.sx/e/irg8elykx09p",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "irg8elykx09p"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/irg8elykx09p/download",
+      "player_url": "https://voe.sx/irg8elykx09p/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/hs02vtigcu9q",
+      "player_url": "https://rapidvideo.link/e/hs02vtigcu9q",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hs02vtigcu9q"
+    }
+  ]
+}
