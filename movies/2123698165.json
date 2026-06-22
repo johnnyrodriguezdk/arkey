@@ -1,0 +1,31 @@
+{
+  "id": 2123698165,
+  "titulo": "Las ovejas detectives",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/013c0727c2f3b90ec8545f5062f75360.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia",
+    "familia",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cu",
+  "trailer": "",
+  "runtime": "",
+  "slug": "las-ovejas-detectives",
+  "iframe_url": "https://lacloud.live/a513c86b8b17748d",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/a513c86b8b17748d/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/a513c86b8b17748d/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a513c86b8b17748d"
+    }
+  ]
+}
