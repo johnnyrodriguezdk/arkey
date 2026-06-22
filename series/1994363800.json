@@ -17,12 +17,93 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hf4b96d6d8f86bca8ce391a10cc1fa0b873a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hf4b96d6d8f86bca8ce391a10cc1fa0b873a/master.m3u8",
+      "url": "https://lalafilecdn.space/hf4b96d6d8f86bca8ce391a10cc1fa0b873a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf4b96d6d8f86bca8ce391a10cc1fa0b873a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hf4b96d6d8f86bca8ce391a10cc1fa0b873a"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hfe2874682f322c3428fbb088a14dd32073a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe2874682f322c3428fbb088a14dd32073a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe2874682f322c3428fbb088a14dd32073a"
+    },
+    {
+      "url": "https://streamfort.online/e/7p2f7xl7sewj",
+      "player_url": "https://streamfort.online/e/7p2f7xl7sewj",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7p2f7xl7sewj",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/udl680e1nepl",
+      "player_url": "https://vidnova.online/embed/udl680e1nepl",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "udl680e1nepl",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/fcf5pvycdkuo",
+      "player_url": "https://dsvplay.com/e/fcf5pvycdkuo",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fcf5pvycdkuo",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/p9lfcepcwmcv",
+      "player_url": "https://voe.sx/e/p9lfcepcwmcv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p9lfcepcwmcv",
+      "id": 6
+    },
+    {
+      "url": "https://streamfort.online/e/rfqiss6es5lg",
+      "player_url": "https://streamfort.online/e/rfqiss6es5lg",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rfqiss6es5lg",
+      "id": 7
+    },
+    {
+      "url": "https://vidnova.online/embed/xlepm8nsjx6z",
+      "player_url": "https://vidnova.online/embed/xlepm8nsjx6z",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xlepm8nsjx6z",
+      "id": 8
+    },
+    {
+      "url": "https://dsvplay.com/e/k04olgnq3dmm",
+      "player_url": "https://dsvplay.com/e/k04olgnq3dmm",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k04olgnq3dmm",
+      "id": 9
+    },
+    {
+      "url": "https://voe.sx/e/ppjkhbwbcwx5",
+      "player_url": "https://voe.sx/e/ppjkhbwbcwx5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ppjkhbwbcwx5",
+      "id": 10
     }
   ],
   "episodes": [
