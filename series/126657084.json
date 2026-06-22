@@ -16,7 +16,17 @@
   "slug": "el-gen-de-la-ia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://voe.sx/e/o0hj8ucmohuz",
+      "player_url": "https://voe.sx/e/o0hj8ucmohuz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o0hj8ucmohuz"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
