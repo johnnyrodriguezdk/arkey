@@ -18,7 +18,17 @@
   "slug": "shangri-la-frontier",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/a3sh8w95i3qq",
+      "player_url": "https://streamfort.online/e/a3sh8w95i3qq",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a3sh8w95i3qq"
+    }
+  ],
   "episodes": [
     {
       "season": 0,
