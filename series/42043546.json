@@ -13,7 +13,17 @@
   "slug": "dinner-with-the-parents",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/zicxr0rvhcbc",
+      "player_url": "https://streamfort.online/e/zicxr0rvhcbc",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zicxr0rvhcbc"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
