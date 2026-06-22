@@ -17,7 +17,17 @@
   "slug": "the-strongest-tanks-labyrinth-raids",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf55c7b6735c881da5f90b4a4436aab2d33a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf55c7b6735c881da5f90b4a4436aab2d33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf55c7b6735c881da5f90b4a4436aab2d33a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
