@@ -14,7 +14,17 @@
   "slug": "estafadores-de-tokio",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf4b96d6d8f86bca8ce391a10cc1fa0b873a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf4b96d6d8f86bca8ce391a10cc1fa0b873a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf4b96d6d8f86bca8ce391a10cc1fa0b873a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
