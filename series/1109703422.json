@@ -15,7 +15,17 @@
   "slug": "dragones-los-nueve-reinos",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfc6a5a241f631cfb68e19a0cb171521a13a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfc6a5a241f631cfb68e19a0cb171521a13a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc6a5a241f631cfb68e19a0cb171521a13a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
