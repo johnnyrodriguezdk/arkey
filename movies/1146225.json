@@ -1,1 +1,217 @@
-{"id":1146225,"titulo":"Escaping Paradise","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/3UCTls0hVKMCwWtkTmwKcCOzlgu.jpg","release_date":"2023-07-08","genres":[],"rating":"5.9","backdrop":"https://image.tmdb.org/t/p/original/3d39m2S3WynknLVGpsOxhiSKbgQ.jpg","overview":"En esta historia, un viaje de aniversario de una joven pareja a un país extranjero se transforma en una experiencia mortal, sumergiéndolos en una trama de suspenso y peligro en un entorno desconocido.","trailer":"","runtime":"91","slug":"escaping-paradise","servidores":[{"id":1,"url":"https://streamwish.to/e/i20q0dgpv6g2","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"i20q0dgpv6g2","player_url":"https://streamwish.to/e/i20q0dgpv6g2"},{"id":2,"url":"https://bysejikuar.com/e/dnlbaadyw0mf","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"dnlbaadyw0mf","player_url":"https://bysejikuar.com/e/dnlbaadyw0mf"},{"id":3,"url":"https://vidhidepro.com/v/29bmk0g2pwns","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"29bmk0g2pwns","player_url":"https://vidhidepro.com/v/29bmk0g2pwns"},{"id":4,"url":"https://voe.sx/e/tgvltjtjw7n2","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"tgvltjtjw7n2","player_url":"https://voe.sx/e/tgvltjtjw7n2"},{"id":5,"url":"https://doodstream.com/e/xco8v5ve2odx","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"xco8v5ve2odx","player_url":"https://doodstream.com/e/xco8v5ve2odx"},{"id":6,"url":"https://streamwish.to/e/jbs9f7kgdm0x","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"jbs9f7kgdm0x","player_url":"https://streamwish.to/e/jbs9f7kgdm0x"},{"id":7,"url":"https://bysejikuar.com/e/w4w8s54d3rmx","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"w4w8s54d3rmx","player_url":"https://bysejikuar.com/e/w4w8s54d3rmx"},{"id":8,"url":"https://vidhidepro.com/v/0w0ag7dabjo9","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"0w0ag7dabjo9","player_url":"https://vidhidepro.com/v/0w0ag7dabjo9"},{"id":9,"url":"https://streamwish.to/e/uvjc6rqnx9ln","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"uvjc6rqnx9ln","player_url":"https://streamwish.to/e/uvjc6rqnx9ln"},{"id":10,"url":"https://doodstream.com/e/5w9r2bgdmznz","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"5w9r2bgdmznz","player_url":"https://doodstream.com/e/5w9r2bgdmznz"}]}
+{
+  "id": 1146225,
+  "titulo": "Escaping Paradise",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/3UCTls0hVKMCwWtkTmwKcCOzlgu.jpg",
+  "release_date": "2023-07-08",
+  "genres": [
+    "Suspense",
+    "Acción"
+  ],
+  "rating": "5.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/3d39m2S3WynknLVGpsOxhiSKbgQ.jpg",
+  "overview": "En esta historia, un viaje de aniversario de una joven pareja a un país extranjero se transforma en una experiencia mortal, sumergiéndolos en una trama de suspenso y peligro en un entorno desconocido.",
+  "trailer": "",
+  "runtime": "91",
+  "slug": "escaping-paradise",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/i20q0dgpv6g2",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "i20q0dgpv6g2",
+      "player_url": "https://streamwish.to/e/i20q0dgpv6g2"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/dnlbaadyw0mf",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "dnlbaadyw0mf",
+      "player_url": "https://bysejikuar.com/e/dnlbaadyw0mf"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/29bmk0g2pwns",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "29bmk0g2pwns",
+      "player_url": "https://vidhidepro.com/v/29bmk0g2pwns"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/tgvltjtjw7n2",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "tgvltjtjw7n2",
+      "player_url": "https://voe.sx/e/tgvltjtjw7n2"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/xco8v5ve2odx",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "xco8v5ve2odx",
+      "player_url": "https://doodstream.com/e/xco8v5ve2odx"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/jbs9f7kgdm0x",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "jbs9f7kgdm0x",
+      "player_url": "https://streamwish.to/e/jbs9f7kgdm0x"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/w4w8s54d3rmx",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "w4w8s54d3rmx",
+      "player_url": "https://bysejikuar.com/e/w4w8s54d3rmx"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/0w0ag7dabjo9",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0w0ag7dabjo9",
+      "player_url": "https://vidhidepro.com/v/0w0ag7dabjo9"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/uvjc6rqnx9ln",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "uvjc6rqnx9ln",
+      "player_url": "https://streamwish.to/e/uvjc6rqnx9ln"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/5w9r2bgdmznz",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "5w9r2bgdmznz",
+      "player_url": "https://doodstream.com/e/5w9r2bgdmznz"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/wq28q4ouzi2a",
+      "player_url": "https://minochinos.com/embed/wq28q4ouzi2a",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wq28q4ouzi2a"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/e5ldxhjk9yfk",
+      "player_url": "https://hglink.to/e/e5ldxhjk9yfk",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e5ldxhjk9yfk"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/3bqyid42tgvr",
+      "player_url": "https://bysedikamoum.com/e/3bqyid42tgvr",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3bqyid42tgvr"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/vs8akr2trc1s",
+      "player_url": "https://voe.sx/e/vs8akr2trc1s",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vs8akr2trc1s"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/vs8akr2trc1s/download",
+      "player_url": "https://voe.sx/vs8akr2trc1s/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/89hsnauyiqkd",
+      "player_url": "https://rapidvideo.link/e/89hsnauyiqkd",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "89hsnauyiqkd"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/rmqdb4jw7eey",
+      "player_url": "https://minochinos.com/embed/rmqdb4jw7eey",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rmqdb4jw7eey"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/f0rx36jq1iy9",
+      "player_url": "https://hglink.to/e/f0rx36jq1iy9",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "f0rx36jq1iy9"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/kee034yihcjb",
+      "player_url": "https://bysedikamoum.com/e/kee034yihcjb",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kee034yihcjb"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/cgcoxmy9jope",
+      "player_url": "https://voe.sx/e/cgcoxmy9jope",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cgcoxmy9jope"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/cgcoxmy9jope/download",
+      "player_url": "https://voe.sx/cgcoxmy9jope/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/50bj6f71vrk9",
+      "player_url": "https://rapidvideo.link/e/50bj6f71vrk9",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "50bj6f71vrk9"
+    }
+  ]
+}
