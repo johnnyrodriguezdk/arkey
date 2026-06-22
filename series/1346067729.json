@@ -15,7 +15,17 @@
   "slug": "reyka",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/9m9jamxc9j40",
+      "player_url": "https://dsvplay.com/e/9m9jamxc9j40",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9m9jamxc9j40"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
