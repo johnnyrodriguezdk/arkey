@@ -1,1 +1,261 @@
-{"id":1175156,"titulo":"La herencia tiene un precio","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/w0N9wVv0904itL2Gwdvon2AR4IU.jpg","release_date":"2024-06-04","genres":[],"rating":"5.6","backdrop":"https://image.tmdb.org/t/p/original/4So4aDgPRkspivwd0WEZu9x1GVH.jpg","overview":"Cuando una abuela se enamora de un pretendiente caradura con intenciones sospechosas, la familia de esta trama un plan para proteger su vida… y no quedarse sin herencia.","trailer":"","runtime":"90","slug":"la-herencia-tiene-un-precio","servidores":[{"id":1,"url":"https://streamwish.to/e/4l9z9g79j9uw","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"4l9z9g79j9uw","player_url":"https://streamwish.to/e/4l9z9g79j9uw"},{"id":2,"url":"https://bysejikuar.com/e/hqj2ijjrc6ds","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"hqj2ijjrc6ds","player_url":"https://bysejikuar.com/e/hqj2ijjrc6ds"},{"id":3,"url":"https://vidhidepro.com/v/cracqvp4cy6l","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"cracqvp4cy6l","player_url":"https://vidhidepro.com/v/cracqvp4cy6l"},{"id":4,"url":"https://doodstream.com/e/7on4xh7mfv39","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"7on4xh7mfv39","player_url":"https://doodstream.com/e/7on4xh7mfv39"},{"id":5,"url":"https://streamwish.to/e/76yaoyxv1ykn","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"76yaoyxv1ykn","player_url":"https://streamwish.to/e/76yaoyxv1ykn"},{"id":6,"url":"https://bysejikuar.com/e/x1l1vkgbn2ap","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"x1l1vkgbn2ap","player_url":"https://bysejikuar.com/e/x1l1vkgbn2ap"},{"id":7,"url":"https://vidhidepro.com/v/wv1hd5lr407i","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"wv1hd5lr407i","player_url":"https://vidhidepro.com/v/wv1hd5lr407i"},{"id":8,"url":"https://streamwish.to/e/qflla8ijkneo","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"qflla8ijkneo","player_url":"https://streamwish.to/e/qflla8ijkneo"},{"id":9,"url":"https://bysejikuar.com/e/q5y1xyl2n95f","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"q5y1xyl2n95f","player_url":"https://bysejikuar.com/e/q5y1xyl2n95f"},{"id":10,"url":"https://vidhidepro.com/v/2vzef3tmu8fu","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"2vzef3tmu8fu","player_url":"https://vidhidepro.com/v/2vzef3tmu8fu"}]}
+{
+  "id": 1175156,
+  "titulo": "La herencia tiene un precio",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/w0N9wVv0904itL2Gwdvon2AR4IU.jpg",
+  "release_date": "2024-06-04",
+  "genres": [
+    "Comedia"
+  ],
+  "rating": "5.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/4So4aDgPRkspivwd0WEZu9x1GVH.jpg",
+  "overview": "Cuando una abuela se enamora de un pretendiente caradura con intenciones sospechosas, la familia de esta trama un plan para proteger su vida… y no quedarse sin herencia.",
+  "trailer": "",
+  "runtime": "90",
+  "slug": "la-herencia-tiene-un-precio",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/4l9z9g79j9uw",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4l9z9g79j9uw",
+      "player_url": "https://streamwish.to/e/4l9z9g79j9uw"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/hqj2ijjrc6ds",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "hqj2ijjrc6ds",
+      "player_url": "https://bysejikuar.com/e/hqj2ijjrc6ds"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/cracqvp4cy6l",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "cracqvp4cy6l",
+      "player_url": "https://vidhidepro.com/v/cracqvp4cy6l"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/7on4xh7mfv39",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7on4xh7mfv39",
+      "player_url": "https://doodstream.com/e/7on4xh7mfv39"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/76yaoyxv1ykn",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "76yaoyxv1ykn",
+      "player_url": "https://streamwish.to/e/76yaoyxv1ykn"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/x1l1vkgbn2ap",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "x1l1vkgbn2ap",
+      "player_url": "https://bysejikuar.com/e/x1l1vkgbn2ap"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/wv1hd5lr407i",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "wv1hd5lr407i",
+      "player_url": "https://vidhidepro.com/v/wv1hd5lr407i"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/qflla8ijkneo",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "qflla8ijkneo",
+      "player_url": "https://streamwish.to/e/qflla8ijkneo"
+    },
+    {
+      "id": 9,
+      "url": "https://bysejikuar.com/e/q5y1xyl2n95f",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "q5y1xyl2n95f",
+      "player_url": "https://bysejikuar.com/e/q5y1xyl2n95f"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/2vzef3tmu8fu",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2vzef3tmu8fu",
+      "player_url": "https://vidhidepro.com/v/2vzef3tmu8fu"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/lf0295vlt0h2",
+      "player_url": "https://minochinos.com/embed/lf0295vlt0h2",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lf0295vlt0h2"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/a0mwk9d27ska",
+      "player_url": "https://hglink.to/e/a0mwk9d27ska",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a0mwk9d27ska"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/lgtoik5e1tlu",
+      "player_url": "https://bysedikamoum.com/e/lgtoik5e1tlu",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lgtoik5e1tlu"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/tgyhbl5teoa6",
+      "player_url": "https://voe.sx/e/tgyhbl5teoa6",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tgyhbl5teoa6"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/tgyhbl5teoa6/download",
+      "player_url": "https://voe.sx/tgyhbl5teoa6/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/nhc3p2uji7ym",
+      "player_url": "https://rapidvideo.link/e/nhc3p2uji7ym",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nhc3p2uji7ym"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/yo46k9elnmf6",
+      "player_url": "https://minochinos.com/embed/yo46k9elnmf6",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yo46k9elnmf6"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/4e36rd9bazoh",
+      "player_url": "https://hglink.to/e/4e36rd9bazoh",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4e36rd9bazoh"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/7juhkuyd6xc4",
+      "player_url": "https://bysedikamoum.com/e/7juhkuyd6xc4",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7juhkuyd6xc4"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/xdnvo4vfuz6u",
+      "player_url": "https://voe.sx/e/xdnvo4vfuz6u",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xdnvo4vfuz6u"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/rjakzp1mdieg",
+      "player_url": "https://rapidvideo.link/e/rjakzp1mdieg",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rjakzp1mdieg"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/upyu42tqexd2",
+      "player_url": "https://minochinos.com/embed/upyu42tqexd2",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "upyu42tqexd2"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/krd69kc0t24z",
+      "player_url": "https://hglink.to/e/krd69kc0t24z",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "krd69kc0t24z"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/t35fyxsb64i4",
+      "player_url": "https://bysedikamoum.com/e/t35fyxsb64i4",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "t35fyxsb64i4"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/a0vhkhfqtsdd",
+      "player_url": "https://voe.sx/e/a0vhkhfqtsdd",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "a0vhkhfqtsdd"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/a0vhkhfqtsdd/download",
+      "player_url": "https://voe.sx/a0vhkhfqtsdd/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/ytxewun7kmv0",
+      "player_url": "https://rapidvideo.link/e/ytxewun7kmv0",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ytxewun7kmv0"
+    }
+  ]
+}
