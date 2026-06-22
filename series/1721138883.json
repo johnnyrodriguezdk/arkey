@@ -15,7 +15,17 @@
   "slug": "por-mandato-del-cielo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf16022f680775194da0e350c6fd8414e93a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf16022f680775194da0e350c6fd8414e93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf16022f680775194da0e350c6fd8414e93a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
