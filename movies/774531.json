@@ -1,1 +1,288 @@
-{"id":774531,"titulo":"La joven y el mar","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/oyQXRZD0CHC4sf3lMph3X3cJzSw.jpg","release_date":"2024-05-31","genres":["drama"],"rating":"7.9","backdrop":"https://image.tmdb.org/t/p/original/fpo2qM5b4gTF5EHuYGlxsDIlZOj.jpg","overview":"Esta es la extraordinaria historia verídica de Trudy Ederle, la primera mujer que cruzó a nado el canal de la Mancha. Gracias al apoyo inquebrantable de su hermana y sus entrenadores, venció los desafíos y la animadversión de una sociedad patriarcal como líder del equipo olímpico de natación y conisguió nadar los 34 kilómetros de Francia a Inglaterra.","trailer":"","runtime":"129","slug":"la-joven-y-el-mar","servidores":[{"id":1,"url":"https://streamwish.to/e/cfv52po6wo7i","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"cfv52po6wo7i","player_url":"https://streamwish.to/e/cfv52po6wo7i"},{"id":2,"url":"https://bysejikuar.com/e/zngkrxkfiowv","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"zngkrxkfiowv","player_url":"https://bysejikuar.com/e/zngkrxkfiowv"},{"id":3,"url":"https://vidhidepro.com/v/g4oxgclcpy7c","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"g4oxgclcpy7c","player_url":"https://vidhidepro.com/v/g4oxgclcpy7c"},{"id":4,"url":"https://voe.sx/e/kquess7j2i6t","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"kquess7j2i6t","player_url":"https://voe.sx/e/kquess7j2i6t"},{"id":5,"url":"https://doodstream.com/e/qo1a3f82oo3r","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"qo1a3f82oo3r","player_url":"https://doodstream.com/e/qo1a3f82oo3r"},{"id":6,"url":"https://streamwish.to/e/0hpdpikvxhx1","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"0hpdpikvxhx1","player_url":"https://streamwish.to/e/0hpdpikvxhx1"},{"id":7,"url":"https://bysejikuar.com/e/7s7bt6pegz8s","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"7s7bt6pegz8s","player_url":"https://bysejikuar.com/e/7s7bt6pegz8s"},{"id":8,"url":"https://vidhidepro.com/v/crgn2dqcxw4z","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"crgn2dqcxw4z","player_url":"https://vidhidepro.com/v/crgn2dqcxw4z"},{"id":9,"url":"https://doodstream.com/e/p1km1ae58e7r","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"p1km1ae58e7r","player_url":"https://doodstream.com/e/p1km1ae58e7r"},{"id":10,"url":"https://streamwish.to/e/dxpj7wxw5xr2","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"dxpj7wxw5xr2","player_url":"https://streamwish.to/e/dxpj7wxw5xr2"},{"id":11,"url":"https://vidhidepro.com/v/fkqc3hzc2wut","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"fkqc3hzc2wut","player_url":"https://vidhidepro.com/v/fkqc3hzc2wut"},{"id":12,"url":"https://voe.sx/e/8ccilnyrujyn","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"8ccilnyrujyn","player_url":"https://voe.sx/e/8ccilnyrujyn"},{"id":13,"url":"https://doodstream.com/e/7dgmleq4g96g","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"7dgmleq4g96g","player_url":"https://doodstream.com/e/7dgmleq4g96g"}]}
+{
+  "id": 774531,
+  "titulo": "La joven y el mar",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/oyQXRZD0CHC4sf3lMph3X3cJzSw.jpg",
+  "release_date": "2024-05-31",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/fpo2qM5b4gTF5EHuYGlxsDIlZOj.jpg",
+  "overview": "Esta es la extraordinaria historia verídica de Trudy Ederle, la primera mujer que cruzó a nado el canal de la Mancha. Gracias al apoyo inquebrantable de su hermana y sus entrenadores, venció los desafíos y la animadversión de una sociedad patriarcal como líder del equipo olímpico de natación y conisguió nadar los 34 kilómetros de Francia a Inglaterra.",
+  "trailer": "",
+  "runtime": "129",
+  "slug": "la-joven-y-el-mar",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/cfv52po6wo7i",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cfv52po6wo7i",
+      "player_url": "https://streamwish.to/e/cfv52po6wo7i"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/zngkrxkfiowv",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "zngkrxkfiowv",
+      "player_url": "https://bysejikuar.com/e/zngkrxkfiowv"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/g4oxgclcpy7c",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "g4oxgclcpy7c",
+      "player_url": "https://vidhidepro.com/v/g4oxgclcpy7c"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/kquess7j2i6t",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "kquess7j2i6t",
+      "player_url": "https://voe.sx/e/kquess7j2i6t"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/qo1a3f82oo3r",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "qo1a3f82oo3r",
+      "player_url": "https://doodstream.com/e/qo1a3f82oo3r"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/0hpdpikvxhx1",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "0hpdpikvxhx1",
+      "player_url": "https://streamwish.to/e/0hpdpikvxhx1"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/7s7bt6pegz8s",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "7s7bt6pegz8s",
+      "player_url": "https://bysejikuar.com/e/7s7bt6pegz8s"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/crgn2dqcxw4z",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "crgn2dqcxw4z",
+      "player_url": "https://vidhidepro.com/v/crgn2dqcxw4z"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/p1km1ae58e7r",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "p1km1ae58e7r",
+      "player_url": "https://doodstream.com/e/p1km1ae58e7r"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/dxpj7wxw5xr2",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "dxpj7wxw5xr2",
+      "player_url": "https://streamwish.to/e/dxpj7wxw5xr2"
+    },
+    {
+      "id": 11,
+      "url": "https://vidhidepro.com/v/fkqc3hzc2wut",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "fkqc3hzc2wut",
+      "player_url": "https://vidhidepro.com/v/fkqc3hzc2wut"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/8ccilnyrujyn",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "8ccilnyrujyn",
+      "player_url": "https://voe.sx/e/8ccilnyrujyn"
+    },
+    {
+      "id": 13,
+      "url": "https://doodstream.com/e/7dgmleq4g96g",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7dgmleq4g96g",
+      "player_url": "https://doodstream.com/e/7dgmleq4g96g"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/t3240atss3vl",
+      "player_url": "https://minochinos.com/embed/t3240atss3vl",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t3240atss3vl"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/eq99cjar8avo",
+      "player_url": "https://hglink.to/e/eq99cjar8avo",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "eq99cjar8avo"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/s2f66tm6a9u2",
+      "player_url": "https://bysedikamoum.com/e/s2f66tm6a9u2",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s2f66tm6a9u2"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/xsgpglzz4e9o",
+      "player_url": "https://voe.sx/e/xsgpglzz4e9o",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xsgpglzz4e9o"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/xsgpglzz4e9o/download",
+      "player_url": "https://voe.sx/xsgpglzz4e9o/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/g2a7xuelcjqo",
+      "player_url": "https://rapidvideo.link/e/g2a7xuelcjqo",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g2a7xuelcjqo"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/npdtsdajaqa2",
+      "player_url": "https://minochinos.com/embed/npdtsdajaqa2",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "npdtsdajaqa2"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/m99ftj1rdjwx",
+      "player_url": "https://hglink.to/e/m99ftj1rdjwx",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m99ftj1rdjwx"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/e8slm8g761gp",
+      "player_url": "https://bysedikamoum.com/e/e8slm8g761gp",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e8slm8g761gp"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/mtvpm7zoqw8g",
+      "player_url": "https://voe.sx/e/mtvpm7zoqw8g",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mtvpm7zoqw8g"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/mtn6l0k4xuoy",
+      "player_url": "https://rapidvideo.link/e/mtn6l0k4xuoy",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mtn6l0k4xuoy"
+    },
+    {
+      "id": 25,
+      "url": "https://minochinos.com/embed/ag1t3eg25xe7",
+      "player_url": "https://minochinos.com/embed/ag1t3eg25xe7",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ag1t3eg25xe7"
+    },
+    {
+      "id": 26,
+      "url": "https://hglink.to/e/xk7guwov6rhb",
+      "player_url": "https://hglink.to/e/xk7guwov6rhb",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xk7guwov6rhb"
+    },
+    {
+      "id": 27,
+      "url": "https://bysedikamoum.com/e/c9knpeqjv3yi",
+      "player_url": "https://bysedikamoum.com/e/c9knpeqjv3yi",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "c9knpeqjv3yi"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/e/srtxlybgyqh6",
+      "player_url": "https://voe.sx/e/srtxlybgyqh6",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "srtxlybgyqh6"
+    },
+    {
+      "id": 29,
+      "url": "https://voe.sx/srtxlybgyqh6/download",
+      "player_url": "https://voe.sx/srtxlybgyqh6/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 30,
+      "url": "https://rapidvideo.link/e/6k4f873mruvs",
+      "player_url": "https://rapidvideo.link/e/6k4f873mruvs",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6k4f873mruvs"
+    }
+  ]
+}
