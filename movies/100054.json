@@ -11,7 +11,7 @@
   ],
   "rating": "6.4",
   "backdrop": "https://image.tmdb.org/t/p/original/mB9dtnDqJPZlmBa9E7iVVg7lXQY.jpg",
-  "overview": "Un avión se estrella y 25 niños quedan varados en una isla tropical, lejos de todo.",
+  "overview": "Relata la historia de un grupo de chicos británicos atrapados en una isla tropical desocupada. Poco a poco van cayendo en la anarquía a medida que desaparec",
   "trailer": "",
   "runtime": "",
   "slug": "el-senor-de-las-moscas",
@@ -258,6 +258,15 @@
       "idioma": "subtitulado",
       "calidad": "HD",
       "embed_id": "hoks5ycxd16q"
+    },
+    {
+      "id": 28,
+      "url": "https://lacloud.live/public/stream/30a642a15ec13cdc/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/30a642a15ec13cdc/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "30a642a15ec13cdc"
     }
   ]
 }
