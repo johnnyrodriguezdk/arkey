@@ -14,7 +14,17 @@
   "slug": "gracias-el-siguiente",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf64be2c13f9aa5c885509afc668f2fdfd3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf64be2c13f9aa5c885509afc668f2fdfd3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf64be2c13f9aa5c885509afc668f2fdfd3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
