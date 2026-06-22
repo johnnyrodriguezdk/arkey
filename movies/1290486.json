@@ -1,1 +1,261 @@
-{"id":1290486,"titulo":"Los festivos caballeros","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/AlbOgFcYvqq0fDMoqrQp9AZNrFl.jpg","release_date":"2024-11-20","genres":["romance"],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/cgH0j8T5NG5VBzok8erdP8mq0SI.jpg","overview":"Decidida a salvar el club nocturno de sus padres, una bailarina de Broadway monta un espectáculo navideño con elenco masculino en su pueblo... y conoce al chico perfecto.","trailer":"","runtime":"87","slug":"los-festivos-caballeros","servidores":[{"id":1,"url":"https://streamwish.to/e/6jrh7i11uht6","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"6jrh7i11uht6","player_url":"https://streamwish.to/e/6jrh7i11uht6"},{"id":2,"url":"https://vidhidepro.com/v/hve2n0jeuduu","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"hve2n0jeuduu","player_url":"https://vidhidepro.com/v/hve2n0jeuduu"},{"id":3,"url":"https://voe.sx/e/galnmbvmikee","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"galnmbvmikee","player_url":"https://voe.sx/e/galnmbvmikee"},{"id":4,"url":"https://doodstream.com/e/r9748v8iqw7l","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"r9748v8iqw7l","player_url":"https://doodstream.com/e/r9748v8iqw7l"},{"id":5,"url":"https://streamwish.to/e/7l57u42kpcul","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"7l57u42kpcul","player_url":"https://streamwish.to/e/7l57u42kpcul"},{"id":6,"url":"https://vidhidepro.com/v/jdk6hc8mi40d","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"jdk6hc8mi40d","player_url":"https://vidhidepro.com/v/jdk6hc8mi40d"},{"id":7,"url":"https://doodstream.com/e/2uzj3e77x0ky","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"2uzj3e77x0ky","player_url":"https://doodstream.com/e/2uzj3e77x0ky"},{"id":8,"url":"https://streamwish.to/e/ujyw89r7aq3f","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"ujyw89r7aq3f","player_url":"https://streamwish.to/e/ujyw89r7aq3f"},{"id":9,"url":"https://vidhidepro.com/v/0p71tweyz7ty","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"0p71tweyz7ty","player_url":"https://vidhidepro.com/v/0p71tweyz7ty"},{"id":10,"url":"https://doodstream.com/e/p3xpqlesp5nz","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"p3xpqlesp5nz","player_url":"https://doodstream.com/e/p3xpqlesp5nz"}]}
+{
+  "id": 1290486,
+  "titulo": "Los festivos caballeros",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/AlbOgFcYvqq0fDMoqrQp9AZNrFl.jpg",
+  "release_date": "2024-11-20",
+  "genres": [
+    "romance"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/cgH0j8T5NG5VBzok8erdP8mq0SI.jpg",
+  "overview": "Decidida a salvar el club nocturno de sus padres, una bailarina de Broadway monta un espectáculo navideño con elenco masculino en su pueblo... y conoce al chico perfecto.",
+  "trailer": "",
+  "runtime": "87",
+  "slug": "los-festivos-caballeros",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/6jrh7i11uht6",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6jrh7i11uht6",
+      "player_url": "https://streamwish.to/e/6jrh7i11uht6"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/hve2n0jeuduu",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "hve2n0jeuduu",
+      "player_url": "https://vidhidepro.com/v/hve2n0jeuduu"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/galnmbvmikee",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "galnmbvmikee",
+      "player_url": "https://voe.sx/e/galnmbvmikee"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/r9748v8iqw7l",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "r9748v8iqw7l",
+      "player_url": "https://doodstream.com/e/r9748v8iqw7l"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/7l57u42kpcul",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7l57u42kpcul",
+      "player_url": "https://streamwish.to/e/7l57u42kpcul"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/jdk6hc8mi40d",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jdk6hc8mi40d",
+      "player_url": "https://vidhidepro.com/v/jdk6hc8mi40d"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/2uzj3e77x0ky",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "2uzj3e77x0ky",
+      "player_url": "https://doodstream.com/e/2uzj3e77x0ky"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/ujyw89r7aq3f",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ujyw89r7aq3f",
+      "player_url": "https://streamwish.to/e/ujyw89r7aq3f"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/0p71tweyz7ty",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0p71tweyz7ty",
+      "player_url": "https://vidhidepro.com/v/0p71tweyz7ty"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/p3xpqlesp5nz",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "p3xpqlesp5nz",
+      "player_url": "https://doodstream.com/e/p3xpqlesp5nz"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/nd7i1d32bbfz",
+      "player_url": "https://minochinos.com/embed/nd7i1d32bbfz",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nd7i1d32bbfz"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/p0hkq7owpdnp",
+      "player_url": "https://hglink.to/e/p0hkq7owpdnp",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p0hkq7owpdnp"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/s75o4bssb84k",
+      "player_url": "https://bysedikamoum.com/e/s75o4bssb84k",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s75o4bssb84k"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/y0bmufcfvx3e",
+      "player_url": "https://voe.sx/e/y0bmufcfvx3e",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y0bmufcfvx3e"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/y0bmufcfvx3e/download",
+      "player_url": "https://voe.sx/y0bmufcfvx3e/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/dibejrp8ufqs",
+      "player_url": "https://rapidvideo.link/e/dibejrp8ufqs",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dibejrp8ufqs"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/fu4ruiexlf6w",
+      "player_url": "https://minochinos.com/embed/fu4ruiexlf6w",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fu4ruiexlf6w"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/86shd63105dd",
+      "player_url": "https://hglink.to/e/86shd63105dd",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "86shd63105dd"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/uzwm8pg1t13w",
+      "player_url": "https://bysedikamoum.com/e/uzwm8pg1t13w",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uzwm8pg1t13w"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/tyrstelvcep2",
+      "player_url": "https://voe.sx/e/tyrstelvcep2",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tyrstelvcep2"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/zo8wcfij1asu",
+      "player_url": "https://rapidvideo.link/e/zo8wcfij1asu",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zo8wcfij1asu"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/694jeyh7qcjn",
+      "player_url": "https://minochinos.com/embed/694jeyh7qcjn",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "694jeyh7qcjn"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/zmrmhf6clysv",
+      "player_url": "https://hglink.to/e/zmrmhf6clysv",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zmrmhf6clysv"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/qo7eawwas7l7",
+      "player_url": "https://bysedikamoum.com/e/qo7eawwas7l7",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qo7eawwas7l7"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/xxv7wlohgacn",
+      "player_url": "https://voe.sx/e/xxv7wlohgacn",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xxv7wlohgacn"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/xxv7wlohgacn/download",
+      "player_url": "https://voe.sx/xxv7wlohgacn/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/id24upf9a7zm",
+      "player_url": "https://rapidvideo.link/e/id24upf9a7zm",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "id24upf9a7zm"
+    }
+  ]
+}
