@@ -1,1 +1,279 @@
-{"id":1156649,"titulo":"La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/oYqucQ4kSA6WQ2V0hgylibc8u39.jpg","release_date":"2024-07-26","genres":[],"rating":"7.6","backdrop":"https://image.tmdb.org/t/p/original/iAnmTEPbc2SkSyET2wE70Q7LPmJ.jpg","overview":"De la directora nominada al Oscar® Lucy Walker, este documental capta la pasión y el heroísmo de la alpinista Lhakpa Sherpa en su décimo ascenso al monte Everest.","trailer":"","runtime":"104","slug":"la-reina-de-la-montana-lhakpa-sherpa-y-la-cumbre-del-everest","servidores":[{"id":1,"url":"https://streamwish.to/e/147tqw02m6ul","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"147tqw02m6ul","player_url":"https://streamwish.to/e/147tqw02m6ul"},{"id":2,"url":"https://bysejikuar.com/e/1tgyi8z6zhhb","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"1tgyi8z6zhhb","player_url":"https://bysejikuar.com/e/1tgyi8z6zhhb"},{"id":3,"url":"https://vidhidepro.com/v/h9lpvuaju34j","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"h9lpvuaju34j","player_url":"https://vidhidepro.com/v/h9lpvuaju34j"},{"id":4,"url":"https://voe.sx/e/gldjfg7sk52y","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"gldjfg7sk52y","player_url":"https://voe.sx/e/gldjfg7sk52y"},{"id":5,"url":"https://doodstream.com/e/rpg5fwg2xfg2","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"rpg5fwg2xfg2","player_url":"https://doodstream.com/e/rpg5fwg2xfg2"},{"id":6,"url":"https://streamwish.to/e/ijnef7fr357c","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ijnef7fr357c","player_url":"https://streamwish.to/e/ijnef7fr357c"},{"id":7,"url":"https://bysejikuar.com/e/yregnpyqgjx6","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"yregnpyqgjx6","player_url":"https://bysejikuar.com/e/yregnpyqgjx6"},{"id":8,"url":"https://vidhidepro.com/v/ukhni9l9xefl","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ukhni9l9xefl","player_url":"https://vidhidepro.com/v/ukhni9l9xefl"},{"id":9,"url":"https://doodstream.com/e/wsvuoq5h2tkz","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"wsvuoq5h2tkz","player_url":"https://doodstream.com/e/wsvuoq5h2tkz"},{"id":10,"url":"https://streamwish.to/e/j8ycckgpfvoi","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"j8ycckgpfvoi","player_url":"https://streamwish.to/e/j8ycckgpfvoi"},{"id":11,"url":"https://vidhidepro.com/v/s64rds5eu2ms","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"s64rds5eu2ms","player_url":"https://vidhidepro.com/v/s64rds5eu2ms"},{"id":12,"url":"https://doodstream.com/e/1a9n5vjljrhv","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"1a9n5vjljrhv","player_url":"https://doodstream.com/e/1a9n5vjljrhv"}]}
+{
+  "id": 1156649,
+  "titulo": "La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/oYqucQ4kSA6WQ2V0hgylibc8u39.jpg",
+  "release_date": "2024-07-26",
+  "genres": [
+    "Documental"
+  ],
+  "rating": "7.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/iAnmTEPbc2SkSyET2wE70Q7LPmJ.jpg",
+  "overview": "De la directora nominada al Oscar® Lucy Walker, este documental capta la pasión y el heroísmo de la alpinista Lhakpa Sherpa en su décimo ascenso al monte Everest.",
+  "trailer": "",
+  "runtime": "104",
+  "slug": "la-reina-de-la-montana-lhakpa-sherpa-y-la-cumbre-del-everest",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/147tqw02m6ul",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "147tqw02m6ul",
+      "player_url": "https://streamwish.to/e/147tqw02m6ul"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/1tgyi8z6zhhb",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "1tgyi8z6zhhb",
+      "player_url": "https://bysejikuar.com/e/1tgyi8z6zhhb"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/h9lpvuaju34j",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "h9lpvuaju34j",
+      "player_url": "https://vidhidepro.com/v/h9lpvuaju34j"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/gldjfg7sk52y",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gldjfg7sk52y",
+      "player_url": "https://voe.sx/e/gldjfg7sk52y"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/rpg5fwg2xfg2",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "rpg5fwg2xfg2",
+      "player_url": "https://doodstream.com/e/rpg5fwg2xfg2"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/ijnef7fr357c",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ijnef7fr357c",
+      "player_url": "https://streamwish.to/e/ijnef7fr357c"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/yregnpyqgjx6",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "yregnpyqgjx6",
+      "player_url": "https://bysejikuar.com/e/yregnpyqgjx6"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/ukhni9l9xefl",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ukhni9l9xefl",
+      "player_url": "https://vidhidepro.com/v/ukhni9l9xefl"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/wsvuoq5h2tkz",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "wsvuoq5h2tkz",
+      "player_url": "https://doodstream.com/e/wsvuoq5h2tkz"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/j8ycckgpfvoi",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "j8ycckgpfvoi",
+      "player_url": "https://streamwish.to/e/j8ycckgpfvoi"
+    },
+    {
+      "id": 11,
+      "url": "https://vidhidepro.com/v/s64rds5eu2ms",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "s64rds5eu2ms",
+      "player_url": "https://vidhidepro.com/v/s64rds5eu2ms"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/1a9n5vjljrhv",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "1a9n5vjljrhv",
+      "player_url": "https://doodstream.com/e/1a9n5vjljrhv"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/86xl6qtua8vf",
+      "player_url": "https://minochinos.com/embed/86xl6qtua8vf",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "86xl6qtua8vf"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/89no2gruzmlh",
+      "player_url": "https://hglink.to/e/89no2gruzmlh",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "89no2gruzmlh"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/msikvj1fmk1i",
+      "player_url": "https://bysedikamoum.com/e/msikvj1fmk1i",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "msikvj1fmk1i"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/w8u9qufad3v0",
+      "player_url": "https://voe.sx/e/w8u9qufad3v0",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w8u9qufad3v0"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/w8u9qufad3v0/download",
+      "player_url": "https://voe.sx/w8u9qufad3v0/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/7q0ytobk5w3f",
+      "player_url": "https://rapidvideo.link/e/7q0ytobk5w3f",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7q0ytobk5w3f"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/vjids1w7cv6d",
+      "player_url": "https://minochinos.com/embed/vjids1w7cv6d",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vjids1w7cv6d"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/r2t3b3bvf6j7",
+      "player_url": "https://hglink.to/e/r2t3b3bvf6j7",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r2t3b3bvf6j7"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/esjgg5p8i9o5",
+      "player_url": "https://bysedikamoum.com/e/esjgg5p8i9o5",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "esjgg5p8i9o5"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/pjyjbduafc4o",
+      "player_url": "https://voe.sx/e/pjyjbduafc4o",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pjyjbduafc4o"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/n6su0mb8pcg1",
+      "player_url": "https://rapidvideo.link/e/n6su0mb8pcg1",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n6su0mb8pcg1"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/3goocnqjjz9h",
+      "player_url": "https://minochinos.com/embed/3goocnqjjz9h",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3goocnqjjz9h"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/np503jji1qzh",
+      "player_url": "https://hglink.to/e/np503jji1qzh",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "np503jji1qzh"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/1zb1vpym8gd2",
+      "player_url": "https://bysedikamoum.com/e/1zb1vpym8gd2",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1zb1vpym8gd2"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/lntw19knsniy",
+      "player_url": "https://voe.sx/e/lntw19knsniy",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lntw19knsniy"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/lntw19knsniy/download",
+      "player_url": "https://voe.sx/lntw19knsniy/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/jptaks6qi9dr",
+      "player_url": "https://rapidvideo.link/e/jptaks6qi9dr",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jptaks6qi9dr"
+    }
+  ]
+}
