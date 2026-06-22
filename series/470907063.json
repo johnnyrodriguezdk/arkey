@@ -14,7 +14,17 @@
   "slug": "las-cronicas-de-cucu",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/juupwy2f8czz",
+      "player_url": "https://dsvplay.com/e/juupwy2f8czz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "juupwy2f8czz"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
