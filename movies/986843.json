@@ -1,1 +1,243 @@
-{"id":986843,"titulo":"Mayday Club","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/xcBLeUoRr52MiP6Rm0AS5HaTPDl.jpg","release_date":"2023-08-09","genres":[],"rating":"5.4","backdrop":"https://image.tmdb.org/t/p/original/5gz7WdWWEDigSFxcWsYz1pxlI2z.jpg","overview":"Un grupo diverso de personas, con un miedo crónico a volar, está varado en el norte invernal.","trailer":"","runtime":"92","slug":"mayday-club","servidores":[{"id":1,"url":"https://streamwish.to/e/iudv3z2i8iif","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"iudv3z2i8iif","player_url":"https://streamwish.to/e/iudv3z2i8iif"},{"id":2,"url":"https://bysejikuar.com/e/qt1omi5vlw88","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"qt1omi5vlw88","player_url":"https://bysejikuar.com/e/qt1omi5vlw88"},{"id":3,"url":"https://vidhidepro.com/v/q1verf1dl9n0","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"q1verf1dl9n0","player_url":"https://vidhidepro.com/v/q1verf1dl9n0"},{"id":4,"url":"https://voe.sx/e/lhmuywnf10nc","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"lhmuywnf10nc","player_url":"https://voe.sx/e/lhmuywnf10nc"},{"id":5,"url":"https://streamwish.to/e/rr64xluzsqmn","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"rr64xluzsqmn","player_url":"https://streamwish.to/e/rr64xluzsqmn"},{"id":6,"url":"https://bysejikuar.com/e/vijfp4sxp773","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"vijfp4sxp773","player_url":"https://bysejikuar.com/e/vijfp4sxp773"},{"id":7,"url":"https://vidhidepro.com/v/i7d2qsmtt6hs","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"i7d2qsmtt6hs","player_url":"https://vidhidepro.com/v/i7d2qsmtt6hs"},{"id":8,"url":"https://voe.sx/e/vxi05ltybdzb","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"vxi05ltybdzb","player_url":"https://voe.sx/e/vxi05ltybdzb"}]}
+{
+  "id": 986843,
+  "titulo": "Mayday Club",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/xcBLeUoRr52MiP6Rm0AS5HaTPDl.jpg",
+  "release_date": "2023-08-09",
+  "genres": [
+    "Comedia"
+  ],
+  "rating": "5.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/5gz7WdWWEDigSFxcWsYz1pxlI2z.jpg",
+  "overview": "Un grupo diverso de personas, con un miedo crónico a volar, está varado en el norte invernal.",
+  "trailer": "",
+  "runtime": "92",
+  "slug": "mayday-club",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/iudv3z2i8iif",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "iudv3z2i8iif",
+      "player_url": "https://streamwish.to/e/iudv3z2i8iif"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/qt1omi5vlw88",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "qt1omi5vlw88",
+      "player_url": "https://bysejikuar.com/e/qt1omi5vlw88"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/q1verf1dl9n0",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "q1verf1dl9n0",
+      "player_url": "https://vidhidepro.com/v/q1verf1dl9n0"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/lhmuywnf10nc",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "lhmuywnf10nc",
+      "player_url": "https://voe.sx/e/lhmuywnf10nc"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/rr64xluzsqmn",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "rr64xluzsqmn",
+      "player_url": "https://streamwish.to/e/rr64xluzsqmn"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/vijfp4sxp773",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "vijfp4sxp773",
+      "player_url": "https://bysejikuar.com/e/vijfp4sxp773"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/i7d2qsmtt6hs",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "i7d2qsmtt6hs",
+      "player_url": "https://vidhidepro.com/v/i7d2qsmtt6hs"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/vxi05ltybdzb",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vxi05ltybdzb",
+      "player_url": "https://voe.sx/e/vxi05ltybdzb"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/emd0pe4h1vt5",
+      "player_url": "https://minochinos.com/embed/emd0pe4h1vt5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "emd0pe4h1vt5"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/ytwfx9v26nhb",
+      "player_url": "https://hglink.to/e/ytwfx9v26nhb",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ytwfx9v26nhb"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/gczx5hhr04ww",
+      "player_url": "https://bysedikamoum.com/e/gczx5hhr04ww",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gczx5hhr04ww"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/krbovvaaqjoq",
+      "player_url": "https://voe.sx/e/krbovvaaqjoq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "krbovvaaqjoq"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/krbovvaaqjoq/download",
+      "player_url": "https://voe.sx/krbovvaaqjoq/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/2qmnz4p3a5cs",
+      "player_url": "https://rapidvideo.link/e/2qmnz4p3a5cs",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2qmnz4p3a5cs"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/3dh49gfq15rx",
+      "player_url": "https://minochinos.com/embed/3dh49gfq15rx",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3dh49gfq15rx"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/544tz0oz5qq3",
+      "player_url": "https://hglink.to/e/544tz0oz5qq3",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "544tz0oz5qq3"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/pq2mzf25uemb",
+      "player_url": "https://bysedikamoum.com/e/pq2mzf25uemb",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pq2mzf25uemb"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/87lkydbuop5e",
+      "player_url": "https://voe.sx/e/87lkydbuop5e",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "87lkydbuop5e"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/upta1yigh87z",
+      "player_url": "https://rapidvideo.link/e/upta1yigh87z",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "upta1yigh87z"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/89o61kjlwzbw",
+      "player_url": "https://minochinos.com/embed/89o61kjlwzbw",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "89o61kjlwzbw"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/bbd9e8elb34t",
+      "player_url": "https://hglink.to/e/bbd9e8elb34t",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bbd9e8elb34t"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/2x31s7xn5egl",
+      "player_url": "https://bysedikamoum.com/e/2x31s7xn5egl",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2x31s7xn5egl"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/e22egvde1i1g",
+      "player_url": "https://voe.sx/e/e22egvde1i1g",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "e22egvde1i1g"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e22egvde1i1g/download",
+      "player_url": "https://voe.sx/e22egvde1i1g/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/8cl1bvo6qsfp",
+      "player_url": "https://rapidvideo.link/e/8cl1bvo6qsfp",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8cl1bvo6qsfp"
+    }
+  ]
+}
