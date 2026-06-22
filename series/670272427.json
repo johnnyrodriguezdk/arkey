@@ -16,7 +16,17 @@
   "slug": "el-dia-del-secuestro",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf1d2141f6db12dac4433ce19e88b28e913a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf1d2141f6db12dac4433ce19e88b28e913a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1d2141f6db12dac4433ce19e88b28e913a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
