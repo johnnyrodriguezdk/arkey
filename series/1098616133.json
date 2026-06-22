@@ -17,12 +17,57 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hfce2676788d4c82a80a3839f1d7ed859f3a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hfce2676788d4c82a80a3839f1d7ed859f3a/master.m3u8",
+      "url": "https://lalafilecdn.space/hfce2676788d4c82a80a3839f1d7ed859f3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfce2676788d4c82a80a3839f1d7ed859f3a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hfce2676788d4c82a80a3839f1d7ed859f3a"
+    },
+    {
+      "url": "https://streamfort.online/e/3b18qsb6zv0o",
+      "player_url": "https://streamfort.online/e/3b18qsb6zv0o",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3b18qsb6zv0o",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/klbgmfrcico6",
+      "player_url": "https://streamfort.online/e/klbgmfrcico6",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "klbgmfrcico6",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/1ppjm4m9sm4e",
+      "player_url": "https://streamfort.online/e/1ppjm4m9sm4e",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1ppjm4m9sm4e",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/0t8r9g33392l",
+      "player_url": "https://dsvplay.com/e/0t8r9g33392l",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0t8r9g33392l",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/rurv8b2v22eo",
+      "player_url": "https://dsvplay.com/e/rurv8b2v22eo",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rurv8b2v22eo",
+      "id": 6
     }
   ],
   "episodes": [
