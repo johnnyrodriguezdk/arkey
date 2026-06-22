@@ -13,7 +13,17 @@
   "slug": "the-newsreader",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf22503d7034147b130a380a15e6440ecb3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf22503d7034147b130a380a15e6440ecb3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf22503d7034147b130a380a15e6440ecb3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
