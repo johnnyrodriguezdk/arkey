@@ -15,7 +15,17 @@
   "slug": "welcome-to-irabus-office",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf25fd750a883d1cbef9baa3a02681e1203a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf25fd750a883d1cbef9baa3a02681e1203a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf25fd750a883d1cbef9baa3a02681e1203a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
