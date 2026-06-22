@@ -1,0 +1,54 @@
+{
+  "id": 449509013,
+  "titulo": "Almost Paradise",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/6281642964070c8fc6df23720ee81281.webp",
+  "release_date": "2020-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "crimen",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "A pesar de haberse jubilado, un ex agente de la DEA queda envuelto en un mundo lleno de peligros.",
+  "slug": "almost-paradise",
+  "iframe_url": "https://lacloud.live/hfd250e3278e44af3f79443e9201ff8a683a",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfd250e3278e44af3f79443e9201ff8a683a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfd250e3278e44af3f79443e9201ff8a683a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd250e3278e44af3f79443e9201ff8a683a"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/almost-paradise?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://lacloud.live/public/stream/hfd250e3278e44af3f79443e9201ff8a683a/master.m3u8",
+          "player_url": "https://lacloud.live/public/stream/hfd250e3278e44af3f79443e9201ff8a683a/master.m3u8",
+          "nombre": "LaCloud",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "hfd250e3278e44af3f79443e9201ff8a683a"
+        }
+      ]
+    }
+  ]
+}
