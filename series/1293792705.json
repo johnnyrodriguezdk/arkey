@@ -13,7 +13,17 @@
   "slug": "genius-einstein",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/1hpm2lqeeold",
+      "player_url": "https://streamfort.online/e/1hpm2lqeeold",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1hpm2lqeeold"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
