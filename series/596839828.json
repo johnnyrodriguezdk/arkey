@@ -14,7 +14,17 @@
   "slug": "cazar-asesinos",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/l98pp4skb0dk",
+      "player_url": "https://dsvplay.com/e/l98pp4skb0dk",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l98pp4skb0dk"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
