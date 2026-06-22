@@ -1,1 +1,192 @@
-{"id":1026821,"titulo":"The Storm","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/3CsivmtcjwMUvU0Mu7zZgnK9QaR.jpg","release_date":"2024-01-12","genres":[],"rating":"6.4","backdrop":"https://image.tmdb.org/t/p/original/qWRTIqDzxyOC6ndumxOngDMAHxl.jpg","overview":"Una encantadora y visualmente deslumbrante película de animación que combina emoción, humor y tradición. El cineasta Yang Zhigang rinde homenaje a la pintura con tinta china y al folclore de su ciudad natal, Hangzhou. En la mágica bahía del Gran Dragón, Coloso y el pequeño Panecillo emprenden una épica búsqueda del Arca Escénica, un mítico barco teatral hundido que guarda un tesoro legendario.","trailer":"","runtime":"102","slug":"the-storm","servidores":[{"id":1,"url":"https://streamwish.to/e/cr6f289k5t8x","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"cr6f289k5t8x","player_url":"https://streamwish.to/e/cr6f289k5t8x"},{"id":2,"url":"https://vidhidepro.com/v/l1torohsblx3","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"l1torohsblx3","player_url":"https://vidhidepro.com/v/l1torohsblx3"},{"id":3,"url":"https://voe.sx/e/noxrun7ft7aj","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"noxrun7ft7aj","player_url":"https://voe.sx/e/noxrun7ft7aj"},{"id":4,"url":"https://doodstream.com/e/2i0m773csg0q","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"2i0m773csg0q","player_url":"https://doodstream.com/e/2i0m773csg0q"},{"id":5,"url":"https://streamwish.to/e/ow586zbugdol","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ow586zbugdol","player_url":"https://streamwish.to/e/ow586zbugdol"},{"id":6,"url":"https://vidhidepro.com/v/ucltep9vcv7c","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ucltep9vcv7c","player_url":"https://vidhidepro.com/v/ucltep9vcv7c"},{"id":7,"url":"https://voe.sx/e/4cbv4k8wffvj","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"4cbv4k8wffvj","player_url":"https://voe.sx/e/4cbv4k8wffvj"}]}
+{
+  "id": 1026821,
+  "titulo": "The Storm",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/3CsivmtcjwMUvU0Mu7zZgnK9QaR.jpg",
+  "release_date": "2024-01-12",
+  "genres": [
+    "Animación",
+    "Fantasía",
+    "Acción",
+    "Aventura"
+  ],
+  "rating": "6.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/qWRTIqDzxyOC6ndumxOngDMAHxl.jpg",
+  "overview": "Una encantadora y visualmente deslumbrante película de animación que combina emoción, humor y tradición. El cineasta Yang Zhigang rinde homenaje a la pintura con tinta china y al folclore de su ciudad natal, Hangzhou. En la mágica bahía del Gran Dragón, Coloso y el pequeño Panecillo emprenden una épica búsqueda del Arca Escénica, un mítico barco teatral hundido que guarda un tesoro legendario.",
+  "trailer": "",
+  "runtime": "102",
+  "slug": "the-storm",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/cr6f289k5t8x",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cr6f289k5t8x",
+      "player_url": "https://streamwish.to/e/cr6f289k5t8x"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/l1torohsblx3",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "l1torohsblx3",
+      "player_url": "https://vidhidepro.com/v/l1torohsblx3"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/noxrun7ft7aj",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "noxrun7ft7aj",
+      "player_url": "https://voe.sx/e/noxrun7ft7aj"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/2i0m773csg0q",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "2i0m773csg0q",
+      "player_url": "https://doodstream.com/e/2i0m773csg0q"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/ow586zbugdol",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ow586zbugdol",
+      "player_url": "https://streamwish.to/e/ow586zbugdol"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/ucltep9vcv7c",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ucltep9vcv7c",
+      "player_url": "https://vidhidepro.com/v/ucltep9vcv7c"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/4cbv4k8wffvj",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "4cbv4k8wffvj",
+      "player_url": "https://voe.sx/e/4cbv4k8wffvj"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/ngjjirrrjk5n",
+      "player_url": "https://minochinos.com/embed/ngjjirrrjk5n",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ngjjirrrjk5n"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/s2sebj93en7a",
+      "player_url": "https://hglink.to/e/s2sebj93en7a",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s2sebj93en7a"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/8cslslk3o5vv",
+      "player_url": "https://bysedikamoum.com/e/8cslslk3o5vv",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8cslslk3o5vv"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/5losy9ed0zp6",
+      "player_url": "https://voe.sx/e/5losy9ed0zp6",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5losy9ed0zp6"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/5losy9ed0zp6/download",
+      "player_url": "https://voe.sx/5losy9ed0zp6/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/rxibf3paw2el",
+      "player_url": "https://rapidvideo.link/e/rxibf3paw2el",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rxibf3paw2el"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/8hietjac5j03",
+      "player_url": "https://minochinos.com/embed/8hietjac5j03",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "8hietjac5j03"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/x88acjmilrsd",
+      "player_url": "https://hglink.to/e/x88acjmilrsd",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "x88acjmilrsd"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/ehg81x3a37di",
+      "player_url": "https://bysedikamoum.com/e/ehg81x3a37di",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "ehg81x3a37di"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/xz95s1f9lb0m",
+      "player_url": "https://voe.sx/e/xz95s1f9lb0m",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "xz95s1f9lb0m"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/xz95s1f9lb0m/download",
+      "player_url": "https://voe.sx/xz95s1f9lb0m/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/elza4y6bsdh2",
+      "player_url": "https://rapidvideo.link/e/elza4y6bsdh2",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "elza4y6bsdh2"
+    }
+  ]
+}
