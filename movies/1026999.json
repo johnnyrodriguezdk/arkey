@@ -1,1 +1,254 @@
-{"id":1026999,"titulo":"La Academia del Sr. Kleks","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg","release_date":"2024-01-05","genres":[],"rating":"6.0","backdrop":"https://image.tmdb.org/t/p/original/w2zsNG7WKBMH35QqcFYILEAdYDU.jpg","overview":"Para dar con su padre, una chica que aparenta normalidad acepta la invitación de asistir a una universidad mágica dirigida por un excéntrico maestro, el Sr. Kleks.","trailer":"","runtime":"129","slug":"la-academia-del-sr-kleks","servidores":[{"id":1,"url":"https://streamwish.to/e/k6rvivdcsmd8","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"k6rvivdcsmd8","player_url":"https://streamwish.to/e/k6rvivdcsmd8"},{"id":2,"url":"https://bysejikuar.com/e/euy6anwqe4hk","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"euy6anwqe4hk","player_url":"https://bysejikuar.com/e/euy6anwqe4hk"},{"id":3,"url":"https://vidhidepro.com/v/lthn3v3qc7rf","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"lthn3v3qc7rf","player_url":"https://vidhidepro.com/v/lthn3v3qc7rf"},{"id":4,"url":"https://voe.sx/e/jwjecptyihpt","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"jwjecptyihpt","player_url":"https://voe.sx/e/jwjecptyihpt"},{"id":5,"url":"https://doodstream.com/e/smqwjwcc7gug","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"smqwjwcc7gug","player_url":"https://doodstream.com/e/smqwjwcc7gug"},{"id":6,"url":"https://streamwish.to/e/nr07dlblriyi","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"nr07dlblriyi","player_url":"https://streamwish.to/e/nr07dlblriyi"},{"id":7,"url":"https://bysejikuar.com/e/zxodi7zmkd4n","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"zxodi7zmkd4n","player_url":"https://bysejikuar.com/e/zxodi7zmkd4n"},{"id":8,"url":"https://vidhidepro.com/v/ig1nrc3xkq09","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ig1nrc3xkq09","player_url":"https://vidhidepro.com/v/ig1nrc3xkq09"},{"id":9,"url":"https://doodstream.com/e/aeqeoj19kpa6","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"aeqeoj19kpa6","player_url":"https://doodstream.com/e/aeqeoj19kpa6"}]}
+{
+  "id": 1026999,
+  "titulo": "La Academia del Sr. Kleks",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg",
+  "release_date": "2024-01-05",
+  "genres": [
+    "Fantasía",
+    "Aventura",
+    "Familia"
+  ],
+  "rating": "6.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/w2zsNG7WKBMH35QqcFYILEAdYDU.jpg",
+  "overview": "Para dar con su padre, una chica que aparenta normalidad acepta la invitación de asistir a una universidad mágica dirigida por un excéntrico maestro, el Sr. Kleks.",
+  "trailer": "",
+  "runtime": "129",
+  "slug": "la-academia-del-sr-kleks",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/k6rvivdcsmd8",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "k6rvivdcsmd8",
+      "player_url": "https://streamwish.to/e/k6rvivdcsmd8"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/euy6anwqe4hk",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "euy6anwqe4hk",
+      "player_url": "https://bysejikuar.com/e/euy6anwqe4hk"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/lthn3v3qc7rf",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "lthn3v3qc7rf",
+      "player_url": "https://vidhidepro.com/v/lthn3v3qc7rf"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/jwjecptyihpt",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jwjecptyihpt",
+      "player_url": "https://voe.sx/e/jwjecptyihpt"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/smqwjwcc7gug",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "smqwjwcc7gug",
+      "player_url": "https://doodstream.com/e/smqwjwcc7gug"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/nr07dlblriyi",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "nr07dlblriyi",
+      "player_url": "https://streamwish.to/e/nr07dlblriyi"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/zxodi7zmkd4n",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "zxodi7zmkd4n",
+      "player_url": "https://bysejikuar.com/e/zxodi7zmkd4n"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/ig1nrc3xkq09",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ig1nrc3xkq09",
+      "player_url": "https://vidhidepro.com/v/ig1nrc3xkq09"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/aeqeoj19kpa6",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "aeqeoj19kpa6",
+      "player_url": "https://doodstream.com/e/aeqeoj19kpa6"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/pn4txtgjatxk",
+      "player_url": "https://minochinos.com/embed/pn4txtgjatxk",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pn4txtgjatxk"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/njfy92vgm9ps",
+      "player_url": "https://hglink.to/e/njfy92vgm9ps",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "njfy92vgm9ps"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/1zuhwid7mf6b",
+      "player_url": "https://bysedikamoum.com/e/1zuhwid7mf6b",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1zuhwid7mf6b"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/b9nkc2cw29an",
+      "player_url": "https://voe.sx/e/b9nkc2cw29an",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b9nkc2cw29an"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/b9nkc2cw29an/download",
+      "player_url": "https://voe.sx/b9nkc2cw29an/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/zu6hjepbcmql",
+      "player_url": "https://rapidvideo.link/e/zu6hjepbcmql",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zu6hjepbcmql"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/m78kw2udrg2g",
+      "player_url": "https://minochinos.com/embed/m78kw2udrg2g",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m78kw2udrg2g"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/0kjbmjzml9x9",
+      "player_url": "https://hglink.to/e/0kjbmjzml9x9",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0kjbmjzml9x9"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/nf5siny6v6p7",
+      "player_url": "https://bysedikamoum.com/e/nf5siny6v6p7",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nf5siny6v6p7"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/nyc9jrdddqh3",
+      "player_url": "https://voe.sx/e/nyc9jrdddqh3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nyc9jrdddqh3"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/5a2b38dp0vmr",
+      "player_url": "https://rapidvideo.link/e/5a2b38dp0vmr",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5a2b38dp0vmr"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/ifdq14olqulj",
+      "player_url": "https://minochinos.com/embed/ifdq14olqulj",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ifdq14olqulj"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/xgwt5xed4jvu",
+      "player_url": "https://hglink.to/e/xgwt5xed4jvu",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xgwt5xed4jvu"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/esicz3wjz7by",
+      "player_url": "https://bysedikamoum.com/e/esicz3wjz7by",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "esicz3wjz7by"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/h1mm9sxwjscr",
+      "player_url": "https://voe.sx/e/h1mm9sxwjscr",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "h1mm9sxwjscr"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/h1mm9sxwjscr/download",
+      "player_url": "https://voe.sx/h1mm9sxwjscr/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/l3fiy8nk0o15",
+      "player_url": "https://rapidvideo.link/e/l3fiy8nk0o15",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l3fiy8nk0o15"
+    }
+  ]
+}
