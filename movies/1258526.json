@@ -1,1 +1,216 @@
-{"id":1258526,"titulo":"Half Baked: Totally High","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/o9EyKeQ7tcmNfO96t58T8jNvK0N.jpg","release_date":"2024-07-03","genres":[],"rating":"6.8","backdrop":"https://image.tmdb.org/t/p/original/bUDJwVHp5WDqTXvgP4g5ztP1nrk.jpg","overview":"Tres fumetas venden una variedad de hierba mágica para recaudar fondos para el funeral de su amigo.","trailer":"","runtime":"97","slug":"half-baked-totally-high","servidores":[{"id":1,"url":"https://streamwish.to/e/irz48rc87ffg","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"irz48rc87ffg","player_url":"https://streamwish.to/e/irz48rc87ffg"},{"id":2,"url":"https://bysejikuar.com/e/t7tj4st02q9y","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"t7tj4st02q9y","player_url":"https://bysejikuar.com/e/t7tj4st02q9y"},{"id":3,"url":"https://vidhidepro.com/v/yysradl5rabr","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"yysradl5rabr","player_url":"https://vidhidepro.com/v/yysradl5rabr"},{"id":4,"url":"https://voe.sx/e/tbsewpblmq6h","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"tbsewpblmq6h","player_url":"https://voe.sx/e/tbsewpblmq6h"},{"id":5,"url":"https://doodstream.com/e/24yi13trwd3s","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"24yi13trwd3s","player_url":"https://doodstream.com/e/24yi13trwd3s"},{"id":6,"url":"https://streamwish.to/e/tmvumgpku58e","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"tmvumgpku58e","player_url":"https://streamwish.to/e/tmvumgpku58e"},{"id":7,"url":"https://bysejikuar.com/e/fqm2gxui15gs","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"fqm2gxui15gs","player_url":"https://bysejikuar.com/e/fqm2gxui15gs"},{"id":8,"url":"https://vidhidepro.com/v/mftpgx5kabco","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"mftpgx5kabco","player_url":"https://vidhidepro.com/v/mftpgx5kabco"},{"id":9,"url":"https://voe.sx/e/j4i3mhjuystq","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"j4i3mhjuystq","player_url":"https://voe.sx/e/j4i3mhjuystq"},{"id":10,"url":"https://doodstream.com/e/5dnsdnv20un0","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"5dnsdnv20un0","player_url":"https://doodstream.com/e/5dnsdnv20un0"}]}
+{
+  "id": 1258526,
+  "titulo": "Half Baked: Totally High",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/o9EyKeQ7tcmNfO96t58T8jNvK0N.jpg",
+  "release_date": "2024-07-03",
+  "genres": [
+    "Comedia"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/bUDJwVHp5WDqTXvgP4g5ztP1nrk.jpg",
+  "overview": "Tres fumetas venden una variedad de hierba mágica para recaudar fondos para el funeral de su amigo.",
+  "trailer": "",
+  "runtime": "97",
+  "slug": "half-baked-totally-high",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/irz48rc87ffg",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "irz48rc87ffg",
+      "player_url": "https://streamwish.to/e/irz48rc87ffg"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/t7tj4st02q9y",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "t7tj4st02q9y",
+      "player_url": "https://bysejikuar.com/e/t7tj4st02q9y"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/yysradl5rabr",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "yysradl5rabr",
+      "player_url": "https://vidhidepro.com/v/yysradl5rabr"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/tbsewpblmq6h",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "tbsewpblmq6h",
+      "player_url": "https://voe.sx/e/tbsewpblmq6h"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/24yi13trwd3s",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "24yi13trwd3s",
+      "player_url": "https://doodstream.com/e/24yi13trwd3s"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/tmvumgpku58e",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "tmvumgpku58e",
+      "player_url": "https://streamwish.to/e/tmvumgpku58e"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/fqm2gxui15gs",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "fqm2gxui15gs",
+      "player_url": "https://bysejikuar.com/e/fqm2gxui15gs"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/mftpgx5kabco",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mftpgx5kabco",
+      "player_url": "https://vidhidepro.com/v/mftpgx5kabco"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/j4i3mhjuystq",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "j4i3mhjuystq",
+      "player_url": "https://voe.sx/e/j4i3mhjuystq"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/5dnsdnv20un0",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "5dnsdnv20un0",
+      "player_url": "https://doodstream.com/e/5dnsdnv20un0"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/gi575yv69rbw",
+      "player_url": "https://minochinos.com/embed/gi575yv69rbw",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gi575yv69rbw"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/9ny2a1lbqe70",
+      "player_url": "https://hglink.to/e/9ny2a1lbqe70",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9ny2a1lbqe70"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/5tihdgs9vmzi",
+      "player_url": "https://bysedikamoum.com/e/5tihdgs9vmzi",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5tihdgs9vmzi"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/hc8rlfdijtsi",
+      "player_url": "https://voe.sx/e/hc8rlfdijtsi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hc8rlfdijtsi"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/hc8rlfdijtsi/download",
+      "player_url": "https://voe.sx/hc8rlfdijtsi/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/ej74xyoz6sla",
+      "player_url": "https://rapidvideo.link/e/ej74xyoz6sla",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ej74xyoz6sla"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/1rbjxmn9nmc2",
+      "player_url": "https://minochinos.com/embed/1rbjxmn9nmc2",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1rbjxmn9nmc2"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/gqdwctmozqkw",
+      "player_url": "https://hglink.to/e/gqdwctmozqkw",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gqdwctmozqkw"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/ymu7i2naz65u",
+      "player_url": "https://bysedikamoum.com/e/ymu7i2naz65u",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ymu7i2naz65u"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/idtnpeygtbbw",
+      "player_url": "https://voe.sx/e/idtnpeygtbbw",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "idtnpeygtbbw"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/idtnpeygtbbw/download",
+      "player_url": "https://voe.sx/idtnpeygtbbw/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/kr4stcfi6lpj",
+      "player_url": "https://rapidvideo.link/e/kr4stcfi6lpj",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kr4stcfi6lpj"
+    }
+  ]
+}
