@@ -14,7 +14,17 @@
   "slug": "vaya-tela-sam",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/vvp6362dx1ha",
+      "player_url": "https://dsvplay.com/e/vvp6362dx1ha",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vvp6362dx1ha"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
