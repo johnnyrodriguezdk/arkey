@@ -1,1 +1,261 @@
-{"id":1101448,"titulo":"Imparable: La historia de Anthony Robles","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/w3swjJTjwE5NvaS9JebxA4lSUi7.jpg","release_date":"2024-12-06","genres":["drama"],"rating":"5.2","backdrop":"https://image.tmdb.org/t/p/original/nxZDr6UZIhgYJev4yUzWTPZXQ3G.jpg","overview":"Es la inspiradora historia real de Anthony Robles quien nació con solo una pierna, pero cuyo espíritu indomable y determinación inquebrantable le dieron la fuerza para desafiar lo imposible y perseguir sus sueños.","trailer":"","runtime":"123","slug":"imparable-la-historia-de-anthony-robles","servidores":[{"id":1,"url":"https://streamwish.to/e/a4330ervyl65","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"a4330ervyl65","player_url":"https://streamwish.to/e/a4330ervyl65"},{"id":2,"url":"https://vidhidepro.com/v/9ji2a5lg7zhh","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"9ji2a5lg7zhh","player_url":"https://vidhidepro.com/v/9ji2a5lg7zhh"},{"id":3,"url":"https://voe.sx/e/awyanhpr3qhk","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"awyanhpr3qhk","player_url":"https://voe.sx/e/awyanhpr3qhk"},{"id":4,"url":"https://doodstream.com/e/shjsclfq6m9n","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"shjsclfq6m9n","player_url":"https://doodstream.com/e/shjsclfq6m9n"},{"id":5,"url":"https://streamwish.to/e/u7hzjqafemqd","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"u7hzjqafemqd","player_url":"https://streamwish.to/e/u7hzjqafemqd"},{"id":6,"url":"https://vidhidepro.com/v/hg20uyjtn25x","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"hg20uyjtn25x","player_url":"https://vidhidepro.com/v/hg20uyjtn25x"},{"id":7,"url":"https://doodstream.com/e/q29vq1s5cayz","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"q29vq1s5cayz","player_url":"https://doodstream.com/e/q29vq1s5cayz"},{"id":8,"url":"https://streamwish.to/e/zv8pzmherp2m","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"zv8pzmherp2m","player_url":"https://streamwish.to/e/zv8pzmherp2m"},{"id":9,"url":"https://vidhidepro.com/v/vjbcga3d65le","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"vjbcga3d65le","player_url":"https://vidhidepro.com/v/vjbcga3d65le"},{"id":10,"url":"https://doodstream.com/e/ckwuvr090jie","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"ckwuvr090jie","player_url":"https://doodstream.com/e/ckwuvr090jie"}]}
+{
+  "id": 1101448,
+  "titulo": "Imparable: La historia de Anthony Robles",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/w3swjJTjwE5NvaS9JebxA4lSUi7.jpg",
+  "release_date": "2024-12-06",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/nxZDr6UZIhgYJev4yUzWTPZXQ3G.jpg",
+  "overview": "Es la inspiradora historia real de Anthony Robles quien nació con solo una pierna, pero cuyo espíritu indomable y determinación inquebrantable le dieron la fuerza para desafiar lo imposible y perseguir sus sueños.",
+  "trailer": "",
+  "runtime": "123",
+  "slug": "imparable-la-historia-de-anthony-robles",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/a4330ervyl65",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "a4330ervyl65",
+      "player_url": "https://streamwish.to/e/a4330ervyl65"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/9ji2a5lg7zhh",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "9ji2a5lg7zhh",
+      "player_url": "https://vidhidepro.com/v/9ji2a5lg7zhh"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/awyanhpr3qhk",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "awyanhpr3qhk",
+      "player_url": "https://voe.sx/e/awyanhpr3qhk"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/shjsclfq6m9n",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "shjsclfq6m9n",
+      "player_url": "https://doodstream.com/e/shjsclfq6m9n"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/u7hzjqafemqd",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "u7hzjqafemqd",
+      "player_url": "https://streamwish.to/e/u7hzjqafemqd"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/hg20uyjtn25x",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "hg20uyjtn25x",
+      "player_url": "https://vidhidepro.com/v/hg20uyjtn25x"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/q29vq1s5cayz",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "q29vq1s5cayz",
+      "player_url": "https://doodstream.com/e/q29vq1s5cayz"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/zv8pzmherp2m",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zv8pzmherp2m",
+      "player_url": "https://streamwish.to/e/zv8pzmherp2m"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/vjbcga3d65le",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "vjbcga3d65le",
+      "player_url": "https://vidhidepro.com/v/vjbcga3d65le"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/ckwuvr090jie",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ckwuvr090jie",
+      "player_url": "https://doodstream.com/e/ckwuvr090jie"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/leizsbqueq5a",
+      "player_url": "https://minochinos.com/embed/leizsbqueq5a",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "leizsbqueq5a"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/6qw72uysf0yu",
+      "player_url": "https://hglink.to/e/6qw72uysf0yu",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6qw72uysf0yu"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/c72h9nemlx2m",
+      "player_url": "https://bysedikamoum.com/e/c72h9nemlx2m",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c72h9nemlx2m"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/xtqqqcwsiuzi",
+      "player_url": "https://voe.sx/e/xtqqqcwsiuzi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xtqqqcwsiuzi"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/xtqqqcwsiuzi/download",
+      "player_url": "https://voe.sx/xtqqqcwsiuzi/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/z3q9xuwy5s1c",
+      "player_url": "https://rapidvideo.link/e/z3q9xuwy5s1c",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z3q9xuwy5s1c"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/dsm7899zvcx9",
+      "player_url": "https://minochinos.com/embed/dsm7899zvcx9",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dsm7899zvcx9"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/u7ymitp9335w",
+      "player_url": "https://hglink.to/e/u7ymitp9335w",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u7ymitp9335w"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/3d7od3anfb1w",
+      "player_url": "https://bysedikamoum.com/e/3d7od3anfb1w",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3d7od3anfb1w"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/etvbiwqd8xck",
+      "player_url": "https://voe.sx/e/etvbiwqd8xck",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "etvbiwqd8xck"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/g7hz8emcl9ny",
+      "player_url": "https://rapidvideo.link/e/g7hz8emcl9ny",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g7hz8emcl9ny"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/p78qzl7pkxle",
+      "player_url": "https://minochinos.com/embed/p78qzl7pkxle",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "p78qzl7pkxle"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/d3bnsydm0s5s",
+      "player_url": "https://hglink.to/e/d3bnsydm0s5s",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "d3bnsydm0s5s"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/nmox798k0txl",
+      "player_url": "https://bysedikamoum.com/e/nmox798k0txl",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "nmox798k0txl"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/cc5s9yprxuhf",
+      "player_url": "https://voe.sx/e/cc5s9yprxuhf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cc5s9yprxuhf"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/cc5s9yprxuhf/download",
+      "player_url": "https://voe.sx/cc5s9yprxuhf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/7w9ro136ymk0",
+      "player_url": "https://rapidvideo.link/e/7w9ro136ymk0",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7w9ro136ymk0"
+    }
+  ]
+}
