@@ -13,7 +13,17 @@
   "slug": "un-lugar-para-soar",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/0qhot6r8ql4p",
+      "player_url": "https://streamfort.online/e/0qhot6r8ql4p",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0qhot6r8ql4p"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
