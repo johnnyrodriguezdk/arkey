@@ -1,1 +1,235 @@
-{"id":1100099,"titulo":"El Tiempo Que Tenemos","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/sKIoleUo0rav5rwJ9erG4faCpev.jpg","release_date":"2024-10-10","genres":["romance","drama"],"rating":"7.2","backdrop":"https://image.tmdb.org/t/p/original/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg","overview":"Una historia de amor eterna protagonizada por los nominados al Premio de la Academia© Florence Pugh y Andrew Garfield.","trailer":"","runtime":"108","slug":"el-tiempo-que-tenemos","servidores":[{"id":1,"url":"https://streamwish.to/e/bkcihd44zdxn","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"bkcihd44zdxn","player_url":"https://streamwish.to/e/bkcihd44zdxn"},{"id":2,"url":"https://vidhidepro.com/v/tdu91d71ji1n","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"tdu91d71ji1n","player_url":"https://vidhidepro.com/v/tdu91d71ji1n"},{"id":3,"url":"https://doodstream.com/e/if9iymsjdcg0","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"if9iymsjdcg0","player_url":"https://doodstream.com/e/if9iymsjdcg0"},{"id":4,"url":"https://streamwish.to/e/xqjjxh9svz74","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"xqjjxh9svz74","player_url":"https://streamwish.to/e/xqjjxh9svz74"},{"id":5,"url":"https://bysejikuar.com/e/xoonpakvr69e","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"xoonpakvr69e","player_url":"https://bysejikuar.com/e/xoonpakvr69e"},{"id":6,"url":"https://vidhidepro.com/v/yobo2j3er8bb","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"yobo2j3er8bb","player_url":"https://vidhidepro.com/v/yobo2j3er8bb"},{"id":7,"url":"https://doodstream.com/e/vgdtixadkwhq","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"vgdtixadkwhq","player_url":"https://doodstream.com/e/vgdtixadkwhq"}]}
+{
+  "id": 1100099,
+  "titulo": "El Tiempo Que Tenemos",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/sKIoleUo0rav5rwJ9erG4faCpev.jpg",
+  "release_date": "2024-10-10",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "7.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+  "overview": "Una historia de amor eterna protagonizada por los nominados al Premio de la Academia© Florence Pugh y Andrew Garfield.",
+  "trailer": "",
+  "runtime": "108",
+  "slug": "el-tiempo-que-tenemos",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/bkcihd44zdxn",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "bkcihd44zdxn",
+      "player_url": "https://streamwish.to/e/bkcihd44zdxn"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/tdu91d71ji1n",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "tdu91d71ji1n",
+      "player_url": "https://vidhidepro.com/v/tdu91d71ji1n"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/if9iymsjdcg0",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "if9iymsjdcg0",
+      "player_url": "https://doodstream.com/e/if9iymsjdcg0"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/xqjjxh9svz74",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "xqjjxh9svz74",
+      "player_url": "https://streamwish.to/e/xqjjxh9svz74"
+    },
+    {
+      "id": 5,
+      "url": "https://bysejikuar.com/e/xoonpakvr69e",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "xoonpakvr69e",
+      "player_url": "https://bysejikuar.com/e/xoonpakvr69e"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/yobo2j3er8bb",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "yobo2j3er8bb",
+      "player_url": "https://vidhidepro.com/v/yobo2j3er8bb"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/vgdtixadkwhq",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "vgdtixadkwhq",
+      "player_url": "https://doodstream.com/e/vgdtixadkwhq"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/l0ditv6ot7ux",
+      "player_url": "https://minochinos.com/embed/l0ditv6ot7ux",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l0ditv6ot7ux"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/mujiil62ed31",
+      "player_url": "https://hglink.to/e/mujiil62ed31",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mujiil62ed31"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/h61gjthc3bar",
+      "player_url": "https://bysedikamoum.com/e/h61gjthc3bar",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h61gjthc3bar"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/wwuczmalhogz",
+      "player_url": "https://voe.sx/e/wwuczmalhogz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wwuczmalhogz"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/wwuczmalhogz/download",
+      "player_url": "https://voe.sx/wwuczmalhogz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/js41fwqzot62",
+      "player_url": "https://rapidvideo.link/e/js41fwqzot62",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "js41fwqzot62"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/4ndipaf66hcc",
+      "player_url": "https://minochinos.com/embed/4ndipaf66hcc",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4ndipaf66hcc"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/76a9zo9dthne",
+      "player_url": "https://hglink.to/e/76a9zo9dthne",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "76a9zo9dthne"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/kjp6znva8gv8",
+      "player_url": "https://bysedikamoum.com/e/kjp6znva8gv8",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kjp6znva8gv8"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/q0g6mywagn9p",
+      "player_url": "https://voe.sx/e/q0g6mywagn9p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q0g6mywagn9p"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/p37mq4cwj0uo",
+      "player_url": "https://rapidvideo.link/e/p37mq4cwj0uo",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p37mq4cwj0uo"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/mz07qyob798p",
+      "player_url": "https://minochinos.com/embed/mz07qyob798p",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mz07qyob798p"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/gmmdcsdhlh8z",
+      "player_url": "https://hglink.to/e/gmmdcsdhlh8z",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gmmdcsdhlh8z"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/jxp4ahymzn05",
+      "player_url": "https://bysedikamoum.com/e/jxp4ahymzn05",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jxp4ahymzn05"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/w52td8fobvwd",
+      "player_url": "https://voe.sx/e/w52td8fobvwd",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "w52td8fobvwd"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/w52td8fobvwd/download",
+      "player_url": "https://voe.sx/w52td8fobvwd/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/o9zt2fwup7dj",
+      "player_url": "https://rapidvideo.link/e/o9zt2fwup7dj",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "o9zt2fwup7dj"
+    }
+  ]
+}
