@@ -15,7 +15,17 @@
   "slug": "antracita",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf716de684b899adeca1fd708bbb9f51413a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf716de684b899adeca1fd708bbb9f51413a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf716de684b899adeca1fd708bbb9f51413a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
