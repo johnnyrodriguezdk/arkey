@@ -9,7 +9,7 @@
   ],
   "rating": "7.1",
   "backdrop": "https://image.tmdb.org/t/p/original/eVXBp5BBskAj0RJ6pDSNPcBs1uI.jpg",
-  "overview": "Un hombre al que su prometida deja plantado en el altar en Italia decide irse solo de luna de miel.",
+  "overview": "After Matt&#039;s dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Ital",
   "trailer": "",
   "runtime": "96",
   "slug": "solo-mio",
@@ -193,6 +193,15 @@
       "idioma": "subtitulado",
       "calidad": "HD",
       "embed_id": "xq3vdzsbe71j"
+    },
+    {
+      "id": 21,
+      "url": "https://lacloud.live/public/stream/09c55ba135d5db6a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/09c55ba135d5db6a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "09c55ba135d5db6a"
     }
   ]
 }
