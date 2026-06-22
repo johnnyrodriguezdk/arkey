@@ -1,1 +1,216 @@
-{"id":1072693,"titulo":"La belleza y el enigma vuelven","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/vAKgqTeBMOS9saeQiYQlMtKCnDC.jpg","release_date":"2024-08-09","genres":["romance"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/qWyNNd4uAr8tta2Hd5Toiz14fVl.jpg","overview":"Mientras evaden a la policía en Agra, Rani y Rishu planean huir juntos. Pero cuando sus planes se tuercen, Rani pide ayuda a un apacible admirador.","trailer":"","runtime":"133","slug":"la-belleza-y-el-enigma-vuelven","servidores":[{"id":1,"url":"https://streamwish.to/e/tmn66doovzk5","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"tmn66doovzk5","player_url":"https://streamwish.to/e/tmn66doovzk5"},{"id":2,"url":"https://bysejikuar.com/e/g9xrdwqni73e","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"g9xrdwqni73e","player_url":"https://bysejikuar.com/e/g9xrdwqni73e"},{"id":3,"url":"https://vidhidepro.com/v/lb1m70sk4qv5","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"lb1m70sk4qv5","player_url":"https://vidhidepro.com/v/lb1m70sk4qv5"},{"id":4,"url":"https://voe.sx/e/o2fuzc4x2oqh","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"o2fuzc4x2oqh","player_url":"https://voe.sx/e/o2fuzc4x2oqh"},{"id":5,"url":"https://doodstream.com/e/xmklh1jeyppv","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"xmklh1jeyppv","player_url":"https://doodstream.com/e/xmklh1jeyppv"},{"id":6,"url":"https://streamwish.to/e/xvavmn9f0qxc","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"xvavmn9f0qxc","player_url":"https://streamwish.to/e/xvavmn9f0qxc"},{"id":7,"url":"https://bysejikuar.com/e/drc3inmlg2cy","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"drc3inmlg2cy","player_url":"https://bysejikuar.com/e/drc3inmlg2cy"},{"id":8,"url":"https://vidhidepro.com/v/a3qh61h3tht2","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"a3qh61h3tht2","player_url":"https://vidhidepro.com/v/a3qh61h3tht2"},{"id":9,"url":"https://voe.sx/e/vbrcsd4gsxao","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"vbrcsd4gsxao","player_url":"https://voe.sx/e/vbrcsd4gsxao"},{"id":10,"url":"https://doodstream.com/e/6y7ro58qcsb4","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"6y7ro58qcsb4","player_url":"https://doodstream.com/e/6y7ro58qcsb4"}]}
+{
+  "id": 1072693,
+  "titulo": "La belleza y el enigma vuelven",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/vAKgqTeBMOS9saeQiYQlMtKCnDC.jpg",
+  "release_date": "2024-08-09",
+  "genres": [
+    "romance"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/qWyNNd4uAr8tta2Hd5Toiz14fVl.jpg",
+  "overview": "Mientras evaden a la policía en Agra, Rani y Rishu planean huir juntos. Pero cuando sus planes se tuercen, Rani pide ayuda a un apacible admirador.",
+  "trailer": "",
+  "runtime": "133",
+  "slug": "la-belleza-y-el-enigma-vuelven",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/tmn66doovzk5",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "tmn66doovzk5",
+      "player_url": "https://streamwish.to/e/tmn66doovzk5"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/g9xrdwqni73e",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "g9xrdwqni73e",
+      "player_url": "https://bysejikuar.com/e/g9xrdwqni73e"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/lb1m70sk4qv5",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "lb1m70sk4qv5",
+      "player_url": "https://vidhidepro.com/v/lb1m70sk4qv5"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/o2fuzc4x2oqh",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "o2fuzc4x2oqh",
+      "player_url": "https://voe.sx/e/o2fuzc4x2oqh"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/xmklh1jeyppv",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "xmklh1jeyppv",
+      "player_url": "https://doodstream.com/e/xmklh1jeyppv"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/xvavmn9f0qxc",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "xvavmn9f0qxc",
+      "player_url": "https://streamwish.to/e/xvavmn9f0qxc"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/drc3inmlg2cy",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "drc3inmlg2cy",
+      "player_url": "https://bysejikuar.com/e/drc3inmlg2cy"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/a3qh61h3tht2",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "a3qh61h3tht2",
+      "player_url": "https://vidhidepro.com/v/a3qh61h3tht2"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/vbrcsd4gsxao",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vbrcsd4gsxao",
+      "player_url": "https://voe.sx/e/vbrcsd4gsxao"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/6y7ro58qcsb4",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "6y7ro58qcsb4",
+      "player_url": "https://doodstream.com/e/6y7ro58qcsb4"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/o34ck8njcok1",
+      "player_url": "https://minochinos.com/embed/o34ck8njcok1",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o34ck8njcok1"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/5f8kplshe6pt",
+      "player_url": "https://hglink.to/e/5f8kplshe6pt",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5f8kplshe6pt"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/g5m7ww2dbaxp",
+      "player_url": "https://bysedikamoum.com/e/g5m7ww2dbaxp",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g5m7ww2dbaxp"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/4aklmbslrr3o",
+      "player_url": "https://voe.sx/e/4aklmbslrr3o",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4aklmbslrr3o"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/4aklmbslrr3o/download",
+      "player_url": "https://voe.sx/4aklmbslrr3o/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/0pds3ekv1rn7",
+      "player_url": "https://rapidvideo.link/e/0pds3ekv1rn7",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0pds3ekv1rn7"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/vvawpplh6whp",
+      "player_url": "https://minochinos.com/embed/vvawpplh6whp",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vvawpplh6whp"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/ooz7aaimc3ds",
+      "player_url": "https://hglink.to/e/ooz7aaimc3ds",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ooz7aaimc3ds"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/q5warsqsol6g",
+      "player_url": "https://bysedikamoum.com/e/q5warsqsol6g",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "q5warsqsol6g"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/mmbxjuxbgxcz",
+      "player_url": "https://voe.sx/e/mmbxjuxbgxcz",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mmbxjuxbgxcz"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/mmbxjuxbgxcz/download",
+      "player_url": "https://voe.sx/mmbxjuxbgxcz/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/13hlri7pvtwj",
+      "player_url": "https://rapidvideo.link/e/13hlri7pvtwj",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "13hlri7pvtwj"
+    }
+  ]
+}
