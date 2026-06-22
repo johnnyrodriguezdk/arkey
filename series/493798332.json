@@ -13,7 +13,17 @@
   "slug": "club-estambul",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/ui76ks7oiefg",
+      "player_url": "https://streamfort.online/e/ui76ks7oiefg",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ui76ks7oiefg"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
