@@ -15,7 +15,17 @@
   "slug": "monstruos-a-la-obra",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf04dd87f4b5dc244db1224a47a216dfc03a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf04dd87f4b5dc244db1224a47a216dfc03a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf04dd87f4b5dc244db1224a47a216dfc03a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
