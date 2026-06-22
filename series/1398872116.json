@@ -18,12 +18,39 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hfaca2c68009422a31c61afc4ca29dedd13a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hfaca2c68009422a31c61afc4ca29dedd13a/master.m3u8",
+      "url": "https://lalafilecdn.space/hfaca2c68009422a31c61afc4ca29dedd13a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfaca2c68009422a31c61afc4ca29dedd13a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hfaca2c68009422a31c61afc4ca29dedd13a"
+    },
+    {
+      "url": "https://streamfort.online/e/er8zeq3wfqyp",
+      "player_url": "https://streamfort.online/e/er8zeq3wfqyp",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r8zeq3wfqyp",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/sottoc1ggn1p",
+      "player_url": "https://vidnova.online/embed/sottoc1ggn1p",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sottoc1ggn1p",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/cax5kfiaz2a8",
+      "player_url": "https://dsvplay.com/e/cax5kfiaz2a8",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cax5kfiaz2a8",
+      "id": 4
     }
   ],
   "episodes": [
