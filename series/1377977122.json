@@ -1,0 +1,35 @@
+{
+  "id": 1377977122,
+  "titulo": "Los asesinos de Colosio",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/08bc6a3cf0983489f86e2c1c24719a22.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "crimen",
+    "documental"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Explora el asesinato del candidato presidencial Luis Donaldo Colosio ocurrido el 23 de marzo de 1994 en Lomas Taurinas, Tijuana. Accede a expedientes descla",
+  "slug": "los-asesinos-de-colosio",
+  "iframe_url": "https://lacloud.live/dae11ba02f8d07d7",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/dae11ba02f8d07d7/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/dae11ba02f8d07d7/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dae11ba02f8d07d7"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/los-asesinos-de-colosio?season=1&ep=1"
+    }
+  ]
+}
