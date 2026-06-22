@@ -1,0 +1,38 @@
+{
+  "id": 1908237129,
+  "titulo": "El caballero de los Siete Reinos",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/96dc193d7a9ab734f072c7d831cb281a.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "ciencia-ficcion",
+    "drama",
+    "fantasia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Ambientada en una época en la que el linaje Targaryen todavía ostenta el Trono de Hierro y el recuerdo del último dragón aún no ha desaparecido de la memori",
+  "slug": "el-caballero-de-los-siete-reinos",
+  "iframe_url": "https://lacloud.live/6db5c9f05b1f27db",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/6db5c9f05b1f27db/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/6db5c9f05b1f27db/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6db5c9f05b1f27db"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/el-caballero-de-los-siete-reinos?season=1&ep=1"
+    }
+  ]
+}
