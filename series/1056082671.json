@@ -1,0 +1,34 @@
+{
+  "id": 1056082671,
+  "titulo": "La Llama que Llama: La Serie",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/4703fca5bd695de77eb2fe6728cfceba.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "25 years later, the flame is rekindled. Will today&#039;s cancel-minded world be ready for its absurd, acidic, and stupid humor?",
+  "slug": "la-llama-que-llama-la-serie",
+  "iframe_url": "https://lacloud.live/90006a63a8fe8feb",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/90006a63a8fe8feb/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/90006a63a8fe8feb/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "90006a63a8fe8feb"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/la-llama-que-llama-la-serie?season=1&ep=1"
+    }
+  ]
+}
