@@ -3,7 +3,7 @@
   "titulo": "Gary",
   "titulo_orig": "",
   "poster": "https://image.tmdb.org/t/p/w300/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg",
-  "release_date": "",
+  "release_date": "2026-01-01",
   "genres": [
     "Drama",
     "Comedia"
@@ -257,6 +257,15 @@
       "idioma": "subtitulado",
       "calidad": "HD",
       "embed_id": "5f2jvx8crs04"
+    },
+    {
+      "id": 28,
+      "url": "https://lacloud.live/public/stream/79a5e3f12a6679c2/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/79a5e3f12a6679c2/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "79a5e3f12a6679c2"
     }
   ]
 }
