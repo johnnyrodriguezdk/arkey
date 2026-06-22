@@ -14,7 +14,17 @@
   "slug": "valley-of-tears",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/rk3tmk14vyke",
+      "player_url": "https://streamfort.online/e/rk3tmk14vyke",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rk3tmk14vyke"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
