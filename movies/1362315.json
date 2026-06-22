@@ -1,1 +1,279 @@
-{"id":1362315,"titulo":"La mano que mece la cuna","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/lRe1CQugJcj5ZA3WSaQnFIDPoK5.jpg","release_date":"2025-10-16","genres":[],"rating":"5.7","backdrop":"https://image.tmdb.org/t/p/original/lK1zWi7EpBIFaGJBf0Y7jjemZe2.jpg","overview":"Caitlin y Miguel Morales, una pareja de los suburbios, contratan a la aparentemente dulce Polly para cuidar de su bebé recién nacido. Pero los verdaderos motivos de Polly tienen poco que ver con cantar canciones de cuna, para horror de la pareja.","trailer":"","runtime":"105","slug":"la-mano-que-mece-la-cuna","servidores":[{"id":1,"url":"https://streamwish.to/e/qr0hsj7qatpx","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"qr0hsj7qatpx","player_url":"https://streamwish.to/e/qr0hsj7qatpx"},{"id":2,"url":"https://vidhidepro.com/v/1d8llvadguei","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"1d8llvadguei","player_url":"https://vidhidepro.com/v/1d8llvadguei"},{"id":3,"url":"https://voe.sx/e/mnvznkd6be7f","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"mnvznkd6be7f","player_url":"https://voe.sx/e/mnvznkd6be7f"},{"id":4,"url":"https://doodstream.com/e/bq3y4jpxt29n","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"bq3y4jpxt29n","player_url":"https://doodstream.com/e/bq3y4jpxt29n"},{"id":5,"url":"https://streamwish.to/e/f29v6d6mpw1j","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"f29v6d6mpw1j","player_url":"https://streamwish.to/e/f29v6d6mpw1j"},{"id":6,"url":"https://vidhidepro.com/v/z5psnp9q9fl8","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"z5psnp9q9fl8","player_url":"https://vidhidepro.com/v/z5psnp9q9fl8"},{"id":7,"url":"https://voe.sx/e/h10nkwfrj7bb","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"h10nkwfrj7bb","player_url":"https://voe.sx/e/h10nkwfrj7bb"},{"id":8,"url":"https://doodstream.com/e/m762k2oq1rmt","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"m762k2oq1rmt","player_url":"https://doodstream.com/e/m762k2oq1rmt"},{"id":9,"url":"https://streamwish.to/e/vwnjtlaocjut","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"vwnjtlaocjut","player_url":"https://streamwish.to/e/vwnjtlaocjut"},{"id":10,"url":"https://vidhidepro.com/v/d56h90859evv","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"d56h90859evv","player_url":"https://vidhidepro.com/v/d56h90859evv"},{"id":11,"url":"https://voe.sx/e/9qkloqhkc93b","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"9qkloqhkc93b","player_url":"https://voe.sx/e/9qkloqhkc93b"},{"id":12,"url":"https://doodstream.com/e/ddese1jr0z5n","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"ddese1jr0z5n","player_url":"https://doodstream.com/e/ddese1jr0z5n"}]}
+{
+  "id": 1362315,
+  "titulo": "La mano que mece la cuna",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/lRe1CQugJcj5ZA3WSaQnFIDPoK5.jpg",
+  "release_date": "2025-10-16",
+  "genres": [
+    "Suspense"
+  ],
+  "rating": "5.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/lK1zWi7EpBIFaGJBf0Y7jjemZe2.jpg",
+  "overview": "Caitlin y Miguel Morales, una pareja de los suburbios, contratan a la aparentemente dulce Polly para cuidar de su bebé recién nacido. Pero los verdaderos motivos de Polly tienen poco que ver con cantar canciones de cuna, para horror de la pareja.",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "la-mano-que-mece-la-cuna",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/qr0hsj7qatpx",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "qr0hsj7qatpx",
+      "player_url": "https://streamwish.to/e/qr0hsj7qatpx"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/1d8llvadguei",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1d8llvadguei",
+      "player_url": "https://vidhidepro.com/v/1d8llvadguei"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/mnvznkd6be7f",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "mnvznkd6be7f",
+      "player_url": "https://voe.sx/e/mnvznkd6be7f"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/bq3y4jpxt29n",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "bq3y4jpxt29n",
+      "player_url": "https://doodstream.com/e/bq3y4jpxt29n"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/f29v6d6mpw1j",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "f29v6d6mpw1j",
+      "player_url": "https://streamwish.to/e/f29v6d6mpw1j"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/z5psnp9q9fl8",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "z5psnp9q9fl8",
+      "player_url": "https://vidhidepro.com/v/z5psnp9q9fl8"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/h10nkwfrj7bb",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "h10nkwfrj7bb",
+      "player_url": "https://voe.sx/e/h10nkwfrj7bb"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/m762k2oq1rmt",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "m762k2oq1rmt",
+      "player_url": "https://doodstream.com/e/m762k2oq1rmt"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/vwnjtlaocjut",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vwnjtlaocjut",
+      "player_url": "https://streamwish.to/e/vwnjtlaocjut"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/d56h90859evv",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "d56h90859evv",
+      "player_url": "https://vidhidepro.com/v/d56h90859evv"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/9qkloqhkc93b",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "9qkloqhkc93b",
+      "player_url": "https://voe.sx/e/9qkloqhkc93b"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/ddese1jr0z5n",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ddese1jr0z5n",
+      "player_url": "https://doodstream.com/e/ddese1jr0z5n"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/f3e6hxew3rrg",
+      "player_url": "https://minochinos.com/embed/f3e6hxew3rrg",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f3e6hxew3rrg"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/ndgt21z7taxb",
+      "player_url": "https://hglink.to/e/ndgt21z7taxb",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ndgt21z7taxb"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/yisrku08okgp",
+      "player_url": "https://bysedikamoum.com/e/yisrku08okgp",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yisrku08okgp"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/ici6jqv34m1g",
+      "player_url": "https://voe.sx/e/ici6jqv34m1g",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ici6jqv34m1g"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/ici6jqv34m1g/download",
+      "player_url": "https://voe.sx/ici6jqv34m1g/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/sbofz6v54lit",
+      "player_url": "https://rapidvideo.link/e/sbofz6v54lit",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sbofz6v54lit"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/z6j5ompvizbx",
+      "player_url": "https://minochinos.com/embed/z6j5ompvizbx",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z6j5ompvizbx"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/g8ts2r1jws8b",
+      "player_url": "https://hglink.to/e/g8ts2r1jws8b",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g8ts2r1jws8b"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/xbdzxqh0q8z5",
+      "player_url": "https://bysedikamoum.com/e/xbdzxqh0q8z5",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xbdzxqh0q8z5"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/4bhdjcs3zxt5",
+      "player_url": "https://voe.sx/e/4bhdjcs3zxt5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4bhdjcs3zxt5"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/24lzhv1anoft",
+      "player_url": "https://rapidvideo.link/e/24lzhv1anoft",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "24lzhv1anoft"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/t0masdeof4mu",
+      "player_url": "https://minochinos.com/embed/t0masdeof4mu",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "t0masdeof4mu"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/wouatpa6s4a3",
+      "player_url": "https://hglink.to/e/wouatpa6s4a3",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wouatpa6s4a3"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/mzxk3fytc3ym",
+      "player_url": "https://bysedikamoum.com/e/mzxk3fytc3ym",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mzxk3fytc3ym"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/w3qmajebbue5",
+      "player_url": "https://voe.sx/e/w3qmajebbue5",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "w3qmajebbue5"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/w3qmajebbue5/download",
+      "player_url": "https://voe.sx/w3qmajebbue5/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/7qcoh3ku56r8",
+      "player_url": "https://rapidvideo.link/e/7qcoh3ku56r8",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7qcoh3ku56r8"
+    }
+  ]
+}
