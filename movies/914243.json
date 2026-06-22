@@ -1,1 +1,198 @@
-{"id":914243,"titulo":"The Listener","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/bJMgP6j2mKeiQNgu159MeFCg0qI.jpg","release_date":"2024-03-29","genres":["drama"],"rating":"5.7","backdrop":"https://image.tmdb.org/t/p/original/6tCLkR2I9ZK4gjc3bgHUcY8UbQ5.jpg","overview":"Sigue a una voluntaria de un servicio telefónico de ayuda, para personas que se sienten solas, desesperanzadas, con problemas...","trailer":"","runtime":"97","slug":"the-listener","servidores":[{"id":1,"url":"https://streamwish.to/e/6dcqn49nae2z","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"6dcqn49nae2z","player_url":"https://streamwish.to/e/6dcqn49nae2z"},{"id":2,"url":"https://vidhidepro.com/v/5wu1wt9db4hd","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"5wu1wt9db4hd","player_url":"https://vidhidepro.com/v/5wu1wt9db4hd"},{"id":3,"url":"https://voe.sx/e/h1gxf3rxc4fd","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"h1gxf3rxc4fd","player_url":"https://voe.sx/e/h1gxf3rxc4fd"},{"id":4,"url":"https://doodstream.com/e/hpumgp1qtf7q","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"hpumgp1qtf7q","player_url":"https://doodstream.com/e/hpumgp1qtf7q"},{"id":5,"url":"https://streamwish.to/e/m161n0lar29d","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"m161n0lar29d","player_url":"https://streamwish.to/e/m161n0lar29d"},{"id":6,"url":"https://vidhidepro.com/v/826jy1g4ib34","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"826jy1g4ib34","player_url":"https://vidhidepro.com/v/826jy1g4ib34"},{"id":7,"url":"https://voe.sx/e/lgxwzjmtmuhl","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"lgxwzjmtmuhl","player_url":"https://voe.sx/e/lgxwzjmtmuhl"},{"id":8,"url":"https://doodstream.com/e/ul0yguwi9iid","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"ul0yguwi9iid","player_url":"https://doodstream.com/e/ul0yguwi9iid"}]}
+{
+  "id": 914243,
+  "titulo": "The Listener",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/bJMgP6j2mKeiQNgu159MeFCg0qI.jpg",
+  "release_date": "2024-03-29",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/6tCLkR2I9ZK4gjc3bgHUcY8UbQ5.jpg",
+  "overview": "Beth trabaja en una línea de ayuda. Es parte de un grupo de voluntarios que recibe llamadas todas las noches en Estados Unidos. Hablan con gente que se siente sola, rota o sin esperanza. En el último año, las llamadas se han disparado. Durante su turno, la presión sube. Esta noche va a perder a alguien O va a salvar a alguien Al final, descubrimos por qué Beth hace esto. Todo el tiempo estamos con ella: escuchando, consolando, conectando. Remendando el mundo, puntada por puntada.",
+  "trailer": "",
+  "runtime": "97",
+  "slug": "the-listener",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/6dcqn49nae2z",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6dcqn49nae2z",
+      "player_url": "https://streamwish.to/e/6dcqn49nae2z"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/5wu1wt9db4hd",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5wu1wt9db4hd",
+      "player_url": "https://vidhidepro.com/v/5wu1wt9db4hd"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/h1gxf3rxc4fd",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "h1gxf3rxc4fd",
+      "player_url": "https://voe.sx/e/h1gxf3rxc4fd"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/hpumgp1qtf7q",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "hpumgp1qtf7q",
+      "player_url": "https://doodstream.com/e/hpumgp1qtf7q"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/m161n0lar29d",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "m161n0lar29d",
+      "player_url": "https://streamwish.to/e/m161n0lar29d"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/826jy1g4ib34",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "826jy1g4ib34",
+      "player_url": "https://vidhidepro.com/v/826jy1g4ib34"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/lgxwzjmtmuhl",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "lgxwzjmtmuhl",
+      "player_url": "https://voe.sx/e/lgxwzjmtmuhl"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/ul0yguwi9iid",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ul0yguwi9iid",
+      "player_url": "https://doodstream.com/e/ul0yguwi9iid"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/itmfdhop6efs",
+      "player_url": "https://minochinos.com/embed/itmfdhop6efs",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "itmfdhop6efs"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/hr92v9ktug8w",
+      "player_url": "https://hglink.to/e/hr92v9ktug8w",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hr92v9ktug8w"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/vsf84in0uqwd",
+      "player_url": "https://bysedikamoum.com/e/vsf84in0uqwd",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vsf84in0uqwd"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/drgmpjqlsd3g",
+      "player_url": "https://voe.sx/e/drgmpjqlsd3g",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "drgmpjqlsd3g"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/drgmpjqlsd3g/download",
+      "player_url": "https://voe.sx/drgmpjqlsd3g/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/f7o15q9uhgv3",
+      "player_url": "https://rapidvideo.link/e/f7o15q9uhgv3",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f7o15q9uhgv3"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/wan4p40lo4dd",
+      "player_url": "https://minochinos.com/embed/wan4p40lo4dd",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wan4p40lo4dd"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/yodslmqc38nm",
+      "player_url": "https://hglink.to/e/yodslmqc38nm",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "yodslmqc38nm"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/abix8z9vjksf",
+      "player_url": "https://bysedikamoum.com/e/abix8z9vjksf",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "abix8z9vjksf"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/fibwvftwiis3",
+      "player_url": "https://voe.sx/e/fibwvftwiis3",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fibwvftwiis3"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/fibwvftwiis3/download",
+      "player_url": "https://voe.sx/fibwvftwiis3/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/dayu9pr4nvfz",
+      "player_url": "https://rapidvideo.link/e/dayu9pr4nvfz",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dayu9pr4nvfz"
+    }
+  ]
+}
