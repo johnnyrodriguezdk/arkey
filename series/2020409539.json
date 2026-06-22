@@ -15,7 +15,17 @@
   "slug": "miraculous-las-aventuras-de-ladybug",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/aimw9i5o09dy",
+      "player_url": "https://dsvplay.com/e/aimw9i5o09dy",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aimw9i5o09dy"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
