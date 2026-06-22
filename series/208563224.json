@@ -1,0 +1,35 @@
+{
+  "id": 208563224,
+  "titulo": "Rancho Dutton",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/f29f71107b98a4283e9c5af8170ecef6.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "drama",
+    "western"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Rip y Beth Dutton arriesgan todo por una nueva vida en el Sur de Texas, pero la promesa de un futuro lejos de los fantasmas de Yellowstone choca con nuevas ",
+  "slug": "rancho-dutton",
+  "iframe_url": "https://lacloud.live/61c261b9dea7237e",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/61c261b9dea7237e/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/61c261b9dea7237e/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "61c261b9dea7237e"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/rancho-dutton?season=1&ep=1"
+    }
+  ]
+}
