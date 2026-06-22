@@ -1,1 +1,26 @@
-{"id":275202,"titulo":"La oficina","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg","release_date":"2026-03-13","genres":[],"rating":"9.3","backdrop":"https://image.tmdb.org/t/p/original/w6518nngLn8awWDRnqZGLvIpcSS.jpg","overview":"Jerónimo Ponce III, jefe regional de Jabones Olimpo Aguascalientes, una filial de la empresa familiar, es una pesadilla para sus empleados, un grupo de oficinistas pintorescos que diariamente tienen que sobrevivir a sus desplantes políticamente incorrectos y técnicas organizacionales autodestructivas para llegar ilesos al final del día.","trailer":"","slug":"la-oficina"}
+{
+  "id": 275202,
+  "titulo": "La oficina",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg",
+  "release_date": "2026-03-13",
+  "genres": [
+    "comedia"
+  ],
+  "rating": "9.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/w6518nngLn8awWDRnqZGLvIpcSS.jpg",
+  "overview": "Jerónimo Ponce III, jefe regional de Jabones Olimpo Aguascalientes, una filial de la empresa familiar, es una pesadilla para sus empleados, un grupo de oficinistas pintorescos que diariamente tienen que sobrevivir a sus desplantes políticamente incorrectos y técnicas organizacionales autodestructivas para llegar ilesos al final del día.",
+  "trailer": "",
+  "slug": "la-oficina",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/b0e5b934de6cc3e9/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/b0e5b934de6cc3e9/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b0e5b934de6cc3e9"
+    }
+  ]
+}
