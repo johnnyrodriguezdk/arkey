@@ -1,1 +1,271 @@
-{"id":843527,"titulo":"La Idea de Tenerte","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/y1WpsgfBA5GywXIuqLm9D4aQHNd.jpg","release_date":"2024-05-02","genres":["romance","drama"],"rating":"7.3","backdrop":"https://image.tmdb.org/t/p/original/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg","overview":"Basada en la aclamada historia de amor contemporánea del mismo nombre, The Idea of You se centra en Solène (Anne Hathaway), una madre soltera de 40 años que comienza un romance inesperado con Hayes Campbell (Nicholas Galitzine), de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.","trailer":"","runtime":"116","slug":"la-idea-de-ti","servidores":[{"id":1,"url":"https://streamwish.to/e/yf7t270x4s13","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"yf7t270x4s13","player_url":"https://streamwish.to/e/yf7t270x4s13"},{"id":2,"url":"https://bysejikuar.com/e/edes1ffd8xb2","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"edes1ffd8xb2","player_url":"https://bysejikuar.com/e/edes1ffd8xb2"},{"id":3,"url":"https://voe.sx/e/2bexcis5xkzd","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"2bexcis5xkzd","player_url":"https://voe.sx/e/2bexcis5xkzd"},{"id":4,"url":"https://doodstream.com/e/e7kfkzbm96w2","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"e7kfkzbm96w2","player_url":"https://doodstream.com/e/e7kfkzbm96w2"},{"id":5,"url":"https://streamwish.to/e/hbd1r3qe9rwv","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hbd1r3qe9rwv","player_url":"https://streamwish.to/e/hbd1r3qe9rwv"},{"id":6,"url":"https://bysejikuar.com/e/8q5u2esbe3p4","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"8q5u2esbe3p4","player_url":"https://bysejikuar.com/e/8q5u2esbe3p4"},{"id":7,"url":"https://voe.sx/e/jq4koz3takzj","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"jq4koz3takzj","player_url":"https://voe.sx/e/jq4koz3takzj"},{"id":8,"url":"https://doodstream.com/e/0ii30q69agoe","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"0ii30q69agoe","player_url":"https://doodstream.com/e/0ii30q69agoe"},{"id":9,"url":"https://streamwish.to/e/h14jm66175u9","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"h14jm66175u9","player_url":"https://streamwish.to/e/h14jm66175u9"},{"id":10,"url":"https://voe.sx/e/jknc24na0mzi","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"jknc24na0mzi","player_url":"https://voe.sx/e/jknc24na0mzi"},{"id":11,"url":"https://doodstream.com/e/8qyxikhunsc0","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"8qyxikhunsc0","player_url":"https://doodstream.com/e/8qyxikhunsc0"}]}
+{
+  "id": 843527,
+  "titulo": "La Idea de Tenerte",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/y1WpsgfBA5GywXIuqLm9D4aQHNd.jpg",
+  "release_date": "2024-05-02",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "7.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
+  "overview": "Basada en la aclamada historia de amor contemporánea del mismo nombre, The Idea of You se centra en Solène (Anne Hathaway), una madre soltera de 40 años que comienza un romance inesperado con Hayes Campbell (Nicholas Galitzine), de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.",
+  "trailer": "",
+  "runtime": "116",
+  "slug": "la-idea-de-ti",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/yf7t270x4s13",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "yf7t270x4s13",
+      "player_url": "https://streamwish.to/e/yf7t270x4s13"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/edes1ffd8xb2",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "edes1ffd8xb2",
+      "player_url": "https://bysejikuar.com/e/edes1ffd8xb2"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/2bexcis5xkzd",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "2bexcis5xkzd",
+      "player_url": "https://voe.sx/e/2bexcis5xkzd"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/e7kfkzbm96w2",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "e7kfkzbm96w2",
+      "player_url": "https://doodstream.com/e/e7kfkzbm96w2"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/hbd1r3qe9rwv",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hbd1r3qe9rwv",
+      "player_url": "https://streamwish.to/e/hbd1r3qe9rwv"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/8q5u2esbe3p4",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "8q5u2esbe3p4",
+      "player_url": "https://bysejikuar.com/e/8q5u2esbe3p4"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/jq4koz3takzj",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jq4koz3takzj",
+      "player_url": "https://voe.sx/e/jq4koz3takzj"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/0ii30q69agoe",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0ii30q69agoe",
+      "player_url": "https://doodstream.com/e/0ii30q69agoe"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/h14jm66175u9",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "h14jm66175u9",
+      "player_url": "https://streamwish.to/e/h14jm66175u9"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/jknc24na0mzi",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jknc24na0mzi",
+      "player_url": "https://voe.sx/e/jknc24na0mzi"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/8qyxikhunsc0",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "8qyxikhunsc0",
+      "player_url": "https://doodstream.com/e/8qyxikhunsc0"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/i2lnny6z2dz8",
+      "player_url": "https://minochinos.com/embed/i2lnny6z2dz8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i2lnny6z2dz8"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/3fl754uqjssy",
+      "player_url": "https://hglink.to/e/3fl754uqjssy",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3fl754uqjssy"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/j6gqpta1r1lg",
+      "player_url": "https://bysedikamoum.com/e/j6gqpta1r1lg",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j6gqpta1r1lg"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/adi7odlusckm",
+      "player_url": "https://voe.sx/e/adi7odlusckm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "adi7odlusckm"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/adi7odlusckm/download",
+      "player_url": "https://voe.sx/adi7odlusckm/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/47hqojx1vldw",
+      "player_url": "https://rapidvideo.link/e/47hqojx1vldw",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "47hqojx1vldw"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/vhettaezu4vz",
+      "player_url": "https://minochinos.com/embed/vhettaezu4vz",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vhettaezu4vz"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/ad5g7yynq49c",
+      "player_url": "https://hglink.to/e/ad5g7yynq49c",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ad5g7yynq49c"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/s4wokk8ubl5o",
+      "player_url": "https://bysedikamoum.com/e/s4wokk8ubl5o",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s4wokk8ubl5o"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/qpyr2fp6zzjq",
+      "player_url": "https://voe.sx/e/qpyr2fp6zzjq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qpyr2fp6zzjq"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/8vibjh5o6cpz",
+      "player_url": "https://rapidvideo.link/e/8vibjh5o6cpz",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8vibjh5o6cpz"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/7e6uke5iey3l",
+      "player_url": "https://minochinos.com/embed/7e6uke5iey3l",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7e6uke5iey3l"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/5kugmw4giv21",
+      "player_url": "https://hglink.to/e/5kugmw4giv21",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5kugmw4giv21"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/8mwx008lrasu",
+      "player_url": "https://bysedikamoum.com/e/8mwx008lrasu",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8mwx008lrasu"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/szu3usvrkpr8",
+      "player_url": "https://voe.sx/e/szu3usvrkpr8",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "szu3usvrkpr8"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/szu3usvrkpr8/download",
+      "player_url": "https://voe.sx/szu3usvrkpr8/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/hr8ojn6bg7if",
+      "player_url": "https://rapidvideo.link/e/hr8ojn6bg7if",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hr8ojn6bg7if"
+    }
+  ]
+}
