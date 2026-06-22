@@ -1,1 +1,253 @@
-{"id":1097870,"titulo":"Querido Santa","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/vuuxlIdxFAimFIqxLnCR1NhxXcM.jpg","release_date":"2024-11-24","genres":[],"rating":"6.2","backdrop":"https://image.tmdb.org/t/p/original/yYQDu8yX2zZaCa1hUWD24jq3JRu.jpg","overview":"Narra la historia de un niño que, al escribir su carta anual a Santa, confunde las letras y se la envía directo a Satán.","trailer":"","runtime":"108","slug":"querido-santa","servidores":[{"id":1,"url":"https://streamwish.to/e/dzsqcclrvac6","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"dzsqcclrvac6","player_url":"https://streamwish.to/e/dzsqcclrvac6"},{"id":2,"url":"https://vidhidepro.com/v/rnen4v8srrx5","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"rnen4v8srrx5","player_url":"https://vidhidepro.com/v/rnen4v8srrx5"},{"id":3,"url":"https://doodstream.com/e/p0kwqpomjzsq","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"p0kwqpomjzsq","player_url":"https://doodstream.com/e/p0kwqpomjzsq"},{"id":4,"url":"https://streamwish.to/e/ijoak4uf46d6","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ijoak4uf46d6","player_url":"https://streamwish.to/e/ijoak4uf46d6"},{"id":5,"url":"https://vidhidepro.com/v/04ldg9uqff9a","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"04ldg9uqff9a","player_url":"https://vidhidepro.com/v/04ldg9uqff9a"},{"id":6,"url":"https://doodstream.com/e/ye6ug0n013u7","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"ye6ug0n013u7","player_url":"https://doodstream.com/e/ye6ug0n013u7"},{"id":7,"url":"https://streamwish.to/e/x5hezu53zww4","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"x5hezu53zww4","player_url":"https://streamwish.to/e/x5hezu53zww4"},{"id":8,"url":"https://vidhidepro.com/v/ce6d2se8dnl5","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"ce6d2se8dnl5","player_url":"https://vidhidepro.com/v/ce6d2se8dnl5"},{"id":9,"url":"https://doodstream.com/e/re26maj3ivd7","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"re26maj3ivd7","player_url":"https://doodstream.com/e/re26maj3ivd7"}]}
+{
+  "id": 1097870,
+  "titulo": "Querido Santa",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/vuuxlIdxFAimFIqxLnCR1NhxXcM.jpg",
+  "release_date": "2024-11-24",
+  "genres": [
+    "Comedia",
+    "Fantasía"
+  ],
+  "rating": "6.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/yYQDu8yX2zZaCa1hUWD24jq3JRu.jpg",
+  "overview": "Narra la historia de un niño que, al escribir su carta anual a Santa, confunde las letras y se la envía directo a Satán.",
+  "trailer": "",
+  "runtime": "108",
+  "slug": "querido-santa",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/dzsqcclrvac6",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "dzsqcclrvac6",
+      "player_url": "https://streamwish.to/e/dzsqcclrvac6"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/rnen4v8srrx5",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rnen4v8srrx5",
+      "player_url": "https://vidhidepro.com/v/rnen4v8srrx5"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/p0kwqpomjzsq",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "p0kwqpomjzsq",
+      "player_url": "https://doodstream.com/e/p0kwqpomjzsq"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/ijoak4uf46d6",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ijoak4uf46d6",
+      "player_url": "https://streamwish.to/e/ijoak4uf46d6"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/04ldg9uqff9a",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "04ldg9uqff9a",
+      "player_url": "https://vidhidepro.com/v/04ldg9uqff9a"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/ye6ug0n013u7",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ye6ug0n013u7",
+      "player_url": "https://doodstream.com/e/ye6ug0n013u7"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/x5hezu53zww4",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "x5hezu53zww4",
+      "player_url": "https://streamwish.to/e/x5hezu53zww4"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/ce6d2se8dnl5",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ce6d2se8dnl5",
+      "player_url": "https://vidhidepro.com/v/ce6d2se8dnl5"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/re26maj3ivd7",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "re26maj3ivd7",
+      "player_url": "https://doodstream.com/e/re26maj3ivd7"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/ll9ub0hmxwt8",
+      "player_url": "https://minochinos.com/embed/ll9ub0hmxwt8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ll9ub0hmxwt8"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/2108wxyfg1xk",
+      "player_url": "https://hglink.to/e/2108wxyfg1xk",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2108wxyfg1xk"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/h0bnk5x5p1dw",
+      "player_url": "https://bysedikamoum.com/e/h0bnk5x5p1dw",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h0bnk5x5p1dw"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/th0ma3shkbxp",
+      "player_url": "https://voe.sx/e/th0ma3shkbxp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "th0ma3shkbxp"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/th0ma3shkbxp/download",
+      "player_url": "https://voe.sx/th0ma3shkbxp/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/967xsmotre1p",
+      "player_url": "https://rapidvideo.link/e/967xsmotre1p",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "967xsmotre1p"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/12eol7v0m3cq",
+      "player_url": "https://minochinos.com/embed/12eol7v0m3cq",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "12eol7v0m3cq"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/ixqfq4wkngi6",
+      "player_url": "https://hglink.to/e/ixqfq4wkngi6",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ixqfq4wkngi6"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/e79yuz2fdlrf",
+      "player_url": "https://bysedikamoum.com/e/e79yuz2fdlrf",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e79yuz2fdlrf"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/t6r2ww0ursgl",
+      "player_url": "https://voe.sx/e/t6r2ww0ursgl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t6r2ww0ursgl"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/2prnulxve7qm",
+      "player_url": "https://rapidvideo.link/e/2prnulxve7qm",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2prnulxve7qm"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/mej9hrngzcyx",
+      "player_url": "https://minochinos.com/embed/mej9hrngzcyx",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "mej9hrngzcyx"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/n5nmixex2ci2",
+      "player_url": "https://hglink.to/e/n5nmixex2ci2",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "n5nmixex2ci2"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/63sdiwo41moz",
+      "player_url": "https://bysedikamoum.com/e/63sdiwo41moz",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "63sdiwo41moz"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/p7n3yaa1jjsd",
+      "player_url": "https://voe.sx/e/p7n3yaa1jjsd",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "p7n3yaa1jjsd"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/p7n3yaa1jjsd/download",
+      "player_url": "https://voe.sx/p7n3yaa1jjsd/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/b3qykgcf2n6i",
+      "player_url": "https://rapidvideo.link/e/b3qykgcf2n6i",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "b3qykgcf2n6i"
+    }
+  ]
+}
