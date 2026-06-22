@@ -15,7 +15,17 @@
   "slug": "refugio-de-harlan-coben",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfc3fa18ef143f6ed2fe68f6a93736c5143a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfc3fa18ef143f6ed2fe68f6a93736c5143a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc3fa18ef143f6ed2fe68f6a93736c5143a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
