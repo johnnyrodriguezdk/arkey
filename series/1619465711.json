@@ -14,7 +14,17 @@
   "slug": "mucha-lucha",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/spfhg1y8o8oc",
+      "player_url": "https://dsvplay.com/e/spfhg1y8o8oc",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "spfhg1y8o8oc"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
