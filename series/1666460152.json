@@ -1,0 +1,35 @@
+{
+  "id": 1666460152,
+  "titulo": "Los abandonados",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/0190fadb841d7ed83e29cca2a745bc2f.webp",
+  "release_date": "2025-01-01",
+  "genres": [
+    "drama",
+    "western"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Washington, década de 1850. Dos familias y sus poderosas matriarcas ―una adinerada, la otra con escasos recursos, pero mucha lealtad― luchan por el dominio ",
+  "slug": "los-abandonados",
+  "iframe_url": "https://lacloud.live/3947b56e6effb851",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/3947b56e6effb851/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/3947b56e6effb851/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3947b56e6effb851"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/los-abandonados?season=1&ep=1"
+    }
+  ]
+}
