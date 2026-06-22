@@ -16,7 +16,17 @@
   "slug": "nagi-no-asukara",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/gl0mirgah7ai",
+      "player_url": "https://streamfort.online/e/gl0mirgah7ai",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gl0mirgah7ai"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
