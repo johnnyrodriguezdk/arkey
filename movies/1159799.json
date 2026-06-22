@@ -1,1 +1,189 @@
-{"id":1159799,"titulo":"Mi Amigo El Pingüino","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/fSXfiHmKHvWleDwsuuYeLfg8qga.jpg","release_date":"2024-08-07","genres":["drama"],"rating":"7.4","backdrop":"https://image.tmdb.org/t/p/original/jMH6VkqkUdBPPIiTmOv2VpmrH2L.jpg","overview":"En una playa de una isla remota frente a la costa de Brasil, Joao, un pescador brasileño, rescata a un pingüino, Din Dim, cubierto de petróleo y al borde de la muerte","trailer":"","runtime":"97","slug":"my-penguin-friend","servidores":[{"id":1,"url":"https://streamwish.to/e/e3llld9qtjlb","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"e3llld9qtjlb","player_url":"https://streamwish.to/e/e3llld9qtjlb"},{"id":2,"url":"https://bysejikuar.com/e/6h8gagxohl45","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"6h8gagxohl45","player_url":"https://bysejikuar.com/e/6h8gagxohl45"},{"id":3,"url":"https://vidhidepro.com/v/8bps13onrww0","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"8bps13onrww0","player_url":"https://vidhidepro.com/v/8bps13onrww0"},{"id":4,"url":"https://voe.sx/e/mhasmpnwffdx","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"mhasmpnwffdx","player_url":"https://voe.sx/e/mhasmpnwffdx"},{"id":5,"url":"https://doodstream.com/e/r59dlvm6effx","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"r59dlvm6effx","player_url":"https://doodstream.com/e/r59dlvm6effx"},{"id":6,"url":"https://streamwish.to/e/h8cc6cmt5pnp","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"h8cc6cmt5pnp","player_url":"https://streamwish.to/e/h8cc6cmt5pnp"},{"id":7,"url":"https://vidhidepro.com/v/8qnvwcfmtmlu","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"8qnvwcfmtmlu","player_url":"https://vidhidepro.com/v/8qnvwcfmtmlu"},{"id":8,"url":"https://voe.sx/e/znuafcfktrjx","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"znuafcfktrjx","player_url":"https://voe.sx/e/znuafcfktrjx"},{"id":9,"url":"https://doodstream.com/e/tsmzth0uqfkc","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"tsmzth0uqfkc","player_url":"https://doodstream.com/e/tsmzth0uqfkc"}]}
+{
+  "id": 1159799,
+  "titulo": "Mi Amigo El Pingüino",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/fSXfiHmKHvWleDwsuuYeLfg8qga.jpg",
+  "release_date": "2024-08-07",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/jMH6VkqkUdBPPIiTmOv2VpmrH2L.jpg",
+  "overview": "En una playa de una isla remota frente a la costa de Brasil, Joao, un pescador brasileño, rescata a un pingüino, Din Dim, cubierto de petróleo y al borde de la muerte",
+  "trailer": "",
+  "runtime": "97",
+  "slug": "my-penguin-friend",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/e3llld9qtjlb",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "e3llld9qtjlb",
+      "player_url": "https://streamwish.to/e/e3llld9qtjlb"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/6h8gagxohl45",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "6h8gagxohl45",
+      "player_url": "https://bysejikuar.com/e/6h8gagxohl45"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/8bps13onrww0",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8bps13onrww0",
+      "player_url": "https://vidhidepro.com/v/8bps13onrww0"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/mhasmpnwffdx",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "mhasmpnwffdx",
+      "player_url": "https://voe.sx/e/mhasmpnwffdx"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/r59dlvm6effx",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "r59dlvm6effx",
+      "player_url": "https://doodstream.com/e/r59dlvm6effx"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/h8cc6cmt5pnp",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "h8cc6cmt5pnp",
+      "player_url": "https://streamwish.to/e/h8cc6cmt5pnp"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/8qnvwcfmtmlu",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8qnvwcfmtmlu",
+      "player_url": "https://vidhidepro.com/v/8qnvwcfmtmlu"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/znuafcfktrjx",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "znuafcfktrjx",
+      "player_url": "https://voe.sx/e/znuafcfktrjx"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/tsmzth0uqfkc",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "tsmzth0uqfkc",
+      "player_url": "https://doodstream.com/e/tsmzth0uqfkc"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/huwpb8q4gfgh",
+      "player_url": "https://minochinos.com/embed/huwpb8q4gfgh",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "huwpb8q4gfgh"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/9h5gfr6us710",
+      "player_url": "https://hglink.to/e/9h5gfr6us710",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9h5gfr6us710"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/cjff1sfjsrkm",
+      "player_url": "https://voe.sx/e/cjff1sfjsrkm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cjff1sfjsrkm"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/cjff1sfjsrkm/download",
+      "player_url": "https://voe.sx/cjff1sfjsrkm/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/ltehnfup4csw",
+      "player_url": "https://rapidvideo.link/e/ltehnfup4csw",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ltehnfup4csw"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/l7t0oc3ma5sd",
+      "player_url": "https://minochinos.com/embed/l7t0oc3ma5sd",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l7t0oc3ma5sd"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/u1uanv0k6iiw",
+      "player_url": "https://hglink.to/e/u1uanv0k6iiw",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u1uanv0k6iiw"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/znomqho3xwul",
+      "player_url": "https://voe.sx/e/znomqho3xwul",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "znomqho3xwul"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/znomqho3xwul/download",
+      "player_url": "https://voe.sx/znomqho3xwul/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/bxk1h6usgywo",
+      "player_url": "https://rapidvideo.link/e/bxk1h6usgywo",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bxk1h6usgywo"
+    }
+  ]
+}
