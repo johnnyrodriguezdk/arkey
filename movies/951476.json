@@ -1,1 +1,198 @@
-{"id":951476,"titulo":"De Espaldas al Mundo","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/2X6BvvpfeMzcAWFKI4i3o34n38g.jpg","release_date":"2023-01-13","genres":["drama"],"rating":"0.0","backdrop":"https://image.tmdb.org/t/p/original/vEKNoA6Rf2FBsxIySq7bZjFCc7v.jpg","overview":"Jungo es un chico de 18 años que tiene una relación difícil con su madre y solo conoce a su padre a través de los pagos que recibe cada mes. Pero cuando su madre le presenta a su nuevo novio, Jungo decide irse de casa y buscar a su padre biológico.","trailer":"","runtime":"112","slug":"de-espaldas-al-mundo","servidores":[{"id":1,"url":"https://streamwish.to/e/gth8n4b3ppls","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"gth8n4b3ppls","player_url":"https://streamwish.to/e/gth8n4b3ppls"},{"id":2,"url":"https://bysejikuar.com/e/30cq03y4r94a","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"30cq03y4r94a","player_url":"https://bysejikuar.com/e/30cq03y4r94a"},{"id":3,"url":"https://vidhidepro.com/v/tlq2lk2yat8r","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"tlq2lk2yat8r","player_url":"https://vidhidepro.com/v/tlq2lk2yat8r"},{"id":4,"url":"https://voe.sx/e/bdb67bo6j2aw","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"bdb67bo6j2aw","player_url":"https://voe.sx/e/bdb67bo6j2aw"},{"id":5,"url":"https://streamwish.to/e/lzynkrcajuen","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"lzynkrcajuen","player_url":"https://streamwish.to/e/lzynkrcajuen"},{"id":6,"url":"https://bysejikuar.com/e/8oskuyqkxify","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"8oskuyqkxify","player_url":"https://bysejikuar.com/e/8oskuyqkxify"},{"id":7,"url":"https://vidhidepro.com/v/mbphbwjzta6r","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"mbphbwjzta6r","player_url":"https://vidhidepro.com/v/mbphbwjzta6r"},{"id":8,"url":"https://voe.sx/e/hebljsxvchkw","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"hebljsxvchkw","player_url":"https://voe.sx/e/hebljsxvchkw"}]}
+{
+  "id": 951476,
+  "titulo": "De Espaldas al Mundo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/2X6BvvpfeMzcAWFKI4i3o34n38g.jpg",
+  "release_date": "2023-01-13",
+  "genres": [
+    "drama"
+  ],
+  "rating": "0.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/vEKNoA6Rf2FBsxIySq7bZjFCc7v.jpg",
+  "overview": "Jungo es un chico de 18 años que tiene una relación difícil con su madre y solo conoce a su padre a través de los pagos que recibe cada mes. Pero cuando su madre le presenta a su nuevo novio, Jungo decide irse de casa y buscar a su padre biológico.",
+  "trailer": "",
+  "runtime": "112",
+  "slug": "de-espaldas-al-mundo",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/gth8n4b3ppls",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "gth8n4b3ppls",
+      "player_url": "https://streamwish.to/e/gth8n4b3ppls"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/30cq03y4r94a",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "30cq03y4r94a",
+      "player_url": "https://bysejikuar.com/e/30cq03y4r94a"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/tlq2lk2yat8r",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "tlq2lk2yat8r",
+      "player_url": "https://vidhidepro.com/v/tlq2lk2yat8r"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/bdb67bo6j2aw",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "bdb67bo6j2aw",
+      "player_url": "https://voe.sx/e/bdb67bo6j2aw"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/lzynkrcajuen",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lzynkrcajuen",
+      "player_url": "https://streamwish.to/e/lzynkrcajuen"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/8oskuyqkxify",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "8oskuyqkxify",
+      "player_url": "https://bysejikuar.com/e/8oskuyqkxify"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/mbphbwjzta6r",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mbphbwjzta6r",
+      "player_url": "https://vidhidepro.com/v/mbphbwjzta6r"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/hebljsxvchkw",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "hebljsxvchkw",
+      "player_url": "https://voe.sx/e/hebljsxvchkw"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/c6pjmt0ugi6e",
+      "player_url": "https://minochinos.com/embed/c6pjmt0ugi6e",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c6pjmt0ugi6e"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/uuvcqlqjoq23",
+      "player_url": "https://hglink.to/e/uuvcqlqjoq23",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uuvcqlqjoq23"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/wde7iqk30206",
+      "player_url": "https://bysedikamoum.com/e/wde7iqk30206",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wde7iqk30206"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/wmw5t7y2mswx",
+      "player_url": "https://voe.sx/e/wmw5t7y2mswx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wmw5t7y2mswx"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/wmw5t7y2mswx/download",
+      "player_url": "https://voe.sx/wmw5t7y2mswx/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/6017uh9qbd5f",
+      "player_url": "https://rapidvideo.link/e/6017uh9qbd5f",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6017uh9qbd5f"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/di25u0f2y4hi",
+      "player_url": "https://minochinos.com/embed/di25u0f2y4hi",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "di25u0f2y4hi"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/pamjyjk7tpoq",
+      "player_url": "https://hglink.to/e/pamjyjk7tpoq",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "pamjyjk7tpoq"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/ba7jbqfbojgm",
+      "player_url": "https://bysedikamoum.com/e/ba7jbqfbojgm",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "ba7jbqfbojgm"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/pwy06mn9gxdy",
+      "player_url": "https://voe.sx/e/pwy06mn9gxdy",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "pwy06mn9gxdy"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/pwy06mn9gxdy/download",
+      "player_url": "https://voe.sx/pwy06mn9gxdy/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/e716oqtywr8x",
+      "player_url": "https://rapidvideo.link/e/e716oqtywr8x",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "e716oqtywr8x"
+    }
+  ]
+}
