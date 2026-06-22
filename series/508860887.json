@@ -14,7 +14,17 @@
   "slug": "dark-city-the-cleaner",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfc23946038b390496df547840b0db77a33a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfc23946038b390496df547840b0db77a33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc23946038b390496df547840b0db77a33a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
