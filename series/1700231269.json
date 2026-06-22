@@ -15,7 +15,17 @@
   "slug": "life-by-ella",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/fmluymjwiieu",
+      "player_url": "https://dsvplay.com/e/fmluymjwiieu",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fmluymjwiieu"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
