@@ -1,0 +1,37 @@
+{
+  "id": 332710458,
+  "titulo": "Day of the Dead",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/1cc41022fff57529588200b3e7d6cf96.webp",
+  "release_date": "2021-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "ciencia-ficcion",
+    "fantasia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un grupo de extraños intenta sobrevivir las primeras 24 horas de una invasión de muertos vivientes. Esta oda a los famosos carnívoros de George A. Romero no",
+  "slug": "day-of-the-dead",
+  "iframe_url": "https://lacloud.live/88af120a300943d4",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/88af120a300943d4/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/88af120a300943d4/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "88af120a300943d4"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/day-of-the-dead?season=1&ep=1"
+    }
+  ]
+}
