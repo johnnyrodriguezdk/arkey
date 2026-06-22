@@ -16,7 +16,17 @@
   "slug": "los-detectives-difuntos",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf91660c737e83c64f8b70c896974609b03a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf91660c737e83c64f8b70c896974609b03a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf91660c737e83c64f8b70c896974609b03a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
