@@ -1,1 +1,243 @@
-{"id":1195518,"titulo":"Maldita Trinidad","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg","release_date":"2025-06-13","genres":["western"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg","overview":"Los secretos enterrados de un pueblo de Montana en la década de 1870 provocan una oleada de violencia cuando un joven regresa para reclamar su legado y queda atrapado entre un sheriff decidido a mantener el orden y un misterioso extraño empeñado en destruirlo.","trailer":"","runtime":"95","slug":"the-unholy-trinity","servidores":[{"id":1,"url":"https://streamwish.to/e/u10xsdtot374","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"u10xsdtot374","player_url":"https://streamwish.to/e/u10xsdtot374"},{"id":2,"url":"https://bysejikuar.com/e/eifhxfaug1o7","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"eifhxfaug1o7","player_url":"https://bysejikuar.com/e/eifhxfaug1o7"},{"id":3,"url":"https://vidhidepro.com/v/mlm3f5decu5g","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"mlm3f5decu5g","player_url":"https://vidhidepro.com/v/mlm3f5decu5g"},{"id":4,"url":"https://voe.sx/e/etmyrzuy64ch","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"etmyrzuy64ch","player_url":"https://voe.sx/e/etmyrzuy64ch"},{"id":5,"url":"https://doodstream.com/e/qnouckk53qz6","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"qnouckk53qz6","player_url":"https://doodstream.com/e/qnouckk53qz6"},{"id":6,"url":"https://streamwish.to/e/dhhs08g4kdu6","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"dhhs08g4kdu6","player_url":"https://streamwish.to/e/dhhs08g4kdu6"},{"id":7,"url":"https://vidhidepro.com/v/uxcycmkoinu7","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"uxcycmkoinu7","player_url":"https://vidhidepro.com/v/uxcycmkoinu7"},{"id":8,"url":"https://voe.sx/e/guvitrale3ay","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"guvitrale3ay","player_url":"https://voe.sx/e/guvitrale3ay"},{"id":9,"url":"https://doodstream.com/e/vdj8ratqixji","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"vdj8ratqixji","player_url":"https://doodstream.com/e/vdj8ratqixji"},{"id":10,"url":"https://streamwish.to/e/y8k6jrs4c6l3","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"y8k6jrs4c6l3","player_url":"https://streamwish.to/e/y8k6jrs4c6l3"},{"id":11,"url":"https://vidhidepro.com/v/onik3im3nv2n","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"onik3im3nv2n","player_url":"https://vidhidepro.com/v/onik3im3nv2n"},{"id":12,"url":"https://voe.sx/e/l6sshck3qomv","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"l6sshck3qomv","player_url":"https://voe.sx/e/l6sshck3qomv"},{"id":13,"url":"https://doodstream.com/e/fnxbw0hmrwm1","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"fnxbw0hmrwm1","player_url":"https://doodstream.com/e/fnxbw0hmrwm1"}]}
+{
+  "id": 1195518,
+  "titulo": "Maldita Trinidad",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",
+  "release_date": "2025-06-13",
+  "genres": [
+    "western"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg",
+  "overview": "Los secretos enterrados de un pueblo de Montana en la década de 1870 provocan una oleada de violencia cuando un joven regresa para reclamar su legado y queda atrapado entre un sheriff decidido a mantener el orden y un misterioso extraño empeñado en destruirlo.",
+  "trailer": "",
+  "runtime": "95",
+  "slug": "the-unholy-trinity",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/u10xsdtot374",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "u10xsdtot374",
+      "player_url": "https://streamwish.to/e/u10xsdtot374"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/eifhxfaug1o7",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "eifhxfaug1o7",
+      "player_url": "https://bysejikuar.com/e/eifhxfaug1o7"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/mlm3f5decu5g",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mlm3f5decu5g",
+      "player_url": "https://vidhidepro.com/v/mlm3f5decu5g"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/etmyrzuy64ch",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "etmyrzuy64ch",
+      "player_url": "https://voe.sx/e/etmyrzuy64ch"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/qnouckk53qz6",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "qnouckk53qz6",
+      "player_url": "https://doodstream.com/e/qnouckk53qz6"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/dhhs08g4kdu6",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "dhhs08g4kdu6",
+      "player_url": "https://streamwish.to/e/dhhs08g4kdu6"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/uxcycmkoinu7",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "uxcycmkoinu7",
+      "player_url": "https://vidhidepro.com/v/uxcycmkoinu7"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/guvitrale3ay",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "guvitrale3ay",
+      "player_url": "https://voe.sx/e/guvitrale3ay"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/vdj8ratqixji",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "vdj8ratqixji",
+      "player_url": "https://doodstream.com/e/vdj8ratqixji"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/y8k6jrs4c6l3",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "y8k6jrs4c6l3",
+      "player_url": "https://streamwish.to/e/y8k6jrs4c6l3"
+    },
+    {
+      "id": 11,
+      "url": "https://vidhidepro.com/v/onik3im3nv2n",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "onik3im3nv2n",
+      "player_url": "https://vidhidepro.com/v/onik3im3nv2n"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/l6sshck3qomv",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "l6sshck3qomv",
+      "player_url": "https://voe.sx/e/l6sshck3qomv"
+    },
+    {
+      "id": 13,
+      "url": "https://doodstream.com/e/fnxbw0hmrwm1",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fnxbw0hmrwm1",
+      "player_url": "https://doodstream.com/e/fnxbw0hmrwm1"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/ybrq4ut0jhdj",
+      "player_url": "https://minochinos.com/embed/ybrq4ut0jhdj",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ybrq4ut0jhdj"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/k88rsce4zu4t",
+      "player_url": "https://hglink.to/e/k88rsce4zu4t",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k88rsce4zu4t"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/kg48phpjkw81",
+      "player_url": "https://bysedikamoum.com/e/kg48phpjkw81",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kg48phpjkw81"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/md2tplsjewz7",
+      "player_url": "https://voe.sx/e/md2tplsjewz7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "md2tplsjewz7"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/md2tplsjewz7/download",
+      "player_url": "https://voe.sx/md2tplsjewz7/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/vrb31l0nefao",
+      "player_url": "https://rapidvideo.link/e/vrb31l0nefao",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vrb31l0nefao"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/vvjiluabnrgf",
+      "player_url": "https://minochinos.com/embed/vvjiluabnrgf",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vvjiluabnrgf"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/gys2xg507qpn",
+      "player_url": "https://hglink.to/e/gys2xg507qpn",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gys2xg507qpn"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/hy9j7f60qoqh",
+      "player_url": "https://bysedikamoum.com/e/hy9j7f60qoqh",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hy9j7f60qoqh"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/5n6oscf8yyjf",
+      "player_url": "https://voe.sx/e/5n6oscf8yyjf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5n6oscf8yyjf"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/5n6oscf8yyjf/download",
+      "player_url": "https://voe.sx/5n6oscf8yyjf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/bk8xrelzh3gw",
+      "player_url": "https://rapidvideo.link/e/bk8xrelzh3gw",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bk8xrelzh3gw"
+    }
+  ]
+}
