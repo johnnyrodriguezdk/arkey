@@ -1,0 +1,34 @@
+{
+  "id": 1394506586,
+  "titulo": "Accidente nuclear",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/00f8e7cd652928cc21bad69b97a28a3f.webp",
+  "release_date": "2022-01-01",
+  "genres": [
+    "documental"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Los expertos relatan lo ocurrido durante el accidente en la central nuclear de Three Mile Island (Pensilvania), así como las controversias y las repercusion",
+  "slug": "accidente-nuclear",
+  "iframe_url": "https://lacloud.live/59f7d4001ca38e89",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/59f7d4001ca38e89/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/59f7d4001ca38e89/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "59f7d4001ca38e89"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/accidente-nuclear?season=1&ep=1"
+    }
+  ]
+}
