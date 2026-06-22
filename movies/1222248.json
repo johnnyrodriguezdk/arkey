@@ -1,1 +1,261 @@
-{"id":1222248,"titulo":"N.º 24","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/2j2bULukoOUzzcVKd7CxX2LBd3L.jpg","release_date":"2024-10-30","genres":["drama"],"rating":"7.2","backdrop":"https://image.tmdb.org/t/p/original/4bgcL1wAGHgNKqXMmVn4N4TW3S1.jpg","overview":"Con la Segunda Guerra Mundial a punto de estallar, un joven noruego decidido a resistirse a los nazis cambia el curso de su vida... y el futuro de su país.","trailer":"","runtime":"112","slug":"no-24","servidores":[{"id":1,"url":"https://streamwish.to/e/32i3wjvjhzh4","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"32i3wjvjhzh4","player_url":"https://streamwish.to/e/32i3wjvjhzh4"},{"id":2,"url":"https://vidhidepro.com/v/glbqey1ss908","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"glbqey1ss908","player_url":"https://vidhidepro.com/v/glbqey1ss908"},{"id":3,"url":"https://voe.sx/e/9n8i6xkvcmfy","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"9n8i6xkvcmfy","player_url":"https://voe.sx/e/9n8i6xkvcmfy"},{"id":4,"url":"https://doodstream.com/e/fd96pqj1d2hg","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"fd96pqj1d2hg","player_url":"https://doodstream.com/e/fd96pqj1d2hg"},{"id":5,"url":"https://streamwish.to/e/g3ujwoz0rfbu","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"g3ujwoz0rfbu","player_url":"https://streamwish.to/e/g3ujwoz0rfbu"},{"id":6,"url":"https://vidhidepro.com/v/yx1w9negyixq","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"yx1w9negyixq","player_url":"https://vidhidepro.com/v/yx1w9negyixq"},{"id":7,"url":"https://voe.sx/e/b4xbvf9xxzll","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"b4xbvf9xxzll","player_url":"https://voe.sx/e/b4xbvf9xxzll"},{"id":8,"url":"https://streamwish.to/e/pr7nk7pcqxcc","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"pr7nk7pcqxcc","player_url":"https://streamwish.to/e/pr7nk7pcqxcc"},{"id":9,"url":"https://vidhidepro.com/v/5iqde02r4vr0","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"5iqde02r4vr0","player_url":"https://vidhidepro.com/v/5iqde02r4vr0"},{"id":10,"url":"https://doodstream.com/e/4dobl4l30tsi","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"4dobl4l30tsi","player_url":"https://doodstream.com/e/4dobl4l30tsi"}]}
+{
+  "id": 1222248,
+  "titulo": "N.º 24",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/2j2bULukoOUzzcVKd7CxX2LBd3L.jpg",
+  "release_date": "2024-10-30",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/4bgcL1wAGHgNKqXMmVn4N4TW3S1.jpg",
+  "overview": "Con la Segunda Guerra Mundial a punto de estallar, un joven noruego decidido a resistirse a los nazis cambia el curso de su vida... y el futuro de su país.",
+  "trailer": "",
+  "runtime": "112",
+  "slug": "no-24",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/32i3wjvjhzh4",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "32i3wjvjhzh4",
+      "player_url": "https://streamwish.to/e/32i3wjvjhzh4"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/glbqey1ss908",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "glbqey1ss908",
+      "player_url": "https://vidhidepro.com/v/glbqey1ss908"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/9n8i6xkvcmfy",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "9n8i6xkvcmfy",
+      "player_url": "https://voe.sx/e/9n8i6xkvcmfy"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/fd96pqj1d2hg",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fd96pqj1d2hg",
+      "player_url": "https://doodstream.com/e/fd96pqj1d2hg"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/g3ujwoz0rfbu",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "g3ujwoz0rfbu",
+      "player_url": "https://streamwish.to/e/g3ujwoz0rfbu"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/yx1w9negyixq",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "yx1w9negyixq",
+      "player_url": "https://vidhidepro.com/v/yx1w9negyixq"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/b4xbvf9xxzll",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "b4xbvf9xxzll",
+      "player_url": "https://voe.sx/e/b4xbvf9xxzll"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/pr7nk7pcqxcc",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "pr7nk7pcqxcc",
+      "player_url": "https://streamwish.to/e/pr7nk7pcqxcc"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/5iqde02r4vr0",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5iqde02r4vr0",
+      "player_url": "https://vidhidepro.com/v/5iqde02r4vr0"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/4dobl4l30tsi",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "4dobl4l30tsi",
+      "player_url": "https://doodstream.com/e/4dobl4l30tsi"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/mo4ywqmgf3l0",
+      "player_url": "https://minochinos.com/embed/mo4ywqmgf3l0",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mo4ywqmgf3l0"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/3pdmxbbploov",
+      "player_url": "https://hglink.to/e/3pdmxbbploov",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3pdmxbbploov"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/3784wyrpijb6",
+      "player_url": "https://bysedikamoum.com/e/3784wyrpijb6",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3784wyrpijb6"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/tjfv2knrtyaj",
+      "player_url": "https://voe.sx/e/tjfv2knrtyaj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tjfv2knrtyaj"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/tjfv2knrtyaj/download",
+      "player_url": "https://voe.sx/tjfv2knrtyaj/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/rh13p5monkxv",
+      "player_url": "https://rapidvideo.link/e/rh13p5monkxv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rh13p5monkxv"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/9wh92xc6mxn8",
+      "player_url": "https://minochinos.com/embed/9wh92xc6mxn8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9wh92xc6mxn8"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/csqxng5yz09x",
+      "player_url": "https://hglink.to/e/csqxng5yz09x",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "csqxng5yz09x"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/vvkdykwtbiyv",
+      "player_url": "https://bysedikamoum.com/e/vvkdykwtbiyv",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vvkdykwtbiyv"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/tucz3t3cbzv0",
+      "player_url": "https://voe.sx/e/tucz3t3cbzv0",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tucz3t3cbzv0"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/efjt59l1z2x4",
+      "player_url": "https://rapidvideo.link/e/efjt59l1z2x4",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "efjt59l1z2x4"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/8w29jhfl7v6o",
+      "player_url": "https://minochinos.com/embed/8w29jhfl7v6o",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8w29jhfl7v6o"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/jybwrgs1d1xh",
+      "player_url": "https://hglink.to/e/jybwrgs1d1xh",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jybwrgs1d1xh"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/371beqj9hvys",
+      "player_url": "https://bysedikamoum.com/e/371beqj9hvys",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "371beqj9hvys"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/ghbo3yvtotcf",
+      "player_url": "https://voe.sx/e/ghbo3yvtotcf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ghbo3yvtotcf"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/ghbo3yvtotcf/download",
+      "player_url": "https://voe.sx/ghbo3yvtotcf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/4q2l6cb3njie",
+      "player_url": "https://rapidvideo.link/e/4q2l6cb3njie",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4q2l6cb3njie"
+    }
+  ]
+}
