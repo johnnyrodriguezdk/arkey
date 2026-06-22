@@ -16,7 +16,17 @@
   "slug": "no-soy-un-robot",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/uv4uchepmoxb",
+      "player_url": "https://dsvplay.com/e/uv4uchepmoxb",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uv4uchepmoxb"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
