@@ -15,7 +15,17 @@
   "slug": "la-muerte-y-otros-misterios",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf400ed249f4fdc0ac59766df80d8273013a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf400ed249f4fdc0ac59766df80d8273013a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf400ed249f4fdc0ac59766df80d8273013a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
