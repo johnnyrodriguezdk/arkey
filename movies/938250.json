@@ -1,1 +1,279 @@
-{"id":938250,"titulo":"Club Zero","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/hAz3m2gp7MxGbMXciuxv0smdpcd.jpg","release_date":"2023-09-27","genres":["drama"],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/z0cYoSjZ1sH9oKBDhJeQxlxIYh.jpg","overview":"Miss Novak es una maestra que se une al equipo de una escuela de élite para dar clases de nutrición a jóvenes estudiantes. En poco tiempo, la maestra establece un estrecho vínculo con cinco de sus alumnos, sin que el resto de profesores se dé cuenta de lo que sucede. Hasta que todo da un inesperado giro muy peligroso.","trailer":"","runtime":"110","slug":"club-zero","servidores":[{"id":1,"url":"https://streamwish.to/e/ozu3lpz2ae7g","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"ozu3lpz2ae7g","player_url":"https://streamwish.to/e/ozu3lpz2ae7g"},{"id":2,"url":"https://bysejikuar.com/e/f9m9e854lhq2","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"f9m9e854lhq2","player_url":"https://bysejikuar.com/e/f9m9e854lhq2"},{"id":3,"url":"https://vidhidepro.com/v/c0mx721paiqq","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"c0mx721paiqq","player_url":"https://vidhidepro.com/v/c0mx721paiqq"},{"id":4,"url":"https://voe.sx/e/xaelpr4wwbgy","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"xaelpr4wwbgy","player_url":"https://voe.sx/e/xaelpr4wwbgy"},{"id":5,"url":"https://doodstream.com/e/yszuuhm78676","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"yszuuhm78676","player_url":"https://doodstream.com/e/yszuuhm78676"},{"id":6,"url":"https://streamwish.to/e/cxcbo2f158s4","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"cxcbo2f158s4","player_url":"https://streamwish.to/e/cxcbo2f158s4"},{"id":7,"url":"https://bysejikuar.com/e/hlq7epaiewl0","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"hlq7epaiewl0","player_url":"https://bysejikuar.com/e/hlq7epaiewl0"},{"id":8,"url":"https://vidhidepro.com/v/d30yde03zi7e","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"d30yde03zi7e","player_url":"https://vidhidepro.com/v/d30yde03zi7e"},{"id":9,"url":"https://voe.sx/e/qesuuslwrvnv","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"qesuuslwrvnv","player_url":"https://voe.sx/e/qesuuslwrvnv"},{"id":10,"url":"https://streamwish.to/e/y5m09umcli5u","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"y5m09umcli5u","player_url":"https://streamwish.to/e/y5m09umcli5u"},{"id":11,"url":"https://vidhidepro.com/v/mb5uttx2b45k","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"mb5uttx2b45k","player_url":"https://vidhidepro.com/v/mb5uttx2b45k"},{"id":12,"url":"https://doodstream.com/e/zdtb2wetdni0","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"zdtb2wetdni0","player_url":"https://doodstream.com/e/zdtb2wetdni0"}]}
+{
+  "id": 938250,
+  "titulo": "Club Zero",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/hAz3m2gp7MxGbMXciuxv0smdpcd.jpg",
+  "release_date": "2023-09-27",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/z0cYoSjZ1sH9oKBDhJeQxlxIYh.jpg",
+  "overview": "Miss Novak es una maestra que se une al equipo de una escuela de élite para dar clases de nutrición a jóvenes estudiantes. En poco tiempo, la maestra establece un estrecho vínculo con cinco de sus alumnos, sin que el resto de profesores se dé cuenta de lo que sucede. Hasta que todo da un inesperado giro muy peligroso.",
+  "trailer": "",
+  "runtime": "110",
+  "slug": "club-zero",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ozu3lpz2ae7g",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ozu3lpz2ae7g",
+      "player_url": "https://streamwish.to/e/ozu3lpz2ae7g"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/f9m9e854lhq2",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "f9m9e854lhq2",
+      "player_url": "https://bysejikuar.com/e/f9m9e854lhq2"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/c0mx721paiqq",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "c0mx721paiqq",
+      "player_url": "https://vidhidepro.com/v/c0mx721paiqq"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/xaelpr4wwbgy",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xaelpr4wwbgy",
+      "player_url": "https://voe.sx/e/xaelpr4wwbgy"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/yszuuhm78676",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "yszuuhm78676",
+      "player_url": "https://doodstream.com/e/yszuuhm78676"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/cxcbo2f158s4",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "cxcbo2f158s4",
+      "player_url": "https://streamwish.to/e/cxcbo2f158s4"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/hlq7epaiewl0",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "hlq7epaiewl0",
+      "player_url": "https://bysejikuar.com/e/hlq7epaiewl0"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/d30yde03zi7e",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "d30yde03zi7e",
+      "player_url": "https://vidhidepro.com/v/d30yde03zi7e"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/qesuuslwrvnv",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qesuuslwrvnv",
+      "player_url": "https://voe.sx/e/qesuuslwrvnv"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/y5m09umcli5u",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "y5m09umcli5u",
+      "player_url": "https://streamwish.to/e/y5m09umcli5u"
+    },
+    {
+      "id": 11,
+      "url": "https://vidhidepro.com/v/mb5uttx2b45k",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mb5uttx2b45k",
+      "player_url": "https://vidhidepro.com/v/mb5uttx2b45k"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/zdtb2wetdni0",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "zdtb2wetdni0",
+      "player_url": "https://doodstream.com/e/zdtb2wetdni0"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/dcbffquxofdh",
+      "player_url": "https://minochinos.com/embed/dcbffquxofdh",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dcbffquxofdh"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/kilr2fbcevxv",
+      "player_url": "https://hglink.to/e/kilr2fbcevxv",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kilr2fbcevxv"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/vjcmceinfjgb",
+      "player_url": "https://bysedikamoum.com/e/vjcmceinfjgb",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vjcmceinfjgb"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/29wc2ppgpvlh",
+      "player_url": "https://voe.sx/e/29wc2ppgpvlh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "29wc2ppgpvlh"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/29wc2ppgpvlh/download",
+      "player_url": "https://voe.sx/29wc2ppgpvlh/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/pmxtwsrzgyk6",
+      "player_url": "https://rapidvideo.link/e/pmxtwsrzgyk6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pmxtwsrzgyk6"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/1xn6p25gmatf",
+      "player_url": "https://minochinos.com/embed/1xn6p25gmatf",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1xn6p25gmatf"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/fbkarz5ghji9",
+      "player_url": "https://hglink.to/e/fbkarz5ghji9",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fbkarz5ghji9"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/co2k3b3cwkvm",
+      "player_url": "https://bysedikamoum.com/e/co2k3b3cwkvm",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "co2k3b3cwkvm"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/enn5pczsbvcz",
+      "player_url": "https://voe.sx/e/enn5pczsbvcz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "enn5pczsbvcz"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/vj9my3xqp8oi",
+      "player_url": "https://rapidvideo.link/e/vj9my3xqp8oi",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vj9my3xqp8oi"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/u699op9y6k2p",
+      "player_url": "https://minochinos.com/embed/u699op9y6k2p",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u699op9y6k2p"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/nj4pujbfbjbn",
+      "player_url": "https://hglink.to/e/nj4pujbfbjbn",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "nj4pujbfbjbn"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/h4csnjiefjot",
+      "player_url": "https://bysedikamoum.com/e/h4csnjiefjot",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "h4csnjiefjot"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/vuhrc1nh0mrc",
+      "player_url": "https://voe.sx/e/vuhrc1nh0mrc",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vuhrc1nh0mrc"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/vuhrc1nh0mrc/download",
+      "player_url": "https://voe.sx/vuhrc1nh0mrc/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/9vbqx4h83mkg",
+      "player_url": "https://rapidvideo.link/e/9vbqx4h83mkg",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9vbqx4h83mkg"
+    }
+  ]
+}
