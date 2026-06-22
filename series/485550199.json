@@ -1,0 +1,34 @@
+{
+  "id": 485550199,
+  "titulo": "Rooster",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/f902f09c48aac5fdbdc389271d704daa.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un aclamado escritor llamado Greg Russo se ve arrastrado al mundo académico por su hija adulta Katie, profesora en una universidad de élite cuyo marido la e",
+  "slug": "rooster",
+  "iframe_url": "https://lacloud.live/eec0eeb63619d91e",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/ec0eeb63619d91e/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/ec0eeb63619d91e/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c0eeb63619d91e"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/rooster?season=1&ep=1"
+    }
+  ]
+}
