@@ -1,1 +1,264 @@
-{"id":989730,"titulo":"Mononoke: El fantasma bajo la lluvia","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/f09x6QhTC702Gu0F14NszBfqCiO.jpg","release_date":"2024-07-26","genres":[],"rating":"7.1","backdrop":"https://image.tmdb.org/t/p/original/jIJhDofDxf7TCHZSg99YbOLqIsZ.jpg","overview":"En el seno del harén imperial, dos nuevas integrantes descubren las intrigas y rivalidades de este grupo de mujeres, y un espíritu vengativo que solo un boticario puede derrotar.","trailer":"","runtime":"90","slug":"mononoke-el-fantasma-bajo-la-lluvia","servidores":[{"id":1,"url":"https://streamwish.to/e/79b73jv0n5mi","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"79b73jv0n5mi","player_url":"https://streamwish.to/e/79b73jv0n5mi"},{"id":2,"url":"https://vidhidepro.com/v/54qug5ok7do5","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"54qug5ok7do5","player_url":"https://vidhidepro.com/v/54qug5ok7do5"},{"id":3,"url":"https://voe.sx/e/rzbuna542wtr","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"rzbuna542wtr","player_url":"https://voe.sx/e/rzbuna542wtr"},{"id":4,"url":"https://streamwish.to/e/yavqpo0rqto9","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"yavqpo0rqto9","player_url":"https://streamwish.to/e/yavqpo0rqto9"},{"id":5,"url":"https://vidhidepro.com/v/l5e79pl97cd8","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"l5e79pl97cd8","player_url":"https://vidhidepro.com/v/l5e79pl97cd8"},{"id":6,"url":"https://voe.sx/e/lvh6cmuwviom","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"lvh6cmuwviom","player_url":"https://voe.sx/e/lvh6cmuwviom"},{"id":7,"url":"https://doodstream.com/e/e0s3jxyfk6zl","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"e0s3jxyfk6zl","player_url":"https://doodstream.com/e/e0s3jxyfk6zl"},{"id":8,"url":"https://streamwish.to/e/xlqzo5eh89y4","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"xlqzo5eh89y4","player_url":"https://streamwish.to/e/xlqzo5eh89y4"},{"id":9,"url":"https://vidhidepro.com/v/ti7wma3s6eef","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"ti7wma3s6eef","player_url":"https://vidhidepro.com/v/ti7wma3s6eef"},{"id":10,"url":"https://voe.sx/e/28eju7ygzvxf","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"28eju7ygzvxf","player_url":"https://voe.sx/e/28eju7ygzvxf"},{"id":11,"url":"https://doodstream.com/e/bvq9o3iuawgs","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"bvq9o3iuawgs","player_url":"https://doodstream.com/e/bvq9o3iuawgs"}]}
+{
+  "id": 989730,
+  "titulo": "Mononoke: El fantasma bajo la lluvia",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/f09x6QhTC702Gu0F14NszBfqCiO.jpg",
+  "release_date": "2024-07-26",
+  "genres": [
+    "Animación",
+    "Fantasía",
+    "Misterio",
+    "Terror"
+  ],
+  "rating": "7.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/jIJhDofDxf7TCHZSg99YbOLqIsZ.jpg",
+  "overview": "En el seno del harén imperial, dos nuevas integrantes descubren las intrigas y rivalidades de este grupo de mujeres, y un espíritu vengativo que solo un boticario puede derrotar.",
+  "trailer": "",
+  "runtime": "90",
+  "slug": "mononoke-el-fantasma-bajo-la-lluvia",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/79b73jv0n5mi",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "79b73jv0n5mi",
+      "player_url": "https://streamwish.to/e/79b73jv0n5mi"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/54qug5ok7do5",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "54qug5ok7do5",
+      "player_url": "https://vidhidepro.com/v/54qug5ok7do5"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/rzbuna542wtr",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rzbuna542wtr",
+      "player_url": "https://voe.sx/e/rzbuna542wtr"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/yavqpo0rqto9",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "yavqpo0rqto9",
+      "player_url": "https://streamwish.to/e/yavqpo0rqto9"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/l5e79pl97cd8",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "l5e79pl97cd8",
+      "player_url": "https://vidhidepro.com/v/l5e79pl97cd8"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/lvh6cmuwviom",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "lvh6cmuwviom",
+      "player_url": "https://voe.sx/e/lvh6cmuwviom"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/e0s3jxyfk6zl",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "e0s3jxyfk6zl",
+      "player_url": "https://doodstream.com/e/e0s3jxyfk6zl"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/xlqzo5eh89y4",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "xlqzo5eh89y4",
+      "player_url": "https://streamwish.to/e/xlqzo5eh89y4"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/ti7wma3s6eef",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ti7wma3s6eef",
+      "player_url": "https://vidhidepro.com/v/ti7wma3s6eef"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/28eju7ygzvxf",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "28eju7ygzvxf",
+      "player_url": "https://voe.sx/e/28eju7ygzvxf"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/bvq9o3iuawgs",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "bvq9o3iuawgs",
+      "player_url": "https://doodstream.com/e/bvq9o3iuawgs"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/h0lq22d67j82",
+      "player_url": "https://minochinos.com/embed/h0lq22d67j82",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h0lq22d67j82"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/42mczuv42vxq",
+      "player_url": "https://hglink.to/e/42mczuv42vxq",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "42mczuv42vxq"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/ynkay9wxesyl",
+      "player_url": "https://bysedikamoum.com/e/ynkay9wxesyl",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ynkay9wxesyl"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/zmuywidv1tca",
+      "player_url": "https://voe.sx/e/zmuywidv1tca",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zmuywidv1tca"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/zmuywidv1tca/download",
+      "player_url": "https://voe.sx/zmuywidv1tca/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/8djzq74xwi93",
+      "player_url": "https://rapidvideo.link/e/8djzq74xwi93",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8djzq74xwi93"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/o7aa407b9cs4",
+      "player_url": "https://minochinos.com/embed/o7aa407b9cs4",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o7aa407b9cs4"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/dna2j0yh2ffw",
+      "player_url": "https://hglink.to/e/dna2j0yh2ffw",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dna2j0yh2ffw"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/o3gveei5v8eo",
+      "player_url": "https://bysedikamoum.com/e/o3gveei5v8eo",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o3gveei5v8eo"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/4n69qmyiwtag",
+      "player_url": "https://rapidvideo.link/e/4n69qmyiwtag",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4n69qmyiwtag"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/7pp6glxv5bdm",
+      "player_url": "https://minochinos.com/embed/7pp6glxv5bdm",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7pp6glxv5bdm"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/b56lf7vh2f67",
+      "player_url": "https://hglink.to/e/b56lf7vh2f67",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "b56lf7vh2f67"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/ingyqmsw1hf6",
+      "player_url": "https://bysedikamoum.com/e/ingyqmsw1hf6",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ingyqmsw1hf6"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/tqthncojngjf",
+      "player_url": "https://voe.sx/e/tqthncojngjf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tqthncojngjf"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/tqthncojngjf/download",
+      "player_url": "https://voe.sx/tqthncojngjf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/e0o4ih87l3nz",
+      "player_url": "https://rapidvideo.link/e/e0o4ih87l3nz",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "e0o4ih87l3nz"
+    }
+  ]
+}
