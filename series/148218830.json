@@ -15,7 +15,17 @@
   "slug": "westworld",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/f0m1f39ru1pb",
+      "player_url": "https://streamfort.online/e/f0m1f39ru1pb",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f0m1f39ru1pb"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
