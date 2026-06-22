@@ -14,7 +14,17 @@
   "slug": "usagi-drop",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf28628fa79fb2827aa8f5cd6e686a1e263a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf28628fa79fb2827aa8f5cd6e686a1e263a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf28628fa79fb2827aa8f5cd6e686a1e263a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
