@@ -14,7 +14,17 @@
   "slug": "el-hombre-que-cayo-a-la-tierra",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfe4fed10b3ff2d8795fbca097f1f107953a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfe4fed10b3ff2d8795fbca097f1f107953a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe4fed10b3ff2d8795fbca097f1f107953a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
