@@ -16,7 +16,17 @@
   "slug": "wondla",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf78ad62d13837991b2edc62fe79e752263a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf78ad62d13837991b2edc62fe79e752263a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf78ad62d13837991b2edc62fe79e752263a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
