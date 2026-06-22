@@ -14,7 +14,17 @@
   "slug": "black-jack-21",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/6c0ppjr7oajb",
+      "player_url": "https://streamfort.online/e/6c0ppjr7oajb",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6c0ppjr7oajb"
+    }
+  ],
   "episodes": [
     {
       "season": 0,
