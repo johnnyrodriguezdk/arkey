@@ -1,0 +1,35 @@
+{
+  "id": 272596205,
+  "titulo": "Alice y Steve",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/c17c18ea8abd4f72527c2499ba452cf4.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Alice queda devastada cuando su mejor amigo, Steve, empieza a salir con su hija Izzy, de 26 años, y ambos anuncian que quieren intentarlo. Alice hace todo l",
+  "slug": "alice-y-steve",
+  "iframe_url": "https://lacloud.live/0264495f09fa8dea",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/0264495f09fa8dea/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/0264495f09fa8dea/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0264495f09fa8dea"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/alice-y-steve?season=1&ep=1"
+    }
+  ]
+}
