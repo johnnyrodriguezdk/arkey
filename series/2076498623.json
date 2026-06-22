@@ -17,7 +17,17 @@
   "slug": "britannia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/5dz1tn1ck83c",
+      "player_url": "https://dsvplay.com/e/5dz1tn1ck83c",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5dz1tn1ck83c"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
