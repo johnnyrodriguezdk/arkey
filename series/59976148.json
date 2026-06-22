@@ -18,7 +18,17 @@
   "slug": "mis-aventuras-con-superman",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf11a116619e580248073dddf26a2fc3813a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf11a116619e580248073dddf26a2fc3813a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf11a116619e580248073dddf26a2fc3813a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
