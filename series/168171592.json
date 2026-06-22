@@ -17,7 +17,17 @@
   "slug": "parasyte-los-grises",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf2d4688d0ded56735cf48aef86b66c10a3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf2d4688d0ded56735cf48aef86b66c10a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf2d4688d0ded56735cf48aef86b66c10a3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
