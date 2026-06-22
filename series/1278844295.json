@@ -18,7 +18,17 @@
   "slug": "the-wrong-way-to-use-healing-magic",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf5097b372bf714ff79b34f6bf9d83dd1d3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf5097b372bf714ff79b34f6bf9d83dd1d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf5097b372bf714ff79b34f6bf9d83dd1d3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
