@@ -1,1 +1,38 @@
-{"id":1577751838,"titulo":"Mother Mary","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w342//qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg","release_date":"2026-01-01","genres":[],"rating":"","backdrop":"https://cuevana.gs/isKS6cjAbvfNoCI3pzHsLn1LZmx.jpg","overview":"","trailer":"","runtime":"","slug":"","servidores":[{"id":1,"url":"https://vimeos.net/embed-ofwx0yb2q8el.html","idioma":"Latino","nombre":"Vimeos Recomendado","calidad":"HD","embed_id":"embed-ofwx0yb2q8el.html","player_url":"https://vimeos.net/embed-ofwx0yb2q8el.html"}]}
+{
+  "id": 1577751838,
+  "titulo": "Mother Mary",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w342//qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+  "release_date": "2026-01-01",
+  "genres": [
+    "drama",
+    "fantasia",
+    "musica"
+  ],
+  "rating": "",
+  "backdrop": "https://cuevana.gs/isKS6cjAbvfNoCI3pzHsLn1LZmx.jpg",
+  "overview": "Viejas heridas enterradas salen a la luz cuando la icónica estrella del pop, Mother Mary, se reencuentra con su distanciada mejor amiga y exdiseñadora de ve",
+  "trailer": "",
+  "runtime": "",
+  "slug": "",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://vimeos.net/embed-ofwx0yb2q8el.html",
+      "idioma": "Latino",
+      "nombre": "Vimeos Recomendado",
+      "calidad": "HD",
+      "embed_id": "embed-ofwx0yb2q8el.html",
+      "player_url": "https://vimeos.net/embed-ofwx0yb2q8el.html"
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/3e00ef1647b81651/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/3e00ef1647b81651/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3e00ef1647b81651"
+    }
+  ]
+}
