@@ -1,1 +1,252 @@
-{"id":1255187,"titulo":"La vida entre leopardos","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/tDLiovEqXBSxSQNYqIayzWmtfDp.jpg","release_date":"2024-05-09","genres":[],"rating":"7.6","backdrop":"https://image.tmdb.org/t/p/original/dUfRICbbBih2C9uO3z2ZOVOlv0q.jpg","overview":"En este íntimo documental sobre la naturaleza, un equipo de filmación sigue a dos cachorros de leopardo a través de su fascinante recorrido de la infancia a la edad adulta.","trailer":"","runtime":"71","slug":"la-vida-entre-leopardos","servidores":[{"id":1,"url":"https://streamwish.to/e/s6l64p59eazz","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"s6l64p59eazz","player_url":"https://streamwish.to/e/s6l64p59eazz"},{"id":2,"url":"https://bysejikuar.com/e/cfg4893p0ei3","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"cfg4893p0ei3","player_url":"https://bysejikuar.com/e/cfg4893p0ei3"},{"id":3,"url":"https://vidhidepro.com/v/it1ntfq06erh","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"it1ntfq06erh","player_url":"https://vidhidepro.com/v/it1ntfq06erh"},{"id":4,"url":"https://doodstream.com/e/z1ibm1dwg74d","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"z1ibm1dwg74d","player_url":"https://doodstream.com/e/z1ibm1dwg74d"},{"id":5,"url":"https://streamwish.to/e/ui92281wobmx","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"ui92281wobmx","player_url":"https://streamwish.to/e/ui92281wobmx"},{"id":6,"url":"https://bysejikuar.com/e/2927xz22f4f2","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"2927xz22f4f2","player_url":"https://bysejikuar.com/e/2927xz22f4f2"},{"id":7,"url":"https://vidhidepro.com/v/uwq7gjmr6jao","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"uwq7gjmr6jao","player_url":"https://vidhidepro.com/v/uwq7gjmr6jao"},{"id":8,"url":"https://voe.sx/e/8nbufz8m0ns1","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"8nbufz8m0ns1","player_url":"https://voe.sx/e/8nbufz8m0ns1"},{"id":9,"url":"https://doodstream.com/e/xmgmbgi8udpc","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"xmgmbgi8udpc","player_url":"https://doodstream.com/e/xmgmbgi8udpc"}]}
+{
+  "id": 1255187,
+  "titulo": "La vida entre leopardos",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/tDLiovEqXBSxSQNYqIayzWmtfDp.jpg",
+  "release_date": "2024-05-09",
+  "genres": [
+    "Documental"
+  ],
+  "rating": "7.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/dUfRICbbBih2C9uO3z2ZOVOlv0q.jpg",
+  "overview": "En este íntimo documental sobre la naturaleza, un equipo de filmación sigue a dos cachorros de leopardo a través de su fascinante recorrido de la infancia a la edad adulta.",
+  "trailer": "",
+  "runtime": "71",
+  "slug": "la-vida-entre-leopardos",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/s6l64p59eazz",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "s6l64p59eazz",
+      "player_url": "https://streamwish.to/e/s6l64p59eazz"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/cfg4893p0ei3",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "cfg4893p0ei3",
+      "player_url": "https://bysejikuar.com/e/cfg4893p0ei3"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/it1ntfq06erh",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "it1ntfq06erh",
+      "player_url": "https://vidhidepro.com/v/it1ntfq06erh"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/z1ibm1dwg74d",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "z1ibm1dwg74d",
+      "player_url": "https://doodstream.com/e/z1ibm1dwg74d"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/ui92281wobmx",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ui92281wobmx",
+      "player_url": "https://streamwish.to/e/ui92281wobmx"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/2927xz22f4f2",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "2927xz22f4f2",
+      "player_url": "https://bysejikuar.com/e/2927xz22f4f2"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/uwq7gjmr6jao",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "uwq7gjmr6jao",
+      "player_url": "https://vidhidepro.com/v/uwq7gjmr6jao"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/8nbufz8m0ns1",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "8nbufz8m0ns1",
+      "player_url": "https://voe.sx/e/8nbufz8m0ns1"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/xmgmbgi8udpc",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "xmgmbgi8udpc",
+      "player_url": "https://doodstream.com/e/xmgmbgi8udpc"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/c78k2v8fcd4v",
+      "player_url": "https://minochinos.com/embed/c78k2v8fcd4v",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c78k2v8fcd4v"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/uydv1gl3cyl5",
+      "player_url": "https://hglink.to/e/uydv1gl3cyl5",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uydv1gl3cyl5"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/ksbsxjqnxqh6",
+      "player_url": "https://bysedikamoum.com/e/ksbsxjqnxqh6",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ksbsxjqnxqh6"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/zyh7k1qxecx7",
+      "player_url": "https://voe.sx/e/zyh7k1qxecx7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zyh7k1qxecx7"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/zyh7k1qxecx7/download",
+      "player_url": "https://voe.sx/zyh7k1qxecx7/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/0rp67vtibxm3",
+      "player_url": "https://rapidvideo.link/e/0rp67vtibxm3",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0rp67vtibxm3"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/pxsbi4am3y1y",
+      "player_url": "https://minochinos.com/embed/pxsbi4am3y1y",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pxsbi4am3y1y"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/z6p6yjdw3qcz",
+      "player_url": "https://hglink.to/e/z6p6yjdw3qcz",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z6p6yjdw3qcz"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/gnx2kq7a8ia9",
+      "player_url": "https://bysedikamoum.com/e/gnx2kq7a8ia9",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gnx2kq7a8ia9"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/japxxy765mct",
+      "player_url": "https://voe.sx/e/japxxy765mct",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "japxxy765mct"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/0quyfgmrd4il",
+      "player_url": "https://rapidvideo.link/e/0quyfgmrd4il",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0quyfgmrd4il"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/8msn207i94ax",
+      "player_url": "https://minochinos.com/embed/8msn207i94ax",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8msn207i94ax"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/7wfor9nxufqr",
+      "player_url": "https://hglink.to/e/7wfor9nxufqr",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7wfor9nxufqr"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/2kba0hc3rwft",
+      "player_url": "https://bysedikamoum.com/e/2kba0hc3rwft",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2kba0hc3rwft"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/sxyawqvhnni7",
+      "player_url": "https://voe.sx/e/sxyawqvhnni7",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sxyawqvhnni7"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/sxyawqvhnni7/download",
+      "player_url": "https://voe.sx/sxyawqvhnni7/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/syx3gl0v7ohm",
+      "player_url": "https://rapidvideo.link/e/syx3gl0v7ohm",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "syx3gl0v7ohm"
+    }
+  ]
+}
