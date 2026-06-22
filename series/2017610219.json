@@ -17,7 +17,17 @@
   "slug": "justicia-joven",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/i4dx7x0tx7xu",
+      "player_url": "https://streamfort.online/e/i4dx7x0tx7xu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i4dx7x0tx7xu"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
