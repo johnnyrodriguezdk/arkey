@@ -11,7 +11,7 @@
   ],
   "rating": "7",
   "backdrop": "https://image.tmdb.org/t/p/original/16TvbhCP8CfiGEbxcbtQLYWO6WG.jpg",
-  "overview": "Una mujer tiene una bala esperándola por su tipo de sangre raro. Se refugia con el asesino que ama. Juntos pelean para salvarse.",
+  "overview": "Una mujer perseguida por su inusual tipo de sangre encuentra protección y amor en los brazos de un asesino letal. Juntos, luchan por sobrevivir.",
   "trailer": "",
   "runtime": "",
   "slug": "sangre-asesina-UgiQix",
@@ -258,6 +258,15 @@
       "idioma": "subtitulado",
       "calidad": "HD",
       "embed_id": "7gi8u45f3qky"
+    },
+    {
+      "id": 28,
+      "url": "https://lacloud.live/public/stream/3c3f635168749b14/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/3c3f635168749b14/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3c3f635168749b14"
     }
   ]
 }
