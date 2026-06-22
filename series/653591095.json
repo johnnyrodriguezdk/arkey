@@ -1,0 +1,36 @@
+{
+  "id": 653591095,
+  "titulo": "The Mighty Nein",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/dbd18fe1f4137d8e0a0cfb72376985ef.webp",
+  "release_date": "2025-01-01",
+  "genres": [
+    "animacion",
+    "ciencia-ficcion",
+    "fantasia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un grupo de marginados, criminales e inadaptados se involucra por azar en la salvación del continente cuando una reliquia arcana capaz de cambiar la realida",
+  "slug": "the-mighty-nein",
+  "iframe_url": "https://lacloud.live/012a6cf426c4ae3b",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/012a6cf426c4ae3b/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/012a6cf426c4ae3b/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "012a6cf426c4ae3b"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/the-mighty-nein?season=1&ep=1"
+    }
+  ]
+}
