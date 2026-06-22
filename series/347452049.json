@@ -16,7 +16,17 @@
   "slug": "tis-time-for-torture-princess",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://voe.sx/e/ri8ihzxjbbb6",
+      "player_url": "https://voe.sx/e/ri8ihzxjbbb6",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ri8ihzxjbbb6"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
