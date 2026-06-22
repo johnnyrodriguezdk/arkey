@@ -18,7 +18,17 @@
   "slug": "made-in-abyss",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfcfffaaf118c93271996428cdc8c7b2c93a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfcfffaaf118c93271996428cdc8c7b2c93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfcfffaaf118c93271996428cdc8c7b2c93a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
