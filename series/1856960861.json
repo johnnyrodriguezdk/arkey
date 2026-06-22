@@ -1,0 +1,35 @@
+{
+  "id": 1856960861,
+  "titulo": "Day One",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/5fbcf70d27063b784f44cac35923997b.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Ulises Albet es un genio de la computación que abandonó el mundo tecnológico tras el trágico suicidio de su hermana por haber sufrido acoso en redes. Una dé",
+  "slug": "day-one",
+  "iframe_url": "https://lacloud.live/a96dd8d0532f275c",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/a96dd8d0532f275c/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/a96dd8d0532f275c/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a96dd8d0532f275c"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/day-one?season=1&ep=1"
+    }
+  ]
+}
