@@ -1,1 +1,200 @@
-{"id":1081208,"titulo":"The Dogs","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/8dsBBNw3uJkOvLPb2nz8VJAkGbM.jpg","release_date":"2025-06-13","genres":[],"rating":"6.6","backdrop":"https://image.tmdb.org/t/p/original/48LdnfGahm8LuM2cg7LFWEmrTEd.jpg","overview":"Perseguidos por su padre, Cameron y su madre se mudan a una granja aislada donde Cameron ve y oye cosas que no son posibles. Comienza a cuestionarse todo lo que le rodea y debe descubrir los misterios antes de que le destrocen.","trailer":"","runtime":"97","slug":"the-dogs","servidores":[{"id":1,"url":"https://streamwish.to/e/ntmfycaelt7n","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"ntmfycaelt7n","player_url":"https://streamwish.to/e/ntmfycaelt7n"},{"id":2,"url":"https://vidhidepro.com/v/lkge337swwa3","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"lkge337swwa3","player_url":"https://vidhidepro.com/v/lkge337swwa3"},{"id":3,"url":"https://voe.sx/e/xdg19pcim4k1","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"xdg19pcim4k1","player_url":"https://voe.sx/e/xdg19pcim4k1"},{"id":4,"url":"https://doodstream.com/e/b1mczr89u0pj","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"b1mczr89u0pj","player_url":"https://doodstream.com/e/b1mczr89u0pj"},{"id":5,"url":"https://streamwish.to/e/st8h6x5xyhw2","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"st8h6x5xyhw2","player_url":"https://streamwish.to/e/st8h6x5xyhw2"},{"id":6,"url":"https://vidhidepro.com/v/97kxp4e06xmx","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"97kxp4e06xmx","player_url":"https://vidhidepro.com/v/97kxp4e06xmx"},{"id":7,"url":"https://voe.sx/e/yinfw3tagdrr","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"yinfw3tagdrr","player_url":"https://voe.sx/e/yinfw3tagdrr"},{"id":8,"url":"https://doodstream.com/e/aoit8664iuih","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"aoit8664iuih","player_url":"https://doodstream.com/e/aoit8664iuih"}]}
+{
+  "id": 1081208,
+  "titulo": "The Dogs",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/8dsBBNw3uJkOvLPb2nz8VJAkGbM.jpg",
+  "release_date": "2025-06-13",
+  "genres": [
+    "Terror",
+    "Suspense",
+    "Misterio"
+  ],
+  "rating": "6.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/48LdnfGahm8LuM2cg7LFWEmrTEd.jpg",
+  "overview": "Perseguidos por su padre, Cameron y su madre se mudan a una granja aislada donde Cameron ve y oye cosas que no son posibles. Comienza a cuestionarse todo lo que le rodea y debe descubrir los misterios antes de que le destrocen.",
+  "trailer": "",
+  "runtime": "97",
+  "slug": "the-dogs",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ntmfycaelt7n",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ntmfycaelt7n",
+      "player_url": "https://streamwish.to/e/ntmfycaelt7n"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/lkge337swwa3",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "lkge337swwa3",
+      "player_url": "https://vidhidepro.com/v/lkge337swwa3"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/xdg19pcim4k1",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xdg19pcim4k1",
+      "player_url": "https://voe.sx/e/xdg19pcim4k1"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/b1mczr89u0pj",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "b1mczr89u0pj",
+      "player_url": "https://doodstream.com/e/b1mczr89u0pj"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/st8h6x5xyhw2",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "st8h6x5xyhw2",
+      "player_url": "https://streamwish.to/e/st8h6x5xyhw2"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/97kxp4e06xmx",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "97kxp4e06xmx",
+      "player_url": "https://vidhidepro.com/v/97kxp4e06xmx"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/yinfw3tagdrr",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "yinfw3tagdrr",
+      "player_url": "https://voe.sx/e/yinfw3tagdrr"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/aoit8664iuih",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "aoit8664iuih",
+      "player_url": "https://doodstream.com/e/aoit8664iuih"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/e7e4i65t95gp",
+      "player_url": "https://minochinos.com/embed/e7e4i65t95gp",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e7e4i65t95gp"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/1m2n47fmz2ey",
+      "player_url": "https://hglink.to/e/1m2n47fmz2ey",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1m2n47fmz2ey"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/q2tn24yye2ly",
+      "player_url": "https://bysedikamoum.com/e/q2tn24yye2ly",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q2tn24yye2ly"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/xusxmiajquge",
+      "player_url": "https://voe.sx/e/xusxmiajquge",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xusxmiajquge"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/xusxmiajquge/download",
+      "player_url": "https://voe.sx/xusxmiajquge/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/nmbarjtlegy4",
+      "player_url": "https://rapidvideo.link/e/nmbarjtlegy4",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nmbarjtlegy4"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/dkmkog0m5gxx",
+      "player_url": "https://minochinos.com/embed/dkmkog0m5gxx",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dkmkog0m5gxx"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/kns3blp3f38x",
+      "player_url": "https://hglink.to/e/kns3blp3f38x",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "kns3blp3f38x"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/4yevcmionxcp",
+      "player_url": "https://bysedikamoum.com/e/4yevcmionxcp",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4yevcmionxcp"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/y3kybqsjy7z7",
+      "player_url": "https://voe.sx/e/y3kybqsjy7z7",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "y3kybqsjy7z7"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/y3kybqsjy7z7/download",
+      "player_url": "https://voe.sx/y3kybqsjy7z7/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/tmbc2u6r75hp",
+      "player_url": "https://rapidvideo.link/e/tmbc2u6r75hp",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tmbc2u6r75hp"
+    }
+  ]
+}
