@@ -1,1 +1,254 @@
-{"id":762509,"titulo":"Mufasa: El rey león","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg","release_date":"2024-12-18","genres":[],"rating":"7.3","backdrop":"https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg","overview":"Mufasa era un cachorro huérfano, perdido y solo hasta que conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.","trailer":"","runtime":"118","slug":"mufasa-el-rey-leon","servidores":[{"id":1,"url":"https://streamwish.to/e/udvssz9o15an","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"udvssz9o15an","player_url":"https://streamwish.to/e/udvssz9o15an"},{"id":2,"url":"https://vidhidepro.com/v/4oxr2nfh8ges","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"4oxr2nfh8ges","player_url":"https://vidhidepro.com/v/4oxr2nfh8ges"},{"id":3,"url":"https://voe.sx/e/0dye9hixb44w","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"0dye9hixb44w","player_url":"https://voe.sx/e/0dye9hixb44w"},{"id":4,"url":"https://doodstream.com/e/kzgaddgjuibi","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"kzgaddgjuibi","player_url":"https://doodstream.com/e/kzgaddgjuibi"},{"id":5,"url":"https://streamwish.to/e/9pdfd3ncool4","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"9pdfd3ncool4","player_url":"https://streamwish.to/e/9pdfd3ncool4"},{"id":6,"url":"https://vidhidepro.com/v/383ui54qbjwd","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"383ui54qbjwd","player_url":"https://vidhidepro.com/v/383ui54qbjwd"},{"id":7,"url":"https://voe.sx/e/psdcmyphzii3","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"psdcmyphzii3","player_url":"https://voe.sx/e/psdcmyphzii3"},{"id":8,"url":"https://doodstream.com/e/uaiu250em5dx","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"uaiu250em5dx","player_url":"https://doodstream.com/e/uaiu250em5dx"},{"id":9,"url":"https://streamwish.to/e/03ufpkm947wi","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"03ufpkm947wi","player_url":"https://streamwish.to/e/03ufpkm947wi"},{"id":10,"url":"https://vidhidepro.com/v/hrkrxc99bxbd","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"hrkrxc99bxbd","player_url":"https://vidhidepro.com/v/hrkrxc99bxbd"},{"id":11,"url":"https://voe.sx/e/46ovaqoz2mrg","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"46ovaqoz2mrg","player_url":"https://voe.sx/e/46ovaqoz2mrg"},{"id":12,"url":"https://doodstream.com/e/m7arjt176d2n","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"m7arjt176d2n","player_url":"https://doodstream.com/e/m7arjt176d2n"}]}
+{
+  "id": 762509,
+  "titulo": "Mufasa: El rey león",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+  "release_date": "2024-12-18",
+  "genres": [
+    "Aventura",
+    "Familia",
+    "Animación"
+  ],
+  "rating": "7.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+  "overview": "Mufasa era un cachorro huérfano, perdido y solo hasta que conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
+  "trailer": "",
+  "runtime": "118",
+  "slug": "mufasa-el-rey-leon",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/udvssz9o15an",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "udvssz9o15an",
+      "player_url": "https://streamwish.to/e/udvssz9o15an"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/4oxr2nfh8ges",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "4oxr2nfh8ges",
+      "player_url": "https://vidhidepro.com/v/4oxr2nfh8ges"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/0dye9hixb44w",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "0dye9hixb44w",
+      "player_url": "https://voe.sx/e/0dye9hixb44w"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/kzgaddgjuibi",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "kzgaddgjuibi",
+      "player_url": "https://doodstream.com/e/kzgaddgjuibi"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/9pdfd3ncool4",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "9pdfd3ncool4",
+      "player_url": "https://streamwish.to/e/9pdfd3ncool4"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/383ui54qbjwd",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "383ui54qbjwd",
+      "player_url": "https://vidhidepro.com/v/383ui54qbjwd"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/psdcmyphzii3",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "psdcmyphzii3",
+      "player_url": "https://voe.sx/e/psdcmyphzii3"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/uaiu250em5dx",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "uaiu250em5dx",
+      "player_url": "https://doodstream.com/e/uaiu250em5dx"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/03ufpkm947wi",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "03ufpkm947wi",
+      "player_url": "https://streamwish.to/e/03ufpkm947wi"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/hrkrxc99bxbd",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "hrkrxc99bxbd",
+      "player_url": "https://vidhidepro.com/v/hrkrxc99bxbd"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/46ovaqoz2mrg",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "46ovaqoz2mrg",
+      "player_url": "https://voe.sx/e/46ovaqoz2mrg"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/m7arjt176d2n",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "m7arjt176d2n",
+      "player_url": "https://doodstream.com/e/m7arjt176d2n"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/1dpc8mlohvy4",
+      "player_url": "https://minochinos.com/embed/1dpc8mlohvy4",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1dpc8mlohvy4"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/vllapy6ypcq4",
+      "player_url": "https://hglink.to/e/vllapy6ypcq4",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vllapy6ypcq4"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/sevfo3kqllbg",
+      "player_url": "https://voe.sx/e/sevfo3kqllbg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sevfo3kqllbg"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/sevfo3kqllbg/download",
+      "player_url": "https://voe.sx/sevfo3kqllbg/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/l87obia5ws1n",
+      "player_url": "https://rapidvideo.link/e/l87obia5ws1n",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l87obia5ws1n"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/9ruxdfkf3u7g",
+      "player_url": "https://minochinos.com/embed/9ruxdfkf3u7g",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9ruxdfkf3u7g"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/iclaiwz4zja6",
+      "player_url": "https://hglink.to/e/iclaiwz4zja6",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iclaiwz4zja6"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/qnzgoaze575n",
+      "player_url": "https://voe.sx/e/qnzgoaze575n",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qnzgoaze575n"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/5eh0pqtyagvz",
+      "player_url": "https://rapidvideo.link/e/5eh0pqtyagvz",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5eh0pqtyagvz"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/ey8on0cbjx7f",
+      "player_url": "https://minochinos.com/embed/ey8on0cbjx7f",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ey8on0cbjx7f"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/n2a08sq3f2xt",
+      "player_url": "https://hglink.to/e/n2a08sq3f2xt",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "n2a08sq3f2xt"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/k8edg5uxh9ku",
+      "player_url": "https://voe.sx/e/k8edg5uxh9ku",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "k8edg5uxh9ku"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/k8edg5uxh9ku/download",
+      "player_url": "https://voe.sx/k8edg5uxh9ku/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/vos35ud4kg6t",
+      "player_url": "https://rapidvideo.link/e/vos35ud4kg6t",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vos35ud4kg6t"
+    }
+  ]
+}
