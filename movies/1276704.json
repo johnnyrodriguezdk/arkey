@@ -9,7 +9,7 @@
   ],
   "rating": "5.9",
   "backdrop": "https://image.tmdb.org/t/p/original/kFK6FpbbEvVKDH956qTKEHB4Sfp.jpg",
-  "overview": "Tres hermanos se reúnen para hablar sobre el futuro de su padre, pero el encuentro pronto deviene en discusiones... y resucita viejos rencores.",
+  "overview": "Tres hermanos deben encontrarse para discutir el futuro de su padre, pero la reunión pronto se convierte en una discusión caótica que reaviva viejos rencore",
   "trailer": "",
   "runtime": "78",
   "slug": "53-domingos",
@@ -148,6 +148,15 @@
       "idioma": "subtitulado",
       "calidad": "HD",
       "embed_id": "pudbj6vrs409"
+    },
+    {
+      "id": 16,
+      "url": "https://lacloud.live/public/stream/b56d556b8faf4f11/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/b56d556b8faf4f11/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b56d556b8faf4f11"
     }
   ]
 }
