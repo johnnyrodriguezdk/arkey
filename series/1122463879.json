@@ -14,7 +14,17 @@
   "slug": "amor-y-muerte",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/x4bloygcea3w",
+      "player_url": "https://dsvplay.com/e/x4bloygcea3w",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x4bloygcea3w"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
