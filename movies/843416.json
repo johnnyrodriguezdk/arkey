@@ -1,1 +1,261 @@
-{"id":843416,"titulo":"Daddio","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/dyrCsHUhOfpuci51lHcdAnO3db0.jpg","release_date":"2024-06-27","genres":["drama"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/djE6IF5IPJPmeNsQnxpKxlrtpD7.jpg","overview":"Una mujer toma un taxi desde el aeropuerto JFK y entabla una conversación con el taxista sobre las relaciones importantes en sus vidas.","trailer":"","runtime":"100","slug":"daddio","servidores":[{"id":1,"url":"https://streamwish.to/e/urlxtqhbg4zd","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"urlxtqhbg4zd","player_url":"https://streamwish.to/e/urlxtqhbg4zd"},{"id":2,"url":"https://vidhidepro.com/v/2lwh96rdx718","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"2lwh96rdx718","player_url":"https://vidhidepro.com/v/2lwh96rdx718"},{"id":3,"url":"https://voe.sx/e/melffglir9b6","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"melffglir9b6","player_url":"https://voe.sx/e/melffglir9b6"},{"id":4,"url":"https://doodstream.com/e/ppt5djenqfib","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"ppt5djenqfib","player_url":"https://doodstream.com/e/ppt5djenqfib"},{"id":5,"url":"https://streamwish.to/e/uxtu4uyq205o","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"uxtu4uyq205o","player_url":"https://streamwish.to/e/uxtu4uyq205o"},{"id":6,"url":"https://vidhidepro.com/v/6zymsoaig0uj","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"6zymsoaig0uj","player_url":"https://vidhidepro.com/v/6zymsoaig0uj"},{"id":7,"url":"https://voe.sx/e/w87yzcx6zvco","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"w87yzcx6zvco","player_url":"https://voe.sx/e/w87yzcx6zvco"},{"id":8,"url":"https://doodstream.com/e/941yoi1oyfs0","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"941yoi1oyfs0","player_url":"https://doodstream.com/e/941yoi1oyfs0"},{"id":9,"url":"https://streamwish.to/e/vrd1q9yswyjy","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"vrd1q9yswyjy","player_url":"https://streamwish.to/e/vrd1q9yswyjy"},{"id":10,"url":"https://vidhidepro.com/v/995ygbxxxpza","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"995ygbxxxpza","player_url":"https://vidhidepro.com/v/995ygbxxxpza"},{"id":11,"url":"https://doodstream.com/e/77n5vjny91z6","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"77n5vjny91z6","player_url":"https://doodstream.com/e/77n5vjny91z6"}]}
+{
+  "id": 843416,
+  "titulo": "Daddio",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/dyrCsHUhOfpuci51lHcdAnO3db0.jpg",
+  "release_date": "2024-06-27",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/djE6IF5IPJPmeNsQnxpKxlrtpD7.jpg",
+  "overview": "Una mujer toma un taxi desde el aeropuerto JFK y entabla una conversación con el taxista sobre las relaciones importantes en sus vidas.",
+  "trailer": "",
+  "runtime": "100",
+  "slug": "daddio",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/urlxtqhbg4zd",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "urlxtqhbg4zd",
+      "player_url": "https://streamwish.to/e/urlxtqhbg4zd"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/2lwh96rdx718",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "2lwh96rdx718",
+      "player_url": "https://vidhidepro.com/v/2lwh96rdx718"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/melffglir9b6",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "melffglir9b6",
+      "player_url": "https://voe.sx/e/melffglir9b6"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/ppt5djenqfib",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ppt5djenqfib",
+      "player_url": "https://doodstream.com/e/ppt5djenqfib"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/uxtu4uyq205o",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "uxtu4uyq205o",
+      "player_url": "https://streamwish.to/e/uxtu4uyq205o"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/6zymsoaig0uj",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "6zymsoaig0uj",
+      "player_url": "https://vidhidepro.com/v/6zymsoaig0uj"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/w87yzcx6zvco",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "w87yzcx6zvco",
+      "player_url": "https://voe.sx/e/w87yzcx6zvco"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/941yoi1oyfs0",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "941yoi1oyfs0",
+      "player_url": "https://doodstream.com/e/941yoi1oyfs0"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/vrd1q9yswyjy",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vrd1q9yswyjy",
+      "player_url": "https://streamwish.to/e/vrd1q9yswyjy"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/995ygbxxxpza",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "995ygbxxxpza",
+      "player_url": "https://vidhidepro.com/v/995ygbxxxpza"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/77n5vjny91z6",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "77n5vjny91z6",
+      "player_url": "https://doodstream.com/e/77n5vjny91z6"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/sfcujt0hvblq",
+      "player_url": "https://minochinos.com/embed/sfcujt0hvblq",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sfcujt0hvblq"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/3zqck3gbkb95",
+      "player_url": "https://hglink.to/e/3zqck3gbkb95",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3zqck3gbkb95"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/5hnvsq71maqb",
+      "player_url": "https://bysedikamoum.com/e/5hnvsq71maqb",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5hnvsq71maqb"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/qgkhljbyo6ge",
+      "player_url": "https://voe.sx/e/qgkhljbyo6ge",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qgkhljbyo6ge"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/qgkhljbyo6ge/download",
+      "player_url": "https://voe.sx/qgkhljbyo6ge/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/rk7q6lhf9xeg",
+      "player_url": "https://rapidvideo.link/e/rk7q6lhf9xeg",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rk7q6lhf9xeg"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/035c1ytdx61g",
+      "player_url": "https://minochinos.com/embed/035c1ytdx61g",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "035c1ytdx61g"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/nzulk41leu7w",
+      "player_url": "https://hglink.to/e/nzulk41leu7w",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nzulk41leu7w"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/igqusndvmjzz",
+      "player_url": "https://voe.sx/e/igqusndvmjzz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "igqusndvmjzz"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/28g3xapdtmv9",
+      "player_url": "https://rapidvideo.link/e/28g3xapdtmv9",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "28g3xapdtmv9"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/lt05o6z2ox6x",
+      "player_url": "https://minochinos.com/embed/lt05o6z2ox6x",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lt05o6z2ox6x"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/k67jvsf7otiy",
+      "player_url": "https://hglink.to/e/k67jvsf7otiy",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "k67jvsf7otiy"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/rlkrt0mavc39",
+      "player_url": "https://bysedikamoum.com/e/rlkrt0mavc39",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rlkrt0mavc39"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/cudx9jnojqae",
+      "player_url": "https://voe.sx/e/cudx9jnojqae",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cudx9jnojqae"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/cudx9jnojqae/download",
+      "player_url": "https://voe.sx/cudx9jnojqae/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/x52gntliob6j",
+      "player_url": "https://rapidvideo.link/e/x52gntliob6j",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "x52gntliob6j"
+    }
+  ]
+}
