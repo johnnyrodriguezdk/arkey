@@ -16,7 +16,17 @@
   "slug": "buenos-presagios",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hffe271d9767b7ba2e5cc8421fc1f9b2173a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hffe271d9767b7ba2e5cc8421fc1f9b2173a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hffe271d9767b7ba2e5cc8421fc1f9b2173a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
