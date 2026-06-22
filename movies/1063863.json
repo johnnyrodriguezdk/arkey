@@ -1,1 +1,198 @@
-{"id":1063863,"titulo":"Mente Perturbada","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/e9o25YIQLkIJcFGYngV16UZkksU.jpg","release_date":"2023-09-14","genres":[],"rating":"6.2","backdrop":"https://image.tmdb.org/t/p/original/boN7LfHrzKrMn8V1jXcpcEvqPrH.jpg","overview":"Cuando regresa a Hong Kong para cuidar de su madre enferma, un hombre canadiense comienza a ver apariciones paranormales similares a las que vio en la infancia..","trailer":"","runtime":"102","slug":"back-home","servidores":[{"id":1,"url":"https://streamwish.to/e/qjvm7zjqp1h5","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"qjvm7zjqp1h5","player_url":"https://streamwish.to/e/qjvm7zjqp1h5"},{"id":2,"url":"https://vidhidepro.com/v/3pnqjiz5x590","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"3pnqjiz5x590","player_url":"https://vidhidepro.com/v/3pnqjiz5x590"},{"id":3,"url":"https://voe.sx/e/csrnklvzngsk","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"csrnklvzngsk","player_url":"https://voe.sx/e/csrnklvzngsk"},{"id":4,"url":"https://doodstream.com/e/6r6x10401xl3","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"6r6x10401xl3","player_url":"https://doodstream.com/e/6r6x10401xl3"},{"id":5,"url":"https://streamwish.to/e/pz3do2a1j9mp","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"pz3do2a1j9mp","player_url":"https://streamwish.to/e/pz3do2a1j9mp"},{"id":6,"url":"https://vidhidepro.com/v/svv0p8ty888t","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"svv0p8ty888t","player_url":"https://vidhidepro.com/v/svv0p8ty888t"},{"id":7,"url":"https://voe.sx/e/wenksubgevwf","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"wenksubgevwf","player_url":"https://voe.sx/e/wenksubgevwf"},{"id":8,"url":"https://doodstream.com/e/wbzj2mdcekr5","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"wbzj2mdcekr5","player_url":"https://doodstream.com/e/wbzj2mdcekr5"}]}
+{
+  "id": 1063863,
+  "titulo": "Mente Perturbada",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/e9o25YIQLkIJcFGYngV16UZkksU.jpg",
+  "release_date": "2023-09-14",
+  "genres": [
+    "Terror"
+  ],
+  "rating": "6.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/boN7LfHrzKrMn8V1jXcpcEvqPrH.jpg",
+  "overview": "Cuando regresa a Hong Kong para cuidar de su madre enferma, un hombre canadiense comienza a ver apariciones paranormales similares a las que vio en la infancia..",
+  "trailer": "",
+  "runtime": "102",
+  "slug": "back-home",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/qjvm7zjqp1h5",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "qjvm7zjqp1h5",
+      "player_url": "https://streamwish.to/e/qjvm7zjqp1h5"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/3pnqjiz5x590",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "3pnqjiz5x590",
+      "player_url": "https://vidhidepro.com/v/3pnqjiz5x590"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/csrnklvzngsk",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "csrnklvzngsk",
+      "player_url": "https://voe.sx/e/csrnklvzngsk"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/6r6x10401xl3",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "6r6x10401xl3",
+      "player_url": "https://doodstream.com/e/6r6x10401xl3"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/pz3do2a1j9mp",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "pz3do2a1j9mp",
+      "player_url": "https://streamwish.to/e/pz3do2a1j9mp"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/svv0p8ty888t",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "svv0p8ty888t",
+      "player_url": "https://vidhidepro.com/v/svv0p8ty888t"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/wenksubgevwf",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "wenksubgevwf",
+      "player_url": "https://voe.sx/e/wenksubgevwf"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/wbzj2mdcekr5",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "wbzj2mdcekr5",
+      "player_url": "https://doodstream.com/e/wbzj2mdcekr5"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/52rmh12yts3g",
+      "player_url": "https://minochinos.com/embed/52rmh12yts3g",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "52rmh12yts3g"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/p82jitfox1j5",
+      "player_url": "https://hglink.to/e/p82jitfox1j5",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p82jitfox1j5"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/l1xtt0p5kp5q",
+      "player_url": "https://bysedikamoum.com/e/l1xtt0p5kp5q",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l1xtt0p5kp5q"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/hjedtu4a5qpi",
+      "player_url": "https://voe.sx/e/hjedtu4a5qpi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hjedtu4a5qpi"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/hjedtu4a5qpi/download",
+      "player_url": "https://voe.sx/hjedtu4a5qpi/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/0ogbym7xq49j",
+      "player_url": "https://rapidvideo.link/e/0ogbym7xq49j",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0ogbym7xq49j"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/j8frplu6x7ov",
+      "player_url": "https://minochinos.com/embed/j8frplu6x7ov",
+      "nombre": "Vidhide",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "j8frplu6x7ov"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/vs1qh5qojp6m",
+      "player_url": "https://hglink.to/e/vs1qh5qojp6m",
+      "nombre": "Streamwish",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "vs1qh5qojp6m"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/x19m9j13p9iu",
+      "player_url": "https://bysedikamoum.com/e/x19m9j13p9iu",
+      "nombre": "Filemoon",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "x19m9j13p9iu"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/a8wzc41dv2kc",
+      "player_url": "https://voe.sx/e/a8wzc41dv2kc",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "a8wzc41dv2kc"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/a8wzc41dv2kc/download",
+      "player_url": "https://voe.sx/a8wzc41dv2kc/download",
+      "nombre": "Voe",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/5tos4gikxpe6",
+      "player_url": "https://rapidvideo.link/e/5tos4gikxpe6",
+      "nombre": "Rapidvideo",
+      "idioma": "jap",
+      "calidad": "HD",
+      "embed_id": "5tos4gikxpe6"
+    }
+  ]
+}
