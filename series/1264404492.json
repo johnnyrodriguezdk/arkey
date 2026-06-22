@@ -15,7 +15,17 @@
   "slug": "ragdoll",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/6mh07jxbhzji",
+      "player_url": "https://dsvplay.com/e/6mh07jxbhzji",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6mh07jxbhzji"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
