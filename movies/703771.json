@@ -1,1 +1,300 @@
-{"id":703771,"titulo":"Deathstroke: Caballeros y dragones","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/nCJGThrH249sLUAzIS80xM7BEKz.jpg","release_date":"2020-08-04","genres":[],"rating":"6.9","backdrop":"https://image.tmdb.org/t/p/original/hdXQxlD4mep7qtC5TsvhIt840OV.jpg","overview":"El mercenario y asesino a sueldo, Slade Wilson, lleva dos vidas: una como el despiadado asesino Deathstroke, y la otra como un dedicado padre de familia. Cuando estos dos mundos se encuentran por la mano del grupo terrorista H.I.V.E., será el asesino que Slade lleva dentro quien peleará para salvar a su familia… y lo que queda de sí mismo. Con su ánima destrozada y su hijo cautivo, ¡Deathstroke deberá expiar los pecados de su pasado para nutrir las batallas de su porvenir!","trailer":"","runtime":"87","slug":"deathstroke-caballeros-y-dragones","servidores":[{"id":1,"url":"https://streamwish.to/e/y4gfrvqcc8xx","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"y4gfrvqcc8xx","player_url":"https://streamwish.to/e/y4gfrvqcc8xx"},{"id":2,"url":"https://bysejikuar.com/e/ksvrwoc5xk4t","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"ksvrwoc5xk4t","player_url":"https://bysejikuar.com/e/ksvrwoc5xk4t"},{"id":3,"url":"https://vidhidepro.com/v/ueoyoli73a5c","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"ueoyoli73a5c","player_url":"https://vidhidepro.com/v/ueoyoli73a5c"},{"id":4,"url":"https://voe.sx/e/m1vpxz0ym8jd","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"m1vpxz0ym8jd","player_url":"https://voe.sx/e/m1vpxz0ym8jd"},{"id":5,"url":"https://doodstream.com/e/c98h3i0tds2j","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"c98h3i0tds2j","player_url":"https://doodstream.com/e/c98h3i0tds2j"},{"id":6,"url":"https://streamwish.to/e/3uv8641dooc1","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"3uv8641dooc1","player_url":"https://streamwish.to/e/3uv8641dooc1"},{"id":7,"url":"https://bysejikuar.com/e/c6rly69r31t1","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"c6rly69r31t1","player_url":"https://bysejikuar.com/e/c6rly69r31t1"},{"id":8,"url":"https://vidhidepro.com/v/b1c77583gdu3","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"b1c77583gdu3","player_url":"https://vidhidepro.com/v/b1c77583gdu3"},{"id":9,"url":"https://voe.sx/e/nbxmtzxyrvqc","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"nbxmtzxyrvqc","player_url":"https://voe.sx/e/nbxmtzxyrvqc"},{"id":10,"url":"https://streamwish.to/e/mn3m50buq3lz","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"mn3m50buq3lz","player_url":"https://streamwish.to/e/mn3m50buq3lz"},{"id":11,"url":"https://bysejikuar.com/e/ejk3t2xrtkgh","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"ejk3t2xrtkgh","player_url":"https://bysejikuar.com/e/ejk3t2xrtkgh"},{"id":12,"url":"https://vidhidepro.com/v/uxhs7o84pn3i","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"uxhs7o84pn3i","player_url":"https://vidhidepro.com/v/uxhs7o84pn3i"},{"id":13,"url":"https://voe.sx/e/la3wqvqi0vbx","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"la3wqvqi0vbx","player_url":"https://voe.sx/e/la3wqvqi0vbx"},{"id":14,"url":"https://doodstream.com/e/lwmw54fpi34y","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"lwmw54fpi34y","player_url":"https://doodstream.com/e/lwmw54fpi34y"}]}
+{
+  "id": 703771,
+  "titulo": "Deathstroke: Caballeros y dragones",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/nCJGThrH249sLUAzIS80xM7BEKz.jpg",
+  "release_date": "2020-08-04",
+  "genres": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Ciencia Ficción"
+  ],
+  "rating": "6.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/hdXQxlD4mep7qtC5TsvhIt840OV.jpg",
+  "overview": "El mercenario y asesino a sueldo, Slade Wilson, lleva dos vidas: una como el despiadado asesino Deathstroke, y la otra como un dedicado padre de familia. Cuando estos dos mundos se encuentran por la mano del grupo terrorista H.I.V.E., será el asesino que Slade lleva dentro quien peleará para salvar a su familia… y lo que queda de sí mismo. Con su ánima destrozada y su hijo cautivo, ¡Deathstroke deberá expiar los pecados de su pasado para nutrir las batallas de su porvenir!",
+  "trailer": "",
+  "runtime": "87",
+  "slug": "deathstroke-caballeros-y-dragones",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/y4gfrvqcc8xx",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "y4gfrvqcc8xx",
+      "player_url": "https://streamwish.to/e/y4gfrvqcc8xx"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/ksvrwoc5xk4t",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "ksvrwoc5xk4t",
+      "player_url": "https://bysejikuar.com/e/ksvrwoc5xk4t"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/ueoyoli73a5c",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ueoyoli73a5c",
+      "player_url": "https://vidhidepro.com/v/ueoyoli73a5c"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/m1vpxz0ym8jd",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "m1vpxz0ym8jd",
+      "player_url": "https://voe.sx/e/m1vpxz0ym8jd"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/c98h3i0tds2j",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "c98h3i0tds2j",
+      "player_url": "https://doodstream.com/e/c98h3i0tds2j"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/3uv8641dooc1",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3uv8641dooc1",
+      "player_url": "https://streamwish.to/e/3uv8641dooc1"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/c6rly69r31t1",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "c6rly69r31t1",
+      "player_url": "https://bysejikuar.com/e/c6rly69r31t1"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/b1c77583gdu3",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "b1c77583gdu3",
+      "player_url": "https://vidhidepro.com/v/b1c77583gdu3"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/nbxmtzxyrvqc",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "nbxmtzxyrvqc",
+      "player_url": "https://voe.sx/e/nbxmtzxyrvqc"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/mn3m50buq3lz",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mn3m50buq3lz",
+      "player_url": "https://streamwish.to/e/mn3m50buq3lz"
+    },
+    {
+      "id": 11,
+      "url": "https://bysejikuar.com/e/ejk3t2xrtkgh",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "ejk3t2xrtkgh",
+      "player_url": "https://bysejikuar.com/e/ejk3t2xrtkgh"
+    },
+    {
+      "id": 12,
+      "url": "https://vidhidepro.com/v/uxhs7o84pn3i",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "uxhs7o84pn3i",
+      "player_url": "https://vidhidepro.com/v/uxhs7o84pn3i"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/la3wqvqi0vbx",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "la3wqvqi0vbx",
+      "player_url": "https://voe.sx/e/la3wqvqi0vbx"
+    },
+    {
+      "id": 14,
+      "url": "https://doodstream.com/e/lwmw54fpi34y",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "lwmw54fpi34y",
+      "player_url": "https://doodstream.com/e/lwmw54fpi34y"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/gl7goodp5i74",
+      "player_url": "https://minochinos.com/embed/gl7goodp5i74",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gl7goodp5i74"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/rvf2u3cnzbb7",
+      "player_url": "https://hglink.to/e/rvf2u3cnzbb7",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rvf2u3cnzbb7"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/jjlp6esf6y7k",
+      "player_url": "https://bysedikamoum.com/e/jjlp6esf6y7k",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jjlp6esf6y7k"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/wjlrsceswvuz",
+      "player_url": "https://voe.sx/e/wjlrsceswvuz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wjlrsceswvuz"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/wjlrsceswvuz/download",
+      "player_url": "https://voe.sx/wjlrsceswvuz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/8vthc6rqxbdm",
+      "player_url": "https://rapidvideo.link/e/8vthc6rqxbdm",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8vthc6rqxbdm"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/dzyb1rznqc24",
+      "player_url": "https://minochinos.com/embed/dzyb1rznqc24",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dzyb1rznqc24"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/wck1a1iraf5q",
+      "player_url": "https://hglink.to/e/wck1a1iraf5q",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wck1a1iraf5q"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/a0vil0j2yyr7",
+      "player_url": "https://bysedikamoum.com/e/a0vil0j2yyr7",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a0vil0j2yyr7"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/ja1atumyioba",
+      "player_url": "https://voe.sx/e/ja1atumyioba",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ja1atumyioba"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/jzt4n50fglmd",
+      "player_url": "https://rapidvideo.link/e/jzt4n50fglmd",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jzt4n50fglmd"
+    },
+    {
+      "id": 26,
+      "url": "https://minochinos.com/embed/5l0m01rg0gdr",
+      "player_url": "https://minochinos.com/embed/5l0m01rg0gdr",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5l0m01rg0gdr"
+    },
+    {
+      "id": 27,
+      "url": "https://hglink.to/e/ealn5ppfyf82",
+      "player_url": "https://hglink.to/e/ealn5ppfyf82",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ealn5ppfyf82"
+    },
+    {
+      "id": 28,
+      "url": "https://bysedikamoum.com/e/xfi2ucuts06t",
+      "player_url": "https://bysedikamoum.com/e/xfi2ucuts06t",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xfi2ucuts06t"
+    },
+    {
+      "id": 29,
+      "url": "https://voe.sx/e/uejxp1smxgjx",
+      "player_url": "https://voe.sx/e/uejxp1smxgjx",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "uejxp1smxgjx"
+    },
+    {
+      "id": 30,
+      "url": "https://voe.sx/uejxp1smxgjx/download",
+      "player_url": "https://voe.sx/uejxp1smxgjx/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 31,
+      "url": "https://rapidvideo.link/e/sinv1lm43zyq",
+      "player_url": "https://rapidvideo.link/e/sinv1lm43zyq",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sinv1lm43zyq"
+    }
+  ]
+}
