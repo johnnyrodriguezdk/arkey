@@ -1,0 +1,35 @@
+{
+  "id": 748497900,
+  "titulo": "Peaky Blinders",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/c81515bd823be1bece85f08897b0dcc1.webp",
+  "release_date": "2013-01-01",
+  "genres": [
+    "crimen",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "En Gran Bretaña, Reino Unido se recuperan de la desesperación de la Gran Guerra, las personas sobreviven a como pueden, y las bandas criminales proliferan e",
+  "slug": "peaky-blinders",
+  "iframe_url": "https://lacloud.live/18c29cd8dfc2eabd",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/18c29cd8dfc2eabd/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/18c29cd8dfc2eabd/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "18c29cd8dfc2eabd"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/peaky-blinders?season=1&ep=1"
+    }
+  ]
+}
