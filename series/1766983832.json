@@ -14,7 +14,17 @@
   "slug": "la-era-samurai-la-batalla-por-japon",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/3r6mjow46v8b",
+      "player_url": "https://streamfort.online/e/3r6mjow46v8b",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3r6mjow46v8b"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
