@@ -1,1 +1,208 @@
-{"id":1045931,"titulo":"Crew","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/eXLxwq481XBFMY3pEDoNePKgcUd.jpg","release_date":"2024-03-29","genres":[],"rating":"6.7","backdrop":"https://image.tmdb.org/t/p/original/4kX80Ea98cEy2Ahy0LSMYtFvJDG.jpg","overview":"El destino de tres mujeres trabajadoras las lleva a situaciones injustificadas y acaban atrapadas en una red de mentiras.","trailer":"","runtime":"124","slug":"crew","servidores":[{"id":1,"url":"https://streamwish.to/e/kjo4arar926x","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"kjo4arar926x","player_url":"https://streamwish.to/e/kjo4arar926x"},{"id":2,"url":"https://bysejikuar.com/e/o8slnzkwue3m","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"o8slnzkwue3m","player_url":"https://bysejikuar.com/e/o8slnzkwue3m"},{"id":3,"url":"https://vidhidepro.com/v/zezbtcduigoj","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"zezbtcduigoj","player_url":"https://vidhidepro.com/v/zezbtcduigoj"},{"id":4,"url":"https://voe.sx/e/q5htdrcl0hkv","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"q5htdrcl0hkv","player_url":"https://voe.sx/e/q5htdrcl0hkv"},{"id":5,"url":"https://doodstream.com/e/bknzzb33lxwo","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"bknzzb33lxwo","player_url":"https://doodstream.com/e/bknzzb33lxwo"},{"id":6,"url":"https://streamwish.to/e/mh4q62rchwgk","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"mh4q62rchwgk","player_url":"https://streamwish.to/e/mh4q62rchwgk"},{"id":7,"url":"https://bysejikuar.com/e/4baay4myb07b","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"4baay4myb07b","player_url":"https://bysejikuar.com/e/4baay4myb07b"},{"id":8,"url":"https://vidhidepro.com/v/wnldl4gvltr2","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"wnldl4gvltr2","player_url":"https://vidhidepro.com/v/wnldl4gvltr2"},{"id":9,"url":"https://doodstream.com/e/an51izcvv7qp","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"an51izcvv7qp","player_url":"https://doodstream.com/e/an51izcvv7qp"}]}
+{
+  "id": 1045931,
+  "titulo": "Crew",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/eXLxwq481XBFMY3pEDoNePKgcUd.jpg",
+  "release_date": "2024-03-29",
+  "genres": [
+    "Comedia",
+    "Drama"
+  ],
+  "rating": "6.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/4kX80Ea98cEy2Ahy0LSMYtFvJDG.jpg",
+  "overview": "El destino de tres mujeres trabajadoras las lleva a situaciones injustificadas y acaban atrapadas en una red de mentiras.",
+  "trailer": "",
+  "runtime": "124",
+  "slug": "crew",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/kjo4arar926x",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "kjo4arar926x",
+      "player_url": "https://streamwish.to/e/kjo4arar926x"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/o8slnzkwue3m",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "o8slnzkwue3m",
+      "player_url": "https://bysejikuar.com/e/o8slnzkwue3m"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/zezbtcduigoj",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "zezbtcduigoj",
+      "player_url": "https://vidhidepro.com/v/zezbtcduigoj"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/q5htdrcl0hkv",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "q5htdrcl0hkv",
+      "player_url": "https://voe.sx/e/q5htdrcl0hkv"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/bknzzb33lxwo",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "bknzzb33lxwo",
+      "player_url": "https://doodstream.com/e/bknzzb33lxwo"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/mh4q62rchwgk",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mh4q62rchwgk",
+      "player_url": "https://streamwish.to/e/mh4q62rchwgk"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/4baay4myb07b",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "4baay4myb07b",
+      "player_url": "https://bysejikuar.com/e/4baay4myb07b"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/wnldl4gvltr2",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "wnldl4gvltr2",
+      "player_url": "https://vidhidepro.com/v/wnldl4gvltr2"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/an51izcvv7qp",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "an51izcvv7qp",
+      "player_url": "https://doodstream.com/e/an51izcvv7qp"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/5ysj8jsw1dp4",
+      "player_url": "https://minochinos.com/embed/5ysj8jsw1dp4",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5ysj8jsw1dp4"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/vui1rk1qd1ga",
+      "player_url": "https://hglink.to/e/vui1rk1qd1ga",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vui1rk1qd1ga"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/nhr4ic621wzs",
+      "player_url": "https://bysedikamoum.com/e/nhr4ic621wzs",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nhr4ic621wzs"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/udtvesa6vjdz",
+      "player_url": "https://voe.sx/e/udtvesa6vjdz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "udtvesa6vjdz"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/udtvesa6vjdz/download",
+      "player_url": "https://voe.sx/udtvesa6vjdz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/iu9gl5cj2h6f",
+      "player_url": "https://rapidvideo.link/e/iu9gl5cj2h6f",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iu9gl5cj2h6f"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/uhgmjiowcqi2",
+      "player_url": "https://minochinos.com/embed/uhgmjiowcqi2",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "uhgmjiowcqi2"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/jc8nfr3teqfr",
+      "player_url": "https://hglink.to/e/jc8nfr3teqfr",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jc8nfr3teqfr"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/o8w77786po8l",
+      "player_url": "https://bysedikamoum.com/e/o8w77786po8l",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "o8w77786po8l"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/n9c44w539net",
+      "player_url": "https://voe.sx/e/n9c44w539net",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "n9c44w539net"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/n9c44w539net/download",
+      "player_url": "https://voe.sx/n9c44w539net/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/sdgaf7j8let1",
+      "player_url": "https://rapidvideo.link/e/sdgaf7j8let1",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sdgaf7j8let1"
+    }
+  ]
+}
