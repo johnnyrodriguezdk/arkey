@@ -1,1 +1,190 @@
-{"id":1182297,"titulo":"Strictly Confidential","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/i1ausTx0g7ucOfUqjvkrvzgQmnn.jpg","release_date":"2024-04-05","genres":[],"rating":"5.2","backdrop":"https://image.tmdb.org/t/p/original/6ExynBT5o41FHX8e3Mbssycn3X3.jpg","overview":"Una joven atormentada se ve atraída por un mundo de seducción, duplicidad y traición mientras trata desesperadamente de descubrir el misterio que rodea el suicidio de su mejor amiga.","trailer":"","runtime":"88","slug":"strictly-confidential","servidores":[{"id":1,"url":"https://streamwish.to/e/hcan5c7n0og9","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"hcan5c7n0og9","player_url":"https://streamwish.to/e/hcan5c7n0og9"},{"id":2,"url":"https://bysejikuar.com/e/w0gt4nd6y8mo","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"w0gt4nd6y8mo","player_url":"https://bysejikuar.com/e/w0gt4nd6y8mo"},{"id":3,"url":"https://voe.sx/e/negbrkn55mun","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"negbrkn55mun","player_url":"https://voe.sx/e/negbrkn55mun"},{"id":4,"url":"https://doodstream.com/e/6gyy0lekixrs","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"6gyy0lekixrs","player_url":"https://doodstream.com/e/6gyy0lekixrs"},{"id":5,"url":"https://streamwish.to/e/q81y0so6zrmk","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"q81y0so6zrmk","player_url":"https://streamwish.to/e/q81y0so6zrmk"},{"id":6,"url":"https://bysejikuar.com/e/zmi9eouekefp","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"zmi9eouekefp","player_url":"https://bysejikuar.com/e/zmi9eouekefp"},{"id":7,"url":"https://voe.sx/e/cvgeuppj5zti","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"cvgeuppj5zti","player_url":"https://voe.sx/e/cvgeuppj5zti"}]}
+{
+  "id": 1182297,
+  "titulo": "Strictly Confidential",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/i1ausTx0g7ucOfUqjvkrvzgQmnn.jpg",
+  "release_date": "2024-04-05",
+  "genres": [
+    "Misterio",
+    "Suspense"
+  ],
+  "rating": "5.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/6ExynBT5o41FHX8e3Mbssycn3X3.jpg",
+  "overview": "Una joven atormentada se ve atraída por un mundo de seducción, duplicidad y traición mientras trata desesperadamente de descubrir el misterio que rodea el suicidio de su mejor amiga.",
+  "trailer": "",
+  "runtime": "88",
+  "slug": "strictly-confidential",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/hcan5c7n0og9",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hcan5c7n0og9",
+      "player_url": "https://streamwish.to/e/hcan5c7n0og9"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/w0gt4nd6y8mo",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "w0gt4nd6y8mo",
+      "player_url": "https://bysejikuar.com/e/w0gt4nd6y8mo"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/negbrkn55mun",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "negbrkn55mun",
+      "player_url": "https://voe.sx/e/negbrkn55mun"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/6gyy0lekixrs",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "6gyy0lekixrs",
+      "player_url": "https://doodstream.com/e/6gyy0lekixrs"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/q81y0so6zrmk",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "q81y0so6zrmk",
+      "player_url": "https://streamwish.to/e/q81y0so6zrmk"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/zmi9eouekefp",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "zmi9eouekefp",
+      "player_url": "https://bysejikuar.com/e/zmi9eouekefp"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/cvgeuppj5zti",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "cvgeuppj5zti",
+      "player_url": "https://voe.sx/e/cvgeuppj5zti"
+    },
+    {
+      "id": 8,
+      "url": "https://minochinos.com/embed/etrk35c0kk17",
+      "player_url": "https://minochinos.com/embed/etrk35c0kk17",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "etrk35c0kk17"
+    },
+    {
+      "id": 9,
+      "url": "https://hglink.to/e/03sdrvxk96wx",
+      "player_url": "https://hglink.to/e/03sdrvxk96wx",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "03sdrvxk96wx"
+    },
+    {
+      "id": 10,
+      "url": "https://bysedikamoum.com/e/u21xr5dnsq2e",
+      "player_url": "https://bysedikamoum.com/e/u21xr5dnsq2e",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u21xr5dnsq2e"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/ubqn9lhc2pfr",
+      "player_url": "https://voe.sx/e/ubqn9lhc2pfr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ubqn9lhc2pfr"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/ubqn9lhc2pfr/download",
+      "player_url": "https://voe.sx/ubqn9lhc2pfr/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 13,
+      "url": "https://rapidvideo.link/e/n4mfi9oj67d1",
+      "player_url": "https://rapidvideo.link/e/n4mfi9oj67d1",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n4mfi9oj67d1"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/ao3fev5qfixi",
+      "player_url": "https://minochinos.com/embed/ao3fev5qfixi",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ao3fev5qfixi"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/t4at9sis8086",
+      "player_url": "https://hglink.to/e/t4at9sis8086",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "t4at9sis8086"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/vuy3roscua03",
+      "player_url": "https://bysedikamoum.com/e/vuy3roscua03",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vuy3roscua03"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/7nmiudzydr0s",
+      "player_url": "https://voe.sx/e/7nmiudzydr0s",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7nmiudzydr0s"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/7nmiudzydr0s/download",
+      "player_url": "https://voe.sx/7nmiudzydr0s/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/241ymoc7egzv",
+      "player_url": "https://rapidvideo.link/e/241ymoc7egzv",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "241ymoc7egzv"
+    }
+  ]
+}
