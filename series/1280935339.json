@@ -13,7 +13,17 @@
   "slug": "roar",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/bc8m535rnzyg",
+      "player_url": "https://dsvplay.com/e/bc8m535rnzyg",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bc8m535rnzyg"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
