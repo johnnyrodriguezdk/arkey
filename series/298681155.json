@@ -15,7 +15,17 @@
   "slug": "la-partitura-secreta",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/9lea4otxhxdb",
+      "player_url": "https://streamfort.online/e/9lea4otxhxdb",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9lea4otxhxdb"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
