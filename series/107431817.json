@@ -17,7 +17,17 @@
   "slug": "lv2",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfecaee5c3ae1d3d72592d7644a5673ef83a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfecaee5c3ae1d3d72592d7644a5673ef83a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfecaee5c3ae1d3d72592d7644a5673ef83a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
