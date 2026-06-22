@@ -17,7 +17,17 @@
   "slug": "fuuto-pi",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/fru4hd4dfvnc",
+      "player_url": "https://streamfort.online/e/fru4hd4dfvnc",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fru4hd4dfvnc"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
