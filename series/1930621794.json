@@ -14,7 +14,17 @@
   "slug": "the-truth",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/ts9jkhahc913",
+      "player_url": "https://streamfort.online/e/ts9jkhahc913",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ts9jkhahc913"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
