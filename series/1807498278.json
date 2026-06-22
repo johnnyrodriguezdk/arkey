@@ -14,7 +14,17 @@
   "slug": "alma",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/xwtmj5ckkth1",
+      "player_url": "https://streamfort.online/e/xwtmj5ckkth1",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xwtmj5ckkth1"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
