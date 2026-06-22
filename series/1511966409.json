@@ -13,7 +13,17 @@
   "slug": "parish",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/1etuuf91mlkv",
+      "player_url": "https://streamfort.online/e/1etuuf91mlkv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1etuuf91mlkv"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
