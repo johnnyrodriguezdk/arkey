@@ -17,7 +17,17 @@
   "slug": "chosen-la-elegida",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/uitegqg746l3",
+      "player_url": "https://dsvplay.com/e/uitegqg746l3",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uitegqg746l3"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
