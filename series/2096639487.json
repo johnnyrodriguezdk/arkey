@@ -14,7 +14,17 @@
   "slug": "casi-una-duquesa",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf105bc0fd59c6f05d5e76e1abe0a026023a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf105bc0fd59c6f05d5e76e1abe0a026023a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf105bc0fd59c6f05d5e76e1abe0a026023a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
