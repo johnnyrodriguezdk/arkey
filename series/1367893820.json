@@ -1,0 +1,34 @@
+{
+  "id": 1367893820,
+  "titulo": "El señuelo",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/712775bacd00b61567ca8eeb605853c8.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un actor en pocas horas tiene la oportunidad de conseguir el papel de su vida, pero se enfrenta a una crisis existencial y a una conspiración.",
+  "slug": "el-seuelo",
+  "iframe_url": "https://lacloud.live/c7fe1c9edebf30d8",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/c7fe1c9edebf30d8/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/c7fe1c9edebf30d8/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c7fe1c9edebf30d8"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/el-seuelo?season=1&ep=1"
+    }
+  ]
+}
