@@ -18,7 +18,17 @@
   "slug": "calabozos-y-dragones",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/u7maclpc5esk",
+      "player_url": "https://streamfort.online/e/u7maclpc5esk",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u7maclpc5esk"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
