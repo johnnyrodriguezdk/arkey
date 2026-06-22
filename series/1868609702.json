@@ -14,7 +14,17 @@
   "slug": "bring-back-alice",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/945d9f57m61q",
+      "player_url": "https://dsvplay.com/e/945d9f57m61q",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "945d9f57m61q"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
