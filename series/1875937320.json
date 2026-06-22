@@ -14,7 +14,17 @@
   "slug": "coppola-el-representante",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf6b8a451c4ee95a389d3159417212ba733a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf6b8a451c4ee95a389d3159417212ba733a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf6b8a451c4ee95a389d3159417212ba733a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
