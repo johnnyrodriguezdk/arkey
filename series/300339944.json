@@ -13,7 +13,17 @@
   "slug": "hasta-un-padre-merece",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfd4133ebc85e66ecaada504517f1afa3c3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfd4133ebc85e66ecaada504517f1afa3c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd4133ebc85e66ecaada504517f1afa3c3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
