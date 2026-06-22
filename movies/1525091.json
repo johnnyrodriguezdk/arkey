@@ -1,1 +1,279 @@
-{"id":1525091,"titulo":"Todas las habitaciones vacías","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/cGJMjX6X5UkSUideddZho1WWDCx.jpg","release_date":"2025-08-31","genres":[],"rating":"7.3","backdrop":"https://image.tmdb.org/t/p/original/jmr5GZmQ2Ds3REQi4FJ4GA0vUBJ.jpg","overview":"En este conmovedor cortometraje documental, un periodista y un fotógrafo retratan los dormitorios de chicos que perdieron la vida en tiroteos escolares.","trailer":"","runtime":"34","slug":"todas-las-habitaciones-vacias","servidores":[{"id":1,"url":"https://streamwish.to/e/vquvvm1twvnf","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"vquvvm1twvnf","player_url":"https://streamwish.to/e/vquvvm1twvnf"},{"id":2,"url":"https://vidhidepro.com/v/czhfyiazwmkb","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"czhfyiazwmkb","player_url":"https://vidhidepro.com/v/czhfyiazwmkb"},{"id":3,"url":"https://voe.sx/e/lsypuwysflfm","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"lsypuwysflfm","player_url":"https://voe.sx/e/lsypuwysflfm"},{"id":4,"url":"https://doodstream.com/e/4ie30ulo1rnj","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"4ie30ulo1rnj","player_url":"https://doodstream.com/e/4ie30ulo1rnj"},{"id":5,"url":"https://streamwish.to/e/6wg4s6hslyb9","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"6wg4s6hslyb9","player_url":"https://streamwish.to/e/6wg4s6hslyb9"},{"id":6,"url":"https://vidhidepro.com/v/tzwvnoq44yc0","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"tzwvnoq44yc0","player_url":"https://vidhidepro.com/v/tzwvnoq44yc0"},{"id":7,"url":"https://voe.sx/e/fraotguscmuy","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"fraotguscmuy","player_url":"https://voe.sx/e/fraotguscmuy"},{"id":8,"url":"https://doodstream.com/e/spnz9h2rz8s1","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"spnz9h2rz8s1","player_url":"https://doodstream.com/e/spnz9h2rz8s1"},{"id":9,"url":"https://streamwish.to/e/z92ugkliiz92","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"z92ugkliiz92","player_url":"https://streamwish.to/e/z92ugkliiz92"},{"id":10,"url":"https://vidhidepro.com/v/my9jh2oby3yz","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"my9jh2oby3yz","player_url":"https://vidhidepro.com/v/my9jh2oby3yz"},{"id":11,"url":"https://voe.sx/e/xdkvxdw8ensy","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"xdkvxdw8ensy","player_url":"https://voe.sx/e/xdkvxdw8ensy"},{"id":12,"url":"https://doodstream.com/e/d9gwvjorwvsx","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"d9gwvjorwvsx","player_url":"https://doodstream.com/e/d9gwvjorwvsx"}]}
+{
+  "id": 1525091,
+  "titulo": "Todas las habitaciones vacías",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/cGJMjX6X5UkSUideddZho1WWDCx.jpg",
+  "release_date": "2025-08-31",
+  "genres": [
+    "Documental"
+  ],
+  "rating": "7.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/jmr5GZmQ2Ds3REQi4FJ4GA0vUBJ.jpg",
+  "overview": "En este conmovedor cortometraje documental, un periodista y un fotógrafo retratan los dormitorios de chicos que perdieron la vida en tiroteos escolares.",
+  "trailer": "",
+  "runtime": "34",
+  "slug": "todas-las-habitaciones-vacias",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/vquvvm1twvnf",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vquvvm1twvnf",
+      "player_url": "https://streamwish.to/e/vquvvm1twvnf"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/czhfyiazwmkb",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "czhfyiazwmkb",
+      "player_url": "https://vidhidepro.com/v/czhfyiazwmkb"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/lsypuwysflfm",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "lsypuwysflfm",
+      "player_url": "https://voe.sx/e/lsypuwysflfm"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/4ie30ulo1rnj",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "4ie30ulo1rnj",
+      "player_url": "https://doodstream.com/e/4ie30ulo1rnj"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/6wg4s6hslyb9",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6wg4s6hslyb9",
+      "player_url": "https://streamwish.to/e/6wg4s6hslyb9"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/tzwvnoq44yc0",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "tzwvnoq44yc0",
+      "player_url": "https://vidhidepro.com/v/tzwvnoq44yc0"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/fraotguscmuy",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "fraotguscmuy",
+      "player_url": "https://voe.sx/e/fraotguscmuy"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/spnz9h2rz8s1",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "spnz9h2rz8s1",
+      "player_url": "https://doodstream.com/e/spnz9h2rz8s1"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/z92ugkliiz92",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "z92ugkliiz92",
+      "player_url": "https://streamwish.to/e/z92ugkliiz92"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/my9jh2oby3yz",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "my9jh2oby3yz",
+      "player_url": "https://vidhidepro.com/v/my9jh2oby3yz"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/xdkvxdw8ensy",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xdkvxdw8ensy",
+      "player_url": "https://voe.sx/e/xdkvxdw8ensy"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/d9gwvjorwvsx",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "d9gwvjorwvsx",
+      "player_url": "https://doodstream.com/e/d9gwvjorwvsx"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/qsqo65ahxvfq",
+      "player_url": "https://minochinos.com/embed/qsqo65ahxvfq",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qsqo65ahxvfq"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/wx80rllk09td",
+      "player_url": "https://hglink.to/e/wx80rllk09td",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wx80rllk09td"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/5wjspfy2teny",
+      "player_url": "https://bysedikamoum.com/e/5wjspfy2teny",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5wjspfy2teny"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/y9tf4pd2miyv",
+      "player_url": "https://voe.sx/e/y9tf4pd2miyv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y9tf4pd2miyv"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/y9tf4pd2miyv/download",
+      "player_url": "https://voe.sx/y9tf4pd2miyv/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/2iapqs17xvoe",
+      "player_url": "https://rapidvideo.link/e/2iapqs17xvoe",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2iapqs17xvoe"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/9dvoe9dk1snl",
+      "player_url": "https://minochinos.com/embed/9dvoe9dk1snl",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9dvoe9dk1snl"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/19gug3fsck42",
+      "player_url": "https://hglink.to/e/19gug3fsck42",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "19gug3fsck42"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/fjeo1y9fird2",
+      "player_url": "https://bysedikamoum.com/e/fjeo1y9fird2",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fjeo1y9fird2"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/nlik5hkd3o6g",
+      "player_url": "https://voe.sx/e/nlik5hkd3o6g",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nlik5hkd3o6g"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/ol8ghf57upbi",
+      "player_url": "https://rapidvideo.link/e/ol8ghf57upbi",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ol8ghf57upbi"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/nh2lfu9yjy3l",
+      "player_url": "https://minochinos.com/embed/nh2lfu9yjy3l",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "nh2lfu9yjy3l"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/ofq0z5kijg2s",
+      "player_url": "https://hglink.to/e/ofq0z5kijg2s",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ofq0z5kijg2s"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/f1774939k4r6",
+      "player_url": "https://bysedikamoum.com/e/f1774939k4r6",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "f1774939k4r6"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/l9pw80zspckn",
+      "player_url": "https://voe.sx/e/l9pw80zspckn",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l9pw80zspckn"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/l9pw80zspckn/download",
+      "player_url": "https://voe.sx/l9pw80zspckn/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/y6supdo8kjqt",
+      "player_url": "https://rapidvideo.link/e/y6supdo8kjqt",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "y6supdo8kjqt"
+    }
+  ]
+}
