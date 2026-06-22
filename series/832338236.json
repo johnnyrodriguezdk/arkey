@@ -16,7 +16,17 @@
   "slug": "un-go",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/ex6ndaz49trm",
+      "player_url": "https://streamfort.online/e/ex6ndaz49trm",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x6ndaz49trm"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
