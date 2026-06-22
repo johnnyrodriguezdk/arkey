@@ -14,7 +14,17 @@
   "slug": "juanpis-gonzalez-la-serie",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfda62baca5fc4d34efb13c1b9ee5e34eb3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfda62baca5fc4d34efb13c1b9ee5e34eb3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfda62baca5fc4d34efb13c1b9ee5e34eb3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
