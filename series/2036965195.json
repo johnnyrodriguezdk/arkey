@@ -20,12 +20,66 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hf680a196db9ef435755f98446e6d5e7093a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hf680a196db9ef435755f98446e6d5e7093a/master.m3u8",
+      "url": "https://lalafilecdn.space/hf680a196db9ef435755f98446e6d5e7093a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf680a196db9ef435755f98446e6d5e7093a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hf680a196db9ef435755f98446e6d5e7093a"
+    },
+    {
+      "url": "https://streamfort.online/e/wqxbnat4bu9r",
+      "player_url": "https://streamfort.online/e/wqxbnat4bu9r",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wqxbnat4bu9r",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/fn7ne9yqo64h",
+      "player_url": "https://vidnova.online/embed/fn7ne9yqo64h",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fn7ne9yqo64h",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/sqkeo2i6gzdd",
+      "player_url": "https://vidnova.online/embed/sqkeo2i6gzdd",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sqkeo2i6gzdd",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/yro3bcw2kcp7",
+      "player_url": "https://dsvplay.com/e/yro3bcw2kcp7",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yro3bcw2kcp7",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/hpm7hlfx78ci",
+      "player_url": "https://voe.sx/e/hpm7hlfx78ci",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hpm7hlfx78ci",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/dkcc1ygrn0gi",
+      "player_url": "https://voe.sx/e/dkcc1ygrn0gi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dkcc1ygrn0gi",
+      "id": 7
     }
   ],
   "episodes": [
