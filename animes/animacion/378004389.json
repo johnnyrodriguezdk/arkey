@@ -1,0 +1,35 @@
+{
+  "id": 378004389,
+  "titulo": "F is for Family",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/07273dd0571b92c3ee6817638418f839.webp",
+  "release_date": "2015-01-01",
+  "genres": [
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Una familia en la década de 1970, una época cuando un padre golpeaba a un hijo, se fumaba en todas partes y se podía portar una pistola en el aeropuerto.",
+  "slug": "f-is-for-family",
+  "iframe_url": "https://lacloud.live/6092caf12856eecd",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/6092caf12856eecd/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/6092caf12856eecd/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6092caf12856eecd"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/f-is-for-family?season=1&ep=1"
+    }
+  ]
+}
