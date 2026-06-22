@@ -16,7 +16,17 @@
   "slug": "ghostwriter-el-escritor-fantasma",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/shtz5f7xpa9j",
+      "player_url": "https://dsvplay.com/e/shtz5f7xpa9j",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "shtz5f7xpa9j"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
