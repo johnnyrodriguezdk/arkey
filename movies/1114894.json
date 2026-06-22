@@ -1,1 +1,256 @@
-{"id":1114894,"titulo":"Star Trek: Sección 31","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/bx9btF0Jo4rRF68xny7VPqHNt3z.jpg","release_date":"2025-01-15","genres":[],"rating":"4.7","backdrop":"https://image.tmdb.org/t/p/original/3SOunz2Z0qcOVlrkYFj20HquziB.jpg","overview":"En Star Trek: Sección 31, la Emperadora Philippa Georgiou, se une a una división secreta de la Flota Estelar encargada de proteger a la Federación Unida de Planetas y se enfrenta a los pecados de su pasado.","trailer":"","runtime":"96","slug":"star-trek-seccion-31","servidores":[{"id":1,"url":"https://streamwish.to/e/vil3ybp49b52","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"vil3ybp49b52","player_url":"https://streamwish.to/e/vil3ybp49b52"},{"id":2,"url":"https://vidhidepro.com/v/7kqr3uxvlimb","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"7kqr3uxvlimb","player_url":"https://vidhidepro.com/v/7kqr3uxvlimb"},{"id":3,"url":"https://doodstream.com/e/dg84nt479o7a","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"dg84nt479o7a","player_url":"https://doodstream.com/e/dg84nt479o7a"},{"id":4,"url":"https://streamwish.to/e/l343hiogdbwf","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"l343hiogdbwf","player_url":"https://streamwish.to/e/l343hiogdbwf"},{"id":5,"url":"https://vidhidepro.com/v/oxooh5q2o4nr","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"oxooh5q2o4nr","player_url":"https://vidhidepro.com/v/oxooh5q2o4nr"},{"id":6,"url":"https://doodstream.com/e/khw5vbncxbas","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"khw5vbncxbas","player_url":"https://doodstream.com/e/khw5vbncxbas"},{"id":7,"url":"https://streamwish.to/e/agyjkmapw7zm","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"agyjkmapw7zm","player_url":"https://streamwish.to/e/agyjkmapw7zm"},{"id":8,"url":"https://vidhidepro.com/v/80vezujpc4p2","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"80vezujpc4p2","player_url":"https://vidhidepro.com/v/80vezujpc4p2"},{"id":9,"url":"https://doodstream.com/e/h6n7rnbtcepi","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"h6n7rnbtcepi","player_url":"https://doodstream.com/e/h6n7rnbtcepi"}]}
+{
+  "id": 1114894,
+  "titulo": "Star Trek: Sección 31",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/bx9btF0Jo4rRF68xny7VPqHNt3z.jpg",
+  "release_date": "2025-01-15",
+  "genres": [
+    "Ciencia Ficción",
+    "Aventura",
+    "Acción",
+    "Drama",
+    "Película de TV"
+  ],
+  "rating": "4.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/3SOunz2Z0qcOVlrkYFj20HquziB.jpg",
+  "overview": "En Star Trek: Sección 31, la Emperadora Philippa Georgiou, se une a una división secreta de la Flota Estelar encargada de proteger a la Federación Unida de Planetas y se enfrenta a los pecados de su pasado.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "star-trek-seccion-31",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/vil3ybp49b52",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vil3ybp49b52",
+      "player_url": "https://streamwish.to/e/vil3ybp49b52"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/7kqr3uxvlimb",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "7kqr3uxvlimb",
+      "player_url": "https://vidhidepro.com/v/7kqr3uxvlimb"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/dg84nt479o7a",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "dg84nt479o7a",
+      "player_url": "https://doodstream.com/e/dg84nt479o7a"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/l343hiogdbwf",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "l343hiogdbwf",
+      "player_url": "https://streamwish.to/e/l343hiogdbwf"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/oxooh5q2o4nr",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "oxooh5q2o4nr",
+      "player_url": "https://vidhidepro.com/v/oxooh5q2o4nr"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/khw5vbncxbas",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "khw5vbncxbas",
+      "player_url": "https://doodstream.com/e/khw5vbncxbas"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/agyjkmapw7zm",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "agyjkmapw7zm",
+      "player_url": "https://streamwish.to/e/agyjkmapw7zm"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/80vezujpc4p2",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "80vezujpc4p2",
+      "player_url": "https://vidhidepro.com/v/80vezujpc4p2"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/h6n7rnbtcepi",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "h6n7rnbtcepi",
+      "player_url": "https://doodstream.com/e/h6n7rnbtcepi"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/3yu4hdg9a2ck",
+      "player_url": "https://minochinos.com/embed/3yu4hdg9a2ck",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3yu4hdg9a2ck"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/akommaoay583",
+      "player_url": "https://hglink.to/e/akommaoay583",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "akommaoay583"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/c2w1zfvphthr",
+      "player_url": "https://bysedikamoum.com/e/c2w1zfvphthr",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c2w1zfvphthr"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/myyhhbo5qyov",
+      "player_url": "https://voe.sx/e/myyhhbo5qyov",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "myyhhbo5qyov"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/myyhhbo5qyov/download",
+      "player_url": "https://voe.sx/myyhhbo5qyov/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/310fims8cojq",
+      "player_url": "https://rapidvideo.link/e/310fims8cojq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "310fims8cojq"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/ztij6ab171z8",
+      "player_url": "https://minochinos.com/embed/ztij6ab171z8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ztij6ab171z8"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/q9bidjrzipae",
+      "player_url": "https://hglink.to/e/q9bidjrzipae",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q9bidjrzipae"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/2e2nayyvk9po",
+      "player_url": "https://bysedikamoum.com/e/2e2nayyvk9po",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2e2nayyvk9po"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/iy1zv76hkcrx",
+      "player_url": "https://voe.sx/e/iy1zv76hkcrx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iy1zv76hkcrx"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/d1t0zq45rfyo",
+      "player_url": "https://rapidvideo.link/e/d1t0zq45rfyo",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d1t0zq45rfyo"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/tkjrfhcsy6qe",
+      "player_url": "https://minochinos.com/embed/tkjrfhcsy6qe",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tkjrfhcsy6qe"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/4w050coehoqv",
+      "player_url": "https://hglink.to/e/4w050coehoqv",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4w050coehoqv"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/taizyhbmjlqb",
+      "player_url": "https://bysedikamoum.com/e/taizyhbmjlqb",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "taizyhbmjlqb"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/ysal3ef40wig",
+      "player_url": "https://voe.sx/e/ysal3ef40wig",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ysal3ef40wig"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/ysal3ef40wig/download",
+      "player_url": "https://voe.sx/ysal3ef40wig/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/tqcu5przsxon",
+      "player_url": "https://rapidvideo.link/e/tqcu5przsxon",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tqcu5przsxon"
+    }
+  ]
+}
