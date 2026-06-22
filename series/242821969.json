@@ -14,7 +14,17 @@
   "slug": "white-lies",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf60dcb975667e86d0f3207f94ee8203473a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf60dcb975667e86d0f3207f94ee8203473a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf60dcb975667e86d0f3207f94ee8203473a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
