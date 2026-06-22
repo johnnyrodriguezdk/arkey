@@ -15,7 +15,17 @@
   "slug": "pesadillas-y-ensoaciones-de-joko-anwar",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf1091ea345035989c4e3bbb0ea24bb60b3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf1091ea345035989c4e3bbb0ea24bb60b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1091ea345035989c4e3bbb0ea24bb60b3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
