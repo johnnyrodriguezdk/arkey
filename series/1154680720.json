@@ -13,7 +13,17 @@
   "slug": "sandro-de-america",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/trck9xiodjqh",
+      "player_url": "https://streamfort.online/e/trck9xiodjqh",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "trck9xiodjqh"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
