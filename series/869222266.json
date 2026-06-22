@@ -14,7 +14,17 @@
   "slug": "el-bebe",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/omoq7aqrgx0q",
+      "player_url": "https://dsvplay.com/e/omoq7aqrgx0q",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "omoq7aqrgx0q"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
