@@ -1,1 +1,243 @@
-{"id":779816,"titulo":"Alas blancas","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/d4n0Lx65xc1A65QaNUYwzYT5k8g.jpg","release_date":"2023-10-25","genres":["drama"],"rating":"7.8","backdrop":"https://image.tmdb.org/t/p/original/l7U8hKJsDL2DfYg7nYUACewg9d0.jpg","overview":"Ha pasado un tiempo desde que Justin fuera expulsado del colegio. Allí aprendió de Auggie una lección de vida, pero las cosas en el nuevo colegio no son fáciles. Una tarde, después de clase, su abuela le va a contar una historia: la historia de cómo, en la Francia ocupada por los nazis durante la Segunda Guerra Mundial, una niña judía llamada Sara conseguirá sobrevivir gracias a la bondad y generosidad de un chico y su familia. Sara es la abuela de Justin y su historia cambiará su vida para siempre.","trailer":"","runtime":"121","slug":"alas-blancas","servidores":[{"id":1,"url":"https://streamwish.to/e/nfem0eboh2rq","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"nfem0eboh2rq","player_url":"https://streamwish.to/e/nfem0eboh2rq"},{"id":2,"url":"https://vidhidepro.com/v/soap2kjbd7kj","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"soap2kjbd7kj","player_url":"https://vidhidepro.com/v/soap2kjbd7kj"},{"id":3,"url":"https://voe.sx/e/xddz80bfeujv","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"xddz80bfeujv","player_url":"https://voe.sx/e/xddz80bfeujv"},{"id":4,"url":"https://doodstream.com/e/fi840ey68hsl","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"fi840ey68hsl","player_url":"https://doodstream.com/e/fi840ey68hsl"},{"id":5,"url":"https://streamwish.to/e/zp9ogn65iiip","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"zp9ogn65iiip","player_url":"https://streamwish.to/e/zp9ogn65iiip"},{"id":6,"url":"https://vidhidepro.com/v/bh53n7zwevbn","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"bh53n7zwevbn","player_url":"https://vidhidepro.com/v/bh53n7zwevbn"},{"id":7,"url":"https://voe.sx/e/dbjbhh5ceapb","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"dbjbhh5ceapb","player_url":"https://voe.sx/e/dbjbhh5ceapb"},{"id":8,"url":"https://doodstream.com/e/kd5r31wheo7a","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"kd5r31wheo7a","player_url":"https://doodstream.com/e/kd5r31wheo7a"}]}
+{
+  "id": 779816,
+  "titulo": "Alas blancas",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/d4n0Lx65xc1A65QaNUYwzYT5k8g.jpg",
+  "release_date": "2023-10-25",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/l7U8hKJsDL2DfYg7nYUACewg9d0.jpg",
+  "overview": "Ha pasado un tiempo desde que Justin fuera expulsado del colegio. Allí aprendió de Auggie una lección de vida, pero las cosas en el nuevo colegio no son fáciles. Una tarde, después de clase, su abuela le va a contar una historia: la historia de cómo, en la Francia ocupada por los nazis durante la Segunda Guerra Mundial, una niña judía llamada Sara conseguirá sobrevivir gracias a la bondad y generosidad de un chico y su familia. Sara es la abuela de Justin y su historia cambiará su vida para siempre.",
+  "trailer": "",
+  "runtime": "121",
+  "slug": "alas-blancas",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/nfem0eboh2rq",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "nfem0eboh2rq",
+      "player_url": "https://streamwish.to/e/nfem0eboh2rq"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/soap2kjbd7kj",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "soap2kjbd7kj",
+      "player_url": "https://vidhidepro.com/v/soap2kjbd7kj"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/xddz80bfeujv",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xddz80bfeujv",
+      "player_url": "https://voe.sx/e/xddz80bfeujv"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/fi840ey68hsl",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fi840ey68hsl",
+      "player_url": "https://doodstream.com/e/fi840ey68hsl"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/zp9ogn65iiip",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zp9ogn65iiip",
+      "player_url": "https://streamwish.to/e/zp9ogn65iiip"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/bh53n7zwevbn",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "bh53n7zwevbn",
+      "player_url": "https://vidhidepro.com/v/bh53n7zwevbn"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/dbjbhh5ceapb",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "dbjbhh5ceapb",
+      "player_url": "https://voe.sx/e/dbjbhh5ceapb"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/kd5r31wheo7a",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "kd5r31wheo7a",
+      "player_url": "https://doodstream.com/e/kd5r31wheo7a"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/ipoh9t4qq67z",
+      "player_url": "https://minochinos.com/embed/ipoh9t4qq67z",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ipoh9t4qq67z"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/0uv6b10uq63b",
+      "player_url": "https://hglink.to/e/0uv6b10uq63b",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0uv6b10uq63b"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/8mz679u24rny",
+      "player_url": "https://bysedikamoum.com/e/8mz679u24rny",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8mz679u24rny"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/46isqfz4jwg4",
+      "player_url": "https://voe.sx/e/46isqfz4jwg4",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "46isqfz4jwg4"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/46isqfz4jwg4/download",
+      "player_url": "https://voe.sx/46isqfz4jwg4/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/8b9znq6ao1vp",
+      "player_url": "https://rapidvideo.link/e/8b9znq6ao1vp",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8b9znq6ao1vp"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/hheuw8pgo3m1",
+      "player_url": "https://minochinos.com/embed/hheuw8pgo3m1",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hheuw8pgo3m1"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/ur4440x68w1h",
+      "player_url": "https://hglink.to/e/ur4440x68w1h",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ur4440x68w1h"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/fatwcs66roas",
+      "player_url": "https://bysedikamoum.com/e/fatwcs66roas",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fatwcs66roas"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/tqomkga2mjoa",
+      "player_url": "https://voe.sx/e/tqomkga2mjoa",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tqomkga2mjoa"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/ozbn3umrg7if",
+      "player_url": "https://rapidvideo.link/e/ozbn3umrg7if",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ozbn3umrg7if"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/gln8en4l06ti",
+      "player_url": "https://minochinos.com/embed/gln8en4l06ti",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gln8en4l06ti"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/wnhnuo5abe5r",
+      "player_url": "https://hglink.to/e/wnhnuo5abe5r",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wnhnuo5abe5r"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/md668pq1okt1",
+      "player_url": "https://bysedikamoum.com/e/md668pq1okt1",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "md668pq1okt1"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/0sc9yn5l6wdx",
+      "player_url": "https://voe.sx/e/0sc9yn5l6wdx",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0sc9yn5l6wdx"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/0sc9yn5l6wdx/download",
+      "player_url": "https://voe.sx/0sc9yn5l6wdx/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/q5jy234r9gub",
+      "player_url": "https://rapidvideo.link/e/q5jy234r9gub",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "q5jy234r9gub"
+    }
+  ]
+}
