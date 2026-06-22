@@ -1,0 +1,35 @@
+{
+  "id": 527424128,
+  "titulo": "CIA",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/c64350c9477e1ea35aa37a5a73d4e042.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "crimen",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Sigue una asociación entre un agente del FBI y un agente de la CIA que trabajan juntos en un equipo de trabajo clandestino para prevenir el terrorismo domés",
+  "slug": "cia",
+  "iframe_url": "https://lacloud.live/1f12ebeb6e69cf57",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/1f12ebeb6e69cf57/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/1f12ebeb6e69cf57/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1f12ebeb6e69cf57"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/cia?season=1&ep=1"
+    }
+  ]
+}
