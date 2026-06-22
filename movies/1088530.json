@@ -1,1 +1,201 @@
-{"id":1088530,"titulo":"Nelly Rapp - Dödens spegel","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/mYjm3lj1236spN8aObq12hlWldB.jpg","release_date":"2023-10-20","genres":[],"rating":"5.6","backdrop":"https://image.tmdb.org/t/p/original/u5JmAvKrFRQv6VSTEHpoEmLDH6f.jpg","overview":"Nelly and the dog London are joined by Valle as they head out into the Black Forest to find the Mirror of Death. A journey that takes them deeper and deeper into the forest and to the place where Nelly's mother once disappeared.","trailer":"","runtime":"96","slug":"nelly-rapp-dodens-spegel","servidores":[{"id":1,"url":"https://streamwish.to/e/m1dwdr0j47mz","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"m1dwdr0j47mz","player_url":"https://streamwish.to/e/m1dwdr0j47mz"},{"id":2,"url":"https://vidhidepro.com/v/dv6wpo0ljxc1","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"dv6wpo0ljxc1","player_url":"https://vidhidepro.com/v/dv6wpo0ljxc1"},{"id":3,"url":"https://voe.sx/e/36rrvbgvfqbn","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"36rrvbgvfqbn","player_url":"https://voe.sx/e/36rrvbgvfqbn"},{"id":4,"url":"https://doodstream.com/e/0mp9rdjlks9r","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"0mp9rdjlks9r","player_url":"https://doodstream.com/e/0mp9rdjlks9r"},{"id":5,"url":"https://streamwish.to/e/56ufj1nss8rd","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"56ufj1nss8rd","player_url":"https://streamwish.to/e/56ufj1nss8rd"},{"id":6,"url":"https://vidhidepro.com/v/b3ywgqyv77k2","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"b3ywgqyv77k2","player_url":"https://vidhidepro.com/v/b3ywgqyv77k2"},{"id":7,"url":"https://voe.sx/e/txia6kxrgnyl","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"txia6kxrgnyl","player_url":"https://voe.sx/e/txia6kxrgnyl"},{"id":8,"url":"https://doodstream.com/e/yl2xsq8xoxuv","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"yl2xsq8xoxuv","player_url":"https://doodstream.com/e/yl2xsq8xoxuv"}]}
+{
+  "id": 1088530,
+  "titulo": "Nelly Rapp - Dödens spegel",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/mYjm3lj1236spN8aObq12hlWldB.jpg",
+  "release_date": "2023-10-20",
+  "genres": [
+    "Aventura",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "rating": "5.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/u5JmAvKrFRQv6VSTEHpoEmLDH6f.jpg",
+  "overview": "Nelly and the dog London are joined by Valle as they head out into the Black Forest to find the Mirror of Death. A journey that takes them deeper and deeper into the forest and to the place where Nelly's mother once disappeared.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "nelly-rapp-dodens-spegel",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/m1dwdr0j47mz",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "m1dwdr0j47mz",
+      "player_url": "https://streamwish.to/e/m1dwdr0j47mz"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/dv6wpo0ljxc1",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "dv6wpo0ljxc1",
+      "player_url": "https://vidhidepro.com/v/dv6wpo0ljxc1"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/36rrvbgvfqbn",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "36rrvbgvfqbn",
+      "player_url": "https://voe.sx/e/36rrvbgvfqbn"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/0mp9rdjlks9r",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0mp9rdjlks9r",
+      "player_url": "https://doodstream.com/e/0mp9rdjlks9r"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/56ufj1nss8rd",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "56ufj1nss8rd",
+      "player_url": "https://streamwish.to/e/56ufj1nss8rd"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/b3ywgqyv77k2",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "b3ywgqyv77k2",
+      "player_url": "https://vidhidepro.com/v/b3ywgqyv77k2"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/txia6kxrgnyl",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "txia6kxrgnyl",
+      "player_url": "https://voe.sx/e/txia6kxrgnyl"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/yl2xsq8xoxuv",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "yl2xsq8xoxuv",
+      "player_url": "https://doodstream.com/e/yl2xsq8xoxuv"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/h8tmu5g633nd",
+      "player_url": "https://minochinos.com/embed/h8tmu5g633nd",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h8tmu5g633nd"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/l6h88zuw3ezi",
+      "player_url": "https://hglink.to/e/l6h88zuw3ezi",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l6h88zuw3ezi"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/u4qs5t60n498",
+      "player_url": "https://bysedikamoum.com/e/u4qs5t60n498",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u4qs5t60n498"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/jsxh98lzlk0r",
+      "player_url": "https://voe.sx/e/jsxh98lzlk0r",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jsxh98lzlk0r"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/jsxh98lzlk0r/download",
+      "player_url": "https://voe.sx/jsxh98lzlk0r/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/uwgy3cblvihj",
+      "player_url": "https://rapidvideo.link/e/uwgy3cblvihj",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uwgy3cblvihj"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/4fp1xl26pzcu",
+      "player_url": "https://minochinos.com/embed/4fp1xl26pzcu",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4fp1xl26pzcu"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/chbjnd8ee4wk",
+      "player_url": "https://hglink.to/e/chbjnd8ee4wk",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "chbjnd8ee4wk"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/u660l9quyi4d",
+      "player_url": "https://bysedikamoum.com/e/u660l9quyi4d",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u660l9quyi4d"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/ldkelo9tynfr",
+      "player_url": "https://voe.sx/e/ldkelo9tynfr",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ldkelo9tynfr"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/ldkelo9tynfr/download",
+      "player_url": "https://voe.sx/ldkelo9tynfr/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/cl6g94phfs20",
+      "player_url": "https://rapidvideo.link/e/cl6g94phfs20",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cl6g94phfs20"
+    }
+  ]
+}
