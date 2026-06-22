@@ -14,7 +14,17 @@
   "slug": "american-rust",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/esgz9b91zn28",
+      "player_url": "https://streamfort.online/e/esgz9b91zn28",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sgz9b91zn28"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
