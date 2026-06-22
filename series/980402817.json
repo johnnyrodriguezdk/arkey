@@ -1,0 +1,35 @@
+{
+  "id": 980402817,
+  "titulo": "Harry Hole",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/09b15aeee2bc9c47f03de9e6180d28a5.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "crimen",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Cuando una serie de asesinatos rituales acecha Oslo, un detective debe lidiar con patrones enigmáticos, corrupción y sus propios demonios para encontrar al ",
+  "slug": "harry-hole",
+  "iframe_url": "https://lacloud.live/499f235650ad0083",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/499f235650ad0083/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/499f235650ad0083/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "499f235650ad0083"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/harry-hole?season=1&ep=1"
+    }
+  ]
+}
