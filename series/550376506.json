@@ -13,7 +13,17 @@
   "slug": "la-vida-que-querias",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/dvtb8w82n982",
+      "player_url": "https://streamfort.online/e/dvtb8w82n982",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dvtb8w82n982"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
