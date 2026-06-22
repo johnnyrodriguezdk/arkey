@@ -13,7 +13,17 @@
   "slug": "el-hijo-zurdo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/vvnvcb6gtbvi",
+      "player_url": "https://streamfort.online/e/vvnvcb6gtbvi",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vvnvcb6gtbvi"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
