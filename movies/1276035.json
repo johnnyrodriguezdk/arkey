@@ -1,1 +1,198 @@
-{"id":1276035,"titulo":"Criaturas del farol","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/a98hZhV3ImbqIPmstQQnSMv9QYb.jpg","release_date":"2024-06-08","genres":[],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/4gwrR8kIHIkhOd79Su59uPOExyC.jpg","overview":"Después de que un ambicioso viaje en solitario la deje naufragando en una isla remota, una joven marinera es rescatada por su único habitante: un farero. A medida que los muros de la realidad comienzan a desvanecerse y la confianza entre ellos se deshace, la supervivencia se convierte en una prueba de proporciones extenuantes.","trailer":"","runtime":"96","slug":"criaturas-del-farol","servidores":[{"id":1,"url":"https://streamwish.to/e/inz6xme9l9jz","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"inz6xme9l9jz","player_url":"https://streamwish.to/e/inz6xme9l9jz"},{"id":2,"url":"https://vidhidepro.com/v/23u546hgizzr","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"23u546hgizzr","player_url":"https://vidhidepro.com/v/23u546hgizzr"},{"id":3,"url":"https://voe.sx/e/ebrjxcmpmrja","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ebrjxcmpmrja","player_url":"https://voe.sx/e/ebrjxcmpmrja"},{"id":4,"url":"https://doodstream.com/e/666a8q1dx5at","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"666a8q1dx5at","player_url":"https://doodstream.com/e/666a8q1dx5at"},{"id":5,"url":"https://streamwish.to/e/jprw10bneirx","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"jprw10bneirx","player_url":"https://streamwish.to/e/jprw10bneirx"},{"id":6,"url":"https://vidhidepro.com/v/8z26m2y8o20c","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"8z26m2y8o20c","player_url":"https://vidhidepro.com/v/8z26m2y8o20c"},{"id":7,"url":"https://voe.sx/e/rycdxk0luned","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"rycdxk0luned","player_url":"https://voe.sx/e/rycdxk0luned"},{"id":8,"url":"https://doodstream.com/e/3j2ynpt0xpl7","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"3j2ynpt0xpl7","player_url":"https://doodstream.com/e/3j2ynpt0xpl7"}]}
+{
+  "id": 1276035,
+  "titulo": "Criaturas del farol",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/a98hZhV3ImbqIPmstQQnSMv9QYb.jpg",
+  "release_date": "2024-06-08",
+  "genres": [
+    "Suspense"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/4gwrR8kIHIkhOd79Su59uPOExyC.jpg",
+  "overview": "Después de que un ambicioso viaje en solitario la deje naufragando en una isla remota, una joven marinera es rescatada por su único habitante: un farero. A medida que los muros de la realidad comienzan a desvanecerse y la confianza entre ellos se deshace, la supervivencia se convierte en una prueba de proporciones extenuantes.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "criaturas-del-farol",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/inz6xme9l9jz",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "inz6xme9l9jz",
+      "player_url": "https://streamwish.to/e/inz6xme9l9jz"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/23u546hgizzr",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "23u546hgizzr",
+      "player_url": "https://vidhidepro.com/v/23u546hgizzr"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/ebrjxcmpmrja",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ebrjxcmpmrja",
+      "player_url": "https://voe.sx/e/ebrjxcmpmrja"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/666a8q1dx5at",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "666a8q1dx5at",
+      "player_url": "https://doodstream.com/e/666a8q1dx5at"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/jprw10bneirx",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "jprw10bneirx",
+      "player_url": "https://streamwish.to/e/jprw10bneirx"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/8z26m2y8o20c",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8z26m2y8o20c",
+      "player_url": "https://vidhidepro.com/v/8z26m2y8o20c"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/rycdxk0luned",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rycdxk0luned",
+      "player_url": "https://voe.sx/e/rycdxk0luned"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/3j2ynpt0xpl7",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "3j2ynpt0xpl7",
+      "player_url": "https://doodstream.com/e/3j2ynpt0xpl7"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/r5od2g5d0iku",
+      "player_url": "https://minochinos.com/embed/r5od2g5d0iku",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r5od2g5d0iku"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/q3wvmezxc3la",
+      "player_url": "https://hglink.to/e/q3wvmezxc3la",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q3wvmezxc3la"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/9k7xmubp3ydw",
+      "player_url": "https://bysedikamoum.com/e/9k7xmubp3ydw",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9k7xmubp3ydw"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/asdjljayde11",
+      "player_url": "https://voe.sx/e/asdjljayde11",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "asdjljayde11"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/asdjljayde11/download",
+      "player_url": "https://voe.sx/asdjljayde11/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/xwm4vjka3qfh",
+      "player_url": "https://rapidvideo.link/e/xwm4vjka3qfh",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xwm4vjka3qfh"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/2hvj8grxiri7",
+      "player_url": "https://minochinos.com/embed/2hvj8grxiri7",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2hvj8grxiri7"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/lnrywonxldei",
+      "player_url": "https://hglink.to/e/lnrywonxldei",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lnrywonxldei"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/wu1fzw8d57qr",
+      "player_url": "https://bysedikamoum.com/e/wu1fzw8d57qr",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wu1fzw8d57qr"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/i0gi5l4bb2ap",
+      "player_url": "https://voe.sx/e/i0gi5l4bb2ap",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "i0gi5l4bb2ap"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/i0gi5l4bb2ap/download",
+      "player_url": "https://voe.sx/i0gi5l4bb2ap/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/4g1o0bzluhq6",
+      "player_url": "https://rapidvideo.link/e/4g1o0bzluhq6",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4g1o0bzluhq6"
+    }
+  ]
+}
