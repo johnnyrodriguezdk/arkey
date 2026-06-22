@@ -1,0 +1,37 @@
+{
+  "id": 1089466946,
+  "titulo": "Las Leonas",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/c182dc5c90dc87dfee9cd309c33f19b3.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "comedia",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Cuando la vida las deja al borde de la cornisa, cinco mujeres desesperadas deciden que su única salida es formar una banda, conseguir armas y empezar a roba",
+  "slug": "las-leonas",
+  "iframe_url": "https://lacloud.live/3fd91e30be930dde",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/3fd91e30be930dde/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/3fd91e30be930dde/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3fd91e30be930dde"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/las-leonas?season=1&ep=1"
+    }
+  ]
+}
