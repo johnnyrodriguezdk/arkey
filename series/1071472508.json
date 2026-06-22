@@ -1,0 +1,51 @@
+{
+  "id": 1071472508,
+  "titulo": "El Conde: Amor y Honor",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/a1678dfef412e43ad6e202e65ac6fff9.webp",
+  "release_date": "2024-01-01",
+  "genres": [
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Una condena injusta cambia la vida de Alejandro Galán y lo separa de la mujer que ama, Mariana Zambrano. En la cárcel y gracias a un prisionero, logra conve",
+  "slug": "el-conde-amor-y-honor",
+  "iframe_url": "https://lacloud.live/hfcaebe575e654b4eb67fc867181333dc33a",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfcaebe575e654b4eb67fc867181333dc33a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfcaebe575e654b4eb67fc867181333dc33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfcaebe575e654b4eb67fc867181333dc33a"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/el-conde-amor-y-honor?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://lacloud.live/public/stream/hfcaebe575e654b4eb67fc867181333dc33a/master.m3u8",
+          "player_url": "https://lacloud.live/public/stream/hfcaebe575e654b4eb67fc867181333dc33a/master.m3u8",
+          "nombre": "LaCloud",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "hfcaebe575e654b4eb67fc867181333dc33a"
+        }
+      ]
+    }
+  ]
+}
