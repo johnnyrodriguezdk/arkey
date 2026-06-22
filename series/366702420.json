@@ -13,7 +13,17 @@
   "slug": "dinastia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/oeafzl6qqjib",
+      "player_url": "https://streamfort.online/e/oeafzl6qqjib",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oeafzl6qqjib"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
