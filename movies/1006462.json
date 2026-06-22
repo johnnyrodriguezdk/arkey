@@ -1,1 +1,210 @@
-{"id":1006462,"titulo":"The Flood","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/mvjqqklMpHwOxc40rn7dMhGT0Fc.jpg","release_date":"2023-07-14","genres":[],"rating":"6.2","backdrop":"https://image.tmdb.org/t/p/original/bz66a19bR6BKsbY8gSZCM4etJiK.jpg","overview":"Una atrevida fuga en la cárcel durante un peligroso huracán de Luisiana es interrumpida por una horda de grandes caimanes hambrientos.","trailer":"","runtime":"93","slug":"the-flood","servidores":[{"id":1,"url":"https://streamwish.to/e/18y40hvil1t8","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"18y40hvil1t8","player_url":"https://streamwish.to/e/18y40hvil1t8"},{"id":2,"url":"https://bysejikuar.com/e/x9tgdlybr26u","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"x9tgdlybr26u","player_url":"https://bysejikuar.com/e/x9tgdlybr26u"},{"id":3,"url":"https://voe.sx/e/xnnru8dfem5q","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"xnnru8dfem5q","player_url":"https://voe.sx/e/xnnru8dfem5q"},{"id":4,"url":"https://doodstream.com/e/tenbymbwpabf","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"tenbymbwpabf","player_url":"https://doodstream.com/e/tenbymbwpabf"},{"id":5,"url":"https://streamwish.to/e/7wsmrc0htqlq","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"7wsmrc0htqlq","player_url":"https://streamwish.to/e/7wsmrc0htqlq"},{"id":6,"url":"https://bysejikuar.com/e/kocs6tcpt1tf","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"kocs6tcpt1tf","player_url":"https://bysejikuar.com/e/kocs6tcpt1tf"},{"id":7,"url":"https://vidhidepro.com/v/8xihv9lb0xi1","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"8xihv9lb0xi1","player_url":"https://vidhidepro.com/v/8xihv9lb0xi1"},{"id":8,"url":"https://voe.sx/e/awsfimzn1k54","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"awsfimzn1k54","player_url":"https://voe.sx/e/awsfimzn1k54"},{"id":9,"url":"https://doodstream.com/e/nmzxe4g3kvaw","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"nmzxe4g3kvaw","player_url":"https://doodstream.com/e/nmzxe4g3kvaw"}]}
+{
+  "id": 1006462,
+  "titulo": "The Flood",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/mvjqqklMpHwOxc40rn7dMhGT0Fc.jpg",
+  "release_date": "2023-07-14",
+  "genres": [
+    "Acción",
+    "Misterio",
+    "Suspense",
+    "Terror"
+  ],
+  "rating": "6.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/bz66a19bR6BKsbY8gSZCM4etJiK.jpg",
+  "overview": "Una atrevida fuga en la cárcel durante un peligroso huracán de Luisiana es interrumpida por una horda de grandes caimanes hambrientos.",
+  "trailer": "",
+  "runtime": "93",
+  "slug": "the-flood",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/18y40hvil1t8",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "18y40hvil1t8",
+      "player_url": "https://streamwish.to/e/18y40hvil1t8"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/x9tgdlybr26u",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "x9tgdlybr26u",
+      "player_url": "https://bysejikuar.com/e/x9tgdlybr26u"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/xnnru8dfem5q",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xnnru8dfem5q",
+      "player_url": "https://voe.sx/e/xnnru8dfem5q"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/tenbymbwpabf",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "tenbymbwpabf",
+      "player_url": "https://doodstream.com/e/tenbymbwpabf"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/7wsmrc0htqlq",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7wsmrc0htqlq",
+      "player_url": "https://streamwish.to/e/7wsmrc0htqlq"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/kocs6tcpt1tf",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "kocs6tcpt1tf",
+      "player_url": "https://bysejikuar.com/e/kocs6tcpt1tf"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/8xihv9lb0xi1",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8xihv9lb0xi1",
+      "player_url": "https://vidhidepro.com/v/8xihv9lb0xi1"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/awsfimzn1k54",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "awsfimzn1k54",
+      "player_url": "https://voe.sx/e/awsfimzn1k54"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/nmzxe4g3kvaw",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "nmzxe4g3kvaw",
+      "player_url": "https://doodstream.com/e/nmzxe4g3kvaw"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/1x3um1ocn650",
+      "player_url": "https://minochinos.com/embed/1x3um1ocn650",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1x3um1ocn650"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/y6zdq6tbffxf",
+      "player_url": "https://hglink.to/e/y6zdq6tbffxf",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y6zdq6tbffxf"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/emgjqgp5r159",
+      "player_url": "https://bysedikamoum.com/e/emgjqgp5r159",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "emgjqgp5r159"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/szdukgejkivv",
+      "player_url": "https://voe.sx/e/szdukgejkivv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "szdukgejkivv"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/szdukgejkivv/download",
+      "player_url": "https://voe.sx/szdukgejkivv/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/e62nqi10alzu",
+      "player_url": "https://rapidvideo.link/e/e62nqi10alzu",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e62nqi10alzu"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/yhwa2gbxpqfk",
+      "player_url": "https://minochinos.com/embed/yhwa2gbxpqfk",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "yhwa2gbxpqfk"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/6ozpuuwp6z05",
+      "player_url": "https://hglink.to/e/6ozpuuwp6z05",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6ozpuuwp6z05"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/0f67pkvzkedq",
+      "player_url": "https://bysedikamoum.com/e/0f67pkvzkedq",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0f67pkvzkedq"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/4ouox20ixpve",
+      "player_url": "https://voe.sx/e/4ouox20ixpve",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4ouox20ixpve"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/4ouox20ixpve/download",
+      "player_url": "https://voe.sx/4ouox20ixpve/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/fnvly3d8xt9i",
+      "player_url": "https://rapidvideo.link/e/fnvly3d8xt9i",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fnvly3d8xt9i"
+    }
+  ]
+}
