@@ -15,7 +15,17 @@
   "slug": "ninja-kamui",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf0fae08f87a0c1ec29ede3267faf884873a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf0fae08f87a0c1ec29ede3267faf884873a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0fae08f87a0c1ec29ede3267faf884873a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
