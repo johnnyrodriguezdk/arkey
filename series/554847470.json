@@ -18,12 +18,66 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hf21f2666366c34d7891f5fc5beb7d5be13a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hf21f2666366c34d7891f5fc5beb7d5be13a/master.m3u8",
+      "url": "https://lalafilecdn.space/hf21f2666366c34d7891f5fc5beb7d5be13a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf21f2666366c34d7891f5fc5beb7d5be13a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hf21f2666366c34d7891f5fc5beb7d5be13a"
+    },
+    {
+      "url": "https://streamfort.online/e/p3i3pouhtysv",
+      "player_url": "https://streamfort.online/e/p3i3pouhtysv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p3i3pouhtysv",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/2ov1wuda5lha",
+      "player_url": "https://streamfort.online/e/2ov1wuda5lha",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2ov1wuda5lha",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/rs2t4wuc045m",
+      "player_url": "https://dsvplay.com/e/rs2t4wuc045m",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rs2t4wuc045m",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/g7mdyrhgdfuv",
+      "player_url": "https://dsvplay.com/e/g7mdyrhgdfuv",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g7mdyrhgdfuv",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/jr34a40gjbca",
+      "player_url": "https://voe.sx/e/jr34a40gjbca",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jr34a40gjbca",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/0hnq9qgb4z4j",
+      "player_url": "https://voe.sx/e/0hnq9qgb4z4j",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0hnq9qgb4z4j",
+      "id": 7
     }
   ],
   "episodes": [
