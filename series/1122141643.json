@@ -13,7 +13,17 @@
   "slug": "julia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://voe.sx/e/hw0r5u60bwzj",
+      "player_url": "https://voe.sx/e/hw0r5u60bwzj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hw0r5u60bwzj"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
