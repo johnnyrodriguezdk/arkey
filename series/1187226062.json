@@ -1,0 +1,35 @@
+{
+  "id": 1187226062,
+  "titulo": "Yiya",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/f7e7ab490f2e8981228ca95a758349ea.webp",
+  "release_date": "2025-01-01",
+  "genres": [
+    "crimen",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "En la actualidad, un periodista reconstruye a través de una investigación los hechos que antecedieron a los asesinatos cometidos por Yiya Murano hacia sus t",
+  "slug": "yiya",
+  "iframe_url": "https://lacloud.live/b003f13b863b9507",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/b003f13b863b9507/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/b003f13b863b9507/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b003f13b863b9507"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/yiya?season=1&ep=1"
+    }
+  ]
+}
