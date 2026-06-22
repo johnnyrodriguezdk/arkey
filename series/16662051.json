@@ -18,12 +18,30 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hf71c29c9e50ced8d4c782140b3eccf8b73a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hf71c29c9e50ced8d4c782140b3eccf8b73a/master.m3u8",
+      "url": "https://lalafilecdn.space/hf71c29c9e50ced8d4c782140b3eccf8b73a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf71c29c9e50ced8d4c782140b3eccf8b73a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hf71c29c9e50ced8d4c782140b3eccf8b73a"
+    },
+    {
+      "url": "https://dsvplay.com/e/31p7xv1crueh",
+      "player_url": "https://dsvplay.com/e/31p7xv1crueh",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "31p7xv1crueh",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/j7r2dllavt3o",
+      "player_url": "https://voe.sx/e/j7r2dllavt3o",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j7r2dllavt3o",
+      "id": 3
     }
   ],
   "episodes": [
