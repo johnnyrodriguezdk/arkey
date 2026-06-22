@@ -13,7 +13,17 @@
   "slug": "the-box",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/61ud04o8rnni",
+      "player_url": "https://streamfort.online/e/61ud04o8rnni",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "61ud04o8rnni"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
