@@ -1,0 +1,51 @@
+{
+  "id": 1628209087,
+  "titulo": "El señor lobo quiere ser comido",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/50806d9f6a9a340bcbd59d1f7ee5126c.webp",
+  "release_date": "2020-01-01",
+  "genres": [
+    "animacion"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Ookami, una guapa y solitaria chica, es atacada por el infame «Ladrón de Faldas». En eso aparece Akazu, su profesor de Educación Física, quien, sin pensarlo",
+  "slug": "el-seor-lobo-quiere-ser-comido",
+  "iframe_url": "https://lacloud.live/hf98dbffdc4915f721634aa55c675197583a",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf98dbffdc4915f721634aa55c675197583a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf98dbffdc4915f721634aa55c675197583a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf98dbffdc4915f721634aa55c675197583a"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/el-seor-lobo-quiere-ser-comido?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://lacloud.live/public/stream/hf98dbffdc4915f721634aa55c675197583a/master.m3u8",
+          "player_url": "https://lacloud.live/public/stream/hf98dbffdc4915f721634aa55c675197583a/master.m3u8",
+          "nombre": "LaCloud",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "hf98dbffdc4915f721634aa55c675197583a"
+        }
+      ]
+    }
+  ]
+}
