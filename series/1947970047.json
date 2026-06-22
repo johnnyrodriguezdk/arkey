@@ -16,7 +16,17 @@
   "slug": "shantaram",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/x80u0bgccp3b",
+      "player_url": "https://dsvplay.com/e/x80u0bgccp3b",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x80u0bgccp3b"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
