@@ -14,7 +14,17 @@
   "slug": "such-brave-girls",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf635c7fc22ef46e3cc9470b3c1529be673a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf635c7fc22ef46e3cc9470b3c1529be673a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf635c7fc22ef46e3cc9470b3c1529be673a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
