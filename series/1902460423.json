@@ -14,7 +14,17 @@
   "slug": "la-maldicion-de-hill-house",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf9af25a0b58121b05efd6649ab60d75d33a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf9af25a0b58121b05efd6649ab60d75d33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9af25a0b58121b05efd6649ab60d75d33a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
