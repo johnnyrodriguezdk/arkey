@@ -17,7 +17,17 @@
   "slug": "x-men-97",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hffed84277d9c1dbecf844eb7b8f8f314e3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hffed84277d9c1dbecf844eb7b8f8f314e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hffed84277d9c1dbecf844eb7b8f8f314e3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
