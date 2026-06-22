@@ -15,7 +15,17 @@
   "slug": "the-duke-of-death-and-his-maid",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfecb441177d4c077e78004adffde17ca33a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfecb441177d4c077e78004adffde17ca33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfecb441177d4c077e78004adffde17ca33a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
