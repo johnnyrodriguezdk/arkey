@@ -1,1 +1,252 @@
-{"id":1272166,"titulo":"Maldita suerte","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/jJrbw1rzLFq8GqMvRcQBrdPYQaB.jpg","release_date":"2025-10-15","genres":["drama"],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/cc48kfehVAkgG73BsPcFLMoxa8h.jpg","overview":"Bajo las encandilantes luces de los casinos de Macao, un apostador que huye de su pasado queda fascinado con una enigmática mujer en una mesa de bacará.","trailer":"","runtime":"101","slug":"maldita-suerte","servidores":[{"id":1,"url":"https://streamwish.to/e/tqld35ocun1p","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"tqld35ocun1p","player_url":"https://streamwish.to/e/tqld35ocun1p"},{"id":2,"url":"https://vidhidepro.com/v/qs58rwfjlqzj","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"qs58rwfjlqzj","player_url":"https://vidhidepro.com/v/qs58rwfjlqzj"},{"id":3,"url":"https://voe.sx/e/qmiwcqxcv56e","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"qmiwcqxcv56e","player_url":"https://voe.sx/e/qmiwcqxcv56e"},{"id":4,"url":"https://streamwish.to/e/s4i7fb82w9bi","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"s4i7fb82w9bi","player_url":"https://streamwish.to/e/s4i7fb82w9bi"},{"id":5,"url":"https://vidhidepro.com/v/5gn39cw9vxuo","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"5gn39cw9vxuo","player_url":"https://vidhidepro.com/v/5gn39cw9vxuo"},{"id":6,"url":"https://voe.sx/e/cisjnp57igej","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"cisjnp57igej","player_url":"https://voe.sx/e/cisjnp57igej"},{"id":7,"url":"https://streamwish.to/e/q4c62kfgzx78","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"q4c62kfgzx78","player_url":"https://streamwish.to/e/q4c62kfgzx78"},{"id":8,"url":"https://vidhidepro.com/v/ewmlm13abe8f","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"ewmlm13abe8f","player_url":"https://vidhidepro.com/v/ewmlm13abe8f"},{"id":9,"url":"https://voe.sx/e/x6glednd9sob","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"x6glednd9sob","player_url":"https://voe.sx/e/x6glednd9sob"}]}
+{
+  "id": 1272166,
+  "titulo": "Maldita suerte",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/jJrbw1rzLFq8GqMvRcQBrdPYQaB.jpg",
+  "release_date": "2025-10-15",
+  "genres": [
+    "drama"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
+  "overview": "Bajo las encandilantes luces de los casinos de Macao, un apostador que huye de su pasado queda fascinado con una enigmática mujer en una mesa de bacará.",
+  "trailer": "",
+  "runtime": "101",
+  "slug": "maldita-suerte",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/tqld35ocun1p",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "tqld35ocun1p",
+      "player_url": "https://streamwish.to/e/tqld35ocun1p"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/qs58rwfjlqzj",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "qs58rwfjlqzj",
+      "player_url": "https://vidhidepro.com/v/qs58rwfjlqzj"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/qmiwcqxcv56e",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qmiwcqxcv56e",
+      "player_url": "https://voe.sx/e/qmiwcqxcv56e"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/s4i7fb82w9bi",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "s4i7fb82w9bi",
+      "player_url": "https://streamwish.to/e/s4i7fb82w9bi"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/5gn39cw9vxuo",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "5gn39cw9vxuo",
+      "player_url": "https://vidhidepro.com/v/5gn39cw9vxuo"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/cisjnp57igej",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "cisjnp57igej",
+      "player_url": "https://voe.sx/e/cisjnp57igej"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/q4c62kfgzx78",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "q4c62kfgzx78",
+      "player_url": "https://streamwish.to/e/q4c62kfgzx78"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/ewmlm13abe8f",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ewmlm13abe8f",
+      "player_url": "https://vidhidepro.com/v/ewmlm13abe8f"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/x6glednd9sob",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "x6glednd9sob",
+      "player_url": "https://voe.sx/e/x6glednd9sob"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/ez92qjfvft8z",
+      "player_url": "https://minochinos.com/embed/ez92qjfvft8z",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ez92qjfvft8z"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/wuc13uq5qa8p",
+      "player_url": "https://hglink.to/e/wuc13uq5qa8p",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wuc13uq5qa8p"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/zkdke8lzmjzp",
+      "player_url": "https://bysedikamoum.com/e/zkdke8lzmjzp",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zkdke8lzmjzp"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/zctr4iw821il",
+      "player_url": "https://voe.sx/e/zctr4iw821il",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zctr4iw821il"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/zctr4iw821il/download",
+      "player_url": "https://voe.sx/zctr4iw821il/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/f4lj07nwvbds",
+      "player_url": "https://rapidvideo.link/e/f4lj07nwvbds",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f4lj07nwvbds"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/5nvx1gvzid79",
+      "player_url": "https://minochinos.com/embed/5nvx1gvzid79",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5nvx1gvzid79"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/fixxf0ott5an",
+      "player_url": "https://hglink.to/e/fixxf0ott5an",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fixxf0ott5an"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/1cijesnp03an",
+      "player_url": "https://bysedikamoum.com/e/1cijesnp03an",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1cijesnp03an"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/mowunt9yjotl",
+      "player_url": "https://voe.sx/e/mowunt9yjotl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mowunt9yjotl"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/498j1toxfcyw",
+      "player_url": "https://rapidvideo.link/e/498j1toxfcyw",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "498j1toxfcyw"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/10dfyswq28jn",
+      "player_url": "https://minochinos.com/embed/10dfyswq28jn",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "10dfyswq28jn"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/t0lz4zma98q6",
+      "player_url": "https://hglink.to/e/t0lz4zma98q6",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "t0lz4zma98q6"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/02u50mmnvv54",
+      "player_url": "https://bysedikamoum.com/e/02u50mmnvv54",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "02u50mmnvv54"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/xbrrnxagzzcd",
+      "player_url": "https://voe.sx/e/xbrrnxagzzcd",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xbrrnxagzzcd"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/xbrrnxagzzcd/download",
+      "player_url": "https://voe.sx/xbrrnxagzzcd/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/x2kf63gntp1y",
+      "player_url": "https://rapidvideo.link/e/x2kf63gntp1y",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "x2kf63gntp1y"
+    }
+  ]
+}
