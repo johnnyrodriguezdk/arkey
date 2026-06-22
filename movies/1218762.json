@@ -1,1 +1,279 @@
-{"id":1218762,"titulo":"Un robo muy navideño","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/1DIgVqN9EhFJr9ogtA3Atzid6cV.jpg","release_date":"2025-11-25","genres":["romance"],"rating":"6.1","backdrop":"https://image.tmdb.org/t/p/original/x8gV0MUZVWkikNZElaBk13vW5f4.jpg","overview":"Dos trabajadores sin suerte se alían para robar una lujosa tienda departamental en Londres durante la Nochebuena, pero... robarse el corazón no está en los planes.","trailer":"","runtime":"96","slug":"un-robo-muy-navideno","servidores":[{"id":1,"url":"https://streamwish.to/e/5w8fkikw66km","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"5w8fkikw66km","player_url":"https://streamwish.to/e/5w8fkikw66km"},{"id":2,"url":"https://vidhidepro.com/v/xw0lx6pnhe7w","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"xw0lx6pnhe7w","player_url":"https://vidhidepro.com/v/xw0lx6pnhe7w"},{"id":3,"url":"https://voe.sx/e/zv9xaktuhcns","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"zv9xaktuhcns","player_url":"https://voe.sx/e/zv9xaktuhcns"},{"id":4,"url":"https://doodstream.com/e/8qrdq09auv9f","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"8qrdq09auv9f","player_url":"https://doodstream.com/e/8qrdq09auv9f"},{"id":5,"url":"https://streamwish.to/e/99tcqyehvgnp","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"99tcqyehvgnp","player_url":"https://streamwish.to/e/99tcqyehvgnp"},{"id":6,"url":"https://vidhidepro.com/v/nzsx4wmunrt2","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"nzsx4wmunrt2","player_url":"https://vidhidepro.com/v/nzsx4wmunrt2"},{"id":7,"url":"https://voe.sx/e/qvdiezrkbhmf","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"qvdiezrkbhmf","player_url":"https://voe.sx/e/qvdiezrkbhmf"},{"id":8,"url":"https://doodstream.com/e/bszi3pmk70mf","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"bszi3pmk70mf","player_url":"https://doodstream.com/e/bszi3pmk70mf"},{"id":9,"url":"https://streamwish.to/e/kxkwdetax1z5","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"kxkwdetax1z5","player_url":"https://streamwish.to/e/kxkwdetax1z5"},{"id":10,"url":"https://vidhidepro.com/v/mjpf0t0wencd","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"mjpf0t0wencd","player_url":"https://vidhidepro.com/v/mjpf0t0wencd"},{"id":11,"url":"https://voe.sx/e/bysvumjh1xuv","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"bysvumjh1xuv","player_url":"https://voe.sx/e/bysvumjh1xuv"},{"id":12,"url":"https://doodstream.com/e/w6gj9pm426uq","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"w6gj9pm426uq","player_url":"https://doodstream.com/e/w6gj9pm426uq"}]}
+{
+  "id": 1218762,
+  "titulo": "Un robo muy navideño",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/1DIgVqN9EhFJr9ogtA3Atzid6cV.jpg",
+  "release_date": "2025-11-25",
+  "genres": [
+    "romance"
+  ],
+  "rating": "6.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/x8gV0MUZVWkikNZElaBk13vW5f4.jpg",
+  "overview": "Dos trabajadores sin suerte se alían para robar una lujosa tienda departamental en Londres durante la Nochebuena, pero... robarse el corazón no está en los planes.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "un-robo-muy-navideno",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/5w8fkikw66km",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5w8fkikw66km",
+      "player_url": "https://streamwish.to/e/5w8fkikw66km"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/xw0lx6pnhe7w",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xw0lx6pnhe7w",
+      "player_url": "https://vidhidepro.com/v/xw0lx6pnhe7w"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/zv9xaktuhcns",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zv9xaktuhcns",
+      "player_url": "https://voe.sx/e/zv9xaktuhcns"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/8qrdq09auv9f",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "8qrdq09auv9f",
+      "player_url": "https://doodstream.com/e/8qrdq09auv9f"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/99tcqyehvgnp",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "99tcqyehvgnp",
+      "player_url": "https://streamwish.to/e/99tcqyehvgnp"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/nzsx4wmunrt2",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "nzsx4wmunrt2",
+      "player_url": "https://vidhidepro.com/v/nzsx4wmunrt2"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/qvdiezrkbhmf",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qvdiezrkbhmf",
+      "player_url": "https://voe.sx/e/qvdiezrkbhmf"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/bszi3pmk70mf",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "bszi3pmk70mf",
+      "player_url": "https://doodstream.com/e/bszi3pmk70mf"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/kxkwdetax1z5",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "kxkwdetax1z5",
+      "player_url": "https://streamwish.to/e/kxkwdetax1z5"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/mjpf0t0wencd",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mjpf0t0wencd",
+      "player_url": "https://vidhidepro.com/v/mjpf0t0wencd"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/bysvumjh1xuv",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "bysvumjh1xuv",
+      "player_url": "https://voe.sx/e/bysvumjh1xuv"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/w6gj9pm426uq",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "w6gj9pm426uq",
+      "player_url": "https://doodstream.com/e/w6gj9pm426uq"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/0h2sab3pioij",
+      "player_url": "https://minochinos.com/embed/0h2sab3pioij",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0h2sab3pioij"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/ouzn8nwaw40f",
+      "player_url": "https://hglink.to/e/ouzn8nwaw40f",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ouzn8nwaw40f"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/slt7npoqqhfm",
+      "player_url": "https://bysedikamoum.com/e/slt7npoqqhfm",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "slt7npoqqhfm"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/91dur0i8r7hn",
+      "player_url": "https://voe.sx/e/91dur0i8r7hn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "91dur0i8r7hn"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/91dur0i8r7hn/download",
+      "player_url": "https://voe.sx/91dur0i8r7hn/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/5nh3ogk2t1qz",
+      "player_url": "https://rapidvideo.link/e/5nh3ogk2t1qz",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5nh3ogk2t1qz"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/5hxfjvun10fw",
+      "player_url": "https://minochinos.com/embed/5hxfjvun10fw",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5hxfjvun10fw"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/suye0rki8hg0",
+      "player_url": "https://hglink.to/e/suye0rki8hg0",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "suye0rki8hg0"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/0cc9w16dpyy5",
+      "player_url": "https://bysedikamoum.com/e/0cc9w16dpyy5",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0cc9w16dpyy5"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/grvjyotlcimi",
+      "player_url": "https://voe.sx/e/grvjyotlcimi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "grvjyotlcimi"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/3fj65v70ky9l",
+      "player_url": "https://rapidvideo.link/e/3fj65v70ky9l",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3fj65v70ky9l"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/altv5jttstxg",
+      "player_url": "https://minochinos.com/embed/altv5jttstxg",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "altv5jttstxg"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/u0s82qbiu57v",
+      "player_url": "https://hglink.to/e/u0s82qbiu57v",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u0s82qbiu57v"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/41fdxegaxkkq",
+      "player_url": "https://bysedikamoum.com/e/41fdxegaxkkq",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "41fdxegaxkkq"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/ufc3cfjrr79d",
+      "player_url": "https://voe.sx/e/ufc3cfjrr79d",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ufc3cfjrr79d"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/ufc3cfjrr79d/download",
+      "player_url": "https://voe.sx/ufc3cfjrr79d/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/i1x9k6rwatv4",
+      "player_url": "https://rapidvideo.link/e/i1x9k6rwatv4",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "i1x9k6rwatv4"
+    }
+  ]
+}
