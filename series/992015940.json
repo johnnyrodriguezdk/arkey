@@ -13,7 +13,17 @@
   "slug": "el-lobista",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/n4y3vb3pimlz",
+      "player_url": "https://streamfort.online/e/n4y3vb3pimlz",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n4y3vb3pimlz"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
