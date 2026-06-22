@@ -1,0 +1,52 @@
+{
+  "id": 96869776,
+  "titulo": "Pretty Little Liars: Un Nuevo Pecado",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/88e8a96c7c5192b45e78d97a87641b7f.webp",
+  "release_date": "2022-01-01",
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Hace veinte años, una serie de trágicos eventos casi destrozaron a Millwood. Ahora, en la actualidad, un nuevo grupo de pequeñas mentirosas se ve atormentad",
+  "slug": "pretty-little-liars-un-nuevo-pecado",
+  "iframe_url": "https://lacloud.live/hf287d0fbefae3f7a8736b55aa33a9c1703a",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf287d0fbefae3f7a8736b55aa33a9c1703a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf287d0fbefae3f7a8736b55aa33a9c1703a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf287d0fbefae3f7a8736b55aa33a9c1703a"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/pretty-little-liars-un-nuevo-pecado?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://lacloud.live/public/stream/hf287d0fbefae3f7a8736b55aa33a9c1703a/master.m3u8",
+          "player_url": "https://lacloud.live/public/stream/hf287d0fbefae3f7a8736b55aa33a9c1703a/master.m3u8",
+          "nombre": "LaCloud",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "hf287d0fbefae3f7a8736b55aa33a9c1703a"
+        }
+      ]
+    }
+  ]
+}
