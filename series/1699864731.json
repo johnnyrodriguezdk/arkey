@@ -1,0 +1,35 @@
+{
+  "id": 1699864731,
+  "titulo": "The Madison",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/5596a1c3cefe922da3cfd3244c02133a.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "drama",
+    "western"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Tras una tragedia, una adinerada familia neoyorquina se traslada al idílico estado de Montana rural, explorando la conexión humana en medio de un profundo d",
+  "slug": "the-madison",
+  "iframe_url": "https://lacloud.live/90e1a41bdf00da2b",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/90e1a41bdf00da2b/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/90e1a41bdf00da2b/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "90e1a41bdf00da2b"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/the-madison?season=1&ep=1"
+    }
+  ]
+}
