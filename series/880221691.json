@@ -1,0 +1,36 @@
+{
+  "id": 880221691,
+  "titulo": "El arte de Sarah",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/3e5f370ac4b574fbf4c10f16d112919f.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "crimen",
+    "drama",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un cadáver en medio de la ciudad. Una marca de lujo en alza. Un detective que sigue de cerca cada giro en la cambiante historia de una mujer. ¿Qué sucedió r",
+  "slug": "el-arte-de-sarah",
+  "iframe_url": "https://lacloud.live/acf554c497a4ff01",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/acf554c497a4ff01/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/acf554c497a4ff01/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "acf554c497a4ff01"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/el-arte-de-sarah?season=1&ep=1"
+    }
+  ]
+}
