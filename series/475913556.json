@@ -1,0 +1,35 @@
+{
+  "id": 475913556,
+  "titulo": "JONAS",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/b4af620dcf393e73991770297343e60a.webp",
+  "release_date": "2009-01-01",
+  "genres": [
+    "comedia",
+    "familia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Los hermanos Lucas, unos chicos que han alcanzado fama internacional como cantantes del grupo Jonas, intentan que el éxito no afecte en absoluto a su vida p",
+  "slug": "jonas",
+  "iframe_url": "https://lacloud.live/a038940f3d358a92",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/a038940f3d358a92/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/a038940f3d358a92/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a038940f3d358a92"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/jonas?season=1&ep=1"
+    }
+  ]
+}
