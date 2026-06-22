@@ -3,7 +3,7 @@
   "titulo": "La casa de la playa",
   "titulo_orig": "",
   "poster": "https://image.tmdb.org/t/p/w300/4upmKALUO2LmypaofE9P5LwCTBc.jpg",
-  "release_date": "",
+  "release_date": "2026-01-01",
   "genres": [
     "Romance",
     "Familia",
@@ -12,7 +12,7 @@
   ],
   "rating": "10",
   "backdrop": "https://image.tmdb.org/t/p/original/4upmKALUO2LmypaofE9P5LwCTBc.jpg",
-  "overview": "",
+  "overview": "Selin, de 21 años, vuelve al verano de 1996 y se convierte en la mejor amiga de la versión joven de su madre. La ayuda a elegir a su padre en un triángulo a",
   "trailer": "",
   "runtime": "",
   "slug": "la-casa-de-la-playa-Iqj9IJ",
@@ -259,6 +259,15 @@
       "idioma": "subtitulado",
       "calidad": "HD",
       "embed_id": "suw0nlvk7o9c"
+    },
+    {
+      "id": 28,
+      "url": "https://lacloud.live/public/stream/f6212b727c21bc26/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/f6212b727c21bc26/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f6212b727c21bc26"
     }
   ]
 }
