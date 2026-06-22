@@ -1,1 +1,245 @@
-{"id":1064028,"titulo":"Alice","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/4S7Enfu0ZzOja8xMTIHKU2L0yLN.jpg","release_date":"2024-08-15","genres":[],"rating":"6.6","backdrop":"https://image.tmdb.org/t/p/original/co7oxvpWxgd6FZU24DnljDDHYQA.jpg","overview":"Con su mujer en el hospital, un padre en apuros compra una Inteligencia Artificial para ayudarle en las tareas de casa. Pero a medida que la robot se encariña de su nuevo dueño, los límites empiezan a cruzarse. Pronto ella se empeña en eliminar lo que percibe como la verdadera amenaza para su felicidad: su familia.","trailer":"","runtime":"105","slug":"subservience","servidores":[{"id":1,"url":"https://streamwish.to/e/b8kvr8r0dmq1","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"b8kvr8r0dmq1","player_url":"https://streamwish.to/e/b8kvr8r0dmq1"},{"id":2,"url":"https://bysejikuar.com/e/fwuk6gnyy5f3","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"fwuk6gnyy5f3","player_url":"https://bysejikuar.com/e/fwuk6gnyy5f3"},{"id":3,"url":"https://vidhidepro.com/v/chvehshi3dnp","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"chvehshi3dnp","player_url":"https://vidhidepro.com/v/chvehshi3dnp"},{"id":4,"url":"https://voe.sx/e/zdf81xtfl9ca","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"zdf81xtfl9ca","player_url":"https://voe.sx/e/zdf81xtfl9ca"},{"id":5,"url":"https://doodstream.com/e/q7kuhajjl8sh","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"q7kuhajjl8sh","player_url":"https://doodstream.com/e/q7kuhajjl8sh"},{"id":6,"url":"https://streamwish.to/e/jza2kocbogqx","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"jza2kocbogqx","player_url":"https://streamwish.to/e/jza2kocbogqx"},{"id":7,"url":"https://bysejikuar.com/e/0qnj5bpgu5ju","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"0qnj5bpgu5ju","player_url":"https://bysejikuar.com/e/0qnj5bpgu5ju"},{"id":8,"url":"https://vidhidepro.com/v/mcn4dcors6qe","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"mcn4dcors6qe","player_url":"https://vidhidepro.com/v/mcn4dcors6qe"},{"id":9,"url":"https://doodstream.com/e/s3husx52nqge","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"s3husx52nqge","player_url":"https://doodstream.com/e/s3husx52nqge"},{"id":10,"url":"https://streamwish.to/e/18xuo0u4rbsb","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"18xuo0u4rbsb","player_url":"https://streamwish.to/e/18xuo0u4rbsb"},{"id":11,"url":"https://vidhidepro.com/v/elzekvu7z18n","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"elzekvu7z18n","player_url":"https://vidhidepro.com/v/elzekvu7z18n"},{"id":12,"url":"https://voe.sx/e/0fxpgtqr50vt","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"0fxpgtqr50vt","player_url":"https://voe.sx/e/0fxpgtqr50vt"},{"id":13,"url":"https://doodstream.com/e/eboook5ew85h","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"eboook5ew85h","player_url":"https://doodstream.com/e/eboook5ew85h"}]}
+{
+  "id": 1064028,
+  "titulo": "Alice",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/4S7Enfu0ZzOja8xMTIHKU2L0yLN.jpg",
+  "release_date": "2024-08-15",
+  "genres": [
+    "Ciencia Ficción",
+    "Suspense",
+    "Terror"
+  ],
+  "rating": "6.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
+  "overview": "Con su mujer en el hospital, un padre en apuros compra una Inteligencia Artificial para ayudarle en las tareas de casa. Pero a medida que la robot se encariña de su nuevo dueño, los límites empiezan a cruzarse. Pronto ella se empeña en eliminar lo que percibe como la verdadera amenaza para su felicidad: su familia.",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "subservience",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/b8kvr8r0dmq1",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "b8kvr8r0dmq1",
+      "player_url": "https://streamwish.to/e/b8kvr8r0dmq1"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/fwuk6gnyy5f3",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "fwuk6gnyy5f3",
+      "player_url": "https://bysejikuar.com/e/fwuk6gnyy5f3"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/chvehshi3dnp",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "chvehshi3dnp",
+      "player_url": "https://vidhidepro.com/v/chvehshi3dnp"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/zdf81xtfl9ca",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zdf81xtfl9ca",
+      "player_url": "https://voe.sx/e/zdf81xtfl9ca"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/q7kuhajjl8sh",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "q7kuhajjl8sh",
+      "player_url": "https://doodstream.com/e/q7kuhajjl8sh"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/jza2kocbogqx",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "jza2kocbogqx",
+      "player_url": "https://streamwish.to/e/jza2kocbogqx"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/0qnj5bpgu5ju",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "0qnj5bpgu5ju",
+      "player_url": "https://bysejikuar.com/e/0qnj5bpgu5ju"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/mcn4dcors6qe",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mcn4dcors6qe",
+      "player_url": "https://vidhidepro.com/v/mcn4dcors6qe"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/s3husx52nqge",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "s3husx52nqge",
+      "player_url": "https://doodstream.com/e/s3husx52nqge"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/18xuo0u4rbsb",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "18xuo0u4rbsb",
+      "player_url": "https://streamwish.to/e/18xuo0u4rbsb"
+    },
+    {
+      "id": 11,
+      "url": "https://vidhidepro.com/v/elzekvu7z18n",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "elzekvu7z18n",
+      "player_url": "https://vidhidepro.com/v/elzekvu7z18n"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/0fxpgtqr50vt",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "0fxpgtqr50vt",
+      "player_url": "https://voe.sx/e/0fxpgtqr50vt"
+    },
+    {
+      "id": 13,
+      "url": "https://doodstream.com/e/eboook5ew85h",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "eboook5ew85h",
+      "player_url": "https://doodstream.com/e/eboook5ew85h"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/embed/ukhoojcmzg7y",
+      "player_url": "https://minochinos.com/embed/ukhoojcmzg7y",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ukhoojcmzg7y"
+    },
+    {
+      "id": 15,
+      "url": "https://hglink.to/e/0xovu79uu853",
+      "player_url": "https://hglink.to/e/0xovu79uu853",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0xovu79uu853"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/e/px9s1em43le8",
+      "player_url": "https://bysedikamoum.com/e/px9s1em43le8",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "px9s1em43le8"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/ly0adxvdovkz",
+      "player_url": "https://voe.sx/e/ly0adxvdovkz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ly0adxvdovkz"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/ly0adxvdovkz/download",
+      "player_url": "https://voe.sx/ly0adxvdovkz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/sjpf2o1xbl5y",
+      "player_url": "https://rapidvideo.link/e/sjpf2o1xbl5y",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sjpf2o1xbl5y"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/embed/04p7eq0r4ur8",
+      "player_url": "https://minochinos.com/embed/04p7eq0r4ur8",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "04p7eq0r4ur8"
+    },
+    {
+      "id": 21,
+      "url": "https://hglink.to/e/0hw90984g264",
+      "player_url": "https://hglink.to/e/0hw90984g264",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0hw90984g264"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/e/8j2mbv7e18x5",
+      "player_url": "https://bysedikamoum.com/e/8j2mbv7e18x5",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8j2mbv7e18x5"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/eqhqmph9yo9n",
+      "player_url": "https://voe.sx/e/eqhqmph9yo9n",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "eqhqmph9yo9n"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/eqhqmph9yo9n/download",
+      "player_url": "https://voe.sx/eqhqmph9yo9n/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 25,
+      "url": "https://rapidvideo.link/e/go9c7yvwlnj4",
+      "player_url": "https://rapidvideo.link/e/go9c7yvwlnj4",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "go9c7yvwlnj4"
+    }
+  ]
+}
