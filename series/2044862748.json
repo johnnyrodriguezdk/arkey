@@ -15,7 +15,17 @@
   "slug": "el-joven-sheldon",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf58799e6a2c7dc4a391579b880a27bea53a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf58799e6a2c7dc4a391579b880a27bea53a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf58799e6a2c7dc4a391579b880a27bea53a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
