@@ -14,7 +14,17 @@
   "slug": "mueca-rusa",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/ma5oyxk6rtvf",
+      "player_url": "https://dsvplay.com/e/ma5oyxk6rtvf",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ma5oyxk6rtvf"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
