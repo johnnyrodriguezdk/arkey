@@ -1,1 +1,261 @@
-{"id":1062722,"titulo":"Frankenstein","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg","release_date":"2025-10-17","genres":["drama"],"rating":"7.7","backdrop":"https://image.tmdb.org/t/p/original/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg","overview":"El Dr. Victor Frankenstein, un científico brillante pero egoísta, da vida a una criatura en un monstruoso experimento que finalmente conduce a la ruina tanto del creador como de su trágica creación.","trailer":"","runtime":"152","slug":"frankenstein","servidores":[{"id":1,"url":"https://streamwish.to/e/ggc8p8s856gb","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"ggc8p8s856gb","player_url":"https://streamwish.to/e/ggc8p8s856gb"},{"id":2,"url":"https://vidhidepro.com/v/mbojfeckhtlp","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"mbojfeckhtlp","player_url":"https://vidhidepro.com/v/mbojfeckhtlp"},{"id":3,"url":"https://voe.sx/e/0tqmqpa8pz6m","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"0tqmqpa8pz6m","player_url":"https://voe.sx/e/0tqmqpa8pz6m"},{"id":4,"url":"https://streamwish.to/e/fcsjupsk53f0","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"fcsjupsk53f0","player_url":"https://streamwish.to/e/fcsjupsk53f0"},{"id":5,"url":"https://vidhidepro.com/v/iwmv2531xa5q","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"iwmv2531xa5q","player_url":"https://vidhidepro.com/v/iwmv2531xa5q"},{"id":6,"url":"https://voe.sx/e/ugexhn7ryhil","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ugexhn7ryhil","player_url":"https://voe.sx/e/ugexhn7ryhil"},{"id":7,"url":"https://doodstream.com/e/gsej15y2bfrd","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"gsej15y2bfrd","player_url":"https://doodstream.com/e/gsej15y2bfrd"},{"id":8,"url":"https://streamwish.to/e/dueu2364xexy","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"dueu2364xexy","player_url":"https://streamwish.to/e/dueu2364xexy"},{"id":9,"url":"https://vidhidepro.com/v/ns9hc9wnhjn0","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"ns9hc9wnhjn0","player_url":"https://vidhidepro.com/v/ns9hc9wnhjn0"},{"id":10,"url":"https://voe.sx/e/6vsso4jxx7nz","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"6vsso4jxx7nz","player_url":"https://voe.sx/e/6vsso4jxx7nz"}]}
+{
+  "id": 1062722,
+  "titulo": "Frankenstein",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+  "release_date": "2025-10-17",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+  "overview": "El Dr. Victor Frankenstein, un científico brillante pero egoísta, le da vida a una criatura en un experimento monstruoso. Al final, eso termina destruyendo tanto al creador como a su pobre creación. También conocida como: Guillermo del Toros Frankenstein, Dr. Frankenstein, Frankenstein de Guillermo del Toro, Frankenstein : 2025.",
+  "trailer": "",
+  "runtime": "152",
+  "slug": "frankenstein",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/ggc8p8s856gb",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ggc8p8s856gb",
+      "player_url": "https://streamwish.to/e/ggc8p8s856gb"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/mbojfeckhtlp",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "mbojfeckhtlp",
+      "player_url": "https://vidhidepro.com/v/mbojfeckhtlp"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/0tqmqpa8pz6m",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "0tqmqpa8pz6m",
+      "player_url": "https://voe.sx/e/0tqmqpa8pz6m"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/fcsjupsk53f0",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "fcsjupsk53f0",
+      "player_url": "https://streamwish.to/e/fcsjupsk53f0"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/iwmv2531xa5q",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "iwmv2531xa5q",
+      "player_url": "https://vidhidepro.com/v/iwmv2531xa5q"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/ugexhn7ryhil",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ugexhn7ryhil",
+      "player_url": "https://voe.sx/e/ugexhn7ryhil"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/gsej15y2bfrd",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "gsej15y2bfrd",
+      "player_url": "https://doodstream.com/e/gsej15y2bfrd"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/dueu2364xexy",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "dueu2364xexy",
+      "player_url": "https://streamwish.to/e/dueu2364xexy"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/ns9hc9wnhjn0",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ns9hc9wnhjn0",
+      "player_url": "https://vidhidepro.com/v/ns9hc9wnhjn0"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/6vsso4jxx7nz",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "6vsso4jxx7nz",
+      "player_url": "https://voe.sx/e/6vsso4jxx7nz"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/lia6s0be6vuw",
+      "player_url": "https://minochinos.com/embed/lia6s0be6vuw",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lia6s0be6vuw"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/f4e8ly96q31y",
+      "player_url": "https://hglink.to/e/f4e8ly96q31y",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f4e8ly96q31y"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/rdx4m8g4b4lr",
+      "player_url": "https://bysedikamoum.com/e/rdx4m8g4b4lr",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rdx4m8g4b4lr"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/kmdnns7xn6z3",
+      "player_url": "https://voe.sx/e/kmdnns7xn6z3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kmdnns7xn6z3"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/kmdnns7xn6z3/download",
+      "player_url": "https://voe.sx/kmdnns7xn6z3/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/i2go5qufmxea",
+      "player_url": "https://rapidvideo.link/e/i2go5qufmxea",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i2go5qufmxea"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/e31iu59fue1q",
+      "player_url": "https://minochinos.com/embed/e31iu59fue1q",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "e31iu59fue1q"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/quk6cyfn14oh",
+      "player_url": "https://hglink.to/e/quk6cyfn14oh",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "quk6cyfn14oh"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/drq7mnk2nkef",
+      "player_url": "https://bysedikamoum.com/e/drq7mnk2nkef",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "drq7mnk2nkef"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/qrkjewf1how5",
+      "player_url": "https://voe.sx/e/qrkjewf1how5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qrkjewf1how5"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/fk5htpmqclsa",
+      "player_url": "https://rapidvideo.link/e/fk5htpmqclsa",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fk5htpmqclsa"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/2in7uy7fh3v0",
+      "player_url": "https://minochinos.com/embed/2in7uy7fh3v0",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2in7uy7fh3v0"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/fzd4kozz2zey",
+      "player_url": "https://hglink.to/e/fzd4kozz2zey",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fzd4kozz2zey"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/4a4p8c8y9fqv",
+      "player_url": "https://bysedikamoum.com/e/4a4p8c8y9fqv",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4a4p8c8y9fqv"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/4gou0g0rbl2e",
+      "player_url": "https://voe.sx/e/4gou0g0rbl2e",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4gou0g0rbl2e"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/4gou0g0rbl2e/download",
+      "player_url": "https://voe.sx/4gou0g0rbl2e/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/bm40yigpd173",
+      "player_url": "https://rapidvideo.link/e/bm40yigpd173",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bm40yigpd173"
+    }
+  ]
+}
