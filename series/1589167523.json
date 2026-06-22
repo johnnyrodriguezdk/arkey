@@ -1,0 +1,36 @@
+{
+  "id": 1589167523,
+  "titulo": "Prisoner",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/61b28560becdc2c79efd872fdbf12d03.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "crimen"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Amber Todd, una funcionaria de prisiones comprometida y con un gran sentido de la ética, tiene la misión de escoltar a Tibor al juzgado para que testifique ",
+  "slug": "prisoner",
+  "iframe_url": "https://lacloud.live/be1ac8253aa75154",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/be1ac8253aa75154/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/be1ac8253aa75154/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "be1ac8253aa75154"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/prisoner?season=1&ep=1"
+    }
+  ]
+}
