@@ -1,1 +1,262 @@
-{"id":999890,"titulo":"Sweethearts","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/890UDXYal6i8A9NbMV5TAxZpOzH.jpg","release_date":"2024-10-31","genres":[],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/us8T8e2bSkyORss8xanwCDZCZxG.jpg","overview":"Dos estudiantes universitarios de primer año que decidieron seguir con sus novios de la secundaria tienen que hacer lo contrario y romper con ellos durante el \"Drunksgiving\", la caótica noche antes del Día de Acción de Gracias en su ciudad natal que pone a prueba su amistad codependiente.","trailer":"","runtime":"98","slug":"sweethearts","servidores":[{"id":1,"url":"https://streamwish.to/e/6a45zpd4baoz","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"6a45zpd4baoz","player_url":"https://streamwish.to/e/6a45zpd4baoz"},{"id":2,"url":"https://vidhidepro.com/v/za3p98cqclu8","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"za3p98cqclu8","player_url":"https://vidhidepro.com/v/za3p98cqclu8"},{"id":3,"url":"https://voe.sx/e/qrjnoyohheei","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"qrjnoyohheei","player_url":"https://voe.sx/e/qrjnoyohheei"},{"id":4,"url":"https://doodstream.com/e/r54t5xt981bf","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"r54t5xt981bf","player_url":"https://doodstream.com/e/r54t5xt981bf"},{"id":5,"url":"https://streamwish.to/e/v8mbgn2e9e4w","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"v8mbgn2e9e4w","player_url":"https://streamwish.to/e/v8mbgn2e9e4w"},{"id":6,"url":"https://vidhidepro.com/v/cfo3xnazypqh","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"cfo3xnazypqh","player_url":"https://vidhidepro.com/v/cfo3xnazypqh"},{"id":7,"url":"https://voe.sx/e/kix0r0uhc2bw","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"kix0r0uhc2bw","player_url":"https://voe.sx/e/kix0r0uhc2bw"},{"id":8,"url":"https://doodstream.com/e/k2mqtmgcztw9","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"k2mqtmgcztw9","player_url":"https://doodstream.com/e/k2mqtmgcztw9"},{"id":9,"url":"https://streamwish.to/e/nw2js2pzky3s","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"nw2js2pzky3s","player_url":"https://streamwish.to/e/nw2js2pzky3s"},{"id":10,"url":"https://vidhidepro.com/v/tjmtam83ezud","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"tjmtam83ezud","player_url":"https://vidhidepro.com/v/tjmtam83ezud"}]}
+{
+  "id": 999890,
+  "titulo": "Sweethearts",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
+  "release_date": "2024-10-31",
+  "genres": [
+    "Romance",
+    "Comedia"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/us8T8e2bSkyORss8xanwCDZCZxG.jpg",
+  "overview": "Dos estudiantes universitarios de primer año que decidieron seguir con sus novios de la secundaria tienen que hacer lo contrario y romper con ellos durante el \"Drunksgiving\", la caótica noche antes del Día de Acción de Gracias en su ciudad natal que pone a prueba su amistad codependiente.",
+  "trailer": "",
+  "runtime": "98",
+  "slug": "sweethearts",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/6a45zpd4baoz",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "6a45zpd4baoz",
+      "player_url": "https://streamwish.to/e/6a45zpd4baoz"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/za3p98cqclu8",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "za3p98cqclu8",
+      "player_url": "https://vidhidepro.com/v/za3p98cqclu8"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/qrjnoyohheei",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "qrjnoyohheei",
+      "player_url": "https://voe.sx/e/qrjnoyohheei"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/r54t5xt981bf",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "r54t5xt981bf",
+      "player_url": "https://doodstream.com/e/r54t5xt981bf"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/v8mbgn2e9e4w",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "v8mbgn2e9e4w",
+      "player_url": "https://streamwish.to/e/v8mbgn2e9e4w"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/cfo3xnazypqh",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "cfo3xnazypqh",
+      "player_url": "https://vidhidepro.com/v/cfo3xnazypqh"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/kix0r0uhc2bw",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "kix0r0uhc2bw",
+      "player_url": "https://voe.sx/e/kix0r0uhc2bw"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/k2mqtmgcztw9",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "k2mqtmgcztw9",
+      "player_url": "https://doodstream.com/e/k2mqtmgcztw9"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/nw2js2pzky3s",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "nw2js2pzky3s",
+      "player_url": "https://streamwish.to/e/nw2js2pzky3s"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/tjmtam83ezud",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "tjmtam83ezud",
+      "player_url": "https://vidhidepro.com/v/tjmtam83ezud"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/b5frkkcs7f9v",
+      "player_url": "https://minochinos.com/embed/b5frkkcs7f9v",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b5frkkcs7f9v"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/tq9ukuq31536",
+      "player_url": "https://hglink.to/e/tq9ukuq31536",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tq9ukuq31536"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/3uhtuk9ei7jg",
+      "player_url": "https://bysedikamoum.com/e/3uhtuk9ei7jg",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3uhtuk9ei7jg"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/lbk7k5njv94a",
+      "player_url": "https://voe.sx/e/lbk7k5njv94a",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lbk7k5njv94a"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/lbk7k5njv94a/download",
+      "player_url": "https://voe.sx/lbk7k5njv94a/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/jlmw2ort4qd3",
+      "player_url": "https://rapidvideo.link/e/jlmw2ort4qd3",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jlmw2ort4qd3"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/48iw809cbhnt",
+      "player_url": "https://minochinos.com/embed/48iw809cbhnt",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "48iw809cbhnt"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/a0asw6070hqi",
+      "player_url": "https://hglink.to/e/a0asw6070hqi",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a0asw6070hqi"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/hg4fopkmyc6l",
+      "player_url": "https://bysedikamoum.com/e/hg4fopkmyc6l",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hg4fopkmyc6l"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/ceurneqh0wzd",
+      "player_url": "https://voe.sx/e/ceurneqh0wzd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ceurneqh0wzd"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/cus87mry3h0w",
+      "player_url": "https://rapidvideo.link/e/cus87mry3h0w",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cus87mry3h0w"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/ii80jx1rjjmj",
+      "player_url": "https://minochinos.com/embed/ii80jx1rjjmj",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ii80jx1rjjmj"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/dugpsie9gb34",
+      "player_url": "https://hglink.to/e/dugpsie9gb34",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dugpsie9gb34"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/1oa6vccom7my",
+      "player_url": "https://bysedikamoum.com/e/1oa6vccom7my",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1oa6vccom7my"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/7aq2i1qnrk2z",
+      "player_url": "https://voe.sx/e/7aq2i1qnrk2z",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7aq2i1qnrk2z"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/7aq2i1qnrk2z/download",
+      "player_url": "https://voe.sx/7aq2i1qnrk2z/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/rtpa6e3cuos1",
+      "player_url": "https://rapidvideo.link/e/rtpa6e3cuos1",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rtpa6e3cuos1"
+    }
+  ]
+}
