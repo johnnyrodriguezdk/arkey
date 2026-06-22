@@ -14,7 +14,17 @@
   "slug": "ciudad-en-llamas",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfce2676788d4c82a80a3839f1d7ed859f3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfce2676788d4c82a80a3839f1d7ed859f3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfce2676788d4c82a80a3839f1d7ed859f3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
