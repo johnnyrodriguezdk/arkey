@@ -1,1 +1,135 @@
-{"id":1356670,"titulo":"Heldin","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/kYwSkGqid9EtF36E2bfPTnH0IS2.jpg","release_date":"2025-02-27","genres":["drama"],"rating":"7.8","backdrop":"https://image.tmdb.org/t/p/original/egNz2a18eQ9ycBfQQkQehSTeNwH.jpg","overview":"Floria es una enfermera que trabaja con gran dedicación y profesionalidad en el ala quirúrgica de un hospital suizo. Nunca comete un error, siempre escucha a sus pacientes incluso en las situaciones más estresantes y siempre está disponible de inmediato en caso de emergencia. Pero en la dura, y muchas veces impredecible, realidad diaria del hospital las cosas pueden ser diferentes. Un día, Floria llega para trabajar en el turno de noche, la sala de urgencias está completamente llena y hay falta de personal. A pesar del ritmo frenético, Floria trabaja incansable para atender a todos los pacientes pero comete un desastroso error y el turno amenaza con desbaratarse por completo. Comienza una angustiosa carrera contrarreloj.","trailer":"","runtime":"92","slug":"heldin","servidores":[{"id":1,"url":"https://streamwish.to/e/lw0kpskz3j1k","idioma":"latino","nombre":"Streamwish","calidad":"SCR","embed_id":"lw0kpskz3j1k","player_url":"https://streamwish.to/e/lw0kpskz3j1k"},{"id":2,"url":"https://vidhidepro.com/v/9fom9yq45ons","idioma":"latino","nombre":"Vidhide","calidad":"SCR","embed_id":"9fom9yq45ons","player_url":"https://vidhidepro.com/v/9fom9yq45ons"},{"id":3,"url":"https://voe.sx/e/h8ehf1z2yfpz","idioma":"latino","nombre":"Voesx","calidad":"SCR","embed_id":"h8ehf1z2yfpz","player_url":"https://voe.sx/e/h8ehf1z2yfpz"},{"id":4,"url":"https://doodstream.com/e/dfq4rc4liuvw","idioma":"latino","nombre":"Doodstream","calidad":"SCR","embed_id":"dfq4rc4liuvw","player_url":"https://doodstream.com/e/dfq4rc4liuvw"},{"id":5,"url":"https://vimeos.net/embed-t9ocv2pny3pn.html","idioma":"Latino","nombre":"Vimeos Recomendado","calidad":"HD","embed_id":"embed-t9ocv2pny3pn.html","player_url":"https://vimeos.net/embed-t9ocv2pny3pn.html"},{"id":6,"url":"https://voe.sx/e/gmj1x5lct33b","idioma":"Latino","nombre":"Voe","calidad":"HD","embed_id":"gmj1x5lct33b","player_url":"https://voe.sx/e/gmj1x5lct33b"},{"id":7,"url":"https://goodstream.one/embed-jzwp1vbdskeu.html","idioma":"Latino","nombre":"Goodstream","calidad":"HD","embed_id":"embed-jzwp1vbdskeu.html","player_url":"https://goodstream.one/embed-jzwp1vbdskeu.html"},{"id":8,"url":"https://hlswish.com/e/o86trky4733o","idioma":"Latino","nombre":"Hlswish","calidad":"HD","embed_id":"o86trky4733o","player_url":"https://hlswish.com/e/o86trky4733o"},{"id":9,"url":"https://vimeos.net/embed-t9ocv2pny3pn.html","idioma":"Latino","nombre":"Vimeos","calidad":"WEBRip","embed_id":"embed-t9ocv2pny3pn.html","player_url":"https://vimeos.net/embed-t9ocv2pny3pn.html"},{"id":10,"url":"https://goodstream.one/embed-jzwp1vbdskeu.html","idioma":"Latino","nombre":"Goodstream","calidad":"WEBRip","embed_id":"embed-jzwp1vbdskeu.html","player_url":"https://goodstream.one/embed-jzwp1vbdskeu.html"},{"id":11,"url":"https://hlswish.com/e/o86trky4733o","idioma":"Latino","nombre":"Hlswish","calidad":"WEBRip","embed_id":"o86trky4733o","player_url":"https://hlswish.com/e/o86trky4733o"},{"id":12,"url":"https://voe.sx/e/gmj1x5lct33b","idioma":"Latino","nombre":"Voe","calidad":"WEBRip","embed_id":"gmj1x5lct33b","player_url":"https://voe.sx/e/gmj1x5lct33b"}]}
+{
+  "id": 1356670,
+  "titulo": "Heldin",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/kYwSkGqid9EtF36E2bfPTnH0IS2.jpg",
+  "release_date": "2025-02-27",
+  "genres": [
+    "drama"
+  ],
+  "rating": "7.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/egNz2a18eQ9ycBfQQkQehSTeNwH.jpg",
+  "overview": "Floria es una enfermera que trabaja con gran dedicación y profesionalidad en el ala quirúrgica de un hospital suizo. Nunca comete un error, siempre escucha a sus pacientes incluso en las situaciones más estresantes y siempre está disponible de inmediato en caso de emergencia. Pero en la dura, y muchas veces impredecible, realidad diaria del hospital las cosas pueden ser diferentes. Un día, Floria llega para trabajar en el turno de noche, la sala de urgencias está completamente llena y hay falta de personal. A pesar del ritmo frenético, Floria trabaja incansable para atender a todos los pacientes pero comete un desastroso error y el turno amenaza con desbaratarse por completo. Comienza una angustiosa carrera contrarreloj.",
+  "trailer": "",
+  "runtime": "92",
+  "slug": "heldin",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/lw0kpskz3j1k",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "SCR",
+      "embed_id": "lw0kpskz3j1k",
+      "player_url": "https://streamwish.to/e/lw0kpskz3j1k"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/9fom9yq45ons",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "SCR",
+      "embed_id": "9fom9yq45ons",
+      "player_url": "https://vidhidepro.com/v/9fom9yq45ons"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/h8ehf1z2yfpz",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "SCR",
+      "embed_id": "h8ehf1z2yfpz",
+      "player_url": "https://voe.sx/e/h8ehf1z2yfpz"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/dfq4rc4liuvw",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "SCR",
+      "embed_id": "dfq4rc4liuvw",
+      "player_url": "https://doodstream.com/e/dfq4rc4liuvw"
+    },
+    {
+      "id": 5,
+      "url": "https://vimeos.net/embed-t9ocv2pny3pn.html",
+      "idioma": "Latino",
+      "nombre": "Vimeos Recomendado",
+      "calidad": "HD",
+      "embed_id": "embed-t9ocv2pny3pn.html",
+      "player_url": "https://vimeos.net/embed-t9ocv2pny3pn.html"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/gmj1x5lct33b",
+      "idioma": "Latino",
+      "nombre": "Voe",
+      "calidad": "HD",
+      "embed_id": "gmj1x5lct33b",
+      "player_url": "https://voe.sx/e/gmj1x5lct33b"
+    },
+    {
+      "id": 7,
+      "url": "https://goodstream.one/embed-jzwp1vbdskeu.html",
+      "idioma": "Latino",
+      "nombre": "Goodstream",
+      "calidad": "HD",
+      "embed_id": "embed-jzwp1vbdskeu.html",
+      "player_url": "https://goodstream.one/embed-jzwp1vbdskeu.html"
+    },
+    {
+      "id": 8,
+      "url": "https://hlswish.com/e/o86trky4733o",
+      "idioma": "Latino",
+      "nombre": "Hlswish",
+      "calidad": "HD",
+      "embed_id": "o86trky4733o",
+      "player_url": "https://hlswish.com/e/o86trky4733o"
+    },
+    {
+      "id": 9,
+      "url": "https://vimeos.net/embed-t9ocv2pny3pn.html",
+      "idioma": "Latino",
+      "nombre": "Vimeos",
+      "calidad": "WEBRip",
+      "embed_id": "embed-t9ocv2pny3pn.html",
+      "player_url": "https://vimeos.net/embed-t9ocv2pny3pn.html"
+    },
+    {
+      "id": 10,
+      "url": "https://goodstream.one/embed-jzwp1vbdskeu.html",
+      "idioma": "Latino",
+      "nombre": "Goodstream",
+      "calidad": "WEBRip",
+      "embed_id": "embed-jzwp1vbdskeu.html",
+      "player_url": "https://goodstream.one/embed-jzwp1vbdskeu.html"
+    },
+    {
+      "id": 11,
+      "url": "https://hlswish.com/e/o86trky4733o",
+      "idioma": "Latino",
+      "nombre": "Hlswish",
+      "calidad": "WEBRip",
+      "embed_id": "o86trky4733o",
+      "player_url": "https://hlswish.com/e/o86trky4733o"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/gmj1x5lct33b",
+      "idioma": "Latino",
+      "nombre": "Voe",
+      "calidad": "WEBRip",
+      "embed_id": "gmj1x5lct33b",
+      "player_url": "https://voe.sx/e/gmj1x5lct33b"
+    },
+    {
+      "id": 13,
+      "url": "https://lacloud.live/public/stream/dc63587dcf0d8ee0/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/dc63587dcf0d8ee0/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dc63587dcf0d8ee0"
+    }
+  ]
+}
