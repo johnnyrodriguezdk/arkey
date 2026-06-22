@@ -1,1 +1,228 @@
-{"id":1091181,"titulo":"Los hombres lobo","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/pfSiYANe9z4Xot8DBYDjEFxr1PS.jpg","release_date":"2024-10-22","genres":[],"rating":"5.6","backdrop":"https://image.tmdb.org/t/p/original/pFLs2qFhfp7k2zgT69fTkcl0uHF.jpg","overview":"Cuando un antiguo juego de cartas irrumpe en el mundo real, una familia viaja en el tiempo a una aldea medieval, donde deben desenmascarar hombres lobo para volver a casa.","trailer":"","runtime":"95","slug":"los-hombres-lobo","servidores":[{"id":1,"url":"https://streamwish.to/e/7oc6i7fafiqu","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"7oc6i7fafiqu","player_url":"https://streamwish.to/e/7oc6i7fafiqu"},{"id":2,"url":"https://vidhidepro.com/v/z8b3z1s2qcxw","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"z8b3z1s2qcxw","player_url":"https://vidhidepro.com/v/z8b3z1s2qcxw"},{"id":3,"url":"https://voe.sx/e/ekjzbwhqelv4","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ekjzbwhqelv4","player_url":"https://voe.sx/e/ekjzbwhqelv4"},{"id":4,"url":"https://doodstream.com/e/3zety496gwio","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"3zety496gwio","player_url":"https://doodstream.com/e/3zety496gwio"},{"id":5,"url":"https://streamwish.to/e/8kmyta8tpx1k","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"8kmyta8tpx1k","player_url":"https://streamwish.to/e/8kmyta8tpx1k"},{"id":6,"url":"https://vidhidepro.com/v/jeo4449yhez6","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"jeo4449yhez6","player_url":"https://vidhidepro.com/v/jeo4449yhez6"},{"id":7,"url":"https://doodstream.com/e/net7xnaqhl9t","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"net7xnaqhl9t","player_url":"https://doodstream.com/e/net7xnaqhl9t"},{"id":8,"url":"https://streamwish.to/e/15o3wux3vwv1","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"15o3wux3vwv1","player_url":"https://streamwish.to/e/15o3wux3vwv1"},{"id":9,"url":"https://vidhidepro.com/v/b64orzq1fpoy","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"b64orzq1fpoy","player_url":"https://vidhidepro.com/v/b64orzq1fpoy"},{"id":10,"url":"https://voe.sx/e/acdbjlj0aoy3","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"acdbjlj0aoy3","player_url":"https://voe.sx/e/acdbjlj0aoy3"},{"id":11,"url":"https://doodstream.com/e/12muqija0y13","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"12muqija0y13","player_url":"https://doodstream.com/e/12muqija0y13"}]}
+{
+  "id": 1091181,
+  "titulo": "Los hombres lobo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/pfSiYANe9z4Xot8DBYDjEFxr1PS.jpg",
+  "release_date": "2024-10-22",
+  "genres": [
+    "Aventura",
+    "Comedia",
+    "Fantasía",
+    "Acción"
+  ],
+  "rating": "5.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/pFLs2qFhfp7k2zgT69fTkcl0uHF.jpg",
+  "overview": "Cuando un antiguo juego de cartas irrumpe en el mundo real, una familia viaja en el tiempo a una aldea medieval, donde deben desenmascarar hombres lobo para volver a casa.",
+  "trailer": "",
+  "runtime": "95",
+  "slug": "los-hombres-lobo",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/7oc6i7fafiqu",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7oc6i7fafiqu",
+      "player_url": "https://streamwish.to/e/7oc6i7fafiqu"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/z8b3z1s2qcxw",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "z8b3z1s2qcxw",
+      "player_url": "https://vidhidepro.com/v/z8b3z1s2qcxw"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/ekjzbwhqelv4",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ekjzbwhqelv4",
+      "player_url": "https://voe.sx/e/ekjzbwhqelv4"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/3zety496gwio",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "3zety496gwio",
+      "player_url": "https://doodstream.com/e/3zety496gwio"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/8kmyta8tpx1k",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "8kmyta8tpx1k",
+      "player_url": "https://streamwish.to/e/8kmyta8tpx1k"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/jeo4449yhez6",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jeo4449yhez6",
+      "player_url": "https://vidhidepro.com/v/jeo4449yhez6"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/net7xnaqhl9t",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "net7xnaqhl9t",
+      "player_url": "https://doodstream.com/e/net7xnaqhl9t"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/15o3wux3vwv1",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "15o3wux3vwv1",
+      "player_url": "https://streamwish.to/e/15o3wux3vwv1"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/b64orzq1fpoy",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "b64orzq1fpoy",
+      "player_url": "https://vidhidepro.com/v/b64orzq1fpoy"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/acdbjlj0aoy3",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "acdbjlj0aoy3",
+      "player_url": "https://voe.sx/e/acdbjlj0aoy3"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/12muqija0y13",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "12muqija0y13",
+      "player_url": "https://doodstream.com/e/12muqija0y13"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/01lm7pmqjqq5",
+      "player_url": "https://minochinos.com/embed/01lm7pmqjqq5",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "01lm7pmqjqq5"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/0ri3dnzjkaym",
+      "player_url": "https://hglink.to/e/0ri3dnzjkaym",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0ri3dnzjkaym"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/acawrnau71dd",
+      "player_url": "https://bysedikamoum.com/e/acawrnau71dd",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "acawrnau71dd"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/qbwmsttptgki",
+      "player_url": "https://voe.sx/e/qbwmsttptgki",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qbwmsttptgki"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/qbwmsttptgki/download",
+      "player_url": "https://voe.sx/qbwmsttptgki/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/3beo6fka2vr1",
+      "player_url": "https://rapidvideo.link/e/3beo6fka2vr1",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3beo6fka2vr1"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/59la2q1wdm0d",
+      "player_url": "https://minochinos.com/embed/59la2q1wdm0d",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "59la2q1wdm0d"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/5gcfqwd5cuxz",
+      "player_url": "https://hglink.to/e/5gcfqwd5cuxz",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5gcfqwd5cuxz"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/iuxhf89t73xz",
+      "player_url": "https://bysedikamoum.com/e/iuxhf89t73xz",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "iuxhf89t73xz"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/sx11zr12qfwi",
+      "player_url": "https://voe.sx/e/sx11zr12qfwi",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sx11zr12qfwi"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/sx11zr12qfwi/download",
+      "player_url": "https://voe.sx/sx11zr12qfwi/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/cv7j6102mplk",
+      "player_url": "https://rapidvideo.link/e/cv7j6102mplk",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cv7j6102mplk"
+    }
+  ]
+}
