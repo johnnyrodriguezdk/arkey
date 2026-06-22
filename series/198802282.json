@@ -1,0 +1,36 @@
+{
+  "id": 198802282,
+  "titulo": "Unfamiliar",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/d1dc3835945431feade7f56194520559.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "El pasado de dos exespías toca a su puerta. Ahora, lo más difícil no son las persecuciones, los tiroteos ni las peleas, sino decirse la verdad.",
+  "slug": "unfamiliar",
+  "iframe_url": "https://lacloud.live/f594058f85de5fb4",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/f594058f85de5fb4/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/f594058f85de5fb4/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f594058f85de5fb4"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/unfamiliar?season=1&ep=1"
+    }
+  ]
+}
