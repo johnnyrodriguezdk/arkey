@@ -14,7 +14,17 @@
   "slug": "definitivamente-no-me-gusta-mi-hermano-para-nada",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf56a22cbc28847a5a4a0bdb3af433ffd73a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf56a22cbc28847a5a4a0bdb3af433ffd73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf56a22cbc28847a5a4a0bdb3af433ffd73a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
