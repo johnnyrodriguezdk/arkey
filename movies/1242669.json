@@ -1,1 +1,198 @@
-{"id":1242669,"titulo":"Mr. K","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg","release_date":"2025-01-16","genres":["drama"],"rating":"6.3","backdrop":"https://image.tmdb.org/t/p/original/n8Vh6cdEvn8XtnmoEeqzomv6SYJ.jpg","overview":"Después de pasar la noche en un hotel remoto, el Sr. K se ve atrapado en una pesadilla claustrofóbica cuando descubre que no puede salir del edificio.","trailer":"","runtime":"96","slug":"mr-k","servidores":[{"id":1,"url":"https://streamwish.to/e/e6sydxtjdkpm","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"e6sydxtjdkpm","player_url":"https://streamwish.to/e/e6sydxtjdkpm"},{"id":2,"url":"https://vidhidepro.com/v/xfs43vu4oony","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"xfs43vu4oony","player_url":"https://vidhidepro.com/v/xfs43vu4oony"},{"id":3,"url":"https://voe.sx/e/iuguzw9ryqtg","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"iuguzw9ryqtg","player_url":"https://voe.sx/e/iuguzw9ryqtg"},{"id":4,"url":"https://doodstream.com/e/igiamfravtam","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"igiamfravtam","player_url":"https://doodstream.com/e/igiamfravtam"},{"id":5,"url":"https://streamwish.to/e/27lsglf3wx3z","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"27lsglf3wx3z","player_url":"https://streamwish.to/e/27lsglf3wx3z"},{"id":6,"url":"https://vidhidepro.com/v/dn4hafnkbqew","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"dn4hafnkbqew","player_url":"https://vidhidepro.com/v/dn4hafnkbqew"},{"id":7,"url":"https://voe.sx/e/0t48y2akwi0e","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"0t48y2akwi0e","player_url":"https://voe.sx/e/0t48y2akwi0e"},{"id":8,"url":"https://doodstream.com/e/v8tunwem0aod","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"v8tunwem0aod","player_url":"https://doodstream.com/e/v8tunwem0aod"}]}
+{
+  "id": 1242669,
+  "titulo": "Mr. K",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg",
+  "release_date": "2025-01-16",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/n8Vh6cdEvn8XtnmoEeqzomv6SYJ.jpg",
+  "overview": "Después de pasar la noche en un hotel remoto, el Sr. K se ve atrapado en una pesadilla claustrofóbica cuando descubre que no puede salir del edificio.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "mr-k",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/e6sydxtjdkpm",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "e6sydxtjdkpm",
+      "player_url": "https://streamwish.to/e/e6sydxtjdkpm"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/xfs43vu4oony",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xfs43vu4oony",
+      "player_url": "https://vidhidepro.com/v/xfs43vu4oony"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/iuguzw9ryqtg",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "iuguzw9ryqtg",
+      "player_url": "https://voe.sx/e/iuguzw9ryqtg"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/igiamfravtam",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "igiamfravtam",
+      "player_url": "https://doodstream.com/e/igiamfravtam"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/27lsglf3wx3z",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "27lsglf3wx3z",
+      "player_url": "https://streamwish.to/e/27lsglf3wx3z"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/dn4hafnkbqew",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "dn4hafnkbqew",
+      "player_url": "https://vidhidepro.com/v/dn4hafnkbqew"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/0t48y2akwi0e",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "0t48y2akwi0e",
+      "player_url": "https://voe.sx/e/0t48y2akwi0e"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/v8tunwem0aod",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "v8tunwem0aod",
+      "player_url": "https://doodstream.com/e/v8tunwem0aod"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/7ie8vo1pjzpg",
+      "player_url": "https://minochinos.com/embed/7ie8vo1pjzpg",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7ie8vo1pjzpg"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/w071mip9vv4s",
+      "player_url": "https://hglink.to/e/w071mip9vv4s",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w071mip9vv4s"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/51l4ja3q1m2q",
+      "player_url": "https://bysedikamoum.com/e/51l4ja3q1m2q",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "51l4ja3q1m2q"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/ha3laieilvn7",
+      "player_url": "https://voe.sx/e/ha3laieilvn7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ha3laieilvn7"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/ha3laieilvn7/download",
+      "player_url": "https://voe.sx/ha3laieilvn7/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/ph0tkje6ou2b",
+      "player_url": "https://rapidvideo.link/e/ph0tkje6ou2b",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ph0tkje6ou2b"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/m8ggqrc414ss",
+      "player_url": "https://minochinos.com/embed/m8ggqrc414ss",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "m8ggqrc414ss"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/9svoafwmpa2j",
+      "player_url": "https://hglink.to/e/9svoafwmpa2j",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9svoafwmpa2j"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/oa3nhyro4jvk",
+      "player_url": "https://bysedikamoum.com/e/oa3nhyro4jvk",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "oa3nhyro4jvk"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/fjhypggrd2gb",
+      "player_url": "https://voe.sx/e/fjhypggrd2gb",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fjhypggrd2gb"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/fjhypggrd2gb/download",
+      "player_url": "https://voe.sx/fjhypggrd2gb/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/gt6oe1p72804",
+      "player_url": "https://rapidvideo.link/e/gt6oe1p72804",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gt6oe1p72804"
+    }
+  ]
+}
