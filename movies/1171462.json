@@ -1,1 +1,272 @@
-{"id":1171462,"titulo":"Golden Kamuy","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/5JpHgoFV7ZLr5jqVKhFdovreppG.jpg","release_date":"2024-01-19","genres":[],"rating":"6.9","backdrop":"https://image.tmdb.org/t/p/original/zU79dkIicO6nipT5Ypr1RmWbZN2.jpg","overview":"En la frontera de Hokkaidō, un veterano de guerra y una chica de la tribu ainu compiten contra marginales y militares para encontrar un tesoro cuyo mapa está tatuado en prófugos.","trailer":"","runtime":"129","slug":"golden-kamuy","servidores":[{"id":1,"url":"https://streamwish.to/e/8ohopxod9fnk","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"8ohopxod9fnk","player_url":"https://streamwish.to/e/8ohopxod9fnk"},{"id":2,"url":"https://bysejikuar.com/e/k3id2vyg04lu","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"k3id2vyg04lu","player_url":"https://bysejikuar.com/e/k3id2vyg04lu"},{"id":3,"url":"https://voe.sx/e/rwsn9hpu8p1g","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"rwsn9hpu8p1g","player_url":"https://voe.sx/e/rwsn9hpu8p1g"},{"id":4,"url":"https://doodstream.com/e/u3o2axj9uroe","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"u3o2axj9uroe","player_url":"https://doodstream.com/e/u3o2axj9uroe"},{"id":5,"url":"https://streamwish.to/e/lmg2mdvr7w88","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"lmg2mdvr7w88","player_url":"https://streamwish.to/e/lmg2mdvr7w88"},{"id":6,"url":"https://bysejikuar.com/e/sv5v7hpuoicr","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"sv5v7hpuoicr","player_url":"https://bysejikuar.com/e/sv5v7hpuoicr"},{"id":7,"url":"https://voe.sx/e/zyujkbwm0jnj","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"zyujkbwm0jnj","player_url":"https://voe.sx/e/zyujkbwm0jnj"},{"id":8,"url":"https://doodstream.com/e/023d8ipqen6i","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"023d8ipqen6i","player_url":"https://doodstream.com/e/023d8ipqen6i"},{"id":9,"url":"https://streamwish.to/e/hful3dgol9oz","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"hful3dgol9oz","player_url":"https://streamwish.to/e/hful3dgol9oz"},{"id":10,"url":"https://vidhidepro.com/v/rehu6ped4335","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"rehu6ped4335","player_url":"https://vidhidepro.com/v/rehu6ped4335"},{"id":11,"url":"https://doodstream.com/e/csw3vgyai5cs","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"csw3vgyai5cs","player_url":"https://doodstream.com/e/csw3vgyai5cs"}]}
+{
+  "id": 1171462,
+  "titulo": "Golden Kamuy",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/5JpHgoFV7ZLr5jqVKhFdovreppG.jpg",
+  "release_date": "2024-01-19",
+  "genres": [
+    "Acción",
+    "Aventura",
+    "Comedia"
+  ],
+  "rating": "6.9",
+  "backdrop": "https://image.tmdb.org/t/p/original/zU79dkIicO6nipT5Ypr1RmWbZN2.jpg",
+  "overview": "En la frontera de Hokkaidō, un veterano de guerra y una chica de la tribu ainu compiten contra marginales y militares para encontrar un tesoro cuyo mapa está tatuado en prófugos.",
+  "trailer": "",
+  "runtime": "129",
+  "slug": "golden-kamuy",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/8ohopxod9fnk",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "8ohopxod9fnk",
+      "player_url": "https://streamwish.to/e/8ohopxod9fnk"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/k3id2vyg04lu",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "k3id2vyg04lu",
+      "player_url": "https://bysejikuar.com/e/k3id2vyg04lu"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/rwsn9hpu8p1g",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rwsn9hpu8p1g",
+      "player_url": "https://voe.sx/e/rwsn9hpu8p1g"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/u3o2axj9uroe",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "u3o2axj9uroe",
+      "player_url": "https://doodstream.com/e/u3o2axj9uroe"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/lmg2mdvr7w88",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lmg2mdvr7w88",
+      "player_url": "https://streamwish.to/e/lmg2mdvr7w88"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/sv5v7hpuoicr",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "sv5v7hpuoicr",
+      "player_url": "https://bysejikuar.com/e/sv5v7hpuoicr"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/zyujkbwm0jnj",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zyujkbwm0jnj",
+      "player_url": "https://voe.sx/e/zyujkbwm0jnj"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/023d8ipqen6i",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "023d8ipqen6i",
+      "player_url": "https://doodstream.com/e/023d8ipqen6i"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/hful3dgol9oz",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hful3dgol9oz",
+      "player_url": "https://streamwish.to/e/hful3dgol9oz"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/rehu6ped4335",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "rehu6ped4335",
+      "player_url": "https://vidhidepro.com/v/rehu6ped4335"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/csw3vgyai5cs",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "csw3vgyai5cs",
+      "player_url": "https://doodstream.com/e/csw3vgyai5cs"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/embed/z9zrnq41w492",
+      "player_url": "https://minochinos.com/embed/z9zrnq41w492",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z9zrnq41w492"
+    },
+    {
+      "id": 13,
+      "url": "https://hglink.to/e/jbyq3j9049y3",
+      "player_url": "https://hglink.to/e/jbyq3j9049y3",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jbyq3j9049y3"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/e/sku7qaywhlrt",
+      "player_url": "https://bysedikamoum.com/e/sku7qaywhlrt",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sku7qaywhlrt"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/5caklcfuo3pd",
+      "player_url": "https://voe.sx/e/5caklcfuo3pd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5caklcfuo3pd"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/5caklcfuo3pd/download",
+      "player_url": "https://voe.sx/5caklcfuo3pd/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/8h4p35mdcig9",
+      "player_url": "https://rapidvideo.link/e/8h4p35mdcig9",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8h4p35mdcig9"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/embed/vdxai8k7rkpw",
+      "player_url": "https://minochinos.com/embed/vdxai8k7rkpw",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vdxai8k7rkpw"
+    },
+    {
+      "id": 19,
+      "url": "https://hglink.to/e/7q8dkap6hujb",
+      "player_url": "https://hglink.to/e/7q8dkap6hujb",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7q8dkap6hujb"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/e/a1hb6t0k54qg",
+      "player_url": "https://bysedikamoum.com/e/a1hb6t0k54qg",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a1hb6t0k54qg"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/bmgowr0jbqw3",
+      "player_url": "https://voe.sx/e/bmgowr0jbqw3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bmgowr0jbqw3"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/sd80e6ch1p5g",
+      "player_url": "https://rapidvideo.link/e/sd80e6ch1p5g",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sd80e6ch1p5g"
+    },
+    {
+      "id": 23,
+      "url": "https://minochinos.com/embed/bsj5qly69e0s",
+      "player_url": "https://minochinos.com/embed/bsj5qly69e0s",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bsj5qly69e0s"
+    },
+    {
+      "id": 24,
+      "url": "https://hglink.to/e/rr1nc4hg8mv8",
+      "player_url": "https://hglink.to/e/rr1nc4hg8mv8",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "rr1nc4hg8mv8"
+    },
+    {
+      "id": 25,
+      "url": "https://bysedikamoum.com/e/u7h4vq16i5ro",
+      "player_url": "https://bysedikamoum.com/e/u7h4vq16i5ro",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "u7h4vq16i5ro"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/e/p4jzmpeb9dzm",
+      "player_url": "https://voe.sx/e/p4jzmpeb9dzm",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "p4jzmpeb9dzm"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/p4jzmpeb9dzm/download",
+      "player_url": "https://voe.sx/p4jzmpeb9dzm/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 28,
+      "url": "https://rapidvideo.link/e/sum7xtr0vid1",
+      "player_url": "https://rapidvideo.link/e/sum7xtr0vid1",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "sum7xtr0vid1"
+    }
+  ]
+}
