@@ -14,7 +14,17 @@
   "slug": "amor-y-anarquia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/uw3g0i1xs98j",
+      "player_url": "https://dsvplay.com/e/uw3g0i1xs98j",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uw3g0i1xs98j"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
