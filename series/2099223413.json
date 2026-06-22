@@ -15,7 +15,17 @@
   "slug": "fallout",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfde24e8a5fcbd7186663bd239afe5a1313a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfde24e8a5fcbd7186663bd239afe5a1313a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfde24e8a5fcbd7186663bd239afe5a1313a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
