@@ -15,7 +15,17 @@
   "slug": "mare-of-easttown",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfaca2c68009422a31c61afc4ca29dedd13a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfaca2c68009422a31c61afc4ca29dedd13a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfaca2c68009422a31c61afc4ca29dedd13a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
