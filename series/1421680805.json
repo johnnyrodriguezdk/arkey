@@ -13,7 +13,17 @@
   "slug": "recuerdos-de-juventud",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf730729685975a19e2e1149df5c9dea2d3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf730729685975a19e2e1149df5c9dea2d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf730729685975a19e2e1149df5c9dea2d3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
