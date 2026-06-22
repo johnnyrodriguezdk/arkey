@@ -1,1 +1,217 @@
-{"id":1174618,"titulo":"Alicia en el país de las pesadillas","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/llRUOYj8RLVTzpEUfcKrcQEVpTx.jpg","release_date":"2023-12-26","genres":[],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/xKJTWGvheOMMlTHgrjN18KaD9Ra.jpg","overview":"Una adolescente conflictuada se va a vivir con su abuela a una casa aislada en el bosque, sin saber que fuerzas siniestras la acechan.","trailer":"","runtime":"77","slug":"alice-in-terrorland","servidores":[{"id":1,"url":"https://streamwish.to/e/9oehjyf2bn7l","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"9oehjyf2bn7l","player_url":"https://streamwish.to/e/9oehjyf2bn7l"},{"id":2,"url":"https://bysejikuar.com/e/aieafcriwmp6","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"aieafcriwmp6","player_url":"https://bysejikuar.com/e/aieafcriwmp6"},{"id":3,"url":"https://vidhidepro.com/v/myxwhdfuqlog","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"myxwhdfuqlog","player_url":"https://vidhidepro.com/v/myxwhdfuqlog"},{"id":4,"url":"https://voe.sx/e/zukmgcydnjpy","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"zukmgcydnjpy","player_url":"https://voe.sx/e/zukmgcydnjpy"},{"id":5,"url":"https://doodstream.com/e/mzc8yxcn42uy","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"mzc8yxcn42uy","player_url":"https://doodstream.com/e/mzc8yxcn42uy"},{"id":6,"url":"https://streamwish.to/e/2o74o6pr79p5","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"2o74o6pr79p5","player_url":"https://streamwish.to/e/2o74o6pr79p5"},{"id":7,"url":"https://bysejikuar.com/e/hm40hun0gqc8","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"hm40hun0gqc8","player_url":"https://bysejikuar.com/e/hm40hun0gqc8"},{"id":8,"url":"https://vidhidepro.com/v/k9bun72n7k9b","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"k9bun72n7k9b","player_url":"https://vidhidepro.com/v/k9bun72n7k9b"},{"id":9,"url":"https://voe.sx/e/umn90mafpnez","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"umn90mafpnez","player_url":"https://voe.sx/e/umn90mafpnez"},{"id":10,"url":"https://doodstream.com/e/0vilw48jmn21","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"0vilw48jmn21","player_url":"https://doodstream.com/e/0vilw48jmn21"}]}
+{
+  "id": 1174618,
+  "titulo": "Alicia en el país de las pesadillas",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/llRUOYj8RLVTzpEUfcKrcQEVpTx.jpg",
+  "release_date": "2023-12-26",
+  "genres": [
+    "Terror",
+    "Suspense"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/xKJTWGvheOMMlTHgrjN18KaD9Ra.jpg",
+  "overview": "Una adolescente conflictuada se va a vivir con su abuela a una casa aislada en el bosque, sin saber que fuerzas siniestras la acechan.",
+  "trailer": "",
+  "runtime": "77",
+  "slug": "alice-in-terrorland",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/9oehjyf2bn7l",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "9oehjyf2bn7l",
+      "player_url": "https://streamwish.to/e/9oehjyf2bn7l"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/aieafcriwmp6",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "aieafcriwmp6",
+      "player_url": "https://bysejikuar.com/e/aieafcriwmp6"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/myxwhdfuqlog",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "myxwhdfuqlog",
+      "player_url": "https://vidhidepro.com/v/myxwhdfuqlog"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/zukmgcydnjpy",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "zukmgcydnjpy",
+      "player_url": "https://voe.sx/e/zukmgcydnjpy"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/mzc8yxcn42uy",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "mzc8yxcn42uy",
+      "player_url": "https://doodstream.com/e/mzc8yxcn42uy"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/2o74o6pr79p5",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "2o74o6pr79p5",
+      "player_url": "https://streamwish.to/e/2o74o6pr79p5"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/hm40hun0gqc8",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "hm40hun0gqc8",
+      "player_url": "https://bysejikuar.com/e/hm40hun0gqc8"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/k9bun72n7k9b",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "k9bun72n7k9b",
+      "player_url": "https://vidhidepro.com/v/k9bun72n7k9b"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/umn90mafpnez",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "umn90mafpnez",
+      "player_url": "https://voe.sx/e/umn90mafpnez"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/0vilw48jmn21",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0vilw48jmn21",
+      "player_url": "https://doodstream.com/e/0vilw48jmn21"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/2kvfifu9xvdy",
+      "player_url": "https://minochinos.com/embed/2kvfifu9xvdy",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2kvfifu9xvdy"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/7oh7cpnkvrf7",
+      "player_url": "https://hglink.to/e/7oh7cpnkvrf7",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7oh7cpnkvrf7"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/fq2qr260lmiz",
+      "player_url": "https://bysedikamoum.com/e/fq2qr260lmiz",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fq2qr260lmiz"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/9omv3jrnfxqu",
+      "player_url": "https://voe.sx/e/9omv3jrnfxqu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9omv3jrnfxqu"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/9omv3jrnfxqu/download",
+      "player_url": "https://voe.sx/9omv3jrnfxqu/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/x0sb913pwctn",
+      "player_url": "https://rapidvideo.link/e/x0sb913pwctn",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x0sb913pwctn"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/t9h5euakcimz",
+      "player_url": "https://minochinos.com/embed/t9h5euakcimz",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "t9h5euakcimz"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/4unjboa2cmak",
+      "player_url": "https://hglink.to/e/4unjboa2cmak",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4unjboa2cmak"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/6dtfkfts4u7q",
+      "player_url": "https://bysedikamoum.com/e/6dtfkfts4u7q",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6dtfkfts4u7q"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/jv5b9h9pm3ke",
+      "player_url": "https://voe.sx/e/jv5b9h9pm3ke",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jv5b9h9pm3ke"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/jv5b9h9pm3ke/download",
+      "player_url": "https://voe.sx/jv5b9h9pm3ke/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 22,
+      "url": "https://rapidvideo.link/e/5gucr4mlsdvo",
+      "player_url": "https://rapidvideo.link/e/5gucr4mlsdvo",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "5gucr4mlsdvo"
+    }
+  ]
+}
