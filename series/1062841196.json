@@ -1,0 +1,36 @@
+{
+  "id": 1062841196,
+  "titulo": "Cooper &amp; Fry",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/fb4ea06503aa04a60eb1988bd67ecbde.webp",
+  "release_date": "2025-01-01",
+  "genres": [
+    "crimen",
+    "drama",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Set in the mystery-shrouded Peak District, the series follows two mismatched young detectives: affable local Ben Cooper and guarded newcomer Diane Fry. Thro",
+  "slug": "cooper-fry",
+  "iframe_url": "https://lacloud.live/e61508c41afb5672",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/61508c41afb5672/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/61508c41afb5672/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "61508c41afb5672"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/cooper-fry?season=1&ep=1"
+    }
+  ]
+}
