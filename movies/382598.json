@@ -1,1 +1,254 @@
-{"id":382598,"titulo":"A Fondo","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/riPC6Zk6uvpfbVnExWGLRe754uQ.jpg","release_date":"2016-11-11","genres":[],"rating":"6.0","backdrop":"https://image.tmdb.org/t/p/original/t5p87zY3MKSOHFIwOBbwmjxA5rS.jpg","overview":"Una familia sube en su nuevo monovolumen por la mañana temprano para evitar los atascos de tráfico de la salida de las vacaciones de verano. Tom, el padre, ajusta el control electrónico de velocidad en 130 km/h., en ese momento un nuevo enfado de su suegro lleva a Julia a pedirle que dé la vuelta. Tom se da cuenta de que él no puede controlar su vehículo. La electrónica no responde, la velocidad se ha bloqueado a 130 km/h. Todas las maniobras para frenar el coche no surten ningún efecto.","trailer":"","runtime":"91","slug":"a-fondo","servidores":[{"id":1,"url":"https://streamwish.to/e/v0vuw6uvtceb","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"v0vuw6uvtceb","player_url":"https://streamwish.to/e/v0vuw6uvtceb"},{"id":2,"url":"https://bysejikuar.com/e/jsgqw4u969bi","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"jsgqw4u969bi","player_url":"https://bysejikuar.com/e/jsgqw4u969bi"},{"id":3,"url":"https://filelions.to/v/1r6csvodfeei","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"1r6csvodfeei","player_url":"https://filelions.to/v/1r6csvodfeei"},{"id":4,"url":"https://voe.sx/e/vzigzrhx7ul4","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"vzigzrhx7ul4","player_url":"https://voe.sx/e/vzigzrhx7ul4"},{"id":5,"url":"https://doodstream.com/e/x3tsi5okdwha","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"x3tsi5okdwha","player_url":"https://doodstream.com/e/x3tsi5okdwha"},{"id":6,"url":"https://streamwish.to/e/5zxv0xwfmkjg","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"5zxv0xwfmkjg","player_url":"https://streamwish.to/e/5zxv0xwfmkjg"},{"id":7,"url":"https://bysejikuar.com/e/47v2y80fnibw","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"47v2y80fnibw","player_url":"https://bysejikuar.com/e/47v2y80fnibw"},{"id":8,"url":"https://voe.sx/e/nck3frixt82g","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"nck3frixt82g","player_url":"https://voe.sx/e/nck3frixt82g"},{"id":9,"url":"https://doodstream.com/e/uta4y948o760","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"uta4y948o760","player_url":"https://doodstream.com/e/uta4y948o760"}]}
+{
+  "id": 382598,
+  "titulo": "A Fondo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/riPC6Zk6uvpfbVnExWGLRe754uQ.jpg",
+  "release_date": "2016-11-11",
+  "genres": [
+    "Acción",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "6.0",
+  "backdrop": "https://image.tmdb.org/t/p/original/t5p87zY3MKSOHFIwOBbwmjxA5rS.jpg",
+  "overview": "Una familia sube en su nuevo monovolumen por la mañana temprano para evitar los atascos de tráfico de la salida de las vacaciones de verano. Tom, el padre, ajusta el control electrónico de velocidad en 130 km/h., en ese momento un nuevo enfado de su suegro lleva a Julia a pedirle que dé la vuelta. Tom se da cuenta de que él no puede controlar su vehículo. La electrónica no responde, la velocidad se ha bloqueado a 130 km/h. Todas las maniobras para frenar el coche no surten ningún efecto.",
+  "trailer": "",
+  "runtime": "91",
+  "slug": "a-fondo",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/v0vuw6uvtceb",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "v0vuw6uvtceb",
+      "player_url": "https://streamwish.to/e/v0vuw6uvtceb"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/jsgqw4u969bi",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "jsgqw4u969bi",
+      "player_url": "https://bysejikuar.com/e/jsgqw4u969bi"
+    },
+    {
+      "id": 3,
+      "url": "https://filelions.to/v/1r6csvodfeei",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1r6csvodfeei",
+      "player_url": "https://filelions.to/v/1r6csvodfeei"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/vzigzrhx7ul4",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vzigzrhx7ul4",
+      "player_url": "https://voe.sx/e/vzigzrhx7ul4"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/x3tsi5okdwha",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "x3tsi5okdwha",
+      "player_url": "https://doodstream.com/e/x3tsi5okdwha"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/5zxv0xwfmkjg",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5zxv0xwfmkjg",
+      "player_url": "https://streamwish.to/e/5zxv0xwfmkjg"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/47v2y80fnibw",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "47v2y80fnibw",
+      "player_url": "https://bysejikuar.com/e/47v2y80fnibw"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/nck3frixt82g",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "nck3frixt82g",
+      "player_url": "https://voe.sx/e/nck3frixt82g"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/uta4y948o760",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "uta4y948o760",
+      "player_url": "https://doodstream.com/e/uta4y948o760"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/h8ie0cyliacf",
+      "player_url": "https://minochinos.com/embed/h8ie0cyliacf",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h8ie0cyliacf"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/p5tmdic6tle8",
+      "player_url": "https://hglink.to/e/p5tmdic6tle8",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p5tmdic6tle8"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/8hjmxyhctg1z",
+      "player_url": "https://bysedikamoum.com/e/8hjmxyhctg1z",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8hjmxyhctg1z"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/olertwtgpbbz",
+      "player_url": "https://voe.sx/e/olertwtgpbbz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "olertwtgpbbz"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/olertwtgpbbz/download",
+      "player_url": "https://voe.sx/olertwtgpbbz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/kx3fryj7ignv",
+      "player_url": "https://rapidvideo.link/e/kx3fryj7ignv",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kx3fryj7ignv"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/ju1wks7tskyc",
+      "player_url": "https://minochinos.com/embed/ju1wks7tskyc",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ju1wks7tskyc"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/83ftmrxhzomh",
+      "player_url": "https://hglink.to/e/83ftmrxhzomh",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "83ftmrxhzomh"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/mh9qal9q4aln",
+      "player_url": "https://bysedikamoum.com/e/mh9qal9q4aln",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mh9qal9q4aln"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/2xrwsztcry6x",
+      "player_url": "https://voe.sx/e/2xrwsztcry6x",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2xrwsztcry6x"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/grhf2vjmk91w",
+      "player_url": "https://rapidvideo.link/e/grhf2vjmk91w",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "grhf2vjmk91w"
+    },
+    {
+      "id": 21,
+      "url": "https://minochinos.com/embed/3bx1vu0zygm1",
+      "player_url": "https://minochinos.com/embed/3bx1vu0zygm1",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "3bx1vu0zygm1"
+    },
+    {
+      "id": 22,
+      "url": "https://hglink.to/e/8f4khaj2pvt0",
+      "player_url": "https://hglink.to/e/8f4khaj2pvt0",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8f4khaj2pvt0"
+    },
+    {
+      "id": 23,
+      "url": "https://bysedikamoum.com/e/e6fczzr8p020",
+      "player_url": "https://bysedikamoum.com/e/e6fczzr8p020",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "e6fczzr8p020"
+    },
+    {
+      "id": 24,
+      "url": "https://voe.sx/e/g3eufe76c3y4",
+      "player_url": "https://voe.sx/e/g3eufe76c3y4",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "g3eufe76c3y4"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/g3eufe76c3y4/download",
+      "player_url": "https://voe.sx/g3eufe76c3y4/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 26,
+      "url": "https://rapidvideo.link/e/jyvr9q4x23k7",
+      "player_url": "https://rapidvideo.link/e/jyvr9q4x23k7",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jyvr9q4x23k7"
+    }
+  ]
+}
