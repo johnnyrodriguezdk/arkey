@@ -17,7 +17,17 @@
   "slug": "bastard",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hfc427acf4d0d027b294a41e6054bfd30f3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hfc427acf4d0d027b294a41e6054bfd30f3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc427acf4d0d027b294a41e6054bfd30f3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
