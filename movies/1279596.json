@@ -1,1 +1,199 @@
-{"id":1279596,"titulo":"El encanto de la sirena","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/wqzIXix00y0mRbGPhreDvIaQdg1.jpg","release_date":"2025-05-22","genres":[],"rating":"4.7","backdrop":"https://image.tmdb.org/t/p/original/seSMx5SETkv4gXMnqSNi5FrnivC.jpg","overview":"El Dr. Eric Prince, un arqueólogo, hace un descubrimiento dramático en una pequeña isla del Caribe: la prueba de una antigua y avanzada sociedad prehistórica. Mientras realiza su excavación, conoce a la misteriosa y bella Aurora Bey y se enamora de ella, sin esperarse cuál es su verdadera naturaleza.","trailer":"","runtime":"89","slug":"the-little-mermaid","servidores":[{"id":1,"url":"https://streamwish.to/e/1fyt1km2fz9k","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"1fyt1km2fz9k","player_url":"https://streamwish.to/e/1fyt1km2fz9k"},{"id":2,"url":"https://vidhidepro.com/v/9b0u99v0egjv","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"9b0u99v0egjv","player_url":"https://vidhidepro.com/v/9b0u99v0egjv"},{"id":3,"url":"https://voe.sx/e/xq0dlvihjhcx","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"xq0dlvihjhcx","player_url":"https://voe.sx/e/xq0dlvihjhcx"},{"id":4,"url":"https://doodstream.com/e/oul2olub8ro9","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"oul2olub8ro9","player_url":"https://doodstream.com/e/oul2olub8ro9"},{"id":5,"url":"https://streamwish.to/e/q7prhg52z8pc","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"q7prhg52z8pc","player_url":"https://streamwish.to/e/q7prhg52z8pc"},{"id":6,"url":"https://vidhidepro.com/v/q170i5xchuod","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"q170i5xchuod","player_url":"https://vidhidepro.com/v/q170i5xchuod"},{"id":7,"url":"https://voe.sx/e/ms3j7osii9yl","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ms3j7osii9yl","player_url":"https://voe.sx/e/ms3j7osii9yl"},{"id":8,"url":"https://doodstream.com/e/fodwditauqus","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"fodwditauqus","player_url":"https://doodstream.com/e/fodwditauqus"}]}
+{
+  "id": 1279596,
+  "titulo": "El encanto de la sirena",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/wqzIXix00y0mRbGPhreDvIaQdg1.jpg",
+  "release_date": "2025-05-22",
+  "genres": [
+    "Terror",
+    "Fantasía"
+  ],
+  "rating": "4.7",
+  "backdrop": "https://image.tmdb.org/t/p/original/seSMx5SETkv4gXMnqSNi5FrnivC.jpg",
+  "overview": "Juan toca la mandolina en una banda. Es la fiesta del carnaval en el pueblo. Después, se despide de su exnovia, por quien todavía siente ganas y atracción. Como no logra recuperarla, se emborracha con su amigo músico. La mandolina está desafinada, así que van a la playa siguiendo una leyenda local: una sirena que afina instrumentos. Dejan la mandolina en la orilla y se sientan a esperar. Los dos se duermen. Cuando Juan despierta, su amigo se da cuenta de que se metió al mar. A lo lejos, ve una luz intens",
+  "trailer": "",
+  "runtime": "89",
+  "slug": "the-little-mermaid",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/1fyt1km2fz9k",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "1fyt1km2fz9k",
+      "player_url": "https://streamwish.to/e/1fyt1km2fz9k"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/9b0u99v0egjv",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "9b0u99v0egjv",
+      "player_url": "https://vidhidepro.com/v/9b0u99v0egjv"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/xq0dlvihjhcx",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xq0dlvihjhcx",
+      "player_url": "https://voe.sx/e/xq0dlvihjhcx"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/oul2olub8ro9",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "oul2olub8ro9",
+      "player_url": "https://doodstream.com/e/oul2olub8ro9"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/q7prhg52z8pc",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "q7prhg52z8pc",
+      "player_url": "https://streamwish.to/e/q7prhg52z8pc"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/q170i5xchuod",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "q170i5xchuod",
+      "player_url": "https://vidhidepro.com/v/q170i5xchuod"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/ms3j7osii9yl",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ms3j7osii9yl",
+      "player_url": "https://voe.sx/e/ms3j7osii9yl"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/fodwditauqus",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fodwditauqus",
+      "player_url": "https://doodstream.com/e/fodwditauqus"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/audf3hr3thns",
+      "player_url": "https://minochinos.com/embed/audf3hr3thns",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "audf3hr3thns"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/0yorjnldg5pm",
+      "player_url": "https://hglink.to/e/0yorjnldg5pm",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0yorjnldg5pm"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/ilhureqdqqh0",
+      "player_url": "https://bysedikamoum.com/e/ilhureqdqqh0",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ilhureqdqqh0"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/he5m01uiscyn",
+      "player_url": "https://voe.sx/e/he5m01uiscyn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "he5m01uiscyn"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/he5m01uiscyn/download",
+      "player_url": "https://voe.sx/he5m01uiscyn/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/sgnrxqa0l5ik",
+      "player_url": "https://rapidvideo.link/e/sgnrxqa0l5ik",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sgnrxqa0l5ik"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/ici2dng36ql1",
+      "player_url": "https://minochinos.com/embed/ici2dng36ql1",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ici2dng36ql1"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/886iejbwbfet",
+      "player_url": "https://hglink.to/e/886iejbwbfet",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "886iejbwbfet"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/xq1fo6kqwfo8",
+      "player_url": "https://bysedikamoum.com/e/xq1fo6kqwfo8",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xq1fo6kqwfo8"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/84xd1vz3wwkf",
+      "player_url": "https://voe.sx/e/84xd1vz3wwkf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "84xd1vz3wwkf"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/84xd1vz3wwkf/download",
+      "player_url": "https://voe.sx/84xd1vz3wwkf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/cfozpavgqis1",
+      "player_url": "https://rapidvideo.link/e/cfozpavgqis1",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cfozpavgqis1"
+    }
+  ]
+}
