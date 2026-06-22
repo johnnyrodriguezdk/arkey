@@ -13,7 +13,17 @@
   "slug": "twilight-out-of-focus",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://voe.sx/e/hq5zx1h3lvfo",
+      "player_url": "https://voe.sx/e/hq5zx1h3lvfo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hq5zx1h3lvfo"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
