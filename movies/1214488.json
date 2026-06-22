@@ -1,1 +1,207 @@
-{"id":1214488,"titulo":"Skywalkers: Una historia de amor","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/ot8WWwG8SllHGXowtgMz9vWcrJJ.jpg","release_date":"2024-07-12","genres":["romance"],"rating":"7.2","backdrop":"https://image.tmdb.org/t/p/original/3CwKraydx0pon9wRrysJXmDMVJT.jpg","overview":"Dos aventureros desafían los límites de su amor y su confianza al escalar uno de los edificios más altos del mundo para realizar un truco acrobático.","trailer":"","runtime":"100","slug":"skywalkers-a-love-story","servidores":[{"id":1,"url":"https://streamwish.to/e/x3ryx1h9iosu","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"x3ryx1h9iosu","player_url":"https://streamwish.to/e/x3ryx1h9iosu"},{"id":2,"url":"https://bysejikuar.com/e/upxu8vz5mcwa","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"upxu8vz5mcwa","player_url":"https://bysejikuar.com/e/upxu8vz5mcwa"},{"id":3,"url":"https://vidhidepro.com/v/nkw51ej5c46y","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"nkw51ej5c46y","player_url":"https://vidhidepro.com/v/nkw51ej5c46y"},{"id":4,"url":"https://voe.sx/e/kaw7cojjxdua","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"kaw7cojjxdua","player_url":"https://voe.sx/e/kaw7cojjxdua"},{"id":5,"url":"https://doodstream.com/e/ag9le0wskz2x","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"ag9le0wskz2x","player_url":"https://doodstream.com/e/ag9le0wskz2x"},{"id":6,"url":"https://streamwish.to/e/y2jctycc47tv","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"y2jctycc47tv","player_url":"https://streamwish.to/e/y2jctycc47tv"},{"id":7,"url":"https://bysejikuar.com/e/i4fd3cl8axi8","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"i4fd3cl8axi8","player_url":"https://bysejikuar.com/e/i4fd3cl8axi8"},{"id":8,"url":"https://vidhidepro.com/v/bv0icf1w391s","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"bv0icf1w391s","player_url":"https://vidhidepro.com/v/bv0icf1w391s"},{"id":9,"url":"https://voe.sx/e/dasbte1hiidj","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"dasbte1hiidj","player_url":"https://voe.sx/e/dasbte1hiidj"}]}
+{
+  "id": 1214488,
+  "titulo": "Skywalkers: Una historia de amor",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/ot8WWwG8SllHGXowtgMz9vWcrJJ.jpg",
+  "release_date": "2024-07-12",
+  "genres": [
+    "romance"
+  ],
+  "rating": "7.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/3CwKraydx0pon9wRrysJXmDMVJT.jpg",
+  "overview": "Dos aventureros desafían los límites de su amor y su confianza al escalar uno de los edificios más altos del mundo para realizar un truco acrobático.",
+  "trailer": "",
+  "runtime": "100",
+  "slug": "skywalkers-a-love-story",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/x3ryx1h9iosu",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "x3ryx1h9iosu",
+      "player_url": "https://streamwish.to/e/x3ryx1h9iosu"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/upxu8vz5mcwa",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "upxu8vz5mcwa",
+      "player_url": "https://bysejikuar.com/e/upxu8vz5mcwa"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/nkw51ej5c46y",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "nkw51ej5c46y",
+      "player_url": "https://vidhidepro.com/v/nkw51ej5c46y"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/kaw7cojjxdua",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "kaw7cojjxdua",
+      "player_url": "https://voe.sx/e/kaw7cojjxdua"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/ag9le0wskz2x",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ag9le0wskz2x",
+      "player_url": "https://doodstream.com/e/ag9le0wskz2x"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/y2jctycc47tv",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "y2jctycc47tv",
+      "player_url": "https://streamwish.to/e/y2jctycc47tv"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/i4fd3cl8axi8",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "i4fd3cl8axi8",
+      "player_url": "https://bysejikuar.com/e/i4fd3cl8axi8"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/bv0icf1w391s",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "bv0icf1w391s",
+      "player_url": "https://vidhidepro.com/v/bv0icf1w391s"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/dasbte1hiidj",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "dasbte1hiidj",
+      "player_url": "https://voe.sx/e/dasbte1hiidj"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/tlnu8ryrhpo4",
+      "player_url": "https://minochinos.com/embed/tlnu8ryrhpo4",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tlnu8ryrhpo4"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/gbarwin2h0mk",
+      "player_url": "https://hglink.to/e/gbarwin2h0mk",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gbarwin2h0mk"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/verjaffsl2qn",
+      "player_url": "https://bysedikamoum.com/e/verjaffsl2qn",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "verjaffsl2qn"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/7g0jjinfbe8s",
+      "player_url": "https://voe.sx/e/7g0jjinfbe8s",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7g0jjinfbe8s"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/7g0jjinfbe8s/download",
+      "player_url": "https://voe.sx/7g0jjinfbe8s/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/ag6f3sq9e014",
+      "player_url": "https://rapidvideo.link/e/ag6f3sq9e014",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ag6f3sq9e014"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/8uak9n5ez3bw",
+      "player_url": "https://minochinos.com/embed/8uak9n5ez3bw",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "8uak9n5ez3bw"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/1meunrdjudcm",
+      "player_url": "https://hglink.to/e/1meunrdjudcm",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1meunrdjudcm"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/wxjv8gqvf7wb",
+      "player_url": "https://bysedikamoum.com/e/wxjv8gqvf7wb",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wxjv8gqvf7wb"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/opylkk5rb9eq",
+      "player_url": "https://voe.sx/e/opylkk5rb9eq",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "opylkk5rb9eq"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/opylkk5rb9eq/download",
+      "player_url": "https://voe.sx/opylkk5rb9eq/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/et3qi6pxmwj7",
+      "player_url": "https://rapidvideo.link/e/et3qi6pxmwj7",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "et3qi6pxmwj7"
+    }
+  ]
+}
