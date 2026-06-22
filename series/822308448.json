@@ -18,12 +18,84 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hfc30b2b2a511b847da460dc6e1d70e7fb3a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hfc30b2b2a511b847da460dc6e1d70e7fb3a/master.m3u8",
+      "url": "https://lalafilecdn.space/hfc30b2b2a511b847da460dc6e1d70e7fb3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc30b2b2a511b847da460dc6e1d70e7fb3a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hfc30b2b2a511b847da460dc6e1d70e7fb3a"
+    },
+    {
+      "url": "https://streamfort.online/e/9980nacypayn",
+      "player_url": "https://streamfort.online/e/9980nacypayn",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9980nacypayn",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/1a7coqtsitc7",
+      "player_url": "https://streamfort.online/e/1a7coqtsitc7",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1a7coqtsitc7",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/8nm7kmwaqzxz",
+      "player_url": "https://dsvplay.com/e/8nm7kmwaqzxz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8nm7kmwaqzxz",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/uv5jsn327rrg",
+      "player_url": "https://dsvplay.com/e/uv5jsn327rrg",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uv5jsn327rrg",
+      "id": 5
+    },
+    {
+      "url": "https://streamfort.online/e/moq3qute1zz0",
+      "player_url": "https://streamfort.online/e/moq3qute1zz0",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "moq3qute1zz0",
+      "id": 6
+    },
+    {
+      "url": "https://streamfort.online/e/6zia6mpysk0u",
+      "player_url": "https://streamfort.online/e/6zia6mpysk0u",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6zia6mpysk0u",
+      "id": 7
+    },
+    {
+      "url": "https://dsvplay.com/e/exkd91qbynwn",
+      "player_url": "https://dsvplay.com/e/exkd91qbynwn",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xkd91qbynwn",
+      "id": 8
+    },
+    {
+      "url": "https://dsvplay.com/e/io0xtom4oaub",
+      "player_url": "https://dsvplay.com/e/io0xtom4oaub",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "io0xtom4oaub",
+      "id": 9
     }
   ],
   "episodes": [
