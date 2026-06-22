@@ -1,1 +1,209 @@
-{"id":981848,"titulo":"Doble Amenaza","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/vJHl8GZPzdKyz4nSU5HQB9V43ZY.jpg","release_date":"2023-03-15","genres":[],"rating":"6.6","backdrop":"https://image.tmdb.org/t/p/original/8liHMI4t6VZsovqyHxgrwaFpipf.jpg","overview":"Con mafiosos despiadados detrás de ella, una joven con una personalidad complicada se enreda con un hombre en un peregrinaje por todo el país para esparcir las cenizas de su hermano.","trailer":"","runtime":"91","slug":"double-threat","servidores":[{"id":1,"url":"https://streamwish.to/e/0mroll7r2n4d","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"0mroll7r2n4d","player_url":"https://streamwish.to/e/0mroll7r2n4d"},{"id":2,"url":"https://bysejikuar.com/e/x5psaqemvzxs","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"x5psaqemvzxs","player_url":"https://bysejikuar.com/e/x5psaqemvzxs"},{"id":3,"url":"https://vidhidepro.com/v/og4m5k5l5uvg","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"og4m5k5l5uvg","player_url":"https://vidhidepro.com/v/og4m5k5l5uvg"},{"id":4,"url":"https://voe.sx/e/bughevyuu25m","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"bughevyuu25m","player_url":"https://voe.sx/e/bughevyuu25m"},{"id":5,"url":"https://doodstream.com/e/fix4053p5stx","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"fix4053p5stx","player_url":"https://doodstream.com/e/fix4053p5stx"},{"id":6,"url":"https://streamwish.to/e/3cue1ajfnahs","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"3cue1ajfnahs","player_url":"https://streamwish.to/e/3cue1ajfnahs"},{"id":7,"url":"https://bysejikuar.com/e/kf5h1tzu63bk","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"kf5h1tzu63bk","player_url":"https://bysejikuar.com/e/kf5h1tzu63bk"},{"id":8,"url":"https://vidhidepro.com/v/ne55gxvanvz1","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ne55gxvanvz1","player_url":"https://vidhidepro.com/v/ne55gxvanvz1"},{"id":9,"url":"https://doodstream.com/e/3jtsnggep7vx","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"3jtsnggep7vx","player_url":"https://doodstream.com/e/3jtsnggep7vx"}]}
+{
+  "id": 981848,
+  "titulo": "Doble Amenaza",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/vJHl8GZPzdKyz4nSU5HQB9V43ZY.jpg",
+  "release_date": "2023-03-15",
+  "genres": [
+    "Acción",
+    "Aventura",
+    "Comedia"
+  ],
+  "rating": "6.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/8liHMI4t6VZsovqyHxgrwaFpipf.jpg",
+  "overview": "Con mafiosos despiadados detrás de ella, una joven con una personalidad complicada se enreda con un hombre en un peregrinaje por todo el país para esparcir las cenizas de su hermano.",
+  "trailer": "",
+  "runtime": "91",
+  "slug": "double-threat",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/0mroll7r2n4d",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "0mroll7r2n4d",
+      "player_url": "https://streamwish.to/e/0mroll7r2n4d"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/x5psaqemvzxs",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "x5psaqemvzxs",
+      "player_url": "https://bysejikuar.com/e/x5psaqemvzxs"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/og4m5k5l5uvg",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "og4m5k5l5uvg",
+      "player_url": "https://vidhidepro.com/v/og4m5k5l5uvg"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/bughevyuu25m",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "bughevyuu25m",
+      "player_url": "https://voe.sx/e/bughevyuu25m"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/fix4053p5stx",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "fix4053p5stx",
+      "player_url": "https://doodstream.com/e/fix4053p5stx"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/3cue1ajfnahs",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3cue1ajfnahs",
+      "player_url": "https://streamwish.to/e/3cue1ajfnahs"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/kf5h1tzu63bk",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "kf5h1tzu63bk",
+      "player_url": "https://bysejikuar.com/e/kf5h1tzu63bk"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/ne55gxvanvz1",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ne55gxvanvz1",
+      "player_url": "https://vidhidepro.com/v/ne55gxvanvz1"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/3jtsnggep7vx",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "3jtsnggep7vx",
+      "player_url": "https://doodstream.com/e/3jtsnggep7vx"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/wx251p28wwzo",
+      "player_url": "https://minochinos.com/embed/wx251p28wwzo",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wx251p28wwzo"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/g1f8qoaexo5u",
+      "player_url": "https://hglink.to/e/g1f8qoaexo5u",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g1f8qoaexo5u"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/9wlyd927isf6",
+      "player_url": "https://bysedikamoum.com/e/9wlyd927isf6",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9wlyd927isf6"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/ijvjqvxwrstz",
+      "player_url": "https://voe.sx/e/ijvjqvxwrstz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ijvjqvxwrstz"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/ijvjqvxwrstz/download",
+      "player_url": "https://voe.sx/ijvjqvxwrstz/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/oxqhb5ps23z6",
+      "player_url": "https://rapidvideo.link/e/oxqhb5ps23z6",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oxqhb5ps23z6"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/tcmz1ntpkw4v",
+      "player_url": "https://minochinos.com/embed/tcmz1ntpkw4v",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tcmz1ntpkw4v"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/29kw3tivz2zp",
+      "player_url": "https://hglink.to/e/29kw3tivz2zp",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "29kw3tivz2zp"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/7b8jlwrjplc8",
+      "player_url": "https://bysedikamoum.com/e/7b8jlwrjplc8",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7b8jlwrjplc8"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/cyhcioden3pf",
+      "player_url": "https://voe.sx/e/cyhcioden3pf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cyhcioden3pf"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/cyhcioden3pf/download",
+      "player_url": "https://voe.sx/cyhcioden3pf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/uziy7sonxqtp",
+      "player_url": "https://rapidvideo.link/e/uziy7sonxqtp",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "uziy7sonxqtp"
+    }
+  ]
+}
