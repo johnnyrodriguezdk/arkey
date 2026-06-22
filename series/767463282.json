@@ -1,0 +1,35 @@
+{
+  "id": 767463282,
+  "titulo": "The &#039;Burbs",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/46bc56d0ff6bad9dca3578cbbe5ed486.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Sigue a una joven pareja que regresa a la casa de la infancia del marido. Su mundo se tambalea cuando unos nuevos vecinos se mudan a la casa de al lado, sac",
+  "slug": "the-burbs",
+  "iframe_url": "https://lacloud.live/44e3a41ead5c945b",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/44e3a41ead5c945b/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/44e3a41ead5c945b/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "44e3a41ead5c945b"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/the-burbs?season=1&ep=1"
+    }
+  ]
+}
