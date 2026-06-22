@@ -1,1 +1,262 @@
-{"id":1426792,"titulo":"Mango","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/AqqpXEBk5c2EuDgA6EVMxkrdh9I.jpg","release_date":"2025-11-06","genres":["romance","drama"],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg","overview":"Una hotelera ambiciosa y su renuente hija hacen un viaje a Málaga, donde encuentran eso que les hacía falta en la idílica huerta de mangos de un granjero.","trailer":"","runtime":"96","slug":"mango","servidores":[{"id":1,"url":"https://streamwish.to/e/7d9swg10pg16","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"7d9swg10pg16","player_url":"https://streamwish.to/e/7d9swg10pg16"},{"id":2,"url":"https://vidhidepro.com/v/1l4u1f89dui3","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"1l4u1f89dui3","player_url":"https://vidhidepro.com/v/1l4u1f89dui3"},{"id":3,"url":"https://voe.sx/e/dkft52zjwa3j","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"dkft52zjwa3j","player_url":"https://voe.sx/e/dkft52zjwa3j"},{"id":4,"url":"https://doodstream.com/e/qxsw9rsoejpf","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"qxsw9rsoejpf","player_url":"https://doodstream.com/e/qxsw9rsoejpf"},{"id":5,"url":"https://streamwish.to/e/uqt7rz8r9yzo","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"uqt7rz8r9yzo","player_url":"https://streamwish.to/e/uqt7rz8r9yzo"},{"id":6,"url":"https://vidhidepro.com/v/0na6gsmbdyo2","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"0na6gsmbdyo2","player_url":"https://vidhidepro.com/v/0na6gsmbdyo2"},{"id":7,"url":"https://voe.sx/e/porgj1kr409m","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"porgj1kr409m","player_url":"https://voe.sx/e/porgj1kr409m"},{"id":8,"url":"https://streamwish.to/e/hfhzhwbnsd1d","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"hfhzhwbnsd1d","player_url":"https://streamwish.to/e/hfhzhwbnsd1d"},{"id":9,"url":"https://vidhidepro.com/v/52l79gtnfy8s","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"52l79gtnfy8s","player_url":"https://vidhidepro.com/v/52l79gtnfy8s"},{"id":10,"url":"https://voe.sx/e/1g83omiumdfa","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"1g83omiumdfa","player_url":"https://voe.sx/e/1g83omiumdfa"}]}
+{
+  "id": 1426792,
+  "titulo": "Mango",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/AqqpXEBk5c2EuDgA6EVMxkrdh9I.jpg",
+  "release_date": "2025-11-06",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg",
+  "overview": "Una hotelera ambiciosa y su renuente hija hacen un viaje a Málaga, donde encuentran eso que les hacía falta en la idílica huerta de mangos de un granjero.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "mango",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/7d9swg10pg16",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7d9swg10pg16",
+      "player_url": "https://streamwish.to/e/7d9swg10pg16"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/1l4u1f89dui3",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "1l4u1f89dui3",
+      "player_url": "https://vidhidepro.com/v/1l4u1f89dui3"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/dkft52zjwa3j",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "dkft52zjwa3j",
+      "player_url": "https://voe.sx/e/dkft52zjwa3j"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/qxsw9rsoejpf",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "qxsw9rsoejpf",
+      "player_url": "https://doodstream.com/e/qxsw9rsoejpf"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/uqt7rz8r9yzo",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "uqt7rz8r9yzo",
+      "player_url": "https://streamwish.to/e/uqt7rz8r9yzo"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/0na6gsmbdyo2",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "0na6gsmbdyo2",
+      "player_url": "https://vidhidepro.com/v/0na6gsmbdyo2"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/porgj1kr409m",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "porgj1kr409m",
+      "player_url": "https://voe.sx/e/porgj1kr409m"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/hfhzhwbnsd1d",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hfhzhwbnsd1d",
+      "player_url": "https://streamwish.to/e/hfhzhwbnsd1d"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/52l79gtnfy8s",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "52l79gtnfy8s",
+      "player_url": "https://vidhidepro.com/v/52l79gtnfy8s"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/1g83omiumdfa",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "1g83omiumdfa",
+      "player_url": "https://voe.sx/e/1g83omiumdfa"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/zamqchp6o66g",
+      "player_url": "https://minochinos.com/embed/zamqchp6o66g",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zamqchp6o66g"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/ggppqclcjum1",
+      "player_url": "https://hglink.to/e/ggppqclcjum1",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ggppqclcjum1"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/5gnbuu8m8hq3",
+      "player_url": "https://bysedikamoum.com/e/5gnbuu8m8hq3",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5gnbuu8m8hq3"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/5jakxamrzkit",
+      "player_url": "https://voe.sx/e/5jakxamrzkit",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5jakxamrzkit"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/5jakxamrzkit/download",
+      "player_url": "https://voe.sx/5jakxamrzkit/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/kwc78x9tdhjl",
+      "player_url": "https://rapidvideo.link/e/kwc78x9tdhjl",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kwc78x9tdhjl"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/t8dpn90g8wr8",
+      "player_url": "https://minochinos.com/embed/t8dpn90g8wr8",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t8dpn90g8wr8"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/gj2ij5r4iwlz",
+      "player_url": "https://hglink.to/e/gj2ij5r4iwlz",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gj2ij5r4iwlz"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/j1niuvtc5vg7",
+      "player_url": "https://bysedikamoum.com/e/j1niuvtc5vg7",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j1niuvtc5vg7"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/b0vybvhrmzaa",
+      "player_url": "https://voe.sx/e/b0vybvhrmzaa",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b0vybvhrmzaa"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/b8ayxjw95u6c",
+      "player_url": "https://rapidvideo.link/e/b8ayxjw95u6c",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b8ayxjw95u6c"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/r6xuxi0ue024",
+      "player_url": "https://minochinos.com/embed/r6xuxi0ue024",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "r6xuxi0ue024"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/jcl0cb1j8bfn",
+      "player_url": "https://hglink.to/e/jcl0cb1j8bfn",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jcl0cb1j8bfn"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/dxv8gara1m0l",
+      "player_url": "https://bysedikamoum.com/e/dxv8gara1m0l",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dxv8gara1m0l"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/az8ecqavdsff",
+      "player_url": "https://voe.sx/e/az8ecqavdsff",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "az8ecqavdsff"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/az8ecqavdsff/download",
+      "player_url": "https://voe.sx/az8ecqavdsff/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/zpqbumc239dl",
+      "player_url": "https://rapidvideo.link/e/zpqbumc239dl",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "zpqbumc239dl"
+    }
+  ]
+}
