@@ -13,7 +13,17 @@
   "slug": "mary-george",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf5c6a35221186faf837aa501c634d537e3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf5c6a35221186faf837aa501c634d537e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf5c6a35221186faf837aa501c634d537e3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
