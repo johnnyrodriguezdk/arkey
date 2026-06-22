@@ -15,7 +15,17 @@
   "slug": "big-shot-entrenador-de-elite",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://dsvplay.com/e/3m084cdxl4id",
+      "player_url": "https://dsvplay.com/e/3m084cdxl4id",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3m084cdxl4id"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
