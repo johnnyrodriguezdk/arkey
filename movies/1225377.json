@@ -1,1 +1,200 @@
-{"id":1225377,"titulo":"La trampa del ratón","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/9eZkAWx3Qk9BzxfdK97ugqlgzvU.jpg","release_date":"2024-08-23","genres":[],"rating":"4.2","backdrop":"https://image.tmdb.org/t/p/original/o9FgMDfXUQPXh3khwCnDMiX6Cyi.jpg","overview":"En su cumpleaños número 21, Alex trabaja tarde en un parque de diversiones. Sus amigos planean sorprenderla, pero un asesino enmascarado como Mickey Mouse comienza un peligroso juego en el que ella debe sobrevivir.","trailer":"","runtime":"80","slug":"the-mouse-trap","servidores":[{"id":1,"url":"https://streamwish.to/e/yxjlsney1w2o","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"yxjlsney1w2o","player_url":"https://streamwish.to/e/yxjlsney1w2o"},{"id":2,"url":"https://vidhidepro.com/v/iz4yhpg4ibz2","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"iz4yhpg4ibz2","player_url":"https://vidhidepro.com/v/iz4yhpg4ibz2"},{"id":3,"url":"https://voe.sx/e/5vvgbtvl3may","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"5vvgbtvl3may","player_url":"https://voe.sx/e/5vvgbtvl3may"},{"id":4,"url":"https://doodstream.com/e/e6u16tv5ey0r","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"e6u16tv5ey0r","player_url":"https://doodstream.com/e/e6u16tv5ey0r"},{"id":5,"url":"https://streamwish.to/e/7lhn9gm9ssdg","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"7lhn9gm9ssdg","player_url":"https://streamwish.to/e/7lhn9gm9ssdg"},{"id":6,"url":"https://vidhidepro.com/v/8c39jhnxvoke","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"8c39jhnxvoke","player_url":"https://vidhidepro.com/v/8c39jhnxvoke"},{"id":7,"url":"https://voe.sx/e/we86w01yxuaw","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"we86w01yxuaw","player_url":"https://voe.sx/e/we86w01yxuaw"},{"id":8,"url":"https://doodstream.com/e/m140mwmprzbv","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"m140mwmprzbv","player_url":"https://doodstream.com/e/m140mwmprzbv"}]}
+{
+  "id": 1225377,
+  "titulo": "La trampa del ratón",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/9eZkAWx3Qk9BzxfdK97ugqlgzvU.jpg",
+  "release_date": "2024-08-23",
+  "genres": [
+    "Terror",
+    "Suspense",
+    "Comedia"
+  ],
+  "rating": "4.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/o9FgMDfXUQPXh3khwCnDMiX6Cyi.jpg",
+  "overview": "En su cumpleaños número 21, Alex trabaja tarde en un parque de diversiones. Sus amigos planean sorprenderla, pero un asesino enmascarado como Mickey Mouse comienza un peligroso juego en el que ella debe sobrevivir.",
+  "trailer": "",
+  "runtime": "80",
+  "slug": "the-mouse-trap",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/yxjlsney1w2o",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "yxjlsney1w2o",
+      "player_url": "https://streamwish.to/e/yxjlsney1w2o"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/iz4yhpg4ibz2",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "iz4yhpg4ibz2",
+      "player_url": "https://vidhidepro.com/v/iz4yhpg4ibz2"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/5vvgbtvl3may",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "5vvgbtvl3may",
+      "player_url": "https://voe.sx/e/5vvgbtvl3may"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/e6u16tv5ey0r",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "e6u16tv5ey0r",
+      "player_url": "https://doodstream.com/e/e6u16tv5ey0r"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/7lhn9gm9ssdg",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "7lhn9gm9ssdg",
+      "player_url": "https://streamwish.to/e/7lhn9gm9ssdg"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/8c39jhnxvoke",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8c39jhnxvoke",
+      "player_url": "https://vidhidepro.com/v/8c39jhnxvoke"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/we86w01yxuaw",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "we86w01yxuaw",
+      "player_url": "https://voe.sx/e/we86w01yxuaw"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/m140mwmprzbv",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "m140mwmprzbv",
+      "player_url": "https://doodstream.com/e/m140mwmprzbv"
+    },
+    {
+      "id": 9,
+      "url": "https://minochinos.com/embed/421qqjdrhovs",
+      "player_url": "https://minochinos.com/embed/421qqjdrhovs",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "421qqjdrhovs"
+    },
+    {
+      "id": 10,
+      "url": "https://hglink.to/e/cas5gq3rsys4",
+      "player_url": "https://hglink.to/e/cas5gq3rsys4",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cas5gq3rsys4"
+    },
+    {
+      "id": 11,
+      "url": "https://bysedikamoum.com/e/azxo574p7i2m",
+      "player_url": "https://bysedikamoum.com/e/azxo574p7i2m",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "azxo574p7i2m"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/bft4us08mdcf",
+      "player_url": "https://voe.sx/e/bft4us08mdcf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bft4us08mdcf"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/bft4us08mdcf/download",
+      "player_url": "https://voe.sx/bft4us08mdcf/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/zkh5fb1eadtr",
+      "player_url": "https://rapidvideo.link/e/zkh5fb1eadtr",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zkh5fb1eadtr"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/embed/xqgucn1gwirw",
+      "player_url": "https://minochinos.com/embed/xqgucn1gwirw",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xqgucn1gwirw"
+    },
+    {
+      "id": 16,
+      "url": "https://hglink.to/e/0me67pev900v",
+      "player_url": "https://hglink.to/e/0me67pev900v",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "0me67pev900v"
+    },
+    {
+      "id": 17,
+      "url": "https://bysedikamoum.com/e/lz2m30x6nsus",
+      "player_url": "https://bysedikamoum.com/e/lz2m30x6nsus",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "lz2m30x6nsus"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/e/covbe3rnenvp",
+      "player_url": "https://voe.sx/e/covbe3rnenvp",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "covbe3rnenvp"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/covbe3rnenvp/download",
+      "player_url": "https://voe.sx/covbe3rnenvp/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 20,
+      "url": "https://rapidvideo.link/e/jsxobyhic3vw",
+      "player_url": "https://rapidvideo.link/e/jsxobyhic3vw",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "jsxobyhic3vw"
+    }
+  ]
+}
