@@ -16,12 +16,66 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hf981350cc41fdde92d71e8c01677c77173a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hf981350cc41fdde92d71e8c01677c77173a/master.m3u8",
+      "url": "https://lalafilecdn.space/hf981350cc41fdde92d71e8c01677c77173a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf981350cc41fdde92d71e8c01677c77173a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hf981350cc41fdde92d71e8c01677c77173a"
+    },
+    {
+      "url": "https://streamfort.online/e/ons5g40fiigt",
+      "player_url": "https://streamfort.online/e/ons5g40fiigt",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ons5g40fiigt",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/m4tieolp7g6o",
+      "player_url": "https://streamfort.online/e/m4tieolp7g6o",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m4tieolp7g6o",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/efjoho01v8is",
+      "player_url": "https://dsvplay.com/e/efjoho01v8is",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fjoho01v8is",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/so3pzakdzg2c",
+      "player_url": "https://dsvplay.com/e/so3pzakdzg2c",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "so3pzakdzg2c",
+      "id": 5
+    },
+    {
+      "url": "https://streamfort.online/e/z36w917rpbn3",
+      "player_url": "https://streamfort.online/e/z36w917rpbn3",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z36w917rpbn3",
+      "id": 6
+    },
+    {
+      "url": "https://streamfort.online/e/0s45xftodcwg",
+      "player_url": "https://streamfort.online/e/0s45xftodcwg",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0s45xftodcwg",
+      "id": 7
     }
   ],
   "episodes": [
