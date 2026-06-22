@@ -14,7 +14,17 @@
   "slug": "good-times",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/4f515019tulj",
+      "player_url": "https://streamfort.online/e/4f515019tulj",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4f515019tulj"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
