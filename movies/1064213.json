@@ -1,1 +1,262 @@
-{"id":1064213,"titulo":"Anora","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/n5wEFSLkm2fCtN0FVAuphrCAjf8.jpg","release_date":"2024-10-14","genres":["drama","romance"],"rating":"7.1","backdrop":"https://image.tmdb.org/t/p/original/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg","overview":"Anora, una joven trabajadora sexual de Brooklyn, tiene la oportunidad de protagonizar una historia de Cenicienta cuando conoce al hijo de un oligarca y se casa impulsivamente con él. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado cuando los padres parten hacia Nueva York para anular el matrimonio.","trailer":"","runtime":"139","slug":"anora","servidores":[{"id":1,"url":"https://streamwish.to/e/4ghawdnq9be1","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"4ghawdnq9be1","player_url":"https://streamwish.to/e/4ghawdnq9be1"},{"id":2,"url":"https://vidhidepro.com/v/nwkp7ao2q0uz","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"nwkp7ao2q0uz","player_url":"https://vidhidepro.com/v/nwkp7ao2q0uz"},{"id":3,"url":"https://voe.sx/e/psv3mg86s5qt","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"psv3mg86s5qt","player_url":"https://voe.sx/e/psv3mg86s5qt"},{"id":4,"url":"https://streamwish.to/e/d4ti9x5q9qj9","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"d4ti9x5q9qj9","player_url":"https://streamwish.to/e/d4ti9x5q9qj9"},{"id":5,"url":"https://vidhidepro.com/v/g1jegya0q3uj","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"g1jegya0q3uj","player_url":"https://vidhidepro.com/v/g1jegya0q3uj"},{"id":6,"url":"https://voe.sx/e/ob4jubtitfrp","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ob4jubtitfrp","player_url":"https://voe.sx/e/ob4jubtitfrp"},{"id":7,"url":"https://streamwish.to/e/exi6v4c5uz90","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"exi6v4c5uz90","player_url":"https://streamwish.to/e/exi6v4c5uz90"},{"id":8,"url":"https://vidhidepro.com/v/xcrrkuuqz4lk","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"xcrrkuuqz4lk","player_url":"https://vidhidepro.com/v/xcrrkuuqz4lk"},{"id":9,"url":"https://voe.sx/e/mbvvtzdropa3","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"mbvvtzdropa3","player_url":"https://voe.sx/e/mbvvtzdropa3"},{"id":10,"url":"https://doodstream.com/e/ivuhxcjgx44d","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"ivuhxcjgx44d","player_url":"https://doodstream.com/e/ivuhxcjgx44d"}]}
+{
+  "id": 1064213,
+  "titulo": "Anora",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/n5wEFSLkm2fCtN0FVAuphrCAjf8.jpg",
+  "release_date": "2024-10-14",
+  "genres": [
+    "drama",
+    "romance"
+  ],
+  "rating": "7.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
+  "overview": "Anora, una joven trabajadora sexual de Brooklyn, tiene la oportunidad de protagonizar una historia de Cenicienta cuando conoce al hijo de un oligarca y se casa impulsivamente con él. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado cuando los padres parten hacia Nueva York para anular el matrimonio.",
+  "trailer": "",
+  "runtime": "139",
+  "slug": "anora",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/4ghawdnq9be1",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "4ghawdnq9be1",
+      "player_url": "https://streamwish.to/e/4ghawdnq9be1"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/nwkp7ao2q0uz",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "nwkp7ao2q0uz",
+      "player_url": "https://vidhidepro.com/v/nwkp7ao2q0uz"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/psv3mg86s5qt",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "psv3mg86s5qt",
+      "player_url": "https://voe.sx/e/psv3mg86s5qt"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/d4ti9x5q9qj9",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "d4ti9x5q9qj9",
+      "player_url": "https://streamwish.to/e/d4ti9x5q9qj9"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/g1jegya0q3uj",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "g1jegya0q3uj",
+      "player_url": "https://vidhidepro.com/v/g1jegya0q3uj"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/ob4jubtitfrp",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ob4jubtitfrp",
+      "player_url": "https://voe.sx/e/ob4jubtitfrp"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/exi6v4c5uz90",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "exi6v4c5uz90",
+      "player_url": "https://streamwish.to/e/exi6v4c5uz90"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/xcrrkuuqz4lk",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xcrrkuuqz4lk",
+      "player_url": "https://vidhidepro.com/v/xcrrkuuqz4lk"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/mbvvtzdropa3",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "mbvvtzdropa3",
+      "player_url": "https://voe.sx/e/mbvvtzdropa3"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/ivuhxcjgx44d",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ivuhxcjgx44d",
+      "player_url": "https://doodstream.com/e/ivuhxcjgx44d"
+    },
+    {
+      "id": 11,
+      "url": "https://minochinos.com/embed/nnhv7a298onp",
+      "player_url": "https://minochinos.com/embed/nnhv7a298onp",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nnhv7a298onp"
+    },
+    {
+      "id": 12,
+      "url": "https://hglink.to/e/ssb8jmgnqavs",
+      "player_url": "https://hglink.to/e/ssb8jmgnqavs",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ssb8jmgnqavs"
+    },
+    {
+      "id": 13,
+      "url": "https://bysedikamoum.com/e/zd2u9i9i4g98",
+      "player_url": "https://bysedikamoum.com/e/zd2u9i9i4g98",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zd2u9i9i4g98"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/e/5celd0i9ftca",
+      "player_url": "https://voe.sx/e/5celd0i9ftca",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5celd0i9ftca"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/5celd0i9ftca/download",
+      "player_url": "https://voe.sx/5celd0i9ftca/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 16,
+      "url": "https://rapidvideo.link/e/9gednbrt0icz",
+      "player_url": "https://rapidvideo.link/e/9gednbrt0icz",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9gednbrt0icz"
+    },
+    {
+      "id": 17,
+      "url": "https://minochinos.com/embed/hvppi5xwn4hj",
+      "player_url": "https://minochinos.com/embed/hvppi5xwn4hj",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hvppi5xwn4hj"
+    },
+    {
+      "id": 18,
+      "url": "https://hglink.to/e/0146awibnp36",
+      "player_url": "https://hglink.to/e/0146awibnp36",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0146awibnp36"
+    },
+    {
+      "id": 19,
+      "url": "https://bysedikamoum.com/e/si7hszuvnzu5",
+      "player_url": "https://bysedikamoum.com/e/si7hszuvnzu5",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "si7hszuvnzu5"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/e/v70o2llhhci7",
+      "player_url": "https://voe.sx/e/v70o2llhhci7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v70o2llhhci7"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/8o2hzda54wxi",
+      "player_url": "https://rapidvideo.link/e/8o2hzda54wxi",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8o2hzda54wxi"
+    },
+    {
+      "id": 22,
+      "url": "https://minochinos.com/embed/vdw5qc7xm564",
+      "player_url": "https://minochinos.com/embed/vdw5qc7xm564",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vdw5qc7xm564"
+    },
+    {
+      "id": 23,
+      "url": "https://hglink.to/e/o0v8wm6vnwuk",
+      "player_url": "https://hglink.to/e/o0v8wm6vnwuk",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "o0v8wm6vnwuk"
+    },
+    {
+      "id": 24,
+      "url": "https://bysedikamoum.com/e/brktazylov0r",
+      "player_url": "https://bysedikamoum.com/e/brktazylov0r",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "brktazylov0r"
+    },
+    {
+      "id": 25,
+      "url": "https://voe.sx/e/6aywyzoizhdn",
+      "player_url": "https://voe.sx/e/6aywyzoizhdn",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6aywyzoizhdn"
+    },
+    {
+      "id": 26,
+      "url": "https://voe.sx/6aywyzoizhdn/download",
+      "player_url": "https://voe.sx/6aywyzoizhdn/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 27,
+      "url": "https://rapidvideo.link/e/9v0uy72fidsq",
+      "player_url": "https://rapidvideo.link/e/9v0uy72fidsq",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "9v0uy72fidsq"
+    }
+  ]
+}
