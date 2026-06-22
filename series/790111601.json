@@ -17,7 +17,17 @@
   "slug": "leyendas-del-maana",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf6d7a2b8d57f46b7ee1b98c929b86b7ad3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf6d7a2b8d57f46b7ee1b98c929b86b7ad3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf6d7a2b8d57f46b7ee1b98c929b86b7ad3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
