@@ -1,0 +1,37 @@
+{
+  "id": 249604774,
+  "titulo": "Star Trek: Starfleet Academy",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/a8b9b4f9211d7b723d78d29ad11f5cb5.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "ciencia-ficcion",
+    "fantasia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Una nueva promoción de cadetes se entrenan bajo la atenta y exigente mirada de los mejores de la Flota Estelar. Juntos, se enfrentarán a los altibajos de la",
+  "slug": "star-trek-starfleet-academy",
+  "iframe_url": "https://lacloud.live/f79acd24b96e7b62",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/f79acd24b96e7b62/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/f79acd24b96e7b62/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f79acd24b96e7b62"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/star-trek-starfleet-academy?season=1&ep=1"
+    }
+  ]
+}
