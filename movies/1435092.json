@@ -1,1 +1,279 @@
-{"id":1435092,"titulo":"Adiós, June","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/c6b7JgxtmN1ADVzFPeeY3J11kWt.jpg","release_date":"2025-12-12","genres":["drama"],"rating":"6.6","backdrop":"https://image.tmdb.org/t/p/original/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg","overview":"Helen Mirren interpreta a una madre enferma que, con ingenio, orquesta una despedida en sus propios términos. Kate Winslet debuta como directora en esta conmovedora historia.","trailer":"","runtime":"116","slug":"adios-june","servidores":[{"id":1,"url":"https://streamwish.to/e/l00gp1y4vck0","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"l00gp1y4vck0","player_url":"https://streamwish.to/e/l00gp1y4vck0"},{"id":2,"url":"https://vidhidepro.com/v/cg5215do0007","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"cg5215do0007","player_url":"https://vidhidepro.com/v/cg5215do0007"},{"id":3,"url":"https://voe.sx/e/oebmmenar42q","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"oebmmenar42q","player_url":"https://voe.sx/e/oebmmenar42q"},{"id":4,"url":"https://doodstream.com/e/ogzrjepzxr2n","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"ogzrjepzxr2n","player_url":"https://doodstream.com/e/ogzrjepzxr2n"},{"id":5,"url":"https://streamwish.to/e/pjy4a7k0j8mj","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"pjy4a7k0j8mj","player_url":"https://streamwish.to/e/pjy4a7k0j8mj"},{"id":6,"url":"https://vidhidepro.com/v/jg41a9en8o36","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"jg41a9en8o36","player_url":"https://vidhidepro.com/v/jg41a9en8o36"},{"id":7,"url":"https://voe.sx/e/jbmeeittvpya","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"jbmeeittvpya","player_url":"https://voe.sx/e/jbmeeittvpya"},{"id":8,"url":"https://doodstream.com/e/jnauhnpbjely","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"jnauhnpbjely","player_url":"https://doodstream.com/e/jnauhnpbjely"},{"id":9,"url":"https://streamwish.to/e/xtn3a1htu64r","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"xtn3a1htu64r","player_url":"https://streamwish.to/e/xtn3a1htu64r"},{"id":10,"url":"https://vidhidepro.com/v/uog0xsmy1d80","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"uog0xsmy1d80","player_url":"https://vidhidepro.com/v/uog0xsmy1d80"},{"id":11,"url":"https://voe.sx/e/usvaloxmtvvi","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"usvaloxmtvvi","player_url":"https://voe.sx/e/usvaloxmtvvi"},{"id":12,"url":"https://doodstream.com/e/mrhct8ndqvy9","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"mrhct8ndqvy9","player_url":"https://doodstream.com/e/mrhct8ndqvy9"}]}
+{
+  "id": 1435092,
+  "titulo": "Adiós, June",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/c6b7JgxtmN1ADVzFPeeY3J11kWt.jpg",
+  "release_date": "2025-12-12",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg",
+  "overview": "Helen Mirren interpreta a una madre enferma que, con ingenio, orquesta una despedida en sus propios términos. Kate Winslet debuta como directora en esta conmovedora historia.",
+  "trailer": "",
+  "runtime": "116",
+  "slug": "adios-june",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/l00gp1y4vck0",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "l00gp1y4vck0",
+      "player_url": "https://streamwish.to/e/l00gp1y4vck0"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/cg5215do0007",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "cg5215do0007",
+      "player_url": "https://vidhidepro.com/v/cg5215do0007"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/oebmmenar42q",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "oebmmenar42q",
+      "player_url": "https://voe.sx/e/oebmmenar42q"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/ogzrjepzxr2n",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ogzrjepzxr2n",
+      "player_url": "https://doodstream.com/e/ogzrjepzxr2n"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/pjy4a7k0j8mj",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "pjy4a7k0j8mj",
+      "player_url": "https://streamwish.to/e/pjy4a7k0j8mj"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/jg41a9en8o36",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "jg41a9en8o36",
+      "player_url": "https://vidhidepro.com/v/jg41a9en8o36"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/jbmeeittvpya",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jbmeeittvpya",
+      "player_url": "https://voe.sx/e/jbmeeittvpya"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/jnauhnpbjely",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "jnauhnpbjely",
+      "player_url": "https://doodstream.com/e/jnauhnpbjely"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/xtn3a1htu64r",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "xtn3a1htu64r",
+      "player_url": "https://streamwish.to/e/xtn3a1htu64r"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/uog0xsmy1d80",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "uog0xsmy1d80",
+      "player_url": "https://vidhidepro.com/v/uog0xsmy1d80"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/usvaloxmtvvi",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "usvaloxmtvvi",
+      "player_url": "https://voe.sx/e/usvaloxmtvvi"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/mrhct8ndqvy9",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "mrhct8ndqvy9",
+      "player_url": "https://doodstream.com/e/mrhct8ndqvy9"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/tj62lg1argsp",
+      "player_url": "https://minochinos.com/embed/tj62lg1argsp",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tj62lg1argsp"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/39eckho6aleq",
+      "player_url": "https://hglink.to/e/39eckho6aleq",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "39eckho6aleq"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/2b4mdn8gc9kd",
+      "player_url": "https://bysedikamoum.com/e/2b4mdn8gc9kd",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2b4mdn8gc9kd"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/xk9zxu7swnhs",
+      "player_url": "https://voe.sx/e/xk9zxu7swnhs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xk9zxu7swnhs"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/xk9zxu7swnhs/download",
+      "player_url": "https://voe.sx/xk9zxu7swnhs/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/u4nwz6mgt1ri",
+      "player_url": "https://rapidvideo.link/e/u4nwz6mgt1ri",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u4nwz6mgt1ri"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/p5ricw0koekg",
+      "player_url": "https://minochinos.com/embed/p5ricw0koekg",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p5ricw0koekg"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/p4lui24xereu",
+      "player_url": "https://hglink.to/e/p4lui24xereu",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p4lui24xereu"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/y4e8ri59bc01",
+      "player_url": "https://bysedikamoum.com/e/y4e8ri59bc01",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y4e8ri59bc01"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/aftegymwxtk0",
+      "player_url": "https://voe.sx/e/aftegymwxtk0",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aftegymwxtk0"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/gcxkhv6eityl",
+      "player_url": "https://rapidvideo.link/e/gcxkhv6eityl",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gcxkhv6eityl"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/nbphlsl1rin1",
+      "player_url": "https://minochinos.com/embed/nbphlsl1rin1",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "nbphlsl1rin1"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/ju5vycax1hyu",
+      "player_url": "https://hglink.to/e/ju5vycax1hyu",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ju5vycax1hyu"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/cg46unqkdyub",
+      "player_url": "https://bysedikamoum.com/e/cg46unqkdyub",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "cg46unqkdyub"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/ay8dkk0bdivw",
+      "player_url": "https://voe.sx/e/ay8dkk0bdivw",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ay8dkk0bdivw"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/ay8dkk0bdivw/download",
+      "player_url": "https://voe.sx/ay8dkk0bdivw/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/ej2rimz4lky8",
+      "player_url": "https://rapidvideo.link/e/ej2rimz4lky8",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ej2rimz4lky8"
+    }
+  ]
+}
