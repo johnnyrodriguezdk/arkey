@@ -15,7 +15,17 @@
   "slug": "proyecto-ourika",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/s9lqwgnbpge3",
+      "player_url": "https://streamfort.online/e/s9lqwgnbpge3",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s9lqwgnbpge3"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
