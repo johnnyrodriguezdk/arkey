@@ -14,7 +14,17 @@
   "slug": "a-grito-herido",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/9dnrg2heg9mj",
+      "player_url": "https://streamfort.online/e/9dnrg2heg9mj",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9dnrg2heg9mj"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
