@@ -1,1 +1,279 @@
-{"id":1069905,"titulo":"Jay Kelly","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/vO0cV3886E47tmZo0iJXzMPEEzr.jpg","release_date":"2025-11-14","genres":["drama"],"rating":"6.1","backdrop":"https://image.tmdb.org/t/p/original/wR9D9hQvCVBux16NauY4b7letdU.jpg","overview":"En esta película del director nominado al Oscar® Noah Baumbach, la estrella de cine Jay Kelly enfrenta su pasado y su presente en un viaje por Europa acompañado de su fiel mánager.","trailer":"","runtime":"132","slug":"jay-kelly","servidores":[{"id":1,"url":"https://streamwish.to/e/3mbl6k6cbupm","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"3mbl6k6cbupm","player_url":"https://streamwish.to/e/3mbl6k6cbupm"},{"id":2,"url":"https://vidhidepro.com/v/02zmejuokn2o","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"02zmejuokn2o","player_url":"https://vidhidepro.com/v/02zmejuokn2o"},{"id":3,"url":"https://voe.sx/e/eunodvngjrtv","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"eunodvngjrtv","player_url":"https://voe.sx/e/eunodvngjrtv"},{"id":4,"url":"https://doodstream.com/e/9hprcyjf76v2","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"9hprcyjf76v2","player_url":"https://doodstream.com/e/9hprcyjf76v2"},{"id":5,"url":"https://streamwish.to/e/svbu2wmc266h","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"svbu2wmc266h","player_url":"https://streamwish.to/e/svbu2wmc266h"},{"id":6,"url":"https://vidhidepro.com/v/6mnal148dnpi","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"6mnal148dnpi","player_url":"https://vidhidepro.com/v/6mnal148dnpi"},{"id":7,"url":"https://voe.sx/e/j8wt6vm0dufk","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"j8wt6vm0dufk","player_url":"https://voe.sx/e/j8wt6vm0dufk"},{"id":8,"url":"https://doodstream.com/e/ieminfcgxf00","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"ieminfcgxf00","player_url":"https://doodstream.com/e/ieminfcgxf00"},{"id":9,"url":"https://streamwish.to/e/p9rkyzqepvlj","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"p9rkyzqepvlj","player_url":"https://streamwish.to/e/p9rkyzqepvlj"},{"id":10,"url":"https://vidhidepro.com/v/vd1110whchw3","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"vd1110whchw3","player_url":"https://vidhidepro.com/v/vd1110whchw3"},{"id":11,"url":"https://voe.sx/e/gnrqdpseptll","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"gnrqdpseptll","player_url":"https://voe.sx/e/gnrqdpseptll"},{"id":12,"url":"https://doodstream.com/e/nz4767jueceb","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"nz4767jueceb","player_url":"https://doodstream.com/e/nz4767jueceb"}]}
+{
+  "id": 1069905,
+  "titulo": "Jay Kelly",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/vO0cV3886E47tmZo0iJXzMPEEzr.jpg",
+  "release_date": "2025-11-14",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.1",
+  "backdrop": "https://image.tmdb.org/t/p/original/wR9D9hQvCVBux16NauY4b7letdU.jpg",
+  "overview": "En esta película del director nominado al Oscar® Noah Baumbach, la estrella de cine Jay Kelly enfrenta su pasado y su presente en un viaje por Europa acompañado de su fiel mánager.",
+  "trailer": "",
+  "runtime": "132",
+  "slug": "jay-kelly",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/3mbl6k6cbupm",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3mbl6k6cbupm",
+      "player_url": "https://streamwish.to/e/3mbl6k6cbupm"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/02zmejuokn2o",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "02zmejuokn2o",
+      "player_url": "https://vidhidepro.com/v/02zmejuokn2o"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/eunodvngjrtv",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "eunodvngjrtv",
+      "player_url": "https://voe.sx/e/eunodvngjrtv"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/9hprcyjf76v2",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9hprcyjf76v2",
+      "player_url": "https://doodstream.com/e/9hprcyjf76v2"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/svbu2wmc266h",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "svbu2wmc266h",
+      "player_url": "https://streamwish.to/e/svbu2wmc266h"
+    },
+    {
+      "id": 6,
+      "url": "https://vidhidepro.com/v/6mnal148dnpi",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "6mnal148dnpi",
+      "player_url": "https://vidhidepro.com/v/6mnal148dnpi"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/j8wt6vm0dufk",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "j8wt6vm0dufk",
+      "player_url": "https://voe.sx/e/j8wt6vm0dufk"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/ieminfcgxf00",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ieminfcgxf00",
+      "player_url": "https://doodstream.com/e/ieminfcgxf00"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/p9rkyzqepvlj",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "p9rkyzqepvlj",
+      "player_url": "https://streamwish.to/e/p9rkyzqepvlj"
+    },
+    {
+      "id": 10,
+      "url": "https://vidhidepro.com/v/vd1110whchw3",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "vd1110whchw3",
+      "player_url": "https://vidhidepro.com/v/vd1110whchw3"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/gnrqdpseptll",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "gnrqdpseptll",
+      "player_url": "https://voe.sx/e/gnrqdpseptll"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/nz4767jueceb",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "nz4767jueceb",
+      "player_url": "https://doodstream.com/e/nz4767jueceb"
+    },
+    {
+      "id": 13,
+      "url": "https://minochinos.com/embed/c4wpxes3vfrp",
+      "player_url": "https://minochinos.com/embed/c4wpxes3vfrp",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c4wpxes3vfrp"
+    },
+    {
+      "id": 14,
+      "url": "https://hglink.to/e/agdr33noqjxd",
+      "player_url": "https://hglink.to/e/agdr33noqjxd",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "agdr33noqjxd"
+    },
+    {
+      "id": 15,
+      "url": "https://bysedikamoum.com/e/jckrkkmua2hn",
+      "player_url": "https://bysedikamoum.com/e/jckrkkmua2hn",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jckrkkmua2hn"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/e/unkoowiynnzq",
+      "player_url": "https://voe.sx/e/unkoowiynnzq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "unkoowiynnzq"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/unkoowiynnzq/download",
+      "player_url": "https://voe.sx/unkoowiynnzq/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 18,
+      "url": "https://rapidvideo.link/e/udtk3ms6byj4",
+      "player_url": "https://rapidvideo.link/e/udtk3ms6byj4",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "udtk3ms6byj4"
+    },
+    {
+      "id": 19,
+      "url": "https://minochinos.com/embed/7upgkuuyk6x6",
+      "player_url": "https://minochinos.com/embed/7upgkuuyk6x6",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7upgkuuyk6x6"
+    },
+    {
+      "id": 20,
+      "url": "https://hglink.to/e/o0hmyvgfeeb1",
+      "player_url": "https://hglink.to/e/o0hmyvgfeeb1",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o0hmyvgfeeb1"
+    },
+    {
+      "id": 21,
+      "url": "https://bysedikamoum.com/e/3zc3dj2jhc9t",
+      "player_url": "https://bysedikamoum.com/e/3zc3dj2jhc9t",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3zc3dj2jhc9t"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/e/bmglndmul0pq",
+      "player_url": "https://voe.sx/e/bmglndmul0pq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bmglndmul0pq"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/1go8xlpbuadq",
+      "player_url": "https://rapidvideo.link/e/1go8xlpbuadq",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1go8xlpbuadq"
+    },
+    {
+      "id": 24,
+      "url": "https://minochinos.com/embed/gfecw9hxm8fr",
+      "player_url": "https://minochinos.com/embed/gfecw9hxm8fr",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gfecw9hxm8fr"
+    },
+    {
+      "id": 25,
+      "url": "https://hglink.to/e/pwxxn8eaien4",
+      "player_url": "https://hglink.to/e/pwxxn8eaien4",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "pwxxn8eaien4"
+    },
+    {
+      "id": 26,
+      "url": "https://bysedikamoum.com/e/27hbz30nqkr1",
+      "player_url": "https://bysedikamoum.com/e/27hbz30nqkr1",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "27hbz30nqkr1"
+    },
+    {
+      "id": 27,
+      "url": "https://voe.sx/e/gizkilowrbyp",
+      "player_url": "https://voe.sx/e/gizkilowrbyp",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gizkilowrbyp"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/gizkilowrbyp/download",
+      "player_url": "https://voe.sx/gizkilowrbyp/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 29,
+      "url": "https://rapidvideo.link/e/ju41sgr05b23",
+      "player_url": "https://rapidvideo.link/e/ju41sgr05b23",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ju41sgr05b23"
+    }
+  ]
+}
