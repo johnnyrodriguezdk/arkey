@@ -13,7 +13,17 @@
   "slug": "todo-un-hombre",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamfort.online/e/pxbcogkl6wac",
+      "player_url": "https://streamfort.online/e/pxbcogkl6wac",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pxbcogkl6wac"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
