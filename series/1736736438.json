@@ -17,12 +17,75 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/hf0ee51835304612ddb8b311d9ee0f320f3a/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/hf0ee51835304612ddb8b311d9ee0f320f3a/master.m3u8",
+      "url": "https://lalafilecdn.space/hf0ee51835304612ddb8b311d9ee0f320f3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0ee51835304612ddb8b311d9ee0f320f3a/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "hf0ee51835304612ddb8b311d9ee0f320f3a"
+    },
+    {
+      "url": "https://streamfort.online/e/zhxggutjlzto",
+      "player_url": "https://streamfort.online/e/zhxggutjlzto",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zhxggutjlzto",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/ss56ifjximh9",
+      "player_url": "https://streamfort.online/e/ss56ifjximh9",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ss56ifjximh9",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/s502jx5kcgfa",
+      "player_url": "https://vidnova.online/embed/s502jx5kcgfa",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s502jx5kcgfa",
+      "id": 4
+    },
+    {
+      "url": "https://vidnova.online/embed/i41t44c138gx",
+      "player_url": "https://vidnova.online/embed/i41t44c138gx",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i41t44c138gx",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/qp0vumwqea54",
+      "player_url": "https://dsvplay.com/e/qp0vumwqea54",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qp0vumwqea54",
+      "id": 6
+    },
+    {
+      "url": "https://dsvplay.com/e/1s2w35cesk7f",
+      "player_url": "https://dsvplay.com/e/1s2w35cesk7f",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1s2w35cesk7f",
+      "id": 7
+    },
+    {
+      "url": "https://voe.sx/e/nmblslzrgqfq",
+      "player_url": "https://voe.sx/e/nmblslzrgqfq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nmblslzrgqfq",
+      "id": 8
     }
   ],
   "episodes": [
