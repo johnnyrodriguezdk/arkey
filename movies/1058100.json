@@ -1,1 +1,209 @@
-{"id":1058100,"titulo":"Volviendo a las Pistas","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/m18266gu0GczDXhGzJPbJiCY5oa.jpg","release_date":"2023-03-30","genres":[],"rating":"4.8","backdrop":"https://image.tmdb.org/t/p/original/tTowHrLbxXxtiJT65HJVWSp0EqR.jpg","overview":"Berti dejó las carreras de autos y ahora es dueño de un taller mecánico. Pero cuando el banco amenaza con cerrarle el negocio, tiene un mes para restaurar su viejo auto y participar en una nueva carrera.","trailer":"","runtime":"127","slug":"volviendo-a-las-pistas","servidores":[{"id":1,"url":"https://streamwish.to/e/0u4vzk58klkt","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"0u4vzk58klkt","player_url":"https://streamwish.to/e/0u4vzk58klkt"},{"id":2,"url":"https://bysejikuar.com/e/ergnhj0bq52c","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"ergnhj0bq52c","player_url":"https://bysejikuar.com/e/ergnhj0bq52c"},{"id":3,"url":"https://vidhidepro.com/v/zbnnyz3f2jwj","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"zbnnyz3f2jwj","player_url":"https://vidhidepro.com/v/zbnnyz3f2jwj"},{"id":4,"url":"https://voe.sx/e/usnx4jh5uf2u","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"usnx4jh5uf2u","player_url":"https://voe.sx/e/usnx4jh5uf2u"},{"id":5,"url":"https://doodstream.com/e/q7l3fo9zvxff","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"q7l3fo9zvxff","player_url":"https://doodstream.com/e/q7l3fo9zvxff"},{"id":6,"url":"https://streamwish.to/e/v8fr384xux6j","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"v8fr384xux6j","player_url":"https://streamwish.to/e/v8fr384xux6j"},{"id":7,"url":"https://bysejikuar.com/e/b6qwbqzjo4fe","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"b6qwbqzjo4fe","player_url":"https://bysejikuar.com/e/b6qwbqzjo4fe"},{"id":8,"url":"https://vidhidepro.com/v/b4ndvryso332","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"b4ndvryso332","player_url":"https://vidhidepro.com/v/b4ndvryso332"},{"id":9,"url":"https://voe.sx/e/lpq3bc5qbwpg","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"lpq3bc5qbwpg","player_url":"https://voe.sx/e/lpq3bc5qbwpg"}]}
+{
+  "id": 1058100,
+  "titulo": "Volviendo a las Pistas",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/m18266gu0GczDXhGzJPbJiCY5oa.jpg",
+  "release_date": "2023-03-30",
+  "genres": [
+    "Comedia",
+    "Acción",
+    "Aventura"
+  ],
+  "rating": "4.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/tTowHrLbxXxtiJT65HJVWSp0EqR.jpg",
+  "overview": "Berti dejó las carreras de autos y ahora es dueño de un taller mecánico. Pero cuando el banco amenaza con cerrarle el negocio, tiene un mes para restaurar su viejo auto y participar en una nueva carrera.",
+  "trailer": "",
+  "runtime": "127",
+  "slug": "volviendo-a-las-pistas",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/0u4vzk58klkt",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "0u4vzk58klkt",
+      "player_url": "https://streamwish.to/e/0u4vzk58klkt"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/ergnhj0bq52c",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "ergnhj0bq52c",
+      "player_url": "https://bysejikuar.com/e/ergnhj0bq52c"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/zbnnyz3f2jwj",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "zbnnyz3f2jwj",
+      "player_url": "https://vidhidepro.com/v/zbnnyz3f2jwj"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/usnx4jh5uf2u",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "usnx4jh5uf2u",
+      "player_url": "https://voe.sx/e/usnx4jh5uf2u"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/q7l3fo9zvxff",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "q7l3fo9zvxff",
+      "player_url": "https://doodstream.com/e/q7l3fo9zvxff"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/v8fr384xux6j",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "v8fr384xux6j",
+      "player_url": "https://streamwish.to/e/v8fr384xux6j"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/b6qwbqzjo4fe",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "b6qwbqzjo4fe",
+      "player_url": "https://bysejikuar.com/e/b6qwbqzjo4fe"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/b4ndvryso332",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "b4ndvryso332",
+      "player_url": "https://vidhidepro.com/v/b4ndvryso332"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/lpq3bc5qbwpg",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "lpq3bc5qbwpg",
+      "player_url": "https://voe.sx/e/lpq3bc5qbwpg"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/embed/pvtje6u4q12k",
+      "player_url": "https://minochinos.com/embed/pvtje6u4q12k",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pvtje6u4q12k"
+    },
+    {
+      "id": 11,
+      "url": "https://hglink.to/e/ddihtbp7osaa",
+      "player_url": "https://hglink.to/e/ddihtbp7osaa",
+      "nombre": "Streamwish",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ddihtbp7osaa"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/e/ctc3qq8799xa",
+      "player_url": "https://bysedikamoum.com/e/ctc3qq8799xa",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ctc3qq8799xa"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/lp1eqppua7gp",
+      "player_url": "https://voe.sx/e/lp1eqppua7gp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lp1eqppua7gp"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/lp1eqppua7gp/download",
+      "player_url": "https://voe.sx/lp1eqppua7gp/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/2qrypmo5agwu",
+      "player_url": "https://rapidvideo.link/e/2qrypmo5agwu",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2qrypmo5agwu"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/embed/2hhcd9yaps2y",
+      "player_url": "https://minochinos.com/embed/2hhcd9yaps2y",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2hhcd9yaps2y"
+    },
+    {
+      "id": 17,
+      "url": "https://hglink.to/e/tfbs7pplk48c",
+      "player_url": "https://hglink.to/e/tfbs7pplk48c",
+      "nombre": "Streamwish",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "tfbs7pplk48c"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/e/ncax41qxeavc",
+      "player_url": "https://bysedikamoum.com/e/ncax41qxeavc",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "ncax41qxeavc"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/dfd0xpfvv8bf",
+      "player_url": "https://voe.sx/e/dfd0xpfvv8bf",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dfd0xpfvv8bf"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/dfd0xpfvv8bf/download",
+      "player_url": "https://voe.sx/dfd0xpfvv8bf/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/1bigahpt8del",
+      "player_url": "https://rapidvideo.link/e/1bigahpt8del",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "1bigahpt8del"
+    }
+  ]
+}
