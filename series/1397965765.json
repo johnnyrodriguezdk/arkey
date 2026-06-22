@@ -14,7 +14,17 @@
   "slug": "the-killing-kind",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf3125864cf6534c686521b2623b80c8aa3a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf3125864cf6534c686521b2623b80c8aa3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3125864cf6534c686521b2623b80c8aa3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
