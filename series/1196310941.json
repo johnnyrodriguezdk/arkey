@@ -14,7 +14,17 @@
   "slug": "the-new-look",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/hf23208437f007c1149e127f0078cb54b73a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/hf23208437f007c1149e127f0078cb54b73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf23208437f007c1149e127f0078cb54b73a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
