@@ -17,7 +17,35 @@
   "slug": "los-3-de-abajo-relatos-de-arcadia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/t1c83q1lh1x2",
+      "player_url": "https://dsvplay.com/e/t1c83q1lh1x2",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t1c83q1lh1x2",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/51k2guh37lls",
+      "player_url": "https://dsvplay.com/e/51k2guh37lls",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "51k2guh37lls",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/p9lw4qx3u02l",
+      "player_url": "https://voe.sx/e/p9lw4qx3u02l",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p9lw4qx3u02l",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
