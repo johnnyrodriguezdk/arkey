@@ -19,7 +19,26 @@
   "slug": "star-vs-las-fuerzas-del-mal",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf26fd13c098c8701dd83029a5154efa463a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf26fd13c098c8701dd83029a5154efa463a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf26fd13c098c8701dd83029a5154efa463a"
+    },
+    {
+      "url": "https://vidnova.online/embed/pvjt3phhl7xn",
+      "player_url": "https://vidnova.online/embed/pvjt3phhl7xn",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pvjt3phhl7xn",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
