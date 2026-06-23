@@ -17,7 +17,35 @@
   "slug": "digimon",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf0835257e6acf4404a98e142c99f79a5a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0835257e6acf4404a98e142c99f79a5a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0835257e6acf4404a98e142c99f79a5a3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/efv7kxpndwz8",
+      "player_url": "https://vidnova.online/embed/efv7kxpndwz8",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fv7kxpndwz8",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/ixygv4zdwfjs",
+      "player_url": "https://voe.sx/e/ixygv4zdwfjs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ixygv4zdwfjs",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
