@@ -17,7 +17,62 @@
   "slug": "la-tierra-antes-del-tiempo-serie",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hff3c361b7143b3029d985092b8350c1db3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff3c361b7143b3029d985092b8350c1db3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff3c361b7143b3029d985092b8350c1db3a"
+    },
+    {
+      "url": "https://streamfort.online/e/ge2iy8m280jd",
+      "player_url": "https://streamfort.online/e/ge2iy8m280jd",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ge2iy8m280jd",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/qwe08wkm5iz3",
+      "player_url": "https://vidnova.online/embed/qwe08wkm5iz3",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qwe08wkm5iz3",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/8p7gf9koufhu",
+      "player_url": "https://dsvplay.com/e/8p7gf9koufhu",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8p7gf9koufhu",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/mcn4m1cdxr3p",
+      "player_url": "https://voe.sx/e/mcn4m1cdxr3p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mcn4m1cdxr3p",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/fwtczmpc5823",
+      "player_url": "https://voe.sx/e/fwtczmpc5823",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fwtczmpc5823",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
