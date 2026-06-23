@@ -13,7 +13,62 @@
   "slug": "la-mujer-araa",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf0587f6661f252cf2ee31b77d99053b203a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0587f6661f252cf2ee31b77d99053b203a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0587f6661f252cf2ee31b77d99053b203a"
+    },
+    {
+      "url": "https://streamfort.online/e/pmxwk6ac2ifl",
+      "player_url": "https://streamfort.online/e/pmxwk6ac2ifl",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pmxwk6ac2ifl",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/3raefcxtbrnx",
+      "player_url": "https://vidnova.online/embed/3raefcxtbrnx",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3raefcxtbrnx",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/351rb9mgmwfx",
+      "player_url": "https://vidnova.online/embed/351rb9mgmwfx",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "351rb9mgmwfx",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/1s4s2sfkwrcz",
+      "player_url": "https://dsvplay.com/e/1s4s2sfkwrcz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1s4s2sfkwrcz",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/bduk618pjdgb",
+      "player_url": "https://voe.sx/e/bduk618pjdgb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bduk618pjdgb",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
