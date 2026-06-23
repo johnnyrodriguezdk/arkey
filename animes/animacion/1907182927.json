@@ -14,7 +14,53 @@
   "slug": "inu-ni-nattara-suki-na-hito-ni-hirowareta",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf40f34e7146352dce68db753b12d1c9f43a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf40f34e7146352dce68db753b12d1c9f43a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf40f34e7146352dce68db753b12d1c9f43a"
+    },
+    {
+      "url": "https://streamfort.online/e/jmscysnzgd46",
+      "player_url": "https://streamfort.online/e/jmscysnzgd46",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jmscysnzgd46",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/qn9qdvtf66jp",
+      "player_url": "https://dsvplay.com/e/qn9qdvtf66jp",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qn9qdvtf66jp",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/td2klkbvlws3",
+      "player_url": "https://voe.sx/e/td2klkbvlws3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "td2klkbvlws3",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/gtqkkeeufylc",
+      "player_url": "https://voe.sx/e/gtqkkeeufylc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gtqkkeeufylc",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
