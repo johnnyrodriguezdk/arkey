@@ -16,7 +16,26 @@
   "slug": "vampire-dormitory",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf448bebce7977ab183a65fd2ed1237d963a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf448bebce7977ab183a65fd2ed1237d963a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf448bebce7977ab183a65fd2ed1237d963a"
+    },
+    {
+      "url": "https://voe.sx/e/w89sgrprws1v",
+      "player_url": "https://voe.sx/e/w89sgrprws1v",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w89sgrprws1v",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
