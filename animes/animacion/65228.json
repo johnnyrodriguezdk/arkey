@@ -14,7 +14,53 @@
   "slug": "animales-65228",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfde9945b949bf46c3c382b4fed4beb47c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfde9945b949bf46c3c382b4fed4beb47c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfde9945b949bf46c3c382b4fed4beb47c3a"
+    },
+    {
+      "url": "https://streamfort.online/e/zgts7qs7lnb0",
+      "player_url": "https://streamfort.online/e/zgts7qs7lnb0",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zgts7qs7lnb0",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/s1ksjdh9p5e5",
+      "player_url": "https://vidnova.online/embed/s1ksjdh9p5e5",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s1ksjdh9p5e5",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/qstylyjuz5lm",
+      "player_url": "https://voe.sx/e/qstylyjuz5lm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qstylyjuz5lm",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/fl3jbe5dvucm",
+      "player_url": "https://voe.sx/e/fl3jbe5dvucm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fl3jbe5dvucm",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
