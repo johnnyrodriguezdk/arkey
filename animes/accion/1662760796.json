@@ -16,7 +16,53 @@
   "slug": "las-nuevas-aventuras-de-batman",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfecbf0e2870581276e889e28964a758ec3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfecbf0e2870581276e889e28964a758ec3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfecbf0e2870581276e889e28964a758ec3a"
+    },
+    {
+      "url": "https://streamfort.online/e/p2sszop8w03f",
+      "player_url": "https://streamfort.online/e/p2sszop8w03f",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p2sszop8w03f",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/xa0f5cyqtxl8",
+      "player_url": "https://vidnova.online/embed/xa0f5cyqtxl8",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xa0f5cyqtxl8",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/r50fhpe9ixhs",
+      "player_url": "https://dsvplay.com/e/r50fhpe9ixhs",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r50fhpe9ixhs",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/z3ja3nxonrtn",
+      "player_url": "https://voe.sx/e/z3ja3nxonrtn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z3ja3nxonrtn",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
