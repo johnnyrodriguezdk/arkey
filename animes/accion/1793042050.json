@@ -18,7 +18,26 @@
   "slug": "sirius-the-jaeger",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/fgg0hgr5f7y4",
+      "player_url": "https://dsvplay.com/e/fgg0hgr5f7y4",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fgg0hgr5f7y4",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/zahss18hdbgf",
+      "player_url": "https://dsvplay.com/e/zahss18hdbgf",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zahss18hdbgf",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
