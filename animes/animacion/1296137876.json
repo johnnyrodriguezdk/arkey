@@ -17,7 +17,26 @@
   "slug": "el-increible-mundo-de-gumball",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfa2923801b6f4d717e32456c5c991747a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa2923801b6f4d717e32456c5c991747a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa2923801b6f4d717e32456c5c991747a3a"
+    },
+    {
+      "url": "https://streamfort.online/e/ubvi9vy253cu",
+      "player_url": "https://streamfort.online/e/ubvi9vy253cu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ubvi9vy253cu",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
