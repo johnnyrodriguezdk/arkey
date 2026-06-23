@@ -13,7 +13,44 @@
   "slug": "tona-gura",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf3543885aa71a16e7df191c05ff4a5ab73a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf3543885aa71a16e7df191c05ff4a5ab73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3543885aa71a16e7df191c05ff4a5ab73a"
+    },
+    {
+      "url": "https://streamfort.online/e/41a8z7sbb6vp",
+      "player_url": "https://streamfort.online/e/41a8z7sbb6vp",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "41a8z7sbb6vp",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/1lpkexgnev45",
+      "player_url": "https://dsvplay.com/e/1lpkexgnev45",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1lpkexgnev45",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/7jw82sheqtku",
+      "player_url": "https://voe.sx/e/7jw82sheqtku",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7jw82sheqtku",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
