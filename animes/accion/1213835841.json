@@ -17,7 +17,44 @@
   "slug": "la-isla-calavera",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/zgeerxmtnsep",
+      "player_url": "https://streamfort.online/e/zgeerxmtnsep",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zgeerxmtnsep",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/v9gyf1rwxx5f",
+      "player_url": "https://streamfort.online/e/v9gyf1rwxx5f",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v9gyf1rwxx5f",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/k6g4xufh4g2y",
+      "player_url": "https://dsvplay.com/e/k6g4xufh4g2y",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k6g4xufh4g2y",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/8btkszv89pwx",
+      "player_url": "https://dsvplay.com/e/8btkszv89pwx",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8btkszv89pwx",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
