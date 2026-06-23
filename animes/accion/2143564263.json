@@ -16,7 +16,35 @@
   "slug": "one-piece",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/2tovj5f9c7b5",
+      "player_url": "https://dsvplay.com/e/2tovj5f9c7b5",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2tovj5f9c7b5",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/m6vyjm1lq64j",
+      "player_url": "https://dsvplay.com/e/m6vyjm1lq64j",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m6vyjm1lq64j",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/z1npx2edjp89",
+      "player_url": "https://voe.sx/e/z1npx2edjp89",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z1npx2edjp89",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
