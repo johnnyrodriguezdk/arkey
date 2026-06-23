@@ -18,7 +18,80 @@
   "slug": "zom-100-bucket-list-of-the-dead",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf4b21a72cecbb5b231ff3f7363180cba13a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf4b21a72cecbb5b231ff3f7363180cba13a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf4b21a72cecbb5b231ff3f7363180cba13a"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hf1a5f3712e91c2f78ac9fc675c9a310113a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf1a5f3712e91c2f78ac9fc675c9a310113a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1a5f3712e91c2f78ac9fc675c9a310113a"
+    },
+    {
+      "url": "https://voe.sx/e/szwuv4px6miv",
+      "player_url": "https://voe.sx/e/szwuv4px6miv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "szwuv4px6miv",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/liyihxhpnwfu",
+      "player_url": "https://voe.sx/e/liyihxhpnwfu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "liyihxhpnwfu",
+      "id": 4
+    },
+    {
+      "url": "https://streamfort.online/e/6l1ox5ck2fvc",
+      "player_url": "https://streamfort.online/e/6l1ox5ck2fvc",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6l1ox5ck2fvc",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/c3pi0rmr5ino",
+      "player_url": "https://dsvplay.com/e/c3pi0rmr5ino",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c3pi0rmr5ino",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/bdi271wb7p78",
+      "player_url": "https://voe.sx/e/bdi271wb7p78",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bdi271wb7p78",
+      "id": 7
+    },
+    {
+      "url": "https://voe.sx/e/ey3n3rffsl3l",
+      "player_url": "https://voe.sx/e/ey3n3rffsl3l",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y3n3rffsl3l",
+      "id": 8
+    }
+  ],
   "episodes": [
     {
       "season": 1,
