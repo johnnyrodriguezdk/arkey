@@ -17,7 +17,17 @@
   "slug": "baki-hanma",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf11e1fdc91ffc555de5cf1f3a44868eec3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf11e1fdc91ffc555de5cf1f3a44868eec3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf11e1fdc91ffc555de5cf1f3a44868eec3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
