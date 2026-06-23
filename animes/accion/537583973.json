@@ -16,7 +16,26 @@
   "slug": "hyakka-ryouran-samurai-girls",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/rgwne141w2pv",
+      "player_url": "https://dsvplay.com/e/rgwne141w2pv",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rgwne141w2pv",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/w7gy7culs8w8",
+      "player_url": "https://dsvplay.com/e/w7gy7culs8w8",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w7gy7culs8w8",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
