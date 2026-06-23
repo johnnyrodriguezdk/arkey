@@ -19,7 +19,53 @@
   "slug": "battle-game-in-5-seconds",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf90f792eb03b2e0714ae4e07f7ca57abb3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf90f792eb03b2e0714ae4e07f7ca57abb3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf90f792eb03b2e0714ae4e07f7ca57abb3a"
+    },
+    {
+      "url": "https://streamfort.online/e/8087pu04niig",
+      "player_url": "https://streamfort.online/e/8087pu04niig",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8087pu04niig",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/6d300zng1f8e",
+      "player_url": "https://dsvplay.com/e/6d300zng1f8e",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6d300zng1f8e",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/cmrnj7g55cq5",
+      "player_url": "https://voe.sx/e/cmrnj7g55cq5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cmrnj7g55cq5",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/kfh6rm3csul3",
+      "player_url": "https://voe.sx/e/kfh6rm3csul3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kfh6rm3csul3",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
