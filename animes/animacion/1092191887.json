@@ -16,7 +16,62 @@
   "slug": "me-enamore-de-la-villana",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf2e9a12041ce4621855415b71d2ba3bd53a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf2e9a12041ce4621855415b71d2ba3bd53a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf2e9a12041ce4621855415b71d2ba3bd53a"
+    },
+    {
+      "url": "https://streamfort.online/e/iir8s8pyb8tj",
+      "player_url": "https://streamfort.online/e/iir8s8pyb8tj",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iir8s8pyb8tj",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/jkd6arpm9jhe",
+      "player_url": "https://vidnova.online/embed/jkd6arpm9jhe",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jkd6arpm9jhe",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/id8ymmfkmalg",
+      "player_url": "https://dsvplay.com/e/id8ymmfkmalg",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "id8ymmfkmalg",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/vlonq2lk9lmq",
+      "player_url": "https://voe.sx/e/vlonq2lk9lmq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vlonq2lk9lmq",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/ggpnyjl4546h",
+      "player_url": "https://voe.sx/e/ggpnyjl4546h",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ggpnyjl4546h",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
