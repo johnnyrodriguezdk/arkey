@@ -19,7 +19,53 @@
   "slug": "land-of-the-lustrous",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf22e3c74fa07746970292c86dc5dd4b743a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf22e3c74fa07746970292c86dc5dd4b743a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf22e3c74fa07746970292c86dc5dd4b743a"
+    },
+    {
+      "url": "https://streamfort.online/e/673j0twhefi0",
+      "player_url": "https://streamfort.online/e/673j0twhefi0",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "673j0twhefi0",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/871rwofjqxe1",
+      "player_url": "https://vidnova.online/embed/871rwofjqxe1",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "871rwofjqxe1",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/bf383i4xlcpx",
+      "player_url": "https://voe.sx/e/bf383i4xlcpx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bf383i4xlcpx",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/zl0wwlbzdqvj",
+      "player_url": "https://voe.sx/e/zl0wwlbzdqvj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zl0wwlbzdqvj",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
