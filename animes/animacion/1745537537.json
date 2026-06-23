@@ -16,7 +16,35 @@
   "slug": "sins",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf3cad17d850831a1ff37d4f834a088af93a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf3cad17d850831a1ff37d4f834a088af93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3cad17d850831a1ff37d4f834a088af93a"
+    },
+    {
+      "url": "https://streamfort.online/e/6yyxbz69o9ox",
+      "player_url": "https://streamfort.online/e/6yyxbz69o9ox",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6yyxbz69o9ox",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/89tcci5huuil",
+      "player_url": "https://voe.sx/e/89tcci5huuil",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "89tcci5huuil",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
