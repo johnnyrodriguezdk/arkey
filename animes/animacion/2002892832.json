@@ -14,7 +14,35 @@
   "slug": "ping-pong-the-animation",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf029b2cd343f445383d37a177bc4dbd0b3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf029b2cd343f445383d37a177bc4dbd0b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf029b2cd343f445383d37a177bc4dbd0b3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/nl16uyie4fpt",
+      "player_url": "https://vidnova.online/embed/nl16uyie4fpt",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nl16uyie4fpt",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/jv8dlwfeg3fs",
+      "player_url": "https://voe.sx/e/jv8dlwfeg3fs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jv8dlwfeg3fs",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
