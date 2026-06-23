@@ -18,7 +18,35 @@
   "slug": "a-playthrough-of-a-certain-dudes-vrmmo-life",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf52e5a540b169b3f03be07e6eb4e0239c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf52e5a540b169b3f03be07e6eb4e0239c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf52e5a540b169b3f03be07e6eb4e0239c3a"
+    },
+    {
+      "url": "https://voe.sx/e/85z97nhvuiel",
+      "player_url": "https://voe.sx/e/85z97nhvuiel",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "85z97nhvuiel",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/wpiqzsfe2q7k",
+      "player_url": "https://voe.sx/e/wpiqzsfe2q7k",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wpiqzsfe2q7k",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
