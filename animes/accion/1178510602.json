@@ -17,7 +17,44 @@
   "slug": "dragons-dogma",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfafc610b587b05d8d174e25f7fb53eba13a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfafc610b587b05d8d174e25f7fb53eba13a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfafc610b587b05d8d174e25f7fb53eba13a"
+    },
+    {
+      "url": "https://streamfort.online/e/6q1pegowm3mw",
+      "player_url": "https://streamfort.online/e/6q1pegowm3mw",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6q1pegowm3mw",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/9d66z3w2rjk3",
+      "player_url": "https://voe.sx/e/9d66z3w2rjk3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9d66z3w2rjk3",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/yyntyyp439nx",
+      "player_url": "https://voe.sx/e/yyntyyp439nx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yyntyyp439nx",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
