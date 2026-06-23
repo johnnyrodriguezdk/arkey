@@ -16,7 +16,53 @@
   "slug": "patlabor-the-tv-series",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf155c4916cc6e583a005109e22434f38b3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf155c4916cc6e583a005109e22434f38b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf155c4916cc6e583a005109e22434f38b3a"
+    },
+    {
+      "url": "https://streamfort.online/e/re7l0aq1y3u2",
+      "player_url": "https://streamfort.online/e/re7l0aq1y3u2",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "re7l0aq1y3u2",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/ctxfbmx0l0np",
+      "player_url": "https://voe.sx/e/ctxfbmx0l0np",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ctxfbmx0l0np",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/g5zylwfa5yju",
+      "player_url": "https://voe.sx/e/g5zylwfa5yju",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g5zylwfa5yju",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/ggarcoubntz8",
+      "player_url": "https://voe.sx/e/ggarcoubntz8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ggarcoubntz8",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
