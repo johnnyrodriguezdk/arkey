@@ -18,7 +18,44 @@
   "slug": "tsukimichi-moonlit-fantasy",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf2c618ce3cb78d6911e9c39236536953a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf2c618ce3cb78d6911e9c39236536953a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf2c618ce3cb78d6911e9c39236536953a3a"
+    },
+    {
+      "url": "https://streamfort.online/e/bzt3jxb53e62",
+      "player_url": "https://streamfort.online/e/bzt3jxb53e62",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bzt3jxb53e62",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/oretxi6m3kx0",
+      "player_url": "https://dsvplay.com/e/oretxi6m3kx0",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oretxi6m3kx0",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/pasewonx4avf",
+      "player_url": "https://voe.sx/e/pasewonx4avf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pasewonx4avf",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
