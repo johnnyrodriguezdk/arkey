@@ -15,7 +15,26 @@
   "slug": "fruits-basket",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc5a7d22e9277a833c2be1cc7eb9eab243a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc5a7d22e9277a833c2be1cc7eb9eab243a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc5a7d22e9277a833c2be1cc7eb9eab243a"
+    },
+    {
+      "url": "https://voe.sx/e/zyx2por7h0c7",
+      "player_url": "https://voe.sx/e/zyx2por7h0c7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zyx2por7h0c7",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
