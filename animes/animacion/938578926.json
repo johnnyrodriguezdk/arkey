@@ -16,7 +16,17 @@
   "slug": "kuromukuro",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/0bsnhdnk3xtb",
+      "player_url": "https://voe.sx/e/0bsnhdnk3xtb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0bsnhdnk3xtb",
+      "id": 1
+    }
+  ],
   "episodes": [
     {
       "season": 1,
