@@ -16,7 +16,35 @@
   "slug": "kakegurui",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfdbd46b556d80c632a7302bbe0666a75a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfdbd46b556d80c632a7302bbe0666a75a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfdbd46b556d80c632a7302bbe0666a75a3a"
+    },
+    {
+      "url": "https://streamfort.online/e/9a9k9vo7xdfu",
+      "player_url": "https://streamfort.online/e/9a9k9vo7xdfu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9a9k9vo7xdfu",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/cepdqziupxfk",
+      "player_url": "https://voe.sx/e/cepdqziupxfk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cepdqziupxfk",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
