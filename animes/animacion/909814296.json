@@ -15,7 +15,26 @@
   "slug": "yuri-is-my-job",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/hdiofans93ec",
+      "player_url": "https://dsvplay.com/e/hdiofans93ec",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hdiofans93ec",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/07qip4bjnxb1",
+      "player_url": "https://dsvplay.com/e/07qip4bjnxb1",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "07qip4bjnxb1",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
