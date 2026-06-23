@@ -14,7 +14,44 @@
   "slug": "school-days",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hff00fb6744a73afef69cf1c5e619278e43a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff00fb6744a73afef69cf1c5e619278e43a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff00fb6744a73afef69cf1c5e619278e43a"
+    },
+    {
+      "url": "https://vidnova.online/embed/40qu8286d89h",
+      "player_url": "https://vidnova.online/embed/40qu8286d89h",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "40qu8286d89h",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/1akluqj6ipoh",
+      "player_url": "https://dsvplay.com/e/1akluqj6ipoh",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1akluqj6ipoh",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/1seqw6y00cqg",
+      "player_url": "https://voe.sx/e/1seqw6y00cqg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1seqw6y00cqg",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 0,
