@@ -16,7 +16,53 @@
   "slug": "wondla",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf78ad62d13837991b2edc62fe79e752263a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf78ad62d13837991b2edc62fe79e752263a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf78ad62d13837991b2edc62fe79e752263a"
+    },
+    {
+      "url": "https://streamfort.online/e/ofbqdff11d4n",
+      "player_url": "https://streamfort.online/e/ofbqdff11d4n",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ofbqdff11d4n",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/k12lbpt60zfe",
+      "player_url": "https://vidnova.online/embed/k12lbpt60zfe",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k12lbpt60zfe",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/wrxzhde76xwb",
+      "player_url": "https://vidnova.online/embed/wrxzhde76xwb",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wrxzhde76xwb",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/0jv900va9o40",
+      "player_url": "https://dsvplay.com/e/0jv900va9o40",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0jv900va9o40",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
