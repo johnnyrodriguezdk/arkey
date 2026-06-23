@@ -17,7 +17,71 @@
   "slug": "magia-record-mahou-shoujo-madokamagica-gaiden",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfdb216fe6c5c0fc2307f9d9dec6e722c23a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfdb216fe6c5c0fc2307f9d9dec6e722c23a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfdb216fe6c5c0fc2307f9d9dec6e722c23a"
+    },
+    {
+      "url": "https://streamfort.online/e/j4x4ktl5g6ks",
+      "player_url": "https://streamfort.online/e/j4x4ktl5g6ks",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j4x4ktl5g6ks",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/cw67tb3p20uz",
+      "player_url": "https://vidnova.online/embed/cw67tb3p20uz",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cw67tb3p20uz",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/xryo3e4cbi47",
+      "player_url": "https://dsvplay.com/e/xryo3e4cbi47",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xryo3e4cbi47",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/j5v4njlfnrnb",
+      "player_url": "https://voe.sx/e/j5v4njlfnrnb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j5v4njlfnrnb",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/rmtr9r4hckcn",
+      "player_url": "https://voe.sx/e/rmtr9r4hckcn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rmtr9r4hckcn",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/kn6wla1bezx4",
+      "player_url": "https://voe.sx/e/kn6wla1bezx4",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kn6wla1bezx4",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
