@@ -17,7 +17,17 @@
   "slug": "megaton-musashi",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/0icfqhtnojhu",
+      "player_url": "https://voe.sx/e/0icfqhtnojhu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0icfqhtnojhu",
+      "id": 1
+    }
+  ],
   "episodes": [
     {
       "season": 1,
