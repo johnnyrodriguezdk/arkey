@@ -17,7 +17,44 @@
   "slug": "centaurworld",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/5iro9ta3fqoo",
+      "player_url": "https://streamfort.online/e/5iro9ta3fqoo",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5iro9ta3fqoo",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/rgb6ycc2qvdd",
+      "player_url": "https://streamfort.online/e/rgb6ycc2qvdd",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rgb6ycc2qvdd",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/di7a4vkcy6hb",
+      "player_url": "https://dsvplay.com/e/di7a4vkcy6hb",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "di7a4vkcy6hb",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/6i8nms8qstsf",
+      "player_url": "https://voe.sx/e/6i8nms8qstsf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6i8nms8qstsf",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
