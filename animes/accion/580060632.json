@@ -16,7 +16,71 @@
   "slug": "ajin",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf099690fe33084a022deacbd7ff424ec63a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf099690fe33084a022deacbd7ff424ec63a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf099690fe33084a022deacbd7ff424ec63a"
+    },
+    {
+      "url": "https://streamfort.online/e/373r5403zbfv",
+      "player_url": "https://streamfort.online/e/373r5403zbfv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "373r5403zbfv",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/5bodla3zoj3s",
+      "player_url": "https://vidnova.online/embed/5bodla3zoj3s",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5bodla3zoj3s",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/4dfsrke8osn4",
+      "player_url": "https://vidnova.online/embed/4dfsrke8osn4",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4dfsrke8osn4",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/eu164ok3aa3e",
+      "player_url": "https://dsvplay.com/e/eu164ok3aa3e",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u164ok3aa3e",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/vjrpi68zkw5u",
+      "player_url": "https://voe.sx/e/vjrpi68zkw5u",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vjrpi68zkw5u",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/4qesuv4kjhfe",
+      "player_url": "https://voe.sx/e/4qesuv4kjhfe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4qesuv4kjhfe",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
