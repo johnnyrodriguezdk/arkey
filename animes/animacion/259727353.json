@@ -16,7 +16,62 @@
   "slug": "el-segundo-mejor-hospital-de-la-galaxia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfcf9beca61a011dbc04643cfdefee84bd3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfcf9beca61a011dbc04643cfdefee84bd3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfcf9beca61a011dbc04643cfdefee84bd3a"
+    },
+    {
+      "url": "https://streamfort.online/e/dlfqo26iauli",
+      "player_url": "https://streamfort.online/e/dlfqo26iauli",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dlfqo26iauli",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/89uddqnhyqyr",
+      "player_url": "https://streamfort.online/e/89uddqnhyqyr",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "89uddqnhyqyr",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/k9s126d7eczi",
+      "player_url": "https://dsvplay.com/e/k9s126d7eczi",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k9s126d7eczi",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/vc0x7jjhpalz",
+      "player_url": "https://voe.sx/e/vc0x7jjhpalz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vc0x7jjhpalz",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/bktxdjnnkqnk",
+      "player_url": "https://voe.sx/e/bktxdjnnkqnk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bktxdjnnkqnk",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
