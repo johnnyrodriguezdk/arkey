@@ -18,7 +18,44 @@
   "slug": "undead-unluck",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf9faa0c168ea0dae3c477b80088b3dc3e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf9faa0c168ea0dae3c477b80088b3dc3e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9faa0c168ea0dae3c477b80088b3dc3e3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/3kj1k5rcvejg",
+      "player_url": "https://vidnova.online/embed/3kj1k5rcvejg",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3kj1k5rcvejg",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/w7umk3sqfrhj",
+      "player_url": "https://voe.sx/e/w7umk3sqfrhj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w7umk3sqfrhj",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/2gbjbyholemb",
+      "player_url": "https://voe.sx/e/2gbjbyholemb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2gbjbyholemb",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
