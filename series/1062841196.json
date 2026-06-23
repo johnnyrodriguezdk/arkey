@@ -51,6 +51,42 @@
       "calidad": "HD",
       "embed_id": "bsrrpijgn3us",
       "id": 4
+    },
+    {
+      "id": 5,
+      "url": "https://lacloud.live/public/stream/e61508c41afb5672/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/e61508c41afb5672/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "61508c41afb5672"
+    },
+    {
+      "id": 6,
+      "url": "https://lalafilecdn.space/hf93944c3965cad3d580d1cc0a5105244c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf93944c3965cad3d580d1cc0a5105244c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hf93944c3965cad3d580d1cc0a5105244c3a"
+    },
+    {
+      "url": "https://voe.sx/e/vqcl84igrkce",
+      "player_url": "https://voe.sx/e/vqcl84igrkce",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "vqcl84igrkce",
+      "id": 7
+    },
+    {
+      "url": "https://voe.sx/e/bsrrpijgn3us",
+      "player_url": "https://voe.sx/e/bsrrpijgn3us",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "bsrrpijgn3us",
+      "id": 8
     }
   ],
   "episodes": [
