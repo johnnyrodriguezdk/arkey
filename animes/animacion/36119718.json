@@ -16,7 +16,35 @@
   "slug": "the-family-circumstances-of-the-irregular-witch",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hff35074d75f0e86abaf6a2d65381454913a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff35074d75f0e86abaf6a2d65381454913a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff35074d75f0e86abaf6a2d65381454913a"
+    },
+    {
+      "url": "https://voe.sx/e/9lazh7h7muqg",
+      "player_url": "https://voe.sx/e/9lazh7h7muqg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9lazh7h7muqg",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/ydn1i8h0jkhv",
+      "player_url": "https://voe.sx/e/ydn1i8h0jkhv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ydn1i8h0jkhv",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
