@@ -18,7 +18,53 @@
   "slug": "suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf1c6da614e5036ad0224c553c0f3fc9c53a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf1c6da614e5036ad0224c553c0f3fc9c53a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1c6da614e5036ad0224c553c0f3fc9c53a"
+    },
+    {
+      "url": "https://streamfort.online/e/dmzen40jk1e9",
+      "player_url": "https://streamfort.online/e/dmzen40jk1e9",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dmzen40jk1e9",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/uyfk52xxxk7u",
+      "player_url": "https://voe.sx/e/uyfk52xxxk7u",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uyfk52xxxk7u",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/ukbq1xil1cjv",
+      "player_url": "https://voe.sx/e/ukbq1xil1cjv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ukbq1xil1cjv",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/yfpyspuop2di",
+      "player_url": "https://voe.sx/e/yfpyspuop2di",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yfpyspuop2di",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
