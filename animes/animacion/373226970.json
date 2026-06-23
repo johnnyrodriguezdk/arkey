@@ -14,7 +14,53 @@
   "slug": "riel-romanesco",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf15978a135b6d14d252a5ef05af8b67473a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf15978a135b6d14d252a5ef05af8b67473a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf15978a135b6d14d252a5ef05af8b67473a"
+    },
+    {
+      "url": "https://voe.sx/e/uhpeqdrdq2vs",
+      "player_url": "https://voe.sx/e/uhpeqdrdq2vs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uhpeqdrdq2vs",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/wmx6zxd2myjn",
+      "player_url": "https://streamfort.online/e/wmx6zxd2myjn",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wmx6zxd2myjn",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/dustp3bcwjpv",
+      "player_url": "https://streamfort.online/e/dustp3bcwjpv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dustp3bcwjpv",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/b5gf6b7u7ys9",
+      "player_url": "https://voe.sx/e/b5gf6b7u7ys9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b5gf6b7u7ys9",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
