@@ -14,7 +14,44 @@
   "slug": "moriarty-the-patriot",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf51e26d68950931b306e9e0b746ccf4ed3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf51e26d68950931b306e9e0b746ccf4ed3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf51e26d68950931b306e9e0b746ccf4ed3a"
+    },
+    {
+      "url": "https://streamfort.online/e/xebmiqkec83u",
+      "player_url": "https://streamfort.online/e/xebmiqkec83u",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xebmiqkec83u",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/v35s2x4cvmzf",
+      "player_url": "https://dsvplay.com/e/v35s2x4cvmzf",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v35s2x4cvmzf",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/aex2qdjisls9",
+      "player_url": "https://voe.sx/e/aex2qdjisls9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aex2qdjisls9",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
