@@ -18,7 +18,44 @@
   "slug": "full-dive-this-ultimate-next-gen-full-dive-rpg-is-even-s-than-real-life",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf89530776a5f7d6cdc0758e754e52b7583a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf89530776a5f7d6cdc0758e754e52b7583a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf89530776a5f7d6cdc0758e754e52b7583a"
+    },
+    {
+      "url": "https://streamfort.online/e/aygiykx1q0jv",
+      "player_url": "https://streamfort.online/e/aygiykx1q0jv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aygiykx1q0jv",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/uhxo25wgvsew",
+      "player_url": "https://vidnova.online/embed/uhxo25wgvsew",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uhxo25wgvsew",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/5nhoec4hxh53",
+      "player_url": "https://voe.sx/e/5nhoec4hxh53",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5nhoec4hxh53",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
