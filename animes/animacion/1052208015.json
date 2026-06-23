@@ -14,7 +14,53 @@
   "slug": "el-nuevo-show-del-pajaro-loco",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfbd88c6071a95102421e2fbca6392b78a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfbd88c6071a95102421e2fbca6392b78a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfbd88c6071a95102421e2fbca6392b78a3a"
+    },
+    {
+      "url": "https://streamfort.online/e/7te6nti0ekot",
+      "player_url": "https://streamfort.online/e/7te6nti0ekot",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7te6nti0ekot",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/x75d53m7hjc6",
+      "player_url": "https://vidnova.online/embed/x75d53m7hjc6",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x75d53m7hjc6",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/u339fb8d496n",
+      "player_url": "https://dsvplay.com/e/u339fb8d496n",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u339fb8d496n",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/2atbnw52o8fj",
+      "player_url": "https://voe.sx/e/2atbnw52o8fj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2atbnw52o8fj",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
