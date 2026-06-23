@@ -17,7 +17,53 @@
   "slug": "the-future-diary",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc8f88c1a5f948623a95e19f1c09a81143a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc8f88c1a5f948623a95e19f1c09a81143a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc8f88c1a5f948623a95e19f1c09a81143a"
+    },
+    {
+      "url": "https://streamfort.online/e/h1yxrawqf2s1",
+      "player_url": "https://streamfort.online/e/h1yxrawqf2s1",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h1yxrawqf2s1",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/cf0y2fh7oov1",
+      "player_url": "https://vidnova.online/embed/cf0y2fh7oov1",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cf0y2fh7oov1",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/2i3ie5rt9vxj",
+      "player_url": "https://dsvplay.com/e/2i3ie5rt9vxj",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2i3ie5rt9vxj",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/j1nbbn5mbrhn",
+      "player_url": "https://voe.sx/e/j1nbbn5mbrhn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j1nbbn5mbrhn",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
