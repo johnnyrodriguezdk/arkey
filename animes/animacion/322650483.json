@@ -14,7 +14,35 @@
   "slug": "detective-conan-hanzawa-el-culpable",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/iwaquy7zgfub",
+      "player_url": "https://dsvplay.com/e/iwaquy7zgfub",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iwaquy7zgfub",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/l92ho78j6q8q",
+      "player_url": "https://dsvplay.com/e/l92ho78j6q8q",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l92ho78j6q8q",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/zrtcpyqm8u33",
+      "player_url": "https://voe.sx/e/zrtcpyqm8u33",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zrtcpyqm8u33",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
