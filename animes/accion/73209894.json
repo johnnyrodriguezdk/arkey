@@ -18,7 +18,35 @@
   "slug": "spice-and-wolf",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/qumqgvqib825",
+      "player_url": "https://streamfort.online/e/qumqgvqib825",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qumqgvqib825",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/astobsa7yfwi",
+      "player_url": "https://streamfort.online/e/astobsa7yfwi",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "astobsa7yfwi",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/72ilqjuvgstj",
+      "player_url": "https://voe.sx/e/72ilqjuvgstj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "72ilqjuvgstj",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 0,
