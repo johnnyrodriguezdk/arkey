@@ -18,7 +18,71 @@
   "slug": "the-strongest-sage-with-the-weakest-crest",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf1bb529da613e31a844fbe8722819f1133a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf1bb529da613e31a844fbe8722819f1133a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1bb529da613e31a844fbe8722819f1133a"
+    },
+    {
+      "url": "https://streamfort.online/e/w0zwtomoof0s",
+      "player_url": "https://streamfort.online/e/w0zwtomoof0s",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w0zwtomoof0s",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/27z7pwxxvx2k",
+      "player_url": "https://vidnova.online/embed/27z7pwxxvx2k",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "27z7pwxxvx2k",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/gp65e8ew01bk",
+      "player_url": "https://dsvplay.com/e/gp65e8ew01bk",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gp65e8ew01bk",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/i3rkqntr9nxe",
+      "player_url": "https://voe.sx/e/i3rkqntr9nxe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i3rkqntr9nxe",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/3ovlnxeqinlg",
+      "player_url": "https://voe.sx/e/3ovlnxeqinlg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3ovlnxeqinlg",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/fqvjkrk1glsa",
+      "player_url": "https://voe.sx/e/fqvjkrk1glsa",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fqvjkrk1glsa",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
