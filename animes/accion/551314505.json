@@ -17,7 +17,26 @@
   "slug": "the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf2dd2e8dee26903c9c4eac3f18c31b0253a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf2dd2e8dee26903c9c4eac3f18c31b0253a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf2dd2e8dee26903c9c4eac3f18c31b0253a"
+    },
+    {
+      "url": "https://voe.sx/e/6iu7tkuhpat9",
+      "player_url": "https://voe.sx/e/6iu7tkuhpat9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6iu7tkuhpat9",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
