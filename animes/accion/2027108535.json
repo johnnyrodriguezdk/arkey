@@ -17,7 +17,44 @@
   "slug": "unicornio-los-guerreros-eternos",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/uze1fvjldy5e",
+      "player_url": "https://dsvplay.com/e/uze1fvjldy5e",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uze1fvjldy5e",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/zoha5d2xrrl5",
+      "player_url": "https://dsvplay.com/e/zoha5d2xrrl5",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zoha5d2xrrl5",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/w9opqr0v30qj",
+      "player_url": "https://dsvplay.com/e/w9opqr0v30qj",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w9opqr0v30qj",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/eedt4abrfemy",
+      "player_url": "https://dsvplay.com/e/eedt4abrfemy",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dt4abrfemy",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
