@@ -17,7 +17,35 @@
   "slug": "dragon-ball",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf6e2d1723fd58e84b4f0217e7719c98823a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf6e2d1723fd58e84b4f0217e7719c98823a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf6e2d1723fd58e84b4f0217e7719c98823a"
+    },
+    {
+      "url": "https://voe.sx/e/j8oqffrgzwlx",
+      "player_url": "https://voe.sx/e/j8oqffrgzwlx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j8oqffrgzwlx",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/payg8xbs3rc5",
+      "player_url": "https://voe.sx/e/payg8xbs3rc5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "payg8xbs3rc5",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
