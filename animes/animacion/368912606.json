@@ -13,7 +13,26 @@
   "slug": "darling-in-the-franxx",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf0d44858ea9cd86f632f14344f468210b3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0d44858ea9cd86f632f14344f468210b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0d44858ea9cd86f632f14344f468210b3a"
+    },
+    {
+      "url": "https://voe.sx/e/acxc0dqdyp13",
+      "player_url": "https://voe.sx/e/acxc0dqdyp13",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "acxc0dqdyp13",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
