@@ -17,7 +17,26 @@
   "slug": "hulk-y-los-agentes-de-s-m-a-s-h",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/j9r2jpa4glht",
+      "player_url": "https://dsvplay.com/e/j9r2jpa4glht",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j9r2jpa4glht",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/hriatcyxfhxc",
+      "player_url": "https://dsvplay.com/e/hriatcyxfhxc",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hriatcyxfhxc",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
