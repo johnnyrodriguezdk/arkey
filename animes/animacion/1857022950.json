@@ -16,7 +16,44 @@
   "slug": "higurashi-when-they-cry-gou",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf3d2af165f3880570d8d8cd7c9ab339c03a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf3d2af165f3880570d8d8cd7c9ab339c03a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3d2af165f3880570d8d8cd7c9ab339c03a"
+    },
+    {
+      "url": "https://streamfort.online/e/yztp2c8rtlz7",
+      "player_url": "https://streamfort.online/e/yztp2c8rtlz7",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yztp2c8rtlz7",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/0r8muurgkunn",
+      "player_url": "https://dsvplay.com/e/0r8muurgkunn",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0r8muurgkunn",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/ecmo0objqlek",
+      "player_url": "https://voe.sx/e/ecmo0objqlek",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cmo0objqlek",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
