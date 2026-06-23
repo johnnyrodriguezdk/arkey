@@ -15,7 +15,53 @@
   "slug": "kotaro-vive-solo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf8a9887fd9eec8f5026c7ff45c93425923a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf8a9887fd9eec8f5026c7ff45c93425923a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf8a9887fd9eec8f5026c7ff45c93425923a"
+    },
+    {
+      "url": "https://streamfort.online/e/ylj311l9xmlw",
+      "player_url": "https://streamfort.online/e/ylj311l9xmlw",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ylj311l9xmlw",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/nigekq585c5u",
+      "player_url": "https://dsvplay.com/e/nigekq585c5u",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nigekq585c5u",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/q7n4vvnz6cqd",
+      "player_url": "https://voe.sx/e/q7n4vvnz6cqd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q7n4vvnz6cqd",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/fldbjonjwner",
+      "player_url": "https://voe.sx/e/fldbjonjwner",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fldbjonjwner",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
