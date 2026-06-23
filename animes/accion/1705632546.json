@@ -19,7 +19,44 @@
   "slug": "elfen-lied",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf0378f173475152427afed4c994c074cc3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0378f173475152427afed4c994c074cc3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0378f173475152427afed4c994c074cc3a"
+    },
+    {
+      "url": "https://streamfort.online/e/vhi39i9sv0by",
+      "player_url": "https://streamfort.online/e/vhi39i9sv0by",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vhi39i9sv0by",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/gpyfcot0hinv",
+      "player_url": "https://voe.sx/e/gpyfcot0hinv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gpyfcot0hinv",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/licvjvude7hy",
+      "player_url": "https://voe.sx/e/licvjvude7hy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "licvjvude7hy",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 0,
