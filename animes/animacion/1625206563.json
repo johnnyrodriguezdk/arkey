@@ -15,7 +15,26 @@
   "slug": "sweet-reincarnation",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/hmgiz8psl7xm",
+      "player_url": "https://voe.sx/e/hmgiz8psl7xm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hmgiz8psl7xm",
+      "id": 1
+    },
+    {
+      "url": "https://voe.sx/e/8moow6ddxbn2",
+      "player_url": "https://voe.sx/e/8moow6ddxbn2",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8moow6ddxbn2",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
