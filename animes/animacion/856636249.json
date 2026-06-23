@@ -14,7 +14,62 @@
   "slug": "hokkaido-gals-are-super-adorable",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfb515c62131f050e137d014ca991251e63a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb515c62131f050e137d014ca991251e63a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb515c62131f050e137d014ca991251e63a"
+    },
+    {
+      "url": "https://streamfort.online/e/jg91fggvi9w0",
+      "player_url": "https://streamfort.online/e/jg91fggvi9w0",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jg91fggvi9w0",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/bv57qha77s92",
+      "player_url": "https://vidnova.online/embed/bv57qha77s92",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bv57qha77s92",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/ckwx5c3qis9b",
+      "player_url": "https://dsvplay.com/e/ckwx5c3qis9b",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ckwx5c3qis9b",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/nejuymvcil3o",
+      "player_url": "https://voe.sx/e/nejuymvcil3o",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nejuymvcil3o",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/irikacg1k86o",
+      "player_url": "https://voe.sx/e/irikacg1k86o",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "irikacg1k86o",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
