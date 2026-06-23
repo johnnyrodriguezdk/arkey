@@ -15,7 +15,44 @@
   "slug": "yamada-kun-to-7-nin-no-majo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfcf34b4f8b3b40eb626b532bcac3091873a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfcf34b4f8b3b40eb626b532bcac3091873a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfcf34b4f8b3b40eb626b532bcac3091873a"
+    },
+    {
+      "url": "https://vidnova.online/embed/7avps3y1c75h",
+      "player_url": "https://vidnova.online/embed/7avps3y1c75h",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7avps3y1c75h",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/mzlkkxi0zlen",
+      "player_url": "https://voe.sx/e/mzlkkxi0zlen",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mzlkkxi0zlen",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/yu6pj3awtirb",
+      "player_url": "https://voe.sx/e/yu6pj3awtirb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yu6pj3awtirb",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
