@@ -16,7 +16,44 @@
   "slug": "dna2",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf4ac397a9c5d3bb338d247878e862d14d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf4ac397a9c5d3bb338d247878e862d14d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf4ac397a9c5d3bb338d247878e862d14d3a"
+    },
+    {
+      "url": "https://streamfort.online/e/rncv3efruhht",
+      "player_url": "https://streamfort.online/e/rncv3efruhht",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rncv3efruhht",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/83b3opgzac37",
+      "player_url": "https://vidnova.online/embed/83b3opgzac37",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "83b3opgzac37",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/kwkneupplgsk",
+      "player_url": "https://voe.sx/e/kwkneupplgsk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kwkneupplgsk",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 0,
