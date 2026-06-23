@@ -17,7 +17,44 @@
   "slug": "rumble-garanndoll",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf8dcac24c1e3911d8477403e7d52d40b93a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf8dcac24c1e3911d8477403e7d52d40b93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf8dcac24c1e3911d8477403e7d52d40b93a"
+    },
+    {
+      "url": "https://streamfort.online/e/0v4lyac7qgrd",
+      "player_url": "https://streamfort.online/e/0v4lyac7qgrd",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0v4lyac7qgrd",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/rqml1x1q099z",
+      "player_url": "https://vidnova.online/embed/rqml1x1q099z",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rqml1x1q099z",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/k1r2060ek3oj",
+      "player_url": "https://voe.sx/e/k1r2060ek3oj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k1r2060ek3oj",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
