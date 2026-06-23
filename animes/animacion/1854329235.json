@@ -14,7 +14,17 @@
   "slug": "tom-a-los-10",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/ux6pqqay97sz",
+      "player_url": "https://voe.sx/e/ux6pqqay97sz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ux6pqqay97sz",
+      "id": 1
+    }
+  ],
   "episodes": [
     {
       "season": 1,
