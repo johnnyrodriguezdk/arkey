@@ -18,7 +18,26 @@
   "slug": "la-vision-de-escaflowne",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/2qe6yhj9zacx",
+      "player_url": "https://dsvplay.com/e/2qe6yhj9zacx",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2qe6yhj9zacx",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/rca4yzbx2ph6",
+      "player_url": "https://dsvplay.com/e/rca4yzbx2ph6",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rca4yzbx2ph6",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
