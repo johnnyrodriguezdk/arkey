@@ -15,7 +15,17 @@
   "slug": "shokugeki-no-soma",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc195da1cfd8b8f3b5cca6d02c91f70ab3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc195da1cfd8b8f3b5cca6d02c91f70ab3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc195da1cfd8b8f3b5cca6d02c91f70ab3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
