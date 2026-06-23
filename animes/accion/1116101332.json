@@ -17,7 +17,35 @@
   "slug": "strike-the-blood",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/tk8iqa72qe5d",
+      "player_url": "https://streamfort.online/e/tk8iqa72qe5d",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tk8iqa72qe5d",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/vc66tj8pmeqo",
+      "player_url": "https://streamfort.online/e/vc66tj8pmeqo",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vc66tj8pmeqo",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/efo4qhtiip82",
+      "player_url": "https://voe.sx/e/efo4qhtiip82",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fo4qhtiip82",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
