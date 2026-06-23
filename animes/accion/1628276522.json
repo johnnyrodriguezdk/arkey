@@ -19,7 +19,35 @@
   "slug": "rezero-starting-life-in-another-world",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf9577fcbc6c0a2336c79db094a39213e53a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf9577fcbc6c0a2336c79db094a39213e53a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9577fcbc6c0a2336c79db094a39213e53a"
+    },
+    {
+      "url": "https://streamfort.online/e/orvu4r39fax5",
+      "player_url": "https://streamfort.online/e/orvu4r39fax5",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "orvu4r39fax5",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/1qcnndvafoo7",
+      "player_url": "https://voe.sx/e/1qcnndvafoo7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1qcnndvafoo7",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
