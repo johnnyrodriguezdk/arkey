@@ -14,7 +14,44 @@
   "slug": "la-vida-moderna-de-rocko",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/od94my6892zj",
+      "player_url": "https://streamfort.online/e/od94my6892zj",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "od94my6892zj",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/roceprlzvu8g",
+      "player_url": "https://streamfort.online/e/roceprlzvu8g",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "roceprlzvu8g",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/j8kqqokjjklz",
+      "player_url": "https://vidnova.online/embed/j8kqqokjjklz",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j8kqqokjjklz",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/a5ljm1xzhbmx",
+      "player_url": "https://vidnova.online/embed/a5ljm1xzhbmx",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a5ljm1xzhbmx",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
