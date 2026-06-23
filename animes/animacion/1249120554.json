@@ -16,7 +16,26 @@
   "slug": "mi-tio-es-de-otro-mundo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/sj2fkpzpxpot",
+      "player_url": "https://dsvplay.com/e/sj2fkpzpxpot",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sj2fkpzpxpot",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/dvj2j0fi7mcj",
+      "player_url": "https://dsvplay.com/e/dvj2j0fi7mcj",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dvj2j0fi7mcj",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
