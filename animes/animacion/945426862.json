@@ -15,7 +15,62 @@
   "slug": "monstruos-a-la-obra",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf04dd87f4b5dc244db1224a47a216dfc03a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf04dd87f4b5dc244db1224a47a216dfc03a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf04dd87f4b5dc244db1224a47a216dfc03a"
+    },
+    {
+      "url": "https://streamfort.online/e/8ew88ayq7snz",
+      "player_url": "https://streamfort.online/e/8ew88ayq7snz",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8ew88ayq7snz",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/32u59sss6ji8",
+      "player_url": "https://streamfort.online/e/32u59sss6ji8",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "32u59sss6ji8",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/0549ftcgl12s",
+      "player_url": "https://dsvplay.com/e/0549ftcgl12s",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0549ftcgl12s",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/3i5qp8geo1p8",
+      "player_url": "https://dsvplay.com/e/3i5qp8geo1p8",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3i5qp8geo1p8",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/fhexgjtruwuc",
+      "player_url": "https://voe.sx/e/fhexgjtruwuc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fhexgjtruwuc",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
