@@ -14,7 +14,53 @@
   "slug": "puedo-hacer-felices-a-tus-oidos-en-180-segundos",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc5637292e52c9aa9568d1de059551ea33a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc5637292e52c9aa9568d1de059551ea33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc5637292e52c9aa9568d1de059551ea33a"
+    },
+    {
+      "url": "https://streamfort.online/e/0sqw35fhl3wb",
+      "player_url": "https://streamfort.online/e/0sqw35fhl3wb",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0sqw35fhl3wb",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/5rwedmgj5zau",
+      "player_url": "https://voe.sx/e/5rwedmgj5zau",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5rwedmgj5zau",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/04y1uvq5hfjb",
+      "player_url": "https://voe.sx/e/04y1uvq5hfjb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "04y1uvq5hfjb",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/rdqistdz1odb",
+      "player_url": "https://voe.sx/e/rdqistdz1odb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rdqistdz1odb",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
