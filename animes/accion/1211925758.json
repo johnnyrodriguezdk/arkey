@@ -18,7 +18,26 @@
   "slug": "scissor-seven",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf550b32a1a13af5879553d105a5c0e23f3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf550b32a1a13af5879553d105a5c0e23f3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf550b32a1a13af5879553d105a5c0e23f3a"
+    },
+    {
+      "url": "https://streamfort.online/e/fuxptj2tqq9o",
+      "player_url": "https://streamfort.online/e/fuxptj2tqq9o",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fuxptj2tqq9o",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 0,
