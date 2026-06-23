@@ -18,7 +18,35 @@
   "slug": "made-in-abyss",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfcfffaaf118c93271996428cdc8c7b2c93a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfcfffaaf118c93271996428cdc8c7b2c93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfcfffaaf118c93271996428cdc8c7b2c93a"
+    },
+    {
+      "url": "https://vidnova.online/embed/toa9fr9998gk",
+      "player_url": "https://vidnova.online/embed/toa9fr9998gk",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "toa9fr9998gk",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/ujz9hajvbvb5",
+      "player_url": "https://voe.sx/e/ujz9hajvbvb5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ujz9hajvbvb5",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
