@@ -15,7 +15,53 @@
   "slug": "buenas-noches-mundo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfdd5d50ad46bfb38999f0b9a1f18156413a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfdd5d50ad46bfb38999f0b9a1f18156413a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfdd5d50ad46bfb38999f0b9a1f18156413a"
+    },
+    {
+      "url": "https://streamfort.online/e/nm3uy8smxflf",
+      "player_url": "https://streamfort.online/e/nm3uy8smxflf",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nm3uy8smxflf",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/bbh8f6v50u20",
+      "player_url": "https://vidnova.online/embed/bbh8f6v50u20",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bbh8f6v50u20",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/lhpwai9rk3uu",
+      "player_url": "https://voe.sx/e/lhpwai9rk3uu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lhpwai9rk3uu",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/kwke31bfmtbi",
+      "player_url": "https://voe.sx/e/kwke31bfmtbi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kwke31bfmtbi",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
