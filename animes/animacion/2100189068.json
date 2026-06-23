@@ -15,7 +15,26 @@
   "slug": "oye-arnold",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfcf50789c129b05e76a4e7c93ef5775e13a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfcf50789c129b05e76a4e7c93ef5775e13a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfcf50789c129b05e76a4e7c93ef5775e13a"
+    },
+    {
+      "url": "https://vidnova.online/embed/26ucm8sje9fv",
+      "player_url": "https://vidnova.online/embed/26ucm8sje9fv",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "26ucm8sje9fv",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
