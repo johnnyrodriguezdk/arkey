@@ -15,7 +15,53 @@
   "slug": "sailor-moon-crystal",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf66e857315a8aecffbfcfca4469da1a303a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf66e857315a8aecffbfcfca4469da1a303a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf66e857315a8aecffbfcfca4469da1a303a"
+    },
+    {
+      "url": "https://streamfort.online/e/jajz3r6v89cw",
+      "player_url": "https://streamfort.online/e/jajz3r6v89cw",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jajz3r6v89cw",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/1o3u6pi6ajfp",
+      "player_url": "https://dsvplay.com/e/1o3u6pi6ajfp",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1o3u6pi6ajfp",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/r5j4pmexip9y",
+      "player_url": "https://voe.sx/e/r5j4pmexip9y",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r5j4pmexip9y",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/br7d9lqcnxet",
+      "player_url": "https://voe.sx/e/br7d9lqcnxet",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "br7d9lqcnxet",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
