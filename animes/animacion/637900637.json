@@ -13,7 +13,44 @@
   "slug": "harriet-la-espia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/47ewljrlf51w",
+      "player_url": "https://dsvplay.com/e/47ewljrlf51w",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "47ewljrlf51w",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/5uwky25yarut",
+      "player_url": "https://dsvplay.com/e/5uwky25yarut",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5uwky25yarut",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/hcf75bnq89jm",
+      "player_url": "https://voe.sx/e/hcf75bnq89jm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hcf75bnq89jm",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/0d874gkw9i2r",
+      "player_url": "https://voe.sx/e/0d874gkw9i2r",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0d874gkw9i2r",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
