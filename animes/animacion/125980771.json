@@ -15,7 +15,53 @@
   "slug": "los-reyes-de-la-colina",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/u2e60nu82tlf",
+      "player_url": "https://streamfort.online/e/u2e60nu82tlf",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u2e60nu82tlf",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/z9isbt54ts3t",
+      "player_url": "https://streamfort.online/e/z9isbt54ts3t",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z9isbt54ts3t",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/rbhfep0h3e3y",
+      "player_url": "https://vidnova.online/embed/rbhfep0h3e3y",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rbhfep0h3e3y",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/zloqfoj3aqwk",
+      "player_url": "https://vidnova.online/embed/zloqfoj3aqwk",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zloqfoj3aqwk",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/uq6ufmqovsvc",
+      "player_url": "https://voe.sx/e/uq6ufmqovsvc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uq6ufmqovsvc",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
