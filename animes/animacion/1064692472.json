@@ -14,7 +14,53 @@
   "slug": "the-maid-i-hired-recently-is-mysterious",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf830a5db2662ad37cc0c48d703fac19c23a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf830a5db2662ad37cc0c48d703fac19c23a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf830a5db2662ad37cc0c48d703fac19c23a"
+    },
+    {
+      "url": "https://streamfort.online/e/wp6dv1fox35z",
+      "player_url": "https://streamfort.online/e/wp6dv1fox35z",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wp6dv1fox35z",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/z0ghbxlf87df",
+      "player_url": "https://streamfort.online/e/z0ghbxlf87df",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z0ghbxlf87df",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/wb5y6kdaxylc",
+      "player_url": "https://voe.sx/e/wb5y6kdaxylc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wb5y6kdaxylc",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/8joh61wht29x",
+      "player_url": "https://voe.sx/e/8joh61wht29x",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8joh61wht29x",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
