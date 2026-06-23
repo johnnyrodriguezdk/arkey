@@ -14,7 +14,62 @@
   "slug": "chowder",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/lns5id3j6kf7",
+      "player_url": "https://streamfort.online/e/lns5id3j6kf7",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lns5id3j6kf7",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/ijrax3666neb",
+      "player_url": "https://streamfort.online/e/ijrax3666neb",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ijrax3666neb",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/jrhzejuz0kwv",
+      "player_url": "https://vidnova.online/embed/jrhzejuz0kwv",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jrhzejuz0kwv",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/wkh8ljt86y96",
+      "player_url": "https://vidnova.online/embed/wkh8ljt86y96",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wkh8ljt86y96",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/4tx8a896rubt",
+      "player_url": "https://dsvplay.com/e/4tx8a896rubt",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4tx8a896rubt",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/b6tybzmxbqba",
+      "player_url": "https://dsvplay.com/e/b6tybzmxbqba",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b6tybzmxbqba",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
