@@ -15,7 +15,71 @@
   "slug": "las-nuevas-aventuras-de-tom-y-jerry",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf9bd4cc48dd4c29e804b783248691b6723a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf9bd4cc48dd4c29e804b783248691b6723a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9bd4cc48dd4c29e804b783248691b6723a"
+    },
+    {
+      "url": "https://streamfort.online/e/nx6zwtwjm55g",
+      "player_url": "https://streamfort.online/e/nx6zwtwjm55g",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nx6zwtwjm55g",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/xfiqa5i51qps",
+      "player_url": "https://vidnova.online/embed/xfiqa5i51qps",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xfiqa5i51qps",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/12wf8xoqw7nk",
+      "player_url": "https://dsvplay.com/e/12wf8xoqw7nk",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "12wf8xoqw7nk",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/fql4azyqzf7c",
+      "player_url": "https://voe.sx/e/fql4azyqzf7c",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fql4azyqzf7c",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/v6b2jennz5q7",
+      "player_url": "https://voe.sx/e/v6b2jennz5q7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v6b2jennz5q7",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/isd8e9wzqafa",
+      "player_url": "https://voe.sx/e/isd8e9wzqafa",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "isd8e9wzqafa",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
