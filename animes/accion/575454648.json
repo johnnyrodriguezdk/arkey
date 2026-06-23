@@ -18,7 +18,71 @@
   "slug": "last-hope",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc0ecb7d06890bcb8c17da44d1dc9924a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc0ecb7d06890bcb8c17da44d1dc9924a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc0ecb7d06890bcb8c17da44d1dc9924a3a"
+    },
+    {
+      "url": "https://streamfort.online/e/7e4w48y5nl4x",
+      "player_url": "https://streamfort.online/e/7e4w48y5nl4x",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7e4w48y5nl4x",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/uq4xpf0noj6p",
+      "player_url": "https://vidnova.online/embed/uq4xpf0noj6p",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uq4xpf0noj6p",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/iysfcbw7bww7",
+      "player_url": "https://dsvplay.com/e/iysfcbw7bww7",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iysfcbw7bww7",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/nifidhhsja4w",
+      "player_url": "https://voe.sx/e/nifidhhsja4w",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nifidhhsja4w",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/av5gu9gm8fld",
+      "player_url": "https://voe.sx/e/av5gu9gm8fld",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "av5gu9gm8fld",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/jtzepbrmafim",
+      "player_url": "https://voe.sx/e/jtzepbrmafim",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jtzepbrmafim",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
