@@ -21,7 +21,44 @@
   "slug": "bungou-stray-dogs",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/z8vzr8z353tx",
+      "player_url": "https://streamfort.online/e/z8vzr8z353tx",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z8vzr8z353tx",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/n4byz0iy34m9",
+      "player_url": "https://streamfort.online/e/n4byz0iy34m9",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n4byz0iy34m9",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/iv7sdqty0p3w",
+      "player_url": "https://dsvplay.com/e/iv7sdqty0p3w",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iv7sdqty0p3w",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/wxfxby4seqn8",
+      "player_url": "https://voe.sx/e/wxfxby4seqn8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wxfxby4seqn8",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 0,
