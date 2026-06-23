@@ -17,7 +17,35 @@
   "slug": "justicia-joven",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/i4dx7x0tx7xu",
+      "player_url": "https://streamfort.online/e/i4dx7x0tx7xu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i4dx7x0tx7xu",
+      "id": 1
+    },
+    {
+      "url": "https://vidnova.online/embed/tqlvcpp5uexd",
+      "player_url": "https://vidnova.online/embed/tqlvcpp5uexd",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tqlvcpp5uexd",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/tzqhgx0exncv",
+      "player_url": "https://vidnova.online/embed/tzqhgx0exncv",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tzqhgx0exncv",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
