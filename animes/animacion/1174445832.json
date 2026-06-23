@@ -17,7 +17,26 @@
   "slug": "pluto",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfd52f85db8c81defdb588728e67241d6a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd52f85db8c81defdb588728e67241d6a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd52f85db8c81defdb588728e67241d6a3a"
+    },
+    {
+      "url": "https://voe.sx/e/zxovd4sqay2h",
+      "player_url": "https://voe.sx/e/zxovd4sqay2h",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zxovd4sqay2h",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
