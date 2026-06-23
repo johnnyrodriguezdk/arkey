@@ -16,7 +16,26 @@
   "slug": "hora-de-aventura",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf56d40c10362e0c5f9126a30abdbc3aed3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf56d40c10362e0c5f9126a30abdbc3aed3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf56d40c10362e0c5f9126a30abdbc3aed3a"
+    },
+    {
+      "url": "https://streamfort.online/e/hoqo66c8u5l8",
+      "player_url": "https://streamfort.online/e/hoqo66c8u5l8",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hoqo66c8u5l8",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
