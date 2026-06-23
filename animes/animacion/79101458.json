@@ -14,7 +14,53 @@
   "slug": "asi-hablo-kishibe-rohan",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfab19a913ca22f8d73a96054f9d0d04a53a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfab19a913ca22f8d73a96054f9d0d04a53a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfab19a913ca22f8d73a96054f9d0d04a53a"
+    },
+    {
+      "url": "https://streamfort.online/e/c26w4eb3e5qa",
+      "player_url": "https://streamfort.online/e/c26w4eb3e5qa",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c26w4eb3e5qa",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/g180y8eduis6",
+      "player_url": "https://vidnova.online/embed/g180y8eduis6",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g180y8eduis6",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/if1jb1myvnfb",
+      "player_url": "https://vidnova.online/embed/if1jb1myvnfb",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "if1jb1myvnfb",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/quv25bkupjgk",
+      "player_url": "https://dsvplay.com/e/quv25bkupjgk",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "quv25bkupjgk",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
