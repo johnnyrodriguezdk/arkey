@@ -16,7 +16,53 @@
   "slug": "welcome-to-demon-school-iruma-kun",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf82d7fc759fa021d016f0ba1eb95b428a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf82d7fc759fa021d016f0ba1eb95b428a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf82d7fc759fa021d016f0ba1eb95b428a3a"
+    },
+    {
+      "url": "https://streamfort.online/e/0oand3jtx45i",
+      "player_url": "https://streamfort.online/e/0oand3jtx45i",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0oand3jtx45i",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/dff0akj0nrwv",
+      "player_url": "https://vidnova.online/embed/dff0akj0nrwv",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dff0akj0nrwv",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/9vbl4rtnhwt6",
+      "player_url": "https://dsvplay.com/e/9vbl4rtnhwt6",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9vbl4rtnhwt6",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/gh557wl4fdze",
+      "player_url": "https://voe.sx/e/gh557wl4fdze",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gh557wl4fdze",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
