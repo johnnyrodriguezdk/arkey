@@ -15,7 +15,44 @@
   "slug": "haikyu",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf5a2ba4c3dabeb63d8e588dcb145fbd5e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf5a2ba4c3dabeb63d8e588dcb145fbd5e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf5a2ba4c3dabeb63d8e588dcb145fbd5e3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/9p8bohia2794",
+      "player_url": "https://vidnova.online/embed/9p8bohia2794",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9p8bohia2794",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/u9lrckptrqoj",
+      "player_url": "https://voe.sx/e/u9lrckptrqoj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u9lrckptrqoj",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/i6qg1lfzo2ug",
+      "player_url": "https://voe.sx/e/i6qg1lfzo2ug",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i6qg1lfzo2ug",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
