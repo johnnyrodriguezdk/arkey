@@ -18,7 +18,26 @@
   "slug": "the-god-of-high-school",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/avkhpo5nur5s",
+      "player_url": "https://dsvplay.com/e/avkhpo5nur5s",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "avkhpo5nur5s",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/0nyflk59j880",
+      "player_url": "https://dsvplay.com/e/0nyflk59j880",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0nyflk59j880",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
