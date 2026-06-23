@@ -15,7 +15,53 @@
   "slug": "jugando-con-winnie-pooh",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc18816bcfafeae595eef40731a7d77b93a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc18816bcfafeae595eef40731a7d77b93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc18816bcfafeae595eef40731a7d77b93a"
+    },
+    {
+      "url": "https://streamfort.online/e/q0spet6vufkt",
+      "player_url": "https://streamfort.online/e/q0spet6vufkt",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q0spet6vufkt",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/svqwio5m982d",
+      "player_url": "https://vidnova.online/embed/svqwio5m982d",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "svqwio5m982d",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/n7bhaxn83apr",
+      "player_url": "https://dsvplay.com/e/n7bhaxn83apr",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n7bhaxn83apr",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/m3oy9rbtsmat",
+      "player_url": "https://voe.sx/e/m3oy9rbtsmat",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m3oy9rbtsmat",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
