@@ -18,7 +18,53 @@
   "slug": "fuerza-de-fuego",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf3a809e9c57e95f090b747e4444fa08ec3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf3a809e9c57e95f090b747e4444fa08ec3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3a809e9c57e95f090b747e4444fa08ec3a"
+    },
+    {
+      "url": "https://streamfort.online/e/lrammup3hbpv",
+      "player_url": "https://streamfort.online/e/lrammup3hbpv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lrammup3hbpv",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/zu09s3v2vo06",
+      "player_url": "https://dsvplay.com/e/zu09s3v2vo06",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zu09s3v2vo06",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/oknpqqlrz5bv",
+      "player_url": "https://voe.sx/e/oknpqqlrz5bv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oknpqqlrz5bv",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/eyqxxaecbpt0",
+      "player_url": "https://voe.sx/e/eyqxxaecbpt0",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yqxxaecbpt0",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
