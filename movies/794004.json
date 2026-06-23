@@ -1,1 +1,67 @@
-{"id":794004,"titulo":"Bleach","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/7KYr2dciA6hnDYCedknzFVU8rBf.jpg","release_date":"2022-12-15","genres":[],"rating":"4.8","backdrop":"https://image.tmdb.org/t/p/original/5KGQEaE519pOD9DltmWBo6OcuH1.jpg","overview":"A man goes through extreme measures to attempt to stop the ghosts of the girls he murdered in a snuff film from haunting while trying to keep the authorities off his back as well.","trailer":"","runtime":"0","slug":"bleach","servidores":[{"id":1,"url":"https://doodstream.com/e/g5oneg3dbns3","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"g5oneg3dbns3","player_url":"https://doodstream.com/e/g5oneg3dbns3"}]}
+{
+  "id": 794004,
+  "titulo": "Bleach",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/7KYr2dciA6hnDYCedknzFVU8rBf.jpg",
+  "release_date": "2022-12-15",
+  "genres": [
+    "accion",
+    "animacion",
+    "aventura",
+    "ciencia-ficcion",
+    "fantasia"
+  ],
+  "rating": "4.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/5KGQEaE519pOD9DltmWBo6OcuH1.jpg",
+  "overview": "A man goes through extreme measures to attempt to stop the ghosts of the girls he murdered in a snuff film from haunting while trying to keep the authorities off his back as well.",
+  "trailer": "",
+  "runtime": "0",
+  "slug": "bleach",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://doodstream.com/e/g5oneg3dbns3",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "g5oneg3dbns3",
+      "player_url": "https://doodstream.com/e/g5oneg3dbns3"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hf97f866e74c0f0c463a8ade5a29281d213a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf97f866e74c0f0c463a8ade5a29281d213a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf97f866e74c0f0c463a8ade5a29281d213a"
+    },
+    {
+      "url": "https://streamfort.online/e/o3jda80pza41",
+      "player_url": "https://streamfort.online/e/o3jda80pza41",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o3jda80pza41",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/vzekgtonbcl3",
+      "player_url": "https://voe.sx/e/vzekgtonbcl3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vzekgtonbcl3",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/eqsdiavph0ey",
+      "player_url": "https://voe.sx/e/eqsdiavph0ey",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qsdiavph0ey",
+      "id": 5
+    }
+  ]
+}
