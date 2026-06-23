@@ -17,7 +17,71 @@
   "slug": "the-weakest-tamer-began-a-journey-to-pick-up-trash",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf7fab0a848dff9c5fa7f3272b03eddca03a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf7fab0a848dff9c5fa7f3272b03eddca03a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf7fab0a848dff9c5fa7f3272b03eddca03a"
+    },
+    {
+      "url": "https://streamfort.online/e/32su459a9khb",
+      "player_url": "https://streamfort.online/e/32su459a9khb",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "32su459a9khb",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/airnqpggfu9g",
+      "player_url": "https://vidnova.online/embed/airnqpggfu9g",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "airnqpggfu9g",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/kojg79ak7m1i",
+      "player_url": "https://dsvplay.com/e/kojg79ak7m1i",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kojg79ak7m1i",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/qpunf7do26f4",
+      "player_url": "https://voe.sx/e/qpunf7do26f4",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qpunf7do26f4",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/xdtotvavbyec",
+      "player_url": "https://voe.sx/e/xdtotvavbyec",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xdtotvavbyec",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/gvqivjoiaejm",
+      "player_url": "https://voe.sx/e/gvqivjoiaejm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gvqivjoiaejm",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
