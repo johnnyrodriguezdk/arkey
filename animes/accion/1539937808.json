@@ -16,7 +16,26 @@
   "slug": "carmen-sandiego",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/t890ik6rk5gu",
+      "player_url": "https://dsvplay.com/e/t890ik6rk5gu",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t890ik6rk5gu",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/yh4zrubs8s7v",
+      "player_url": "https://dsvplay.com/e/yh4zrubs8s7v",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yh4zrubs8s7v",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
