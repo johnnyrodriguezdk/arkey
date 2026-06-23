@@ -14,7 +14,26 @@
   "slug": "chibiverse",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/ibim4a4ijbcz",
+      "player_url": "https://dsvplay.com/e/ibim4a4ijbcz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ibim4a4ijbcz",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/w1c8qx22ohym",
+      "player_url": "https://dsvplay.com/e/w1c8qx22ohym",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w1c8qx22ohym",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
