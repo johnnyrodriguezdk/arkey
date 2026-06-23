@@ -18,7 +18,26 @@
   "slug": "the-devil-is-a-part-timer",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfe4da01559c7d654edf6528d05fcd82a33a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe4da01559c7d654edf6528d05fcd82a33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe4da01559c7d654edf6528d05fcd82a33a"
+    },
+    {
+      "url": "https://voe.sx/e/s2vagj8wkmh6",
+      "player_url": "https://voe.sx/e/s2vagj8wkmh6",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s2vagj8wkmh6",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 2,
