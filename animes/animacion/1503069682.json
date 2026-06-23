@@ -14,7 +14,26 @@
   "slug": "dropkick-on-my-devil",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/b4n9m0gp2n3l",
+      "player_url": "https://dsvplay.com/e/b4n9m0gp2n3l",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b4n9m0gp2n3l",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/zu5yjne65ylb",
+      "player_url": "https://dsvplay.com/e/zu5yjne65ylb",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zu5yjne65ylb",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
