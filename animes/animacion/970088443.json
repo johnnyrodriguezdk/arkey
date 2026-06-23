@@ -15,7 +15,44 @@
   "slug": "tribe-nine",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfeb668876c60eacd1c593c6fda9f2be473a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfeb668876c60eacd1c593c6fda9f2be473a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfeb668876c60eacd1c593c6fda9f2be473a"
+    },
+    {
+      "url": "https://streamfort.online/e/87pblsy81kvc",
+      "player_url": "https://streamfort.online/e/87pblsy81kvc",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "87pblsy81kvc",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/ji5cvbukmixk",
+      "player_url": "https://voe.sx/e/ji5cvbukmixk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ji5cvbukmixk",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/uvkbgxfvzrod",
+      "player_url": "https://voe.sx/e/uvkbgxfvzrod",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uvkbgxfvzrod",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
