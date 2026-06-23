@@ -14,7 +14,26 @@
   "slug": "housebroken",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/299hz0rdkv5i",
+      "player_url": "https://voe.sx/e/299hz0rdkv5i",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "299hz0rdkv5i",
+      "id": 1
+    },
+    {
+      "url": "https://voe.sx/e/mq1q7koenx2u",
+      "player_url": "https://voe.sx/e/mq1q7koenx2u",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mq1q7koenx2u",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
