@@ -14,7 +14,44 @@
   "slug": "aharen-san-wa-hakarenai",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/9j5t5pf5ndep",
+      "player_url": "https://voe.sx/e/9j5t5pf5ndep",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9j5t5pf5ndep",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/euon0c2eea6t",
+      "player_url": "https://dsvplay.com/e/euon0c2eea6t",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uon0c2eea6t",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/iiblzlblvd8t",
+      "player_url": "https://voe.sx/e/iiblzlblvd8t",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iiblzlblvd8t",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/ebz70iebc08g",
+      "player_url": "https://voe.sx/e/ebz70iebc08g",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bz70iebc08g",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
