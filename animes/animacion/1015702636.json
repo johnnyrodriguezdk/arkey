@@ -14,7 +14,35 @@
   "slug": "tokyo-magnitude-8-0",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf8171032dced85b91c72a663dc31189fe3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf8171032dced85b91c72a663dc31189fe3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf8171032dced85b91c72a663dc31189fe3a"
+    },
+    {
+      "url": "https://streamfort.online/e/lbizhb5xc5as",
+      "player_url": "https://streamfort.online/e/lbizhb5xc5as",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lbizhb5xc5as",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/xxwt8fkrynqq",
+      "player_url": "https://voe.sx/e/xxwt8fkrynqq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xxwt8fkrynqq",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
