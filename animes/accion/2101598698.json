@@ -17,7 +17,62 @@
   "slug": "plunderer",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfefc8ea1c912c16497acf67abaae4ba2b3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfefc8ea1c912c16497acf67abaae4ba2b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfefc8ea1c912c16497acf67abaae4ba2b3a"
+    },
+    {
+      "url": "https://streamfort.online/e/ysp8kyhhmusl",
+      "player_url": "https://streamfort.online/e/ysp8kyhhmusl",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ysp8kyhhmusl",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/a7im8cgs3e18",
+      "player_url": "https://vidnova.online/embed/a7im8cgs3e18",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a7im8cgs3e18",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/b1ab4wvo5964",
+      "player_url": "https://dsvplay.com/e/b1ab4wvo5964",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b1ab4wvo5964",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/6p1lmobl28ff",
+      "player_url": "https://voe.sx/e/6p1lmobl28ff",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6p1lmobl28ff",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/ic1nw6y9twv1",
+      "player_url": "https://voe.sx/e/ic1nw6y9twv1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ic1nw6y9twv1",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
