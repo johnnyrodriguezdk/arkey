@@ -17,7 +17,62 @@
   "slug": "takt-op-destiny",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf027f95fe85c310ff63aa27e9001c18803a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf027f95fe85c310ff63aa27e9001c18803a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf027f95fe85c310ff63aa27e9001c18803a"
+    },
+    {
+      "url": "https://streamfort.online/e/h4kmwzac80oq",
+      "player_url": "https://streamfort.online/e/h4kmwzac80oq",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h4kmwzac80oq",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/fdyi53iyo0gy",
+      "player_url": "https://vidnova.online/embed/fdyi53iyo0gy",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fdyi53iyo0gy",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/a8bq1812o7uw",
+      "player_url": "https://vidnova.online/embed/a8bq1812o7uw",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a8bq1812o7uw",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/or679pij242t",
+      "player_url": "https://dsvplay.com/e/or679pij242t",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "or679pij242t",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/lf2y63gzmaxc",
+      "player_url": "https://voe.sx/e/lf2y63gzmaxc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lf2y63gzmaxc",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
