@@ -16,7 +16,62 @@
   "slug": "los-guerreros-del-zodiaco-el-lienzo-perdido",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf3fe6da556f1caa766f85b40593f8119d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf3fe6da556f1caa766f85b40593f8119d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3fe6da556f1caa766f85b40593f8119d3a"
+    },
+    {
+      "url": "https://streamfort.online/e/naq8k0wkhz9l",
+      "player_url": "https://streamfort.online/e/naq8k0wkhz9l",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "naq8k0wkhz9l",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/",
+      "player_url": "https://vidnova.online/embed/",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mbed",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/z71tdd6vrn9x",
+      "player_url": "https://vidnova.online/embed/z71tdd6vrn9x",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z71tdd6vrn9x",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/uz0n0e529uhh",
+      "player_url": "https://dsvplay.com/e/uz0n0e529uhh",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uz0n0e529uhh",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/jfigo8w4mg9d",
+      "player_url": "https://voe.sx/e/jfigo8w4mg9d",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jfigo8w4mg9d",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
