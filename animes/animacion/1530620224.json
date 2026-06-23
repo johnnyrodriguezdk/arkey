@@ -14,7 +14,26 @@
   "slug": "skip-and-loafer",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/si44et7zcu21",
+      "player_url": "https://dsvplay.com/e/si44et7zcu21",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "si44et7zcu21",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/1ai2mkcje4qd",
+      "player_url": "https://dsvplay.com/e/1ai2mkcje4qd",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1ai2mkcje4qd",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
