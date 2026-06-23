@@ -14,7 +14,35 @@
   "slug": "d4dj-first-mix",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/mobjvghobhdg",
+      "player_url": "https://streamfort.online/e/mobjvghobhdg",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mobjvghobhdg",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/y5ucnm92fmm5",
+      "player_url": "https://streamfort.online/e/y5ucnm92fmm5",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y5ucnm92fmm5",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/twxqewrdmhfw",
+      "player_url": "https://voe.sx/e/twxqewrdmhfw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "twxqewrdmhfw",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
