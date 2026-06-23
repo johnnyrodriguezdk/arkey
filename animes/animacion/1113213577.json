@@ -16,7 +16,44 @@
   "slug": "violet-evergarden",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf743b3588f8b29cbf45fa34134c9649863a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf743b3588f8b29cbf45fa34134c9649863a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf743b3588f8b29cbf45fa34134c9649863a"
+    },
+    {
+      "url": "https://streamfort.online/e/ljt2cy3unkla",
+      "player_url": "https://streamfort.online/e/ljt2cy3unkla",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ljt2cy3unkla",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/tnzudszzgsfj",
+      "player_url": "https://voe.sx/e/tnzudszzgsfj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tnzudszzgsfj",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/4umk3xng0m6x",
+      "player_url": "https://voe.sx/e/4umk3xng0m6x",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4umk3xng0m6x",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 0,
