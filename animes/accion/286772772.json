@@ -17,7 +17,44 @@
   "slug": "the-batman",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf6a28e72251eadd6e1ec57ee84560519d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf6a28e72251eadd6e1ec57ee84560519d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf6a28e72251eadd6e1ec57ee84560519d3a"
+    },
+    {
+      "url": "https://streamfort.online/e/fsdi2k444b1j",
+      "player_url": "https://streamfort.online/e/fsdi2k444b1j",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fsdi2k444b1j",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/gzjznwes9abt",
+      "player_url": "https://dsvplay.com/e/gzjznwes9abt",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gzjznwes9abt",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/jsjxhs5yhpzt",
+      "player_url": "https://voe.sx/e/jsjxhs5yhpzt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jsjxhs5yhpzt",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
