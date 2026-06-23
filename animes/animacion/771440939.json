@@ -14,7 +14,17 @@
   "slug": "la-isla-de-las-figuras",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hff6a9de95fd8a4655df710bac9b95c88e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff6a9de95fd8a4655df710bac9b95c88e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff6a9de95fd8a4655df710bac9b95c88e3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
