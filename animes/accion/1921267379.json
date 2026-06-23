@@ -18,7 +18,71 @@
   "slug": "seirei-gensouki-spirit-chronicles",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfd7910c88c53d62c85995c8be8a17ddeb3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd7910c88c53d62c85995c8be8a17ddeb3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd7910c88c53d62c85995c8be8a17ddeb3a"
+    },
+    {
+      "url": "https://streamfort.online/e/djpkz1l4ql6x",
+      "player_url": "https://streamfort.online/e/djpkz1l4ql6x",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "djpkz1l4ql6x",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/a11eahvyati1",
+      "player_url": "https://vidnova.online/embed/a11eahvyati1",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a11eahvyati1",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/uazhhgzc16md",
+      "player_url": "https://dsvplay.com/e/uazhhgzc16md",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uazhhgzc16md",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/xi2akkpn53dh",
+      "player_url": "https://voe.sx/e/xi2akkpn53dh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xi2akkpn53dh",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/5dabxsts2cmh",
+      "player_url": "https://voe.sx/e/5dabxsts2cmh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5dabxsts2cmh",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/ykcmrnbmyebj",
+      "player_url": "https://voe.sx/e/ykcmrnbmyebj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ykcmrnbmyebj",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
