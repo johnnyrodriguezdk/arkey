@@ -16,7 +16,44 @@
   "slug": "el-laboratorio-de-dexter",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc71d8ccdcf0909be55cc4e2f6c0393e43a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc71d8ccdcf0909be55cc4e2f6c0393e43a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc71d8ccdcf0909be55cc4e2f6c0393e43a"
+    },
+    {
+      "url": "https://streamfort.online/e/da5h1lgrmwpg",
+      "player_url": "https://streamfort.online/e/da5h1lgrmwpg",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "da5h1lgrmwpg",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/rkyj8x2kh8hs",
+      "player_url": "https://vidnova.online/embed/rkyj8x2kh8hs",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rkyj8x2kh8hs",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/lwnq38ccjwje",
+      "player_url": "https://dsvplay.com/e/lwnq38ccjwje",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lwnq38ccjwje",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
