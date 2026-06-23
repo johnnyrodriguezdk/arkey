@@ -15,7 +15,62 @@
   "slug": "yowamushi-pedal",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfeca7885af42fa64dd28d58a8d9c19ea73a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfeca7885af42fa64dd28d58a8d9c19ea73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfeca7885af42fa64dd28d58a8d9c19ea73a"
+    },
+    {
+      "url": "https://streamfort.online/e/nn862koptw7w",
+      "player_url": "https://streamfort.online/e/nn862koptw7w",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nn862koptw7w",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/r5mh6ei5c5aa",
+      "player_url": "https://streamfort.online/e/r5mh6ei5c5aa",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r5mh6ei5c5aa",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/92fkqw0hmjve",
+      "player_url": "https://dsvplay.com/e/92fkqw0hmjve",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "92fkqw0hmjve",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/oswjtv7olg86",
+      "player_url": "https://dsvplay.com/e/oswjtv7olg86",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oswjtv7olg86",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/ujhafusgu2ld",
+      "player_url": "https://voe.sx/e/ujhafusgu2ld",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ujhafusgu2ld",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
