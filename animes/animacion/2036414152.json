@@ -14,7 +14,17 @@
   "slug": "capitan-fall",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/ttyw5vt8i1dc",
+      "player_url": "https://voe.sx/e/ttyw5vt8i1dc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ttyw5vt8i1dc",
+      "id": 1
+    }
+  ],
   "episodes": [
     {
       "season": 1,
