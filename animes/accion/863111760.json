@@ -17,7 +17,44 @@
   "slug": "star-wars-clone-wars",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/s2eelbykxyzt",
+      "player_url": "https://streamfort.online/e/s2eelbykxyzt",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s2eelbykxyzt",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/9m6wfy6hgz0z",
+      "player_url": "https://streamfort.online/e/9m6wfy6hgz0z",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9m6wfy6hgz0z",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/7t0e2wb4f76w",
+      "player_url": "https://dsvplay.com/e/7t0e2wb4f76w",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7t0e2wb4f76w",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/1rqoabvdh0w0",
+      "player_url": "https://dsvplay.com/e/1rqoabvdh0w0",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1rqoabvdh0w0",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
