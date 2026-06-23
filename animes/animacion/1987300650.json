@@ -13,7 +13,71 @@
   "slug": "los-cuentos-navideos-de-mickey",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc0f3b52af23aa188cd0de04a08ee29703a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc0f3b52af23aa188cd0de04a08ee29703a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc0f3b52af23aa188cd0de04a08ee29703a"
+    },
+    {
+      "url": "https://streamfort.online/e/pf3wmmjn092w",
+      "player_url": "https://streamfort.online/e/pf3wmmjn092w",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pf3wmmjn092w",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/yeo6q2x1p04s",
+      "player_url": "https://vidnova.online/embed/yeo6q2x1p04s",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yeo6q2x1p04s",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/kwrw9qpun9vd",
+      "player_url": "https://vidnova.online/embed/kwrw9qpun9vd",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kwrw9qpun9vd",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/77jhwyger71p",
+      "player_url": "https://dsvplay.com/e/77jhwyger71p",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "77jhwyger71p",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/svau3irvpjqa",
+      "player_url": "https://voe.sx/e/svau3irvpjqa",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "svau3irvpjqa",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/vdwi593br7oy",
+      "player_url": "https://voe.sx/e/vdwi593br7oy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vdwi593br7oy",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
