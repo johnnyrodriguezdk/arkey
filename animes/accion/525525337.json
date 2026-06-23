@@ -16,7 +16,35 @@
   "slug": "kenichi-el-discipulo-mas-fuerte-de-la-historia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfd6badf9714ba2139e4a8d5a654b1046f3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd6badf9714ba2139e4a8d5a654b1046f3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd6badf9714ba2139e4a8d5a654b1046f3a"
+    },
+    {
+      "url": "https://voe.sx/e/moquv25pwkko",
+      "player_url": "https://voe.sx/e/moquv25pwkko",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "moquv25pwkko",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/exotbt1nxgwv",
+      "player_url": "https://voe.sx/e/exotbt1nxgwv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xotbt1nxgwv",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
