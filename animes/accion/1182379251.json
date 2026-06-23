@@ -18,7 +18,53 @@
   "slug": "schwarzesmarken",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfe707b639e352439f495e6bd060e6b94e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe707b639e352439f495e6bd060e6b94e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe707b639e352439f495e6bd060e6b94e3a"
+    },
+    {
+      "url": "https://streamfort.online/e/lkhit7vpuyz0",
+      "player_url": "https://streamfort.online/e/lkhit7vpuyz0",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lkhit7vpuyz0",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/gepdecskhc1l",
+      "player_url": "https://vidnova.online/embed/gepdecskhc1l",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gepdecskhc1l",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/5ohw4jeu8tow",
+      "player_url": "https://voe.sx/e/5ohw4jeu8tow",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5ohw4jeu8tow",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/jr1rgelj5lye",
+      "player_url": "https://voe.sx/e/jr1rgelj5lye",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jr1rgelj5lye",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
