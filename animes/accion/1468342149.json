@@ -18,7 +18,71 @@
   "slug": "the-rising-of-the-shield-hero",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf7e8a60b8165030b4ac282f00ebc524923a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf7e8a60b8165030b4ac282f00ebc524923a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf7e8a60b8165030b4ac282f00ebc524923a"
+    },
+    {
+      "url": "https://voe.sx/e/5apc78l2ad6s",
+      "player_url": "https://voe.sx/e/5apc78l2ad6s",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5apc78l2ad6s",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/05a2zov5qs1u",
+      "player_url": "https://streamfort.online/e/05a2zov5qs1u",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "05a2zov5qs1u",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/8pire3phc5d8",
+      "player_url": "https://streamfort.online/e/8pire3phc5d8",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8pire3phc5d8",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/fsa27wrtxjge",
+      "player_url": "https://voe.sx/e/fsa27wrtxjge",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fsa27wrtxjge",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/vxa0gjacvpmi",
+      "player_url": "https://voe.sx/e/vxa0gjacvpmi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vxa0gjacvpmi",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/7hmop38uxrrq",
+      "player_url": "https://voe.sx/e/7hmop38uxrrq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7hmop38uxrrq",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
