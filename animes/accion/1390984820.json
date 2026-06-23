@@ -17,7 +17,35 @@
   "slug": "el-arbol-familiar-de-los-croods",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/22j4zteh1cxl",
+      "player_url": "https://dsvplay.com/e/22j4zteh1cxl",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "22j4zteh1cxl",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/x1wfjtk1jcar",
+      "player_url": "https://dsvplay.com/e/x1wfjtk1jcar",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x1wfjtk1jcar",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/frb7ger4ux9p",
+      "player_url": "https://voe.sx/e/frb7ger4ux9p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "frb7ger4ux9p",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
