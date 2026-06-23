@@ -14,7 +14,26 @@
   "slug": "las-sombrias-aventuras-de-billy-y-mandy",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/meb55efd9alx",
+      "player_url": "https://dsvplay.com/e/meb55efd9alx",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "meb55efd9alx",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/vkba8ozckh6j",
+      "player_url": "https://dsvplay.com/e/vkba8ozckh6j",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vkba8ozckh6j",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
