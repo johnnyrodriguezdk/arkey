@@ -18,7 +18,44 @@
   "slug": "flcl",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfd154514f4de74d613c0d99e146a609113a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd154514f4de74d613c0d99e146a609113a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd154514f4de74d613c0d99e146a609113a"
+    },
+    {
+      "url": "https://dsvplay.com/e/twy7a433oock",
+      "player_url": "https://dsvplay.com/e/twy7a433oock",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "twy7a433oock",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/18stye59ou9s",
+      "player_url": "https://voe.sx/e/18stye59ou9s",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "18stye59ou9s",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/cf6xa6vc18wx",
+      "player_url": "https://voe.sx/e/cf6xa6vc18wx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cf6xa6vc18wx",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 2,
