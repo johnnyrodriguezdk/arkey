@@ -18,7 +18,26 @@
   "slug": "beast-tamer",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfdc17a31814ee617d4607dbd15c8f72da3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfdc17a31814ee617d4607dbd15c8f72da3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfdc17a31814ee617d4607dbd15c8f72da3a"
+    },
+    {
+      "url": "https://voe.sx/e/q3sez4mmlv3q",
+      "player_url": "https://voe.sx/e/q3sez4mmlv3q",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q3sez4mmlv3q",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
