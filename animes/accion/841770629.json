@@ -17,7 +17,44 @@
   "slug": "mi-daimon",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/kq0x02p0kbkp",
+      "player_url": "https://streamfort.online/e/kq0x02p0kbkp",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kq0x02p0kbkp",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/c2rcwfg231no",
+      "player_url": "https://streamfort.online/e/c2rcwfg231no",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c2rcwfg231no",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/yes06a3aee7i",
+      "player_url": "https://vidnova.online/embed/yes06a3aee7i",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yes06a3aee7i",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/etwahkm61dli",
+      "player_url": "https://voe.sx/e/etwahkm61dli",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "twahkm61dli",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
