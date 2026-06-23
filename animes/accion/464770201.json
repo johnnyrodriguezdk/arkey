@@ -16,7 +16,26 @@
   "slug": "keep-your-hands-off-eizouken",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/8wii8harnnpn",
+      "player_url": "https://dsvplay.com/e/8wii8harnnpn",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8wii8harnnpn",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/692lj4dgytt8",
+      "player_url": "https://dsvplay.com/e/692lj4dgytt8",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "692lj4dgytt8",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
