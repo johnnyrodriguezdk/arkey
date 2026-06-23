@@ -14,7 +14,35 @@
   "slug": "paradox-live-the-animation",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hff8c8cdbd64e0960f985306710191959c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff8c8cdbd64e0960f985306710191959c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff8c8cdbd64e0960f985306710191959c3a"
+    },
+    {
+      "url": "https://voe.sx/e/sc3n9lagtxkp",
+      "player_url": "https://voe.sx/e/sc3n9lagtxkp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sc3n9lagtxkp",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/5vifygum8c3s",
+      "player_url": "https://voe.sx/e/5vifygum8c3s",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5vifygum8c3s",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
