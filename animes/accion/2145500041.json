@@ -17,7 +17,35 @@
   "slug": "digimon-data-squad",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/040cnes9do7o",
+      "player_url": "https://streamfort.online/e/040cnes9do7o",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "040cnes9do7o",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/yn4q1vuz0ymr",
+      "player_url": "https://streamfort.online/e/yn4q1vuz0ymr",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yn4q1vuz0ymr",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/evj5cpbwwcyn",
+      "player_url": "https://voe.sx/e/evj5cpbwwcyn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vj5cpbwwcyn",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
