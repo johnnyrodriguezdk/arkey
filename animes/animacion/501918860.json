@@ -14,7 +14,26 @@
   "slug": "b-project",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/80k23q4j0wm4",
+      "player_url": "https://streamfort.online/e/80k23q4j0wm4",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "80k23q4j0wm4",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/dut4bh9advfe",
+      "player_url": "https://streamfort.online/e/dut4bh9advfe",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dut4bh9advfe",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 3,
