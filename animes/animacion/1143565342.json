@@ -14,7 +14,26 @@
   "slug": "digman",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/6yxxfw084986",
+      "player_url": "https://streamfort.online/e/6yxxfw084986",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6yxxfw084986",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/6jsi3s3pedh7",
+      "player_url": "https://streamfort.online/e/6jsi3s3pedh7",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6jsi3s3pedh7",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
