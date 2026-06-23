@@ -14,7 +14,26 @@
   "slug": "speed-grapher",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfe0ec0b239657b4e604e127c1b625d0563a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe0ec0b239657b4e604e127c1b625d0563a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe0ec0b239657b4e604e127c1b625d0563a"
+    },
+    {
+      "url": "https://voe.sx/e/x7qfac88o8ju",
+      "player_url": "https://voe.sx/e/x7qfac88o8ju",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x7qfac88o8ju",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
