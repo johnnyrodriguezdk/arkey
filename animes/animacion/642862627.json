@@ -17,7 +17,44 @@
   "slug": "ascendance-of-a-bookworm",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfb898b3dd3f333766af0dca56bc87afe93a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb898b3dd3f333766af0dca56bc87afe93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb898b3dd3f333766af0dca56bc87afe93a"
+    },
+    {
+      "url": "https://streamfort.online/e/0l8flcmuyy18",
+      "player_url": "https://streamfort.online/e/0l8flcmuyy18",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0l8flcmuyy18",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/ybwasfb2efv6",
+      "player_url": "https://voe.sx/e/ybwasfb2efv6",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ybwasfb2efv6",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/8vnicccrygjb",
+      "player_url": "https://voe.sx/e/8vnicccrygjb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8vnicccrygjb",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
