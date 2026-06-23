@@ -14,7 +14,17 @@
   "slug": "masameer-county",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/hn2pwpvlb9ss",
+      "player_url": "https://dsvplay.com/e/hn2pwpvlb9ss",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hn2pwpvlb9ss",
+      "id": 1
+    }
+  ],
   "episodes": [
     {
       "season": 1,
