@@ -15,7 +15,26 @@
   "slug": "titan-sim-bionico",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf5865086715f9e7a467dd586e7fdf4c053a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf5865086715f9e7a467dd586e7fdf4c053a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf5865086715f9e7a467dd586e7fdf4c053a"
+    },
+    {
+      "url": "https://vidnova.online/embed/18wfci9rugyv",
+      "player_url": "https://vidnova.online/embed/18wfci9rugyv",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "18wfci9rugyv",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
