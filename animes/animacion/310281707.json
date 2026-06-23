@@ -13,7 +13,62 @@
   "slug": "shuudengo-capsule-hotel-de-joushi-ni-binetsu-tsutawaru-yoru",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf270a3b909765cb168395e1c7e06d057c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf270a3b909765cb168395e1c7e06d057c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf270a3b909765cb168395e1c7e06d057c3a"
+    },
+    {
+      "url": "https://streamfort.online/e/yl5samgsokqh",
+      "player_url": "https://streamfort.online/e/yl5samgsokqh",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yl5samgsokqh",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/kv354t6zis4d",
+      "player_url": "https://vidnova.online/embed/kv354t6zis4d",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kv354t6zis4d",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/3lu1w97i8ged",
+      "player_url": "https://dsvplay.com/e/3lu1w97i8ged",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3lu1w97i8ged",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/lv7ekkn3h61o",
+      "player_url": "https://voe.sx/e/lv7ekkn3h61o",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lv7ekkn3h61o",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/zifnu3go5je2",
+      "player_url": "https://voe.sx/e/zifnu3go5je2",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zifnu3go5je2",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
