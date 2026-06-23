@@ -15,7 +15,26 @@
   "slug": "el-show-de-patricio-estrella",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/zr8oixwhmc1v",
+      "player_url": "https://voe.sx/e/zr8oixwhmc1v",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zr8oixwhmc1v",
+      "id": 1
+    },
+    {
+      "url": "https://voe.sx/e/ufejiytgxwu2",
+      "player_url": "https://voe.sx/e/ufejiytgxwu2",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ufejiytgxwu2",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
