@@ -17,7 +17,44 @@
   "slug": "goblin-slayer",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf982b4780b14aad07fed1f94192e098283a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf982b4780b14aad07fed1f94192e098283a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf982b4780b14aad07fed1f94192e098283a"
+    },
+    {
+      "url": "https://streamfort.online/e/e3ksc696ipnn",
+      "player_url": "https://streamfort.online/e/e3ksc696ipnn",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3ksc696ipnn",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/wcsiepxc2uie",
+      "player_url": "https://voe.sx/e/wcsiepxc2uie",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wcsiepxc2uie",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/rdvqvwbypgrn",
+      "player_url": "https://voe.sx/e/rdvqvwbypgrn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rdvqvwbypgrn",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
