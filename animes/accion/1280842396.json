@@ -17,7 +17,17 @@
   "slug": "heroman",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/fb7yrmc4h6mr",
+      "player_url": "https://voe.sx/e/fb7yrmc4h6mr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fb7yrmc4h6mr",
+      "id": 1
+    }
+  ],
   "episodes": [
     {
       "season": 1,
