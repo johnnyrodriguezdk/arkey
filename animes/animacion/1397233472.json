@@ -16,7 +16,35 @@
   "slug": "amazing-stranger",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfa57f7332bce7b27bc741fbc93920ea1b3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa57f7332bce7b27bc741fbc93920ea1b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa57f7332bce7b27bc741fbc93920ea1b3a"
+    },
+    {
+      "url": "https://streamfort.online/e/4b68rfliqxu7",
+      "player_url": "https://streamfort.online/e/4b68rfliqxu7",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4b68rfliqxu7",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/p4oq83q45q21",
+      "player_url": "https://dsvplay.com/e/p4oq83q45q21",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p4oq83q45q21",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
