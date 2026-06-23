@@ -15,7 +15,44 @@
   "slug": "las-leyendas-creaturas-ocultas",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf488e9b62aea32b66aa59d48fde8dc0f73a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf488e9b62aea32b66aa59d48fde8dc0f73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf488e9b62aea32b66aa59d48fde8dc0f73a"
+    },
+    {
+      "url": "https://streamfort.online/e/f2au65u9sjd3",
+      "player_url": "https://streamfort.online/e/f2au65u9sjd3",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f2au65u9sjd3",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/b1eu8mvgdr0c",
+      "player_url": "https://dsvplay.com/e/b1eu8mvgdr0c",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b1eu8mvgdr0c",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/9mvqkyryjmtd",
+      "player_url": "https://voe.sx/e/9mvqkyryjmtd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9mvqkyryjmtd",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
