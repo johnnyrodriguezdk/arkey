@@ -15,7 +15,44 @@
   "slug": "berserk-of-gluttony",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf8ef71ad456248a5468245895abfb21563a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf8ef71ad456248a5468245895abfb21563a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf8ef71ad456248a5468245895abfb21563a"
+    },
+    {
+      "url": "https://voe.sx/e/fdwarfn3gaya",
+      "player_url": "https://voe.sx/e/fdwarfn3gaya",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fdwarfn3gaya",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/elzkcudf47lz",
+      "player_url": "https://voe.sx/e/elzkcudf47lz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lzkcudf47lz",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/0jkreprm3tkp",
+      "player_url": "https://voe.sx/e/0jkreprm3tkp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0jkreprm3tkp",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
