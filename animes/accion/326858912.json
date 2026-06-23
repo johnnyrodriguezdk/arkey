@@ -15,7 +15,53 @@
   "slug": "samurai-warriors",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfa936ad25331b42bccd73f7656bba470c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa936ad25331b42bccd73f7656bba470c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa936ad25331b42bccd73f7656bba470c3a"
+    },
+    {
+      "url": "https://streamfort.online/e/gkx2f3ee64nn",
+      "player_url": "https://streamfort.online/e/gkx2f3ee64nn",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gkx2f3ee64nn",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/6z051q7x7h1b",
+      "player_url": "https://dsvplay.com/e/6z051q7x7h1b",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6z051q7x7h1b",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/reyqowvf0d26",
+      "player_url": "https://voe.sx/e/reyqowvf0d26",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "reyqowvf0d26",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/zgnf4xvqdutc",
+      "player_url": "https://voe.sx/e/zgnf4xvqdutc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zgnf4xvqdutc",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
