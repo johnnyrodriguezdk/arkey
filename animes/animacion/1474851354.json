@@ -17,7 +17,71 @@
   "slug": "wonder-egg-priority",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfd1089a9df8e42ec8aef0782dc9c58f813a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd1089a9df8e42ec8aef0782dc9c58f813a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd1089a9df8e42ec8aef0782dc9c58f813a"
+    },
+    {
+      "url": "https://streamfort.online/e/dty8ybtomkkl",
+      "player_url": "https://streamfort.online/e/dty8ybtomkkl",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dty8ybtomkkl",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/qrkyvcymt12l",
+      "player_url": "https://vidnova.online/embed/qrkyvcymt12l",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qrkyvcymt12l",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/a1lr669ab6pb",
+      "player_url": "https://vidnova.online/embed/a1lr669ab6pb",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a1lr669ab6pb",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/td3yqtmboft0",
+      "player_url": "https://dsvplay.com/e/td3yqtmboft0",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "td3yqtmboft0",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/lrhqfhpyppxn",
+      "player_url": "https://voe.sx/e/lrhqfhpyppxn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lrhqfhpyppxn",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/b9gmgbrpgzp1",
+      "player_url": "https://voe.sx/e/b9gmgbrpgzp1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b9gmgbrpgzp1",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 0,
