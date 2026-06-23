@@ -18,7 +18,71 @@
   "slug": "scott-pilgrim-da-el-salto",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf7bbe75fdd74deed8dd0be0d0c7aab2193a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf7bbe75fdd74deed8dd0be0d0c7aab2193a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf7bbe75fdd74deed8dd0be0d0c7aab2193a"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hf8ae975aa598b72418d5b9c9d6849c4f13a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf8ae975aa598b72418d5b9c9d6849c4f13a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf8ae975aa598b72418d5b9c9d6849c4f13a"
+    },
+    {
+      "url": "https://dsvplay.com/e/plmnwcd97c9z",
+      "player_url": "https://dsvplay.com/e/plmnwcd97c9z",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "plmnwcd97c9z",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/cvkxt3kj613s",
+      "player_url": "https://voe.sx/e/cvkxt3kj613s",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cvkxt3kj613s",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/wyqa8dtgjsgw",
+      "player_url": "https://voe.sx/e/wyqa8dtgjsgw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wyqa8dtgjsgw",
+      "id": 5
+    },
+    {
+      "url": "https://streamfort.online/e/g26tcv4e0nha",
+      "player_url": "https://streamfort.online/e/g26tcv4e0nha",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g26tcv4e0nha",
+      "id": 6
+    },
+    {
+      "url": "https://dsvplay.com/e/lla2dyaku61a",
+      "player_url": "https://dsvplay.com/e/lla2dyaku61a",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lla2dyaku61a",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
