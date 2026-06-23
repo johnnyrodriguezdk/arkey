@@ -14,7 +14,62 @@
   "slug": "kono-oto-tomare-sounds-of-life",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf8f9465c072bb27d33ce8b2c23cde4e893a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf8f9465c072bb27d33ce8b2c23cde4e893a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf8f9465c072bb27d33ce8b2c23cde4e893a"
+    },
+    {
+      "url": "https://streamfort.online/e/c9k7c95ghuug",
+      "player_url": "https://streamfort.online/e/c9k7c95ghuug",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c9k7c95ghuug",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/yp4o0q8ql5oy",
+      "player_url": "https://vidnova.online/embed/yp4o0q8ql5oy",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yp4o0q8ql5oy",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/fdq7ggfhgert",
+      "player_url": "https://voe.sx/e/fdq7ggfhgert",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fdq7ggfhgert",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/0kmhmqd5jtjt",
+      "player_url": "https://voe.sx/e/0kmhmqd5jtjt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0kmhmqd5jtjt",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/z7xkbcaydn9r",
+      "player_url": "https://voe.sx/e/z7xkbcaydn9r",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z7xkbcaydn9r",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
