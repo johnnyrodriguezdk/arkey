@@ -1,1 +1,209 @@
-{"id":9738,"titulo":"Los 4 Fantásticos","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/AhcPI0eTo8I2QBhnwsCcKLzNcmT.jpg","release_date":"2005-06-29","genres":[],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/nDYz0HDfEiNVCBwhCDay8Ud0n7M.jpg","overview":"Un grupo de astronautas obtiene superpoderes después de una exposición a la radiación cósmica y debe usarlos para oponerse a los planes de su enemigo, el doctor Victor Von Doom","trailer":"","runtime":"106","slug":"los-4-fantasticos","servidores":[{"id":1,"url":"https://streamwish.to/e/w6tgo4ekh259","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"w6tgo4ekh259","player_url":"https://streamwish.to/e/w6tgo4ekh259"},{"id":2,"url":"https://bysejikuar.com/e/srkhd78i8ohi","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"srkhd78i8ohi","player_url":"https://bysejikuar.com/e/srkhd78i8ohi"},{"id":3,"url":"https://voe.sx/e/rycj26b90v5c","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"rycj26b90v5c","player_url":"https://voe.sx/e/rycj26b90v5c"},{"id":4,"url":"https://doodstream.com/e/mef3x4q4q176","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"mef3x4q4q176","player_url":"https://doodstream.com/e/mef3x4q4q176"},{"id":5,"url":"https://streamwish.to/e/quyxwf78xif0","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"quyxwf78xif0","player_url":"https://streamwish.to/e/quyxwf78xif0"},{"id":6,"url":"https://bysejikuar.com/e/kij8kn3p70nk","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"kij8kn3p70nk","player_url":"https://bysejikuar.com/e/kij8kn3p70nk"},{"id":7,"url":"https://voe.sx/e/m0sl342elz99","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"m0sl342elz99","player_url":"https://voe.sx/e/m0sl342elz99"},{"id":8,"url":"https://doodstream.com/e/n6w7utb6crdr","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"n6w7utb6crdr","player_url":"https://doodstream.com/e/n6w7utb6crdr"},{"id":9,"url":"https://streamwish.to/e/5ce7kaqdwibp","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"5ce7kaqdwibp","player_url":"https://streamwish.to/e/5ce7kaqdwibp"},{"id":10,"url":"https://bysejikuar.com/e/t1mizkuhhcgn","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"t1mizkuhhcgn","player_url":"https://bysejikuar.com/e/t1mizkuhhcgn"},{"id":11,"url":"https://voe.sx/e/0xm4iizzfqfz","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"0xm4iizzfqfz","player_url":"https://voe.sx/e/0xm4iizzfqfz"},{"id":12,"url":"https://doodstream.com/e/9mhdswjzdr2b","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"9mhdswjzdr2b","player_url":"https://doodstream.com/e/9mhdswjzdr2b"}]}
+{
+  "id": 9738,
+  "titulo": "Los 4 Fantásticos",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/AhcPI0eTo8I2QBhnwsCcKLzNcmT.jpg",
+  "release_date": "2005-06-29",
+  "genres": [
+    "accion",
+    "animacion",
+    "aventura"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/nDYz0HDfEiNVCBwhCDay8Ud0n7M.jpg",
+  "overview": "Un grupo de astronautas obtiene superpoderes después de una exposición a la radiación cósmica y debe usarlos para oponerse a los planes de su enemigo, el doctor Victor Von Doom",
+  "trailer": "",
+  "runtime": "106",
+  "slug": "los-4-fantasticos",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/w6tgo4ekh259",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "w6tgo4ekh259",
+      "player_url": "https://streamwish.to/e/w6tgo4ekh259"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/srkhd78i8ohi",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "srkhd78i8ohi",
+      "player_url": "https://bysejikuar.com/e/srkhd78i8ohi"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/rycj26b90v5c",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "rycj26b90v5c",
+      "player_url": "https://voe.sx/e/rycj26b90v5c"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/mef3x4q4q176",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "mef3x4q4q176",
+      "player_url": "https://doodstream.com/e/mef3x4q4q176"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/quyxwf78xif0",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "quyxwf78xif0",
+      "player_url": "https://streamwish.to/e/quyxwf78xif0"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/kij8kn3p70nk",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "kij8kn3p70nk",
+      "player_url": "https://bysejikuar.com/e/kij8kn3p70nk"
+    },
+    {
+      "id": 7,
+      "url": "https://voe.sx/e/m0sl342elz99",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "m0sl342elz99",
+      "player_url": "https://voe.sx/e/m0sl342elz99"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/n6w7utb6crdr",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "n6w7utb6crdr",
+      "player_url": "https://doodstream.com/e/n6w7utb6crdr"
+    },
+    {
+      "id": 9,
+      "url": "https://streamwish.to/e/5ce7kaqdwibp",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5ce7kaqdwibp",
+      "player_url": "https://streamwish.to/e/5ce7kaqdwibp"
+    },
+    {
+      "id": 10,
+      "url": "https://bysejikuar.com/e/t1mizkuhhcgn",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "t1mizkuhhcgn",
+      "player_url": "https://bysejikuar.com/e/t1mizkuhhcgn"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/e/0xm4iizzfqfz",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "0xm4iizzfqfz",
+      "player_url": "https://voe.sx/e/0xm4iizzfqfz"
+    },
+    {
+      "id": 12,
+      "url": "https://doodstream.com/e/9mhdswjzdr2b",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "9mhdswjzdr2b",
+      "player_url": "https://doodstream.com/e/9mhdswjzdr2b"
+    },
+    {
+      "url": "https://streamfort.online/e/b77lzmpmjr4y",
+      "player_url": "https://streamfort.online/e/b77lzmpmjr4y",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b77lzmpmjr4y",
+      "id": 13
+    },
+    {
+      "url": "https://streamfort.online/e/zjybx2mzosa5",
+      "player_url": "https://streamfort.online/e/zjybx2mzosa5",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zjybx2mzosa5",
+      "id": 14
+    },
+    {
+      "url": "https://vidnova.online/embed/ss5qo9dpvuqy",
+      "player_url": "https://vidnova.online/embed/ss5qo9dpvuqy",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ss5qo9dpvuqy",
+      "id": 15
+    },
+    {
+      "url": "https://vidnova.online/embed/q5acy2lv9qif",
+      "player_url": "https://vidnova.online/embed/q5acy2lv9qif",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q5acy2lv9qif",
+      "id": 16
+    },
+    {
+      "url": "https://dsvplay.com/e/kj1i8ht673yd",
+      "player_url": "https://dsvplay.com/e/kj1i8ht673yd",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kj1i8ht673yd",
+      "id": 17
+    },
+    {
+      "url": "https://dsvplay.com/e/rqy1kk12d6m1",
+      "player_url": "https://dsvplay.com/e/rqy1kk12d6m1",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rqy1kk12d6m1",
+      "id": 18
+    },
+    {
+      "url": "https://voe.sx/e/5xjjnc5rpgl9",
+      "player_url": "https://voe.sx/e/5xjjnc5rpgl9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5xjjnc5rpgl9",
+      "id": 19
+    },
+    {
+      "url": "https://voe.sx/e/otrxkpncr0mz",
+      "player_url": "https://voe.sx/e/otrxkpncr0mz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "otrxkpncr0mz",
+      "id": 20
+    },
+    {
+      "url": "https://voe.sx/e/naj3ml97an0p",
+      "player_url": "https://voe.sx/e/naj3ml97an0p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "naj3ml97an0p",
+      "id": 21
+    }
+  ]
+}
