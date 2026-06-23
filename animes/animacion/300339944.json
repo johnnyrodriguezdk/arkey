@@ -13,7 +13,71 @@
   "slug": "hasta-un-padre-merece",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfd4133ebc85e66ecaada504517f1afa3c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd4133ebc85e66ecaada504517f1afa3c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd4133ebc85e66ecaada504517f1afa3c3a"
+    },
+    {
+      "url": "https://streamfort.online/e/nwjonwrbz745",
+      "player_url": "https://streamfort.online/e/nwjonwrbz745",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nwjonwrbz745",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/98o3q0yuwilc",
+      "player_url": "https://streamfort.online/e/98o3q0yuwilc",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "98o3q0yuwilc",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/atn7llz6ezps",
+      "player_url": "https://vidnova.online/embed/atn7llz6ezps",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "atn7llz6ezps",
+      "id": 4
+    },
+    {
+      "url": "https://vidnova.online/embed/yzwrpav91doh",
+      "player_url": "https://vidnova.online/embed/yzwrpav91doh",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yzwrpav91doh",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/r277je0r54zl",
+      "player_url": "https://dsvplay.com/e/r277je0r54zl",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r277je0r54zl",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/7dzhqxfuty2o",
+      "player_url": "https://voe.sx/e/7dzhqxfuty2o",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7dzhqxfuty2o",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
