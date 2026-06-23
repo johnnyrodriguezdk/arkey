@@ -14,7 +14,26 @@
   "slug": "larva-la-familia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/bnlht5gjmstj",
+      "player_url": "https://dsvplay.com/e/bnlht5gjmstj",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bnlht5gjmstj",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/ui7tp7m08ubk",
+      "player_url": "https://dsvplay.com/e/ui7tp7m08ubk",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ui7tp7m08ubk",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
