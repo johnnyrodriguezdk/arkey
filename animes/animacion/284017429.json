@@ -14,7 +14,53 @@
   "slug": "my-tiny-senpai",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/1aixsx5qfa17",
+      "player_url": "https://streamfort.online/e/1aixsx5qfa17",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1aixsx5qfa17",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/7lcxkfgbq0uu",
+      "player_url": "https://streamfort.online/e/7lcxkfgbq0uu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7lcxkfgbq0uu",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/odh1aoj8i7ur",
+      "player_url": "https://vidnova.online/embed/odh1aoj8i7ur",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "odh1aoj8i7ur",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/csljnl0f5zdz",
+      "player_url": "https://vidnova.online/embed/csljnl0f5zdz",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "csljnl0f5zdz",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/qmddprotoh3z",
+      "player_url": "https://voe.sx/e/qmddprotoh3z",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qmddprotoh3z",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
