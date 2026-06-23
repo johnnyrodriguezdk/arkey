@@ -15,7 +15,80 @@
   "slug": "bojack-horseman",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfa561bcad205acda226bc176b43908c7e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa561bcad205acda226bc176b43908c7e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa561bcad205acda226bc176b43908c7e3a"
+    },
+    {
+      "url": "https://streamfort.online/e/tc55vfaz8rfc",
+      "player_url": "https://streamfort.online/e/tc55vfaz8rfc",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tc55vfaz8rfc",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/lyvga1qjbmif",
+      "player_url": "https://streamfort.online/e/lyvga1qjbmif",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lyvga1qjbmif",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/cf6ofvscs6ud",
+      "player_url": "https://dsvplay.com/e/cf6ofvscs6ud",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cf6ofvscs6ud",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/usjckjfrq06a",
+      "player_url": "https://dsvplay.com/e/usjckjfrq06a",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "usjckjfrq06a",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/tmaeemjcjcgm",
+      "player_url": "https://voe.sx/e/tmaeemjcjcgm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tmaeemjcjcgm",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/lu2slebacuei",
+      "player_url": "https://voe.sx/e/lu2slebacuei",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lu2slebacuei",
+      "id": 7
+    },
+    {
+      "url": "https://voe.sx/e/rruom8j9ntvg",
+      "player_url": "https://voe.sx/e/rruom8j9ntvg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rruom8j9ntvg",
+      "id": 8
+    }
+  ],
   "episodes": [
     {
       "season": 1,
