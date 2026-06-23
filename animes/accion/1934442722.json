@@ -18,7 +18,35 @@
   "slug": "claymore",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf46f662f86a3fa3ba9511def8d2ba0e933a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf46f662f86a3fa3ba9511def8d2ba0e933a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf46f662f86a3fa3ba9511def8d2ba0e933a"
+    },
+    {
+      "url": "https://streamfort.online/e/rrmm7nppdczx",
+      "player_url": "https://streamfort.online/e/rrmm7nppdczx",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rrmm7nppdczx",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/z9s1k168n0x1",
+      "player_url": "https://voe.sx/e/z9s1k168n0x1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z9s1k168n0x1",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
