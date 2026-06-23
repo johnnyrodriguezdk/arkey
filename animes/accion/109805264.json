@@ -17,7 +17,26 @@
   "slug": "star-wars-la-guerra-de-los-clones",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/33zo574ayjm6",
+      "player_url": "https://streamfort.online/e/33zo574ayjm6",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "33zo574ayjm6",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/20hyaivfvws6",
+      "player_url": "https://streamfort.online/e/20hyaivfvws6",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "20hyaivfvws6",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
