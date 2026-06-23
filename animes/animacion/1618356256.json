@@ -16,7 +16,71 @@
   "slug": "the-vampire-dies-in-no-time",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfe6df2148a8f22bf29c823a8a019987803a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe6df2148a8f22bf29c823a8a019987803a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe6df2148a8f22bf29c823a8a019987803a"
+    },
+    {
+      "url": "https://streamfort.online/e/2p6w18lv2ubv",
+      "player_url": "https://streamfort.online/e/2p6w18lv2ubv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2p6w18lv2ubv",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/bfl9rs0tgqx0",
+      "player_url": "https://vidnova.online/embed/bfl9rs0tgqx0",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bfl9rs0tgqx0",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/n8k1nfxzspl0",
+      "player_url": "https://dsvplay.com/e/n8k1nfxzspl0",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n8k1nfxzspl0",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/mhw8hlcunrjd",
+      "player_url": "https://voe.sx/e/mhw8hlcunrjd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mhw8hlcunrjd",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/3eh7p5zgysjv",
+      "player_url": "https://voe.sx/e/3eh7p5zgysjv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3eh7p5zgysjv",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/nlffvjadqi5a",
+      "player_url": "https://voe.sx/e/nlffvjadqi5a",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nlffvjadqi5a",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
