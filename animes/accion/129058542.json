@@ -17,7 +17,53 @@
   "slug": "hunter-hunter",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfa2a8fbd5ec684e3b9fc5e4f5f0e752cb3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa2a8fbd5ec684e3b9fc5e4f5f0e752cb3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa2a8fbd5ec684e3b9fc5e4f5f0e752cb3a"
+    },
+    {
+      "url": "https://streamfort.online/e/az9oqr3nzwt2",
+      "player_url": "https://streamfort.online/e/az9oqr3nzwt2",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "az9oqr3nzwt2",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/46adtbnumzss",
+      "player_url": "https://voe.sx/e/46adtbnumzss",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "46adtbnumzss",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/tjhzn1jqcvyc",
+      "player_url": "https://voe.sx/e/tjhzn1jqcvyc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tjhzn1jqcvyc",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/xiwsimeeddv9",
+      "player_url": "https://voe.sx/e/xiwsimeeddv9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xiwsimeeddv9",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
