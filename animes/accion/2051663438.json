@@ -17,7 +17,89 @@
   "slug": "titanes-del-pacifico-tierra-de-nadie",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf418352ff391caab79ed95993d1bae3d33a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf418352ff391caab79ed95993d1bae3d33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf418352ff391caab79ed95993d1bae3d33a"
+    },
+    {
+      "url": "https://streamfort.online/e/t7ly8mwi3oyr",
+      "player_url": "https://streamfort.online/e/t7ly8mwi3oyr",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t7ly8mwi3oyr",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/j5yxqo1iagfh",
+      "player_url": "https://streamfort.online/e/j5yxqo1iagfh",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j5yxqo1iagfh",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/6slecr7jtpkz",
+      "player_url": "https://streamfort.online/e/6slecr7jtpkz",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6slecr7jtpkz",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/bzgfurqz1032",
+      "player_url": "https://dsvplay.com/e/bzgfurqz1032",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bzgfurqz1032",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/4gqbx433u7hz",
+      "player_url": "https://dsvplay.com/e/4gqbx433u7hz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4gqbx433u7hz",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/pbuecs3dfl8k",
+      "player_url": "https://voe.sx/e/pbuecs3dfl8k",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pbuecs3dfl8k",
+      "id": 7
+    },
+    {
+      "url": "https://dsvplay.com/e/zuj2db623k2w",
+      "player_url": "https://dsvplay.com/e/zuj2db623k2w",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zuj2db623k2w",
+      "id": 8
+    },
+    {
+      "url": "https://dsvplay.com/e/y1ypeeo9y0gv",
+      "player_url": "https://dsvplay.com/e/y1ypeeo9y0gv",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y1ypeeo9y0gv",
+      "id": 9
+    }
+  ],
   "episodes": [
     {
       "season": 1,
