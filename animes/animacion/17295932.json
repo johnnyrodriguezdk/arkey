@@ -14,7 +14,35 @@
   "slug": "la-ciencia-del-amor",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hff451540a719ccad2929725837867c6113a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff451540a719ccad2929725837867c6113a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff451540a719ccad2929725837867c6113a"
+    },
+    {
+      "url": "https://streamfort.online/e/ivqtia8xfe5y",
+      "player_url": "https://streamfort.online/e/ivqtia8xfe5y",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ivqtia8xfe5y",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/tcnzuup5cxcg",
+      "player_url": "https://voe.sx/e/tcnzuup5cxcg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tcnzuup5cxcg",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
