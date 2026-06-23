@@ -16,7 +16,53 @@
   "slug": "las-reglas-de-megamente",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfbf15128d4cab83aeb05fe3b235a13dfb3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfbf15128d4cab83aeb05fe3b235a13dfb3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfbf15128d4cab83aeb05fe3b235a13dfb3a"
+    },
+    {
+      "url": "https://streamfort.online/e/vehtpg4w0mqp",
+      "player_url": "https://streamfort.online/e/vehtpg4w0mqp",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vehtpg4w0mqp",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/mxytkszqh7n3",
+      "player_url": "https://dsvplay.com/e/mxytkszqh7n3",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mxytkszqh7n3",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/jf1rdooekhxq",
+      "player_url": "https://voe.sx/e/jf1rdooekhxq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jf1rdooekhxq",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/dl1pd2mawnib",
+      "player_url": "https://voe.sx/e/dl1pd2mawnib",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dl1pd2mawnib",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
