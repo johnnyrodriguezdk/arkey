@@ -214,12 +214,30 @@
     },
     {
       "id": 23,
-      "url": "https://lacloud.live/public/stream/07495c3ec4c9b13/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/07495c3ec4c9b13/master.m3u8",
+      "url": "https://lacloud.live/public/stream/e07495c3ec4c9b13/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/e07495c3ec4c9b13/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "07495c3ec4c9b13"
+    },
+    {
+      "id": 24,
+      "url": "https://lalafilecdn.space/hf0f741b0b903516bebb7f02a9186651373a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0f741b0b903516bebb7f02a9186651373a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0f741b0b903516bebb7f02a9186651373a"
+    },
+    {
+      "url": "https://voe.sx/e/wvmfbljcuaaz",
+      "player_url": "https://voe.sx/e/wvmfbljcuaaz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wvmfbljcuaaz",
+      "id": 25
     }
   ]
 }
