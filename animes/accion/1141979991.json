@@ -19,7 +19,44 @@
   "slug": "academia-unicornio",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf1ba8a334f3f1131075c19bec63af0d043a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf1ba8a334f3f1131075c19bec63af0d043a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1ba8a334f3f1131075c19bec63af0d043a"
+    },
+    {
+      "url": "https://vidnova.online/embed/x3vxzk7jg2cm",
+      "player_url": "https://vidnova.online/embed/x3vxzk7jg2cm",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x3vxzk7jg2cm",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/xgstydfy1qpi",
+      "player_url": "https://voe.sx/e/xgstydfy1qpi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xgstydfy1qpi",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/d1m4p12vtmpq",
+      "player_url": "https://voe.sx/e/d1m4p12vtmpq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d1m4p12vtmpq",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
