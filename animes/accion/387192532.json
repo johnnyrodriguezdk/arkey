@@ -19,7 +19,35 @@
   "slug": "los-jovenes-titanes-en-accion",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf260f22bc8a03df866f9e2017c062f1c43a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf260f22bc8a03df866f9e2017c062f1c43a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf260f22bc8a03df866f9e2017c062f1c43a"
+    },
+    {
+      "url": "https://streamfort.online/e/0kzi3ke8nn5b",
+      "player_url": "https://streamfort.online/e/0kzi3ke8nn5b",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0kzi3ke8nn5b",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/26888bsef2lk",
+      "player_url": "https://vidnova.online/embed/26888bsef2lk",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "26888bsef2lk",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
