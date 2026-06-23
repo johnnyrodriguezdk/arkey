@@ -16,7 +16,71 @@
   "slug": "link-click",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf4d02314a8238c2a8da5c7fe88393d1073a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf4d02314a8238c2a8da5c7fe88393d1073a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf4d02314a8238c2a8da5c7fe88393d1073a"
+    },
+    {
+      "url": "https://streamfort.online/e/9sg53gkaoj6c",
+      "player_url": "https://streamfort.online/e/9sg53gkaoj6c",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9sg53gkaoj6c",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/4yavo0adixu7",
+      "player_url": "https://vidnova.online/embed/4yavo0adixu7",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4yavo0adixu7",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/3pmrz94kabgb",
+      "player_url": "https://dsvplay.com/e/3pmrz94kabgb",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3pmrz94kabgb",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/lj4vbg4bfbk7",
+      "player_url": "https://voe.sx/e/lj4vbg4bfbk7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lj4vbg4bfbk7",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/rdhdqyczgl6b",
+      "player_url": "https://voe.sx/e/rdhdqyczgl6b",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rdhdqyczgl6b",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/mllpakztxlmz",
+      "player_url": "https://voe.sx/e/mllpakztxlmz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mllpakztxlmz",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 0,
