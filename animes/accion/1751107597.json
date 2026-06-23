@@ -17,7 +17,35 @@
   "slug": "ultimate-spider-man",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/9a1wva01tipw",
+      "player_url": "https://dsvplay.com/e/9a1wva01tipw",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9a1wva01tipw",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/m655xpy9m28n",
+      "player_url": "https://dsvplay.com/e/m655xpy9m28n",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m655xpy9m28n",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/kmsdczcgxc0a",
+      "player_url": "https://voe.sx/e/kmsdczcgxc0a",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kmsdczcgxc0a",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
