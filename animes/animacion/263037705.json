@@ -14,7 +14,53 @@
   "slug": "he-renacido-como-un-microfono-en-forma-de-cabeza",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf72f3afd70eb74ec9865f51d7004f34f03a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf72f3afd70eb74ec9865f51d7004f34f03a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf72f3afd70eb74ec9865f51d7004f34f03a"
+    },
+    {
+      "url": "https://streamfort.online/e/dlxb473b0php",
+      "player_url": "https://streamfort.online/e/dlxb473b0php",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dlxb473b0php",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/9eysferoq0ec",
+      "player_url": "https://dsvplay.com/e/9eysferoq0ec",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9eysferoq0ec",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/nddtxri3wtl8",
+      "player_url": "https://voe.sx/e/nddtxri3wtl8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nddtxri3wtl8",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/efqrcacrfrnu",
+      "player_url": "https://voe.sx/e/efqrcacrfrnu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fqrcacrfrnu",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
