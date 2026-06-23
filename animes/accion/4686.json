@@ -18,7 +18,26 @@
   "slug": "ben-10-4686",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf62af1ae5b52bd90b281ffbdb51e547313a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf62af1ae5b52bd90b281ffbdb51e547313a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf62af1ae5b52bd90b281ffbdb51e547313a"
+    },
+    {
+      "url": "https://streamfort.online/e/bdqrv5z3m6c4",
+      "player_url": "https://streamfort.online/e/bdqrv5z3m6c4",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bdqrv5z3m6c4",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
