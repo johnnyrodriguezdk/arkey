@@ -14,7 +14,62 @@
   "slug": "tomo-chan-is-a-girl",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf281438c7629baaa0980afc07139dd4753a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf281438c7629baaa0980afc07139dd4753a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf281438c7629baaa0980afc07139dd4753a"
+    },
+    {
+      "url": "https://streamfort.online/e/ux138bth2t4b",
+      "player_url": "https://streamfort.online/e/ux138bth2t4b",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ux138bth2t4b",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/o6evnp7cz53k",
+      "player_url": "https://vidnova.online/embed/o6evnp7cz53k",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o6evnp7cz53k",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/9weoksdumnw4",
+      "player_url": "https://dsvplay.com/e/9weoksdumnw4",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9weoksdumnw4",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/3pxdapajapnt",
+      "player_url": "https://voe.sx/e/3pxdapajapnt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3pxdapajapnt",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/wr24v5lq7yjt",
+      "player_url": "https://voe.sx/e/wr24v5lq7yjt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wr24v5lq7yjt",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
