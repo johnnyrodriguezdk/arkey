@@ -15,7 +15,35 @@
   "slug": "masamune-kuns-revenge",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf2aab35e593984a9bf32f10538a75f3623a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf2aab35e593984a9bf32f10538a75f3623a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf2aab35e593984a9bf32f10538a75f3623a"
+    },
+    {
+      "url": "https://vidnova.online/embed/ywkwm7wsrn5k",
+      "player_url": "https://vidnova.online/embed/ywkwm7wsrn5k",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ywkwm7wsrn5k",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/le9tkznlvji6",
+      "player_url": "https://voe.sx/e/le9tkznlvji6",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "le9tkznlvji6",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
