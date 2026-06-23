@@ -17,7 +17,44 @@
   "slug": "bna-brand-new-animal",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf9ccadce5f859027dc934a197378cb6563a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf9ccadce5f859027dc934a197378cb6563a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9ccadce5f859027dc934a197378cb6563a"
+    },
+    {
+      "url": "https://vidnova.online/embed/rb33af2e0z5b",
+      "player_url": "https://vidnova.online/embed/rb33af2e0z5b",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rb33af2e0z5b",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/j9vxmdugonae",
+      "player_url": "https://voe.sx/e/j9vxmdugonae",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j9vxmdugonae",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/41lnt2zskeh3",
+      "player_url": "https://voe.sx/e/41lnt2zskeh3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "41lnt2zskeh3",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
