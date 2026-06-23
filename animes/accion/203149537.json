@@ -17,7 +17,35 @@
   "slug": "mazinger-z-remake",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/h66718eflmz0",
+      "player_url": "https://dsvplay.com/e/h66718eflmz0",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h66718eflmz0",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/e1k7z4fb2b1m",
+      "player_url": "https://dsvplay.com/e/e1k7z4fb2b1m",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1k7z4fb2b1m",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/dvegq7sgid47",
+      "player_url": "https://voe.sx/e/dvegq7sgid47",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dvegq7sgid47",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
