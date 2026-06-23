@@ -15,7 +15,17 @@
   "slug": "id-0",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/eeqk8mkyslng",
+      "player_url": "https://voe.sx/e/eeqk8mkyslng",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qk8mkyslng",
+      "id": 1
+    }
+  ],
   "episodes": [
     {
       "season": 1,
