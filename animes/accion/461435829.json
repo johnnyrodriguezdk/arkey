@@ -17,7 +17,44 @@
   "slug": "super-agente-cobra",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf7262cd206bcd7722f719be95396b58bb3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf7262cd206bcd7722f719be95396b58bb3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf7262cd206bcd7722f719be95396b58bb3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/794ntvsfamdb",
+      "player_url": "https://vidnova.online/embed/794ntvsfamdb",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "794ntvsfamdb",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/xue4w1b6b6qq",
+      "player_url": "https://voe.sx/e/xue4w1b6b6qq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xue4w1b6b6qq",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/nepegvsaetrp",
+      "player_url": "https://voe.sx/e/nepegvsaetrp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nepegvsaetrp",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
