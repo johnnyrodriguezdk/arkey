@@ -17,7 +17,26 @@
   "slug": "fluffy-paradise",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf8bba1049cfb00bbef3773e977dbd58433a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf8bba1049cfb00bbef3773e977dbd58433a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf8bba1049cfb00bbef3773e977dbd58433a"
+    },
+    {
+      "url": "https://voe.sx/e/0yp4lbnqbqsk",
+      "player_url": "https://voe.sx/e/0yp4lbnqbqsk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0yp4lbnqbqsk",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
