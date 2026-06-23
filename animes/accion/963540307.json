@@ -19,7 +19,53 @@
   "slug": "knd-los-chicos-del-barrio",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/ld73ravrloml",
+      "player_url": "https://streamfort.online/e/ld73ravrloml",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ld73ravrloml",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/i4nda7fsux98",
+      "player_url": "https://streamfort.online/e/i4nda7fsux98",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i4nda7fsux98",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/waql4jdq0r7z",
+      "player_url": "https://streamfort.online/e/waql4jdq0r7z",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "waql4jdq0r7z",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/to4s332az4zs",
+      "player_url": "https://dsvplay.com/e/to4s332az4zs",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "to4s332az4zs",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/xbwfmr8nonqc",
+      "player_url": "https://dsvplay.com/e/xbwfmr8nonqc",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xbwfmr8nonqc",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
