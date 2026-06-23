@@ -14,7 +14,62 @@
   "slug": "brandy-y-el-sr-bigotes",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf944ff59bb780c78d2274aad745544f933a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf944ff59bb780c78d2274aad745544f933a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf944ff59bb780c78d2274aad745544f933a"
+    },
+    {
+      "url": "https://streamfort.online/e/n1ypylphlpuo",
+      "player_url": "https://streamfort.online/e/n1ypylphlpuo",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n1ypylphlpuo",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/yyl7s7pifq67",
+      "player_url": "https://vidnova.online/embed/yyl7s7pifq67",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yyl7s7pifq67",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/retr5q2fvylc",
+      "player_url": "https://voe.sx/e/retr5q2fvylc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "retr5q2fvylc",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/1ujybtsjgriu",
+      "player_url": "https://voe.sx/e/1ujybtsjgriu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1ujybtsjgriu",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/ryatxcfitkzl",
+      "player_url": "https://voe.sx/e/ryatxcfitkzl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ryatxcfitkzl",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
