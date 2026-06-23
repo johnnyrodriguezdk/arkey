@@ -14,7 +14,35 @@
   "slug": "el-maravilloso-mundo-de-mickey-mouse",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hffb51d05bf7ae06e531c6b125e7cd52bb3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hffb51d05bf7ae06e531c6b125e7cd52bb3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hffb51d05bf7ae06e531c6b125e7cd52bb3a"
+    },
+    {
+      "url": "https://streamfort.online/e/tbqhac7gmgfx",
+      "player_url": "https://streamfort.online/e/tbqhac7gmgfx",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tbqhac7gmgfx",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/b6853adxe5i9",
+      "player_url": "https://vidnova.online/embed/b6853adxe5i9",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b6853adxe5i9",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
