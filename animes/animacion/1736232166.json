@@ -16,7 +16,107 @@
   "slug": "planeta-de-recolectores",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf0055a921c3f29f96c632dfb4a12570923a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0055a921c3f29f96c632dfb4a12570923a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0055a921c3f29f96c632dfb4a12570923a"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hfd2a2bbc0afd88f8d14364a6a4b8c904a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd2a2bbc0afd88f8d14364a6a4b8c904a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd2a2bbc0afd88f8d14364a6a4b8c904a3a"
+    },
+    {
+      "url": "https://streamfort.online/e/b37y3vy9m8ln",
+      "player_url": "https://streamfort.online/e/b37y3vy9m8ln",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b37y3vy9m8ln",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/q9pyec5rb52u",
+      "player_url": "https://vidnova.online/embed/q9pyec5rb52u",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q9pyec5rb52u",
+      "id": 4
+    },
+    {
+      "url": "https://vidnova.online/embed/mihpnp5iw7xq",
+      "player_url": "https://vidnova.online/embed/mihpnp5iw7xq",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mihpnp5iw7xq",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/6dys5093rcv9",
+      "player_url": "https://dsvplay.com/e/6dys5093rcv9",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6dys5093rcv9",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/pgonmunfsodw",
+      "player_url": "https://voe.sx/e/pgonmunfsodw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pgonmunfsodw",
+      "id": 7
+    },
+    {
+      "url": "https://voe.sx/e/o6hciwj2b3qy",
+      "player_url": "https://voe.sx/e/o6hciwj2b3qy",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o6hciwj2b3qy",
+      "id": 8
+    },
+    {
+      "url": "https://voe.sx/e/17qcekrc4qki",
+      "player_url": "https://voe.sx/e/17qcekrc4qki",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "17qcekrc4qki",
+      "id": 9
+    },
+    {
+      "url": "https://streamfort.online/e/vms5x84kerh1",
+      "player_url": "https://streamfort.online/e/vms5x84kerh1",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vms5x84kerh1",
+      "id": 10
+    },
+    {
+      "url": "https://dsvplay.com/e/04njsdufv5vl",
+      "player_url": "https://dsvplay.com/e/04njsdufv5vl",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "04njsdufv5vl",
+      "id": 11
+    }
+  ],
   "episodes": [
     {
       "season": 1,
