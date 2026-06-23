@@ -15,7 +15,35 @@
   "slug": "mr-bean-la-serie-animada",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/txse8pcag7oo",
+      "player_url": "https://dsvplay.com/e/txse8pcag7oo",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "txse8pcag7oo",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/m29ear1jhhv0",
+      "player_url": "https://dsvplay.com/e/m29ear1jhhv0",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m29ear1jhhv0",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/5lvfzv9smyvm",
+      "player_url": "https://voe.sx/e/5lvfzv9smyvm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5lvfzv9smyvm",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
