@@ -14,7 +14,98 @@
   "slug": "alya-sometimes-hides-her-feelings-in-russian",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfa7bbd73fc35ce587f9eb2d41c3775ad63a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa7bbd73fc35ce587f9eb2d41c3775ad63a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa7bbd73fc35ce587f9eb2d41c3775ad63a"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hfecd6c90d3e2dfa93acbd634a24e655703a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfecd6c90d3e2dfa93acbd634a24e655703a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfecd6c90d3e2dfa93acbd634a24e655703a"
+    },
+    {
+      "url": "https://voe.sx/e/qskz06ycu5mp",
+      "player_url": "https://voe.sx/e/qskz06ycu5mp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qskz06ycu5mp",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/k2y1iztfnqdn",
+      "player_url": "https://streamfort.online/e/k2y1iztfnqdn",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k2y1iztfnqdn",
+      "id": 4
+    },
+    {
+      "url": "https://streamfort.online/e/hugsxmyslc19",
+      "player_url": "https://streamfort.online/e/hugsxmyslc19",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hugsxmyslc19",
+      "id": 5
+    },
+    {
+      "url": "https://vidnova.online/embed/pf3czz9u4jnk",
+      "player_url": "https://vidnova.online/embed/pf3czz9u4jnk",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pf3czz9u4jnk",
+      "id": 6
+    },
+    {
+      "url": "https://vidnova.online/embed/fycg8q2ego4p",
+      "player_url": "https://vidnova.online/embed/fycg8q2ego4p",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fycg8q2ego4p",
+      "id": 7
+    },
+    {
+      "url": "https://dsvplay.com/e/itjv50c0y9z3",
+      "player_url": "https://dsvplay.com/e/itjv50c0y9z3",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "itjv50c0y9z3",
+      "id": 8
+    },
+    {
+      "url": "https://dsvplay.com/e/6xc9aefnrmmt",
+      "player_url": "https://dsvplay.com/e/6xc9aefnrmmt",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6xc9aefnrmmt",
+      "id": 9
+    },
+    {
+      "url": "https://voe.sx/e/u1oxmqch2aeg",
+      "player_url": "https://voe.sx/e/u1oxmqch2aeg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u1oxmqch2aeg",
+      "id": 10
+    }
+  ],
   "episodes": [
     {
       "season": 1,
