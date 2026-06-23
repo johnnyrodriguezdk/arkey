@@ -18,7 +18,26 @@
   "slug": "tengoku-daimakyo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/q9qjwo6rtcq7",
+      "player_url": "https://dsvplay.com/e/q9qjwo6rtcq7",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q9qjwo6rtcq7",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/ffvjhc1xxgpk",
+      "player_url": "https://dsvplay.com/e/ffvjhc1xxgpk",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ffvjhc1xxgpk",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
