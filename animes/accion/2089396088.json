@@ -15,7 +15,26 @@
   "slug": "kitti-katz",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/pp82bkpbkk84",
+      "player_url": "https://streamfort.online/e/pp82bkpbkk84",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pp82bkpbkk84",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/pmj8wm4cxcs3",
+      "player_url": "https://streamfort.online/e/pmj8wm4cxcs3",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pmj8wm4cxcs3",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
