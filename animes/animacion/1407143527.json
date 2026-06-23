@@ -14,7 +14,89 @@
   "slug": "rent-a-girlfriend",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hffbd7fb811d222a8a1f2ef0f568baa56d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hffbd7fb811d222a8a1f2ef0f568baa56d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hffbd7fb811d222a8a1f2ef0f568baa56d3a"
+    },
+    {
+      "url": "https://voe.sx/e/dq9sm2hxsl36",
+      "player_url": "https://voe.sx/e/dq9sm2hxsl36",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dq9sm2hxsl36",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/o2xv7s6fx6zi",
+      "player_url": "https://streamfort.online/e/o2xv7s6fx6zi",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o2xv7s6fx6zi",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/nxfohngc5cwr",
+      "player_url": "https://streamfort.online/e/nxfohngc5cwr",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nxfohngc5cwr",
+      "id": 4
+    },
+    {
+      "url": "https://vidnova.online/embed/nu532tf0pec3",
+      "player_url": "https://vidnova.online/embed/nu532tf0pec3",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nu532tf0pec3",
+      "id": 5
+    },
+    {
+      "url": "https://vidnova.online/embed/t4194ds8hskt",
+      "player_url": "https://vidnova.online/embed/t4194ds8hskt",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t4194ds8hskt",
+      "id": 6
+    },
+    {
+      "url": "https://dsvplay.com/e/v0rg87wn1y6y",
+      "player_url": "https://dsvplay.com/e/v0rg87wn1y6y",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v0rg87wn1y6y",
+      "id": 7
+    },
+    {
+      "url": "https://dsvplay.com/e/uj1msheyyrrv",
+      "player_url": "https://dsvplay.com/e/uj1msheyyrrv",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uj1msheyyrrv",
+      "id": 8
+    },
+    {
+      "url": "https://voe.sx/e/qxkewfvisa3r",
+      "player_url": "https://voe.sx/e/qxkewfvisa3r",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qxkewfvisa3r",
+      "id": 9
+    }
+  ],
   "episodes": [
     {
       "season": 1,
