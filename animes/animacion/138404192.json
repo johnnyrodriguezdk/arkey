@@ -14,7 +14,53 @@
   "slug": "las-leyendas",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/mul3w44q9mi4",
+      "player_url": "https://streamfort.online/e/mul3w44q9mi4",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mul3w44q9mi4",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/mtdmopbek8ew",
+      "player_url": "https://streamfort.online/e/mtdmopbek8ew",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mtdmopbek8ew",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/xe53em4odzpy",
+      "player_url": "https://dsvplay.com/e/xe53em4odzpy",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xe53em4odzpy",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/fb43nq12xrzs",
+      "player_url": "https://dsvplay.com/e/fb43nq12xrzs",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fb43nq12xrzs",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/5iar4mud1ejr",
+      "player_url": "https://voe.sx/e/5iar4mud1ejr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5iar4mud1ejr",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
