@@ -18,7 +18,53 @@
   "slug": "zoids-new-century-zero",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfdad2cd1036eb9a98958d925676de95b03a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfdad2cd1036eb9a98958d925676de95b03a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfdad2cd1036eb9a98958d925676de95b03a"
+    },
+    {
+      "url": "https://streamfort.online/e/x7sko6ewzp7x",
+      "player_url": "https://streamfort.online/e/x7sko6ewzp7x",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x7sko6ewzp7x",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/5efovvsrgo9t",
+      "player_url": "https://dsvplay.com/e/5efovvsrgo9t",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5efovvsrgo9t",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/8fzy1p4imje3",
+      "player_url": "https://voe.sx/e/8fzy1p4imje3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8fzy1p4imje3",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/q4jbbvnwzfm5",
+      "player_url": "https://voe.sx/e/q4jbbvnwzfm5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q4jbbvnwzfm5",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
