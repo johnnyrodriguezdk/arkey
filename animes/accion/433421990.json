@@ -18,7 +18,62 @@
   "slug": "fatekaleid-liner-prisma-illya",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfb63ad468cc732a2b9a9823bae12f4b043a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb63ad468cc732a2b9a9823bae12f4b043a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb63ad468cc732a2b9a9823bae12f4b043a"
+    },
+    {
+      "url": "https://streamfort.online/e/lvgqd8iybzbe",
+      "player_url": "https://streamfort.online/e/lvgqd8iybzbe",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lvgqd8iybzbe",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/6sde7067fh19",
+      "player_url": "https://streamfort.online/e/6sde7067fh19",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6sde7067fh19",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/d0fd9sqieq7c",
+      "player_url": "https://vidnova.online/embed/d0fd9sqieq7c",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d0fd9sqieq7c",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/5rixg1mf14ix",
+      "player_url": "https://dsvplay.com/e/5rixg1mf14ix",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5rixg1mf14ix",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/791bqiqequyg",
+      "player_url": "https://voe.sx/e/791bqiqequyg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "791bqiqequyg",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 0,
