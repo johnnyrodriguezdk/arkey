@@ -18,7 +18,44 @@
   "slug": "sabikui-bisco",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf303741913b1bbaba0ba9dda56aba48d13a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf303741913b1bbaba0ba9dda56aba48d13a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf303741913b1bbaba0ba9dda56aba48d13a"
+    },
+    {
+      "url": "https://streamfort.online/e/5dbic3zl5m06",
+      "player_url": "https://streamfort.online/e/5dbic3zl5m06",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5dbic3zl5m06",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/09qzri1t9adx",
+      "player_url": "https://voe.sx/e/09qzri1t9adx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "09qzri1t9adx",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/tcqsdzyssztv",
+      "player_url": "https://voe.sx/e/tcqsdzyssztv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tcqsdzyssztv",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
