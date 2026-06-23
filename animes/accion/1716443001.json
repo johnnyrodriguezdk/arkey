@@ -16,7 +16,26 @@
   "slug": "cuticle-detective-inaba",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfb946b2f98e2676c956e1d3ae236298d63a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb946b2f98e2676c956e1d3ae236298d63a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb946b2f98e2676c956e1d3ae236298d63a"
+    },
+    {
+      "url": "https://streamfort.online/e/jz6obx765g10",
+      "player_url": "https://streamfort.online/e/jz6obx765g10",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jz6obx765g10",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
