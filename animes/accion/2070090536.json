@@ -18,7 +18,62 @@
   "slug": "jurassic-world-teoria-del-dinocaos",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf031c04c38276b815e0238a19a0bb9a5c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf031c04c38276b815e0238a19a0bb9a5c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf031c04c38276b815e0238a19a0bb9a5c3a"
+    },
+    {
+      "url": "https://streamfort.online/e/gftwuewt0u4a",
+      "player_url": "https://streamfort.online/e/gftwuewt0u4a",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gftwuewt0u4a",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/66eeg7nl9j53",
+      "player_url": "https://vidnova.online/embed/66eeg7nl9j53",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "66eeg7nl9j53",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/n6l5vm5zog2y",
+      "player_url": "https://vidnova.online/embed/n6l5vm5zog2y",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n6l5vm5zog2y",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/kouhw01c4ksg",
+      "player_url": "https://dsvplay.com/e/kouhw01c4ksg",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kouhw01c4ksg",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/lpjr2pdky2ws",
+      "player_url": "https://voe.sx/e/lpjr2pdky2ws",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lpjr2pdky2ws",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
