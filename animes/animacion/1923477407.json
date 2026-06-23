@@ -14,7 +14,53 @@
   "slug": "sasaki-to-miyano",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf1d1d3947db888916a093aedfef03a8193a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf1d1d3947db888916a093aedfef03a8193a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1d1d3947db888916a093aedfef03a8193a"
+    },
+    {
+      "url": "https://streamfort.online/e/k3sraidrwqgj",
+      "player_url": "https://streamfort.online/e/k3sraidrwqgj",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k3sraidrwqgj",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/fu5qw80ip0vr",
+      "player_url": "https://vidnova.online/embed/fu5qw80ip0vr",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fu5qw80ip0vr",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/sflgtnl0zy7h",
+      "player_url": "https://voe.sx/e/sflgtnl0zy7h",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sflgtnl0zy7h",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/fkdxhtct6ibc",
+      "player_url": "https://voe.sx/e/fkdxhtct6ibc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fkdxhtct6ibc",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 0,
