@@ -17,7 +17,44 @@
   "slug": "azur-lane",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf21d13750dc863e2dbabe4232ea1fb9753a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf21d13750dc863e2dbabe4232ea1fb9753a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf21d13750dc863e2dbabe4232ea1fb9753a"
+    },
+    {
+      "url": "https://streamfort.online/e/7zcz3slv31yf",
+      "player_url": "https://streamfort.online/e/7zcz3slv31yf",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7zcz3slv31yf",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/zu2aemt8pg85",
+      "player_url": "https://voe.sx/e/zu2aemt8pg85",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zu2aemt8pg85",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/jeeyggzcwjsz",
+      "player_url": "https://voe.sx/e/jeeyggzcwjsz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jeeyggzcwjsz",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
