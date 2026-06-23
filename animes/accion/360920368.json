@@ -18,7 +18,35 @@
   "slug": "megalo-box",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf7afe22ed8316c7cd50f7def893b7b1543a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf7afe22ed8316c7cd50f7def893b7b1543a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf7afe22ed8316c7cd50f7def893b7b1543a"
+    },
+    {
+      "url": "https://streamfort.online/e/dqjxdnfc64ns",
+      "player_url": "https://streamfort.online/e/dqjxdnfc64ns",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dqjxdnfc64ns",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/8zyl3tjyoo11",
+      "player_url": "https://voe.sx/e/8zyl3tjyoo11",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8zyl3tjyoo11",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
