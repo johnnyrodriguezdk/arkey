@@ -14,7 +14,35 @@
   "slug": "de-yakuza-a-amo-de-casa",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/uh5mg3kcd33f",
+      "player_url": "https://streamfort.online/e/uh5mg3kcd33f",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uh5mg3kcd33f",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/pjronn8fludi",
+      "player_url": "https://streamfort.online/e/pjronn8fludi",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pjronn8fludi",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/3j2z5flfhezv",
+      "player_url": "https://voe.sx/e/3j2z5flfhezv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3j2z5flfhezv",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
