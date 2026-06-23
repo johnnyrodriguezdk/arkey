@@ -18,7 +18,35 @@
   "slug": "dragon-quest-las-aventuras-de-fly",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/evtv3w7z3fhx",
+      "player_url": "https://dsvplay.com/e/evtv3w7z3fhx",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vtv3w7z3fhx",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/ywt3563skx5l",
+      "player_url": "https://dsvplay.com/e/ywt3563skx5l",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ywt3563skx5l",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/sc65clwikkxj",
+      "player_url": "https://voe.sx/e/sc65clwikkxj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sc65clwikkxj",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
