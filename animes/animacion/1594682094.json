@@ -14,7 +14,35 @@
   "slug": "paradise-pd",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hff00c064f6c161f2d18aebfe2ff3f706f3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff00c064f6c161f2d18aebfe2ff3f706f3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff00c064f6c161f2d18aebfe2ff3f706f3a"
+    },
+    {
+      "url": "https://dsvplay.com/e/n33l9yglsnx4",
+      "player_url": "https://dsvplay.com/e/n33l9yglsnx4",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n33l9yglsnx4",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/acngg2mb66fe",
+      "player_url": "https://voe.sx/e/acngg2mb66fe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "acngg2mb66fe",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
