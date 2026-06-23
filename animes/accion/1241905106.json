@@ -15,7 +15,17 @@
   "slug": "kid-cosmic",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/ze4pvqxwm1t6",
+      "player_url": "https://dsvplay.com/e/ze4pvqxwm1t6",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ze4pvqxwm1t6",
+      "id": 1
+    }
+  ],
   "episodes": [
     {
       "season": 1,
