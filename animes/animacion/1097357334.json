@@ -14,7 +14,35 @@
   "slug": "full-moon-buscando-la-luna-llena",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/c847r1kjamuj",
+      "player_url": "https://streamfort.online/e/c847r1kjamuj",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c847r1kjamuj",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/xvjgxdwr4wvv",
+      "player_url": "https://streamfort.online/e/xvjgxdwr4wvv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xvjgxdwr4wvv",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/9izjrd8qfgge",
+      "player_url": "https://voe.sx/e/9izjrd8qfgge",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9izjrd8qfgge",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
