@@ -16,7 +16,44 @@
   "slug": "mononoke",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf03272d81fc6b868ec16d0838455b969e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf03272d81fc6b868ec16d0838455b969e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf03272d81fc6b868ec16d0838455b969e3a"
+    },
+    {
+      "url": "https://streamfort.online/e/rimomnltmt9l",
+      "player_url": "https://streamfort.online/e/rimomnltmt9l",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rimomnltmt9l",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/9axmi5vo917k",
+      "player_url": "https://vidnova.online/embed/9axmi5vo917k",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9axmi5vo917k",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/uxfnz8mxa9cc",
+      "player_url": "https://voe.sx/e/uxfnz8mxa9cc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uxfnz8mxa9cc",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
