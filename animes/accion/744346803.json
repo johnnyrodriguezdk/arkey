@@ -18,7 +18,62 @@
   "slug": "fateapocrypha",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf015388634c2b457d6286182e023a885b3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf015388634c2b457d6286182e023a885b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf015388634c2b457d6286182e023a885b3a"
+    },
+    {
+      "url": "https://streamfort.online/e/yt2pvs1wybc9",
+      "player_url": "https://streamfort.online/e/yt2pvs1wybc9",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yt2pvs1wybc9",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/b9pdd7krlxnw",
+      "player_url": "https://vidnova.online/embed/b9pdd7krlxnw",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b9pdd7krlxnw",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/wrd7ub2cg0mt",
+      "player_url": "https://vidnova.online/embed/wrd7ub2cg0mt",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wrd7ub2cg0mt",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/akufs0s6df1q",
+      "player_url": "https://voe.sx/e/akufs0s6df1q",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "akufs0s6df1q",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/9twhy8zaynci",
+      "player_url": "https://voe.sx/e/9twhy8zaynci",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9twhy8zaynci",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
