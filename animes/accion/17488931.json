@@ -16,7 +16,62 @@
   "slug": "konosuba-an-explosion-on-this-wonderful-world",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf6b9896c3254cf35d500e28451cc1bd9a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf6b9896c3254cf35d500e28451cc1bd9a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf6b9896c3254cf35d500e28451cc1bd9a3a"
+    },
+    {
+      "url": "https://streamfort.online/e/0o2rybs0btoi",
+      "player_url": "https://streamfort.online/e/0o2rybs0btoi",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0o2rybs0btoi",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/2eeky7ko1yvl",
+      "player_url": "https://vidnova.online/embed/2eeky7ko1yvl",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2eeky7ko1yvl",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/sso7vveiu0hg",
+      "player_url": "https://dsvplay.com/e/sso7vveiu0hg",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sso7vveiu0hg",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/93r5bdnk7qtt",
+      "player_url": "https://voe.sx/e/93r5bdnk7qtt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "93r5bdnk7qtt",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/wqiijra7ar5w",
+      "player_url": "https://voe.sx/e/wqiijra7ar5w",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wqiijra7ar5w",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
