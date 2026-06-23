@@ -16,7 +16,53 @@
   "slug": "dragon-goes-house-hunting",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf8c4941647c0682ee16bde15aba3ca4403a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf8c4941647c0682ee16bde15aba3ca4403a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf8c4941647c0682ee16bde15aba3ca4403a"
+    },
+    {
+      "url": "https://vidnova.online/embed/1bjyylbelrlk",
+      "player_url": "https://vidnova.online/embed/1bjyylbelrlk",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1bjyylbelrlk",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/oqfk6j9nd4sr",
+      "player_url": "https://voe.sx/e/oqfk6j9nd4sr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oqfk6j9nd4sr",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/7js67tjng2sn",
+      "player_url": "https://voe.sx/e/7js67tjng2sn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7js67tjng2sn",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/441pb6jcwatn",
+      "player_url": "https://voe.sx/e/441pb6jcwatn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "441pb6jcwatn",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
