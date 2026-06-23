@@ -16,7 +16,26 @@
   "slug": "las-maravillosas-desventuras-de-flapjack",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfafdaf86e9945fe641fc44bcea42ebeab3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfafdaf86e9945fe641fc44bcea42ebeab3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfafdaf86e9945fe641fc44bcea42ebeab3a"
+    },
+    {
+      "url": "https://streamfort.online/e/ozrng94xs7xq",
+      "player_url": "https://streamfort.online/e/ozrng94xs7xq",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ozrng94xs7xq",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
