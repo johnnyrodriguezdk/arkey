@@ -18,7 +18,62 @@
   "slug": "dr-stone",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf3afdb29299bb2d7b1b69cefbf11293793a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf3afdb29299bb2d7b1b69cefbf11293793a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3afdb29299bb2d7b1b69cefbf11293793a"
+    },
+    {
+      "url": "https://streamfort.online/e/p94pxm1h26p3",
+      "player_url": "https://streamfort.online/e/p94pxm1h26p3",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p94pxm1h26p3",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/btrnn3hkue8f",
+      "player_url": "https://vidnova.online/embed/btrnn3hkue8f",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "btrnn3hkue8f",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/6fnjpaacmigx",
+      "player_url": "https://dsvplay.com/e/6fnjpaacmigx",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6fnjpaacmigx",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/p0puffxt63o9",
+      "player_url": "https://voe.sx/e/p0puffxt63o9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p0puffxt63o9",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/e0e3sqivla5r",
+      "player_url": "https://voe.sx/e/e0e3sqivla5r",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0e3sqivla5r",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 0,
