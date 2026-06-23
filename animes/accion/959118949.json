@@ -18,7 +18,71 @@
   "slug": "rey-chaman",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf367dc49b3ad74488666d379584d9df853a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf367dc49b3ad74488666d379584d9df853a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf367dc49b3ad74488666d379584d9df853a"
+    },
+    {
+      "url": "https://streamfort.online/e/kmkrebwy6gsv",
+      "player_url": "https://streamfort.online/e/kmkrebwy6gsv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kmkrebwy6gsv",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/7o1zahd3pjoy",
+      "player_url": "https://vidnova.online/embed/7o1zahd3pjoy",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7o1zahd3pjoy",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/ryxwoul9fgdk",
+      "player_url": "https://vidnova.online/embed/ryxwoul9fgdk",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ryxwoul9fgdk",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/pew6wxnh4nky",
+      "player_url": "https://voe.sx/e/pew6wxnh4nky",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pew6wxnh4nky",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/b34zxswljhss",
+      "player_url": "https://voe.sx/e/b34zxswljhss",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b34zxswljhss",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/xyzh8t78w9gs",
+      "player_url": "https://voe.sx/e/xyzh8t78w9gs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xyzh8t78w9gs",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
