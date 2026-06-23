@@ -14,7 +14,35 @@
   "slug": "rugrats",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf0b8cd136982813f8f3c5e00df25c746c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0b8cd136982813f8f3c5e00df25c746c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0b8cd136982813f8f3c5e00df25c746c3a"
+    },
+    {
+      "url": "https://streamfort.online/e/ohg8d2wd9wt7",
+      "player_url": "https://streamfort.online/e/ohg8d2wd9wt7",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ohg8d2wd9wt7",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/307pgm1s3ljt",
+      "player_url": "https://vidnova.online/embed/307pgm1s3ljt",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "307pgm1s3ljt",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
