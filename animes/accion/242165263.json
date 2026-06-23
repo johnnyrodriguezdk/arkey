@@ -17,7 +17,53 @@
   "slug": "los-siete-pecados-capitales",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfa9d428b1b6d7adb1b1e3975aaa59a3793a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa9d428b1b6d7adb1b1e3975aaa59a3793a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa9d428b1b6d7adb1b1e3975aaa59a3793a"
+    },
+    {
+      "url": "https://streamfort.online/e/a45u05fgovgr",
+      "player_url": "https://streamfort.online/e/a45u05fgovgr",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a45u05fgovgr",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/dqo07i47yloo",
+      "player_url": "https://vidnova.online/embed/dqo07i47yloo",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dqo07i47yloo",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/tgdgl78vybpt",
+      "player_url": "https://dsvplay.com/e/tgdgl78vybpt",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tgdgl78vybpt",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/v1icclgkrfly",
+      "player_url": "https://voe.sx/e/v1icclgkrfly",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v1icclgkrfly",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 0,
