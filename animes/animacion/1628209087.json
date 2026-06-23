@@ -13,7 +13,35 @@
   "slug": "el-seor-lobo-quiere-ser-comido",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf98dbffdc4915f721634aa55c675197583a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf98dbffdc4915f721634aa55c675197583a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf98dbffdc4915f721634aa55c675197583a"
+    },
+    {
+      "url": "https://vidnova.online/embed/cf3wfghfksiz",
+      "player_url": "https://vidnova.online/embed/cf3wfghfksiz",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cf3wfghfksiz",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/ccxjqwat5jvj",
+      "player_url": "https://voe.sx/e/ccxjqwat5jvj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ccxjqwat5jvj",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
