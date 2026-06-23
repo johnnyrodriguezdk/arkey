@@ -17,7 +17,35 @@
   "slug": "los-thornberrys",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf94b909699f72bfa4e5869cedfc8026593a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf94b909699f72bfa4e5869cedfc8026593a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf94b909699f72bfa4e5869cedfc8026593a"
+    },
+    {
+      "url": "https://streamfort.online/e/mdc2wfklwj05",
+      "player_url": "https://streamfort.online/e/mdc2wfklwj05",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mdc2wfklwj05",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/t9hcgepl5yhy",
+      "player_url": "https://dsvplay.com/e/t9hcgepl5yhy",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t9hcgepl5yhy",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
