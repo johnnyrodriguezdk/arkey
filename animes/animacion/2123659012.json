@@ -15,7 +15,44 @@
   "slug": "el-mundo-de-karma",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/rew2cfm0n47v",
+      "player_url": "https://streamfort.online/e/rew2cfm0n47v",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rew2cfm0n47v",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/5tpwft2xq1fu",
+      "player_url": "https://streamfort.online/e/5tpwft2xq1fu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5tpwft2xq1fu",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/o2rpsjrwp48o",
+      "player_url": "https://vidnova.online/embed/o2rpsjrwp48o",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o2rpsjrwp48o",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/osgeqww6myyr",
+      "player_url": "https://vidnova.online/embed/osgeqww6myyr",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "osgeqww6myyr",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
