@@ -15,7 +15,26 @@
   "slug": "monster-high",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/c9w0qqzm37ju",
+      "player_url": "https://streamfort.online/e/c9w0qqzm37ju",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c9w0qqzm37ju",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/5ql7v0bvhlsc",
+      "player_url": "https://streamfort.online/e/5ql7v0bvhlsc",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5ql7v0bvhlsc",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
