@@ -17,7 +17,44 @@
   "slug": "liga-de-la-justicia-accion",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf5f9bcdc7e38dc403c371051ef916f0773a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf5f9bcdc7e38dc403c371051ef916f0773a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf5f9bcdc7e38dc403c371051ef916f0773a"
+    },
+    {
+      "url": "https://streamfort.online/e/h73xmos6urvz",
+      "player_url": "https://streamfort.online/e/h73xmos6urvz",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h73xmos6urvz",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/tq3zbxm2lek2",
+      "player_url": "https://vidnova.online/embed/tq3zbxm2lek2",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tq3zbxm2lek2",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/a3e852bzt8qg",
+      "player_url": "https://dsvplay.com/e/a3e852bzt8qg",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a3e852bzt8qg",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
