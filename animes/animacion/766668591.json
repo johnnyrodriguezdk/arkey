@@ -17,7 +17,53 @@
   "slug": "steins-gate",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/gwsb49ihbigq",
+      "player_url": "https://streamfort.online/e/gwsb49ihbigq",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gwsb49ihbigq",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/hja4yp5efoez",
+      "player_url": "https://streamfort.online/e/hja4yp5efoez",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hja4yp5efoez",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/1md56nh75z6v",
+      "player_url": "https://dsvplay.com/e/1md56nh75z6v",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1md56nh75z6v",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/cbp9ft2nl2de",
+      "player_url": "https://dsvplay.com/e/cbp9ft2nl2de",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cbp9ft2nl2de",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/pghdoerjluj8",
+      "player_url": "https://voe.sx/e/pghdoerjluj8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pghdoerjluj8",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 0,
