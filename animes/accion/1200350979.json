@@ -19,7 +19,35 @@
   "slug": "ikkitousen",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/p60kwavwu2bt",
+      "player_url": "https://dsvplay.com/e/p60kwavwu2bt",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p60kwavwu2bt",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/q4v2gjlkxtmm",
+      "player_url": "https://dsvplay.com/e/q4v2gjlkxtmm",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q4v2gjlkxtmm",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/3l7m6d096v3y",
+      "player_url": "https://voe.sx/e/3l7m6d096v3y",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3l7m6d096v3y",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
