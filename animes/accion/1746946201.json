@@ -19,7 +19,35 @@
   "slug": "009-1",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfcde11ad02d6f8310fcccc000d18873343a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfcde11ad02d6f8310fcccc000d18873343a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfcde11ad02d6f8310fcccc000d18873343a"
+    },
+    {
+      "url": "https://voe.sx/e/ssey4cfzljca",
+      "player_url": "https://voe.sx/e/ssey4cfzljca",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ssey4cfzljca",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/cqnf1ytgnhmw",
+      "player_url": "https://voe.sx/e/cqnf1ytgnhmw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cqnf1ytgnhmw",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 0,
