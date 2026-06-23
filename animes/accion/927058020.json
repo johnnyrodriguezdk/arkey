@@ -15,7 +15,53 @@
   "slug": "los-101-dalmatas-la-serie",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfdc3e6a72c10f1f8caa06a6d4fe66b8fe3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfdc3e6a72c10f1f8caa06a6d4fe66b8fe3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfdc3e6a72c10f1f8caa06a6d4fe66b8fe3a"
+    },
+    {
+      "url": "https://streamfort.online/e/91bsf5rdjx69",
+      "player_url": "https://streamfort.online/e/91bsf5rdjx69",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "91bsf5rdjx69",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/3n8v7b3eqrda",
+      "player_url": "https://streamfort.online/e/3n8v7b3eqrda",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3n8v7b3eqrda",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/09dofmn6nmjv",
+      "player_url": "https://dsvplay.com/e/09dofmn6nmjv",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "09dofmn6nmjv",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/piqyugnvo41e",
+      "player_url": "https://voe.sx/e/piqyugnvo41e",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "piqyugnvo41e",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
