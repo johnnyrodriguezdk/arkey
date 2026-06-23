@@ -14,7 +14,44 @@
   "slug": "la-tropa-goofy",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf84550ef4de2a68cc6217ed7a8e3d34a83a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf84550ef4de2a68cc6217ed7a8e3d34a83a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf84550ef4de2a68cc6217ed7a8e3d34a83a"
+    },
+    {
+      "url": "https://streamfort.online/e/dta5g7mjgcto",
+      "player_url": "https://streamfort.online/e/dta5g7mjgcto",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dta5g7mjgcto",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/2wvwprbxczni",
+      "player_url": "https://voe.sx/e/2wvwprbxczni",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2wvwprbxczni",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/hywythsxmfa3",
+      "player_url": "https://voe.sx/e/hywythsxmfa3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hywythsxmfa3",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
