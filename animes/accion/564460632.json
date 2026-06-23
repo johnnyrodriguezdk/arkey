@@ -18,7 +18,89 @@
   "slug": "cowboy-bebop",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf15c6fcfcf1d9f092d056509e29d5785e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf15c6fcfcf1d9f092d056509e29d5785e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf15c6fcfcf1d9f092d056509e29d5785e3a"
+    },
+    {
+      "url": "https://voe.sx/e/zkcoiixzkig0",
+      "player_url": "https://voe.sx/e/zkcoiixzkig0",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zkcoiixzkig0",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/qif2f560y6ug",
+      "player_url": "https://streamfort.online/e/qif2f560y6ug",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qif2f560y6ug",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/wgxvh60j3nca",
+      "player_url": "https://streamfort.online/e/wgxvh60j3nca",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wgxvh60j3nca",
+      "id": 4
+    },
+    {
+      "url": "https://vidnova.online/embed/pnx3v3d4kb6w",
+      "player_url": "https://vidnova.online/embed/pnx3v3d4kb6w",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pnx3v3d4kb6w",
+      "id": 5
+    },
+    {
+      "url": "https://vidnova.online/embed/yheu48aa4czg",
+      "player_url": "https://vidnova.online/embed/yheu48aa4czg",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yheu48aa4czg",
+      "id": 6
+    },
+    {
+      "url": "https://dsvplay.com/e/p39s6bg6xuaz",
+      "player_url": "https://dsvplay.com/e/p39s6bg6xuaz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "p39s6bg6xuaz",
+      "id": 7
+    },
+    {
+      "url": "https://dsvplay.com/e/5xuy4rh1klrz",
+      "player_url": "https://dsvplay.com/e/5xuy4rh1klrz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5xuy4rh1klrz",
+      "id": 8
+    },
+    {
+      "url": "https://voe.sx/e/pnrvu9bdommv",
+      "player_url": "https://voe.sx/e/pnrvu9bdommv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pnrvu9bdommv",
+      "id": 9
+    }
+  ],
   "episodes": [
     {
       "season": 1,
