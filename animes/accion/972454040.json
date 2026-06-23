@@ -17,7 +17,71 @@
   "slug": "gantz",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf07098d439cde3504988c62035cf76de23a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf07098d439cde3504988c62035cf76de23a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf07098d439cde3504988c62035cf76de23a"
+    },
+    {
+      "url": "https://streamfort.online/e/9w4m2yz0r1vl",
+      "player_url": "https://streamfort.online/e/9w4m2yz0r1vl",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9w4m2yz0r1vl",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/9guxfnnseq1x",
+      "player_url": "https://streamfort.online/e/9guxfnnseq1x",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9guxfnnseq1x",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/jbanflggutar",
+      "player_url": "https://vidnova.online/embed/jbanflggutar",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jbanflggutar",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/n0d01se4boor",
+      "player_url": "https://dsvplay.com/e/n0d01se4boor",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "n0d01se4boor",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/sjfqznmeaejr",
+      "player_url": "https://voe.sx/e/sjfqznmeaejr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sjfqznmeaejr",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/sn7ermpizy4e",
+      "player_url": "https://voe.sx/e/sn7ermpizy4e",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sn7ermpizy4e",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 0,
