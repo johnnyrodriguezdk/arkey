@@ -19,7 +19,35 @@
   "slug": "lilo-y-stitch-la-serie",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/2biwnaif995n",
+      "player_url": "https://dsvplay.com/e/2biwnaif995n",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2biwnaif995n",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/f6bbter8x169",
+      "player_url": "https://dsvplay.com/e/f6bbter8x169",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f6bbter8x169",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/mnx1rinir7xq",
+      "player_url": "https://voe.sx/e/mnx1rinir7xq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mnx1rinir7xq",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
