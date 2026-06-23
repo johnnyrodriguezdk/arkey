@@ -18,7 +18,35 @@
   "slug": "choujikuu-yousai-macross",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfa8723dfe9dbb347aab4bcc5e65d113bd3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa8723dfe9dbb347aab4bcc5e65d113bd3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa8723dfe9dbb347aab4bcc5e65d113bd3a"
+    },
+    {
+      "url": "https://voe.sx/e/e43ryt8u2blb",
+      "player_url": "https://voe.sx/e/e43ryt8u2blb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "43ryt8u2blb",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/xuhr2vamtteb",
+      "player_url": "https://voe.sx/e/xuhr2vamtteb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xuhr2vamtteb",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
