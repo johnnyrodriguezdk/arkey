@@ -16,7 +16,44 @@
   "slug": "dr-slump",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf87aa8457ca4cfb369676d308452c47883a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf87aa8457ca4cfb369676d308452c47883a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf87aa8457ca4cfb369676d308452c47883a"
+    },
+    {
+      "url": "https://streamfort.online/e/bh6labjm6gee",
+      "player_url": "https://streamfort.online/e/bh6labjm6gee",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bh6labjm6gee",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/sywykhc0r5ll",
+      "player_url": "https://dsvplay.com/e/sywykhc0r5ll",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sywykhc0r5ll",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/zkaitftbnoiz",
+      "player_url": "https://voe.sx/e/zkaitftbnoiz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zkaitftbnoiz",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
