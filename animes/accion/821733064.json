@@ -16,7 +16,35 @@
   "slug": "canaan",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf9557616da2dd749ab89af89cd2a86be33a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf9557616da2dd749ab89af89cd2a86be33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9557616da2dd749ab89af89cd2a86be33a"
+    },
+    {
+      "url": "https://voe.sx/e/ri7jwqwebmm3",
+      "player_url": "https://voe.sx/e/ri7jwqwebmm3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ri7jwqwebmm3",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/r1pfae8qd7q3",
+      "player_url": "https://voe.sx/e/r1pfae8qd7q3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r1pfae8qd7q3",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
