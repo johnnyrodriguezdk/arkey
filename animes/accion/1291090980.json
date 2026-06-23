@@ -17,7 +17,62 @@
   "slug": "devilman-crybaby",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfd8d245f0185afa35adc6db062c38813d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd8d245f0185afa35adc6db062c38813d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd8d245f0185afa35adc6db062c38813d3a"
+    },
+    {
+      "url": "https://streamfort.online/e/go5a7fpgfaab",
+      "player_url": "https://streamfort.online/e/go5a7fpgfaab",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "go5a7fpgfaab",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/4mofzf0yvd5j",
+      "player_url": "https://vidnova.online/embed/4mofzf0yvd5j",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4mofzf0yvd5j",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/0xgmxbyfgasc",
+      "player_url": "https://dsvplay.com/e/0xgmxbyfgasc",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0xgmxbyfgasc",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/wnihedu2zbng",
+      "player_url": "https://voe.sx/e/wnihedu2zbng",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wnihedu2zbng",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/4fzowz4wol5o",
+      "player_url": "https://voe.sx/e/4fzowz4wol5o",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4fzowz4wol5o",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
