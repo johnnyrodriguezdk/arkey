@@ -17,7 +17,44 @@
   "slug": "ben-x-omniverse",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf291c34dcd554e0af05ecf64a23e5eed83a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf291c34dcd554e0af05ecf64a23e5eed83a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf291c34dcd554e0af05ecf64a23e5eed83a"
+    },
+    {
+      "url": "https://streamfort.online/e/bvyqwl5iiehi",
+      "player_url": "https://streamfort.online/e/bvyqwl5iiehi",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bvyqwl5iiehi",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/1rpsd914ivh2",
+      "player_url": "https://vidnova.online/embed/1rpsd914ivh2",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1rpsd914ivh2",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/suzhla0zujd5",
+      "player_url": "https://dsvplay.com/e/suzhla0zujd5",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "suzhla0zujd5",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
