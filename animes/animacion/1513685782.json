@@ -15,7 +15,44 @@
   "slug": "mas-que-una-pareja-menos-que-amantes",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf51090347ac337fd56460fe4fdfbcb8a73a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf51090347ac337fd56460fe4fdfbcb8a73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf51090347ac337fd56460fe4fdfbcb8a73a"
+    },
+    {
+      "url": "https://streamfort.online/e/6pqzm7rqopxd",
+      "player_url": "https://streamfort.online/e/6pqzm7rqopxd",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6pqzm7rqopxd",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/jd0njw34nqd7",
+      "player_url": "https://dsvplay.com/e/jd0njw34nqd7",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jd0njw34nqd7",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/xd53ueeckhgf",
+      "player_url": "https://voe.sx/e/xd53ueeckhgf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xd53ueeckhgf",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
