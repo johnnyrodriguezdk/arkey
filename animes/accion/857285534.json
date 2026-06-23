@@ -18,7 +18,53 @@
   "slug": "bucchigiri",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf7e0c29c219a5e02cce08b8b83c3a6e5b3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf7e0c29c219a5e02cce08b8b83c3a6e5b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf7e0c29c219a5e02cce08b8b83c3a6e5b3a"
+    },
+    {
+      "url": "https://streamfort.online/e/pq6d5hc4haul",
+      "player_url": "https://streamfort.online/e/pq6d5hc4haul",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pq6d5hc4haul",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/zb75txbsq2wt",
+      "player_url": "https://dsvplay.com/e/zb75txbsq2wt",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zb75txbsq2wt",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/rg29dret8drf",
+      "player_url": "https://voe.sx/e/rg29dret8drf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rg29dret8drf",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/nlrg5b8wy9oi",
+      "player_url": "https://voe.sx/e/nlrg5b8wy9oi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nlrg5b8wy9oi",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
