@@ -15,7 +15,53 @@
   "slug": "the-saints-magic-power-is-omnipotent",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf9cf9c3d18e9029879db9f6ec1d42ada53a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf9cf9c3d18e9029879db9f6ec1d42ada53a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9cf9c3d18e9029879db9f6ec1d42ada53a"
+    },
+    {
+      "url": "https://streamfort.online/e/hgdcw39n21ck",
+      "player_url": "https://streamfort.online/e/hgdcw39n21ck",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hgdcw39n21ck",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/g9109e0sx6er",
+      "player_url": "https://vidnova.online/embed/g9109e0sx6er",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g9109e0sx6er",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/awkcoocrbgso",
+      "player_url": "https://voe.sx/e/awkcoocrbgso",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "awkcoocrbgso",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/5bapsebuiy6r",
+      "player_url": "https://voe.sx/e/5bapsebuiy6r",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5bapsebuiy6r",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
