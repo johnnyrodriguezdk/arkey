@@ -15,7 +15,35 @@
   "slug": "la-cita-de-natsuyuki",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf34d57fe49e8edd96539a0bf5cf9ce6173a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf34d57fe49e8edd96539a0bf5cf9ce6173a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf34d57fe49e8edd96539a0bf5cf9ce6173a"
+    },
+    {
+      "url": "https://streamfort.online/e/q5y2r81jeadw",
+      "player_url": "https://streamfort.online/e/q5y2r81jeadw",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q5y2r81jeadw",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/6wrxkmyuy4xj",
+      "player_url": "https://voe.sx/e/6wrxkmyuy4xj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6wrxkmyuy4xj",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
