@@ -14,7 +14,71 @@
   "slug": "shadows-house",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/0ebcb16a8142a1f0/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/0ebcb16a8142a1f0/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0ebcb16a8142a1f0"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hfe5d3dbee0dc6cd946d7691ccd43d38ce3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe5d3dbee0dc6cd946d7691ccd43d38ce3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe5d3dbee0dc6cd946d7691ccd43d38ce3a"
+    },
+    {
+      "url": "https://voe.sx/e/ediudt7vghkj",
+      "player_url": "https://voe.sx/e/ediudt7vghkj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "diudt7vghkj",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/1sykc5svjr3d",
+      "player_url": "https://streamfort.online/e/1sykc5svjr3d",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1sykc5svjr3d",
+      "id": 4
+    },
+    {
+      "url": "https://streamfort.online/e/dyw8at0dtwis",
+      "player_url": "https://streamfort.online/e/dyw8at0dtwis",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dyw8at0dtwis",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/7lzj1jhdcw9v",
+      "player_url": "https://voe.sx/e/7lzj1jhdcw9v",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7lzj1jhdcw9v",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/ufvmh4eiluh4",
+      "player_url": "https://voe.sx/e/ufvmh4eiluh4",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ufvmh4eiluh4",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
