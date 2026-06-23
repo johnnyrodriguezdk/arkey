@@ -14,7 +14,26 @@
   "slug": "la-vaca-y-el-pollito",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf0079fd6b374f01e20db7d46287c745193a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0079fd6b374f01e20db7d46287c745193a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0079fd6b374f01e20db7d46287c745193a"
+    },
+    {
+      "url": "https://streamfort.online/e/fi4k79rbhp1k",
+      "player_url": "https://streamfort.online/e/fi4k79rbhp1k",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fi4k79rbhp1k",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
