@@ -15,7 +15,62 @@
   "slug": "wind-breaker",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf457a914477d79ea96aefc419e1b7de163a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf457a914477d79ea96aefc419e1b7de163a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf457a914477d79ea96aefc419e1b7de163a"
+    },
+    {
+      "url": "https://streamfort.online/e/02r3bacun7yb",
+      "player_url": "https://streamfort.online/e/02r3bacun7yb",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "02r3bacun7yb",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/8sp05rm9ot2y",
+      "player_url": "https://streamfort.online/e/8sp05rm9ot2y",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8sp05rm9ot2y",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/cy1xegbib9b3",
+      "player_url": "https://dsvplay.com/e/cy1xegbib9b3",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cy1xegbib9b3",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/tsharwg9svax",
+      "player_url": "https://dsvplay.com/e/tsharwg9svax",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tsharwg9svax",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/uxtfizw3f5uq",
+      "player_url": "https://voe.sx/e/uxtfizw3f5uq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uxtfizw3f5uq",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
