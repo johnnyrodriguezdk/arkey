@@ -17,7 +17,35 @@
   "slug": "akuma-kun",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf2a6294aa8e7e5e89ed7c5eca1392ffda3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf2a6294aa8e7e5e89ed7c5eca1392ffda3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf2a6294aa8e7e5e89ed7c5eca1392ffda3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/s3ytzr65pvcl",
+      "player_url": "https://vidnova.online/embed/s3ytzr65pvcl",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s3ytzr65pvcl",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/wady54fqusfz",
+      "player_url": "https://voe.sx/e/wady54fqusfz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wady54fqusfz",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
