@@ -16,7 +16,53 @@
   "slug": "irina-the-vampire-cosmonaut",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf73f05dc10afc71b48be3073f9d3d2e243a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf73f05dc10afc71b48be3073f9d3d2e243a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf73f05dc10afc71b48be3073f9d3d2e243a"
+    },
+    {
+      "url": "https://streamfort.online/e/mhbng0cwr604",
+      "player_url": "https://streamfort.online/e/mhbng0cwr604",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mhbng0cwr604",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/5j9ywi6z4edw",
+      "player_url": "https://vidnova.online/embed/5j9ywi6z4edw",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5j9ywi6z4edw",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/hswcxsdrbpx6",
+      "player_url": "https://voe.sx/e/hswcxsdrbpx6",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hswcxsdrbpx6",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/0xbozoy8fdik",
+      "player_url": "https://voe.sx/e/0xbozoy8fdik",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0xbozoy8fdik",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
