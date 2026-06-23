@@ -18,7 +18,53 @@
   "slug": "vampire-in-the-garden",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc28a541ce482ae602895c11f27960d4e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc28a541ce482ae602895c11f27960d4e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc28a541ce482ae602895c11f27960d4e3a"
+    },
+    {
+      "url": "https://streamfort.online/e/pyt1pvzx7z4m",
+      "player_url": "https://streamfort.online/e/pyt1pvzx7z4m",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pyt1pvzx7z4m",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/9p9ugmmj7zjp",
+      "player_url": "https://dsvplay.com/e/9p9ugmmj7zjp",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9p9ugmmj7zjp",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/f8dvdlcqfbnv",
+      "player_url": "https://voe.sx/e/f8dvdlcqfbnv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f8dvdlcqfbnv",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/akgjgebrri9f",
+      "player_url": "https://voe.sx/e/akgjgebrri9f",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "akgjgebrri9f",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
