@@ -14,7 +14,35 @@
   "slug": "young-love",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/ljt9kdkvb6yu",
+      "player_url": "https://streamfort.online/e/ljt9kdkvb6yu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ljt9kdkvb6yu",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/bcyjiqr24e53",
+      "player_url": "https://streamfort.online/e/bcyjiqr24e53",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bcyjiqr24e53",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/2iflx8yaay3u",
+      "player_url": "https://voe.sx/e/2iflx8yaay3u",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2iflx8yaay3u",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
