@@ -13,7 +13,26 @@
   "slug": "oggy-next-gen",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/qsidq9sps7cm",
+      "player_url": "https://voe.sx/e/qsidq9sps7cm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qsidq9sps7cm",
+      "id": 1
+    },
+    {
+      "url": "https://voe.sx/e/qgtl7opunhaj",
+      "player_url": "https://voe.sx/e/qgtl7opunhaj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qgtl7opunhaj",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
