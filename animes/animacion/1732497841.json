@@ -15,7 +15,26 @@
   "slug": "el-gran-clerigo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/0q4gck6ujfv8",
+      "player_url": "https://voe.sx/e/0q4gck6ujfv8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0q4gck6ujfv8",
+      "id": 1
+    },
+    {
+      "url": "https://voe.sx/e/uayejsvfibmm",
+      "player_url": "https://voe.sx/e/uayejsvfibmm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uayejsvfibmm",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
