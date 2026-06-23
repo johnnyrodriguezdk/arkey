@@ -17,7 +17,26 @@
   "slug": "a-galaxy-next-door",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/xmn3chcra0t4",
+      "player_url": "https://dsvplay.com/e/xmn3chcra0t4",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xmn3chcra0t4",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/cw1vyr1913ej",
+      "player_url": "https://dsvplay.com/e/cw1vyr1913ej",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cw1vyr1913ej",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
