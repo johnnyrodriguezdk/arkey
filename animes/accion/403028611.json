@@ -17,7 +17,53 @@
   "slug": "the-greatest-demon-lord-is-reborn-as-a-typical-nobody",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfe27a4f7fda9373b2cd53e5373e6dcd6a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe27a4f7fda9373b2cd53e5373e6dcd6a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe27a4f7fda9373b2cd53e5373e6dcd6a3a"
+    },
+    {
+      "url": "https://voe.sx/e/gmgo6r6pt6cf",
+      "player_url": "https://voe.sx/e/gmgo6r6pt6cf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gmgo6r6pt6cf",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/s3qtef2avhhr",
+      "player_url": "https://streamfort.online/e/s3qtef2avhhr",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s3qtef2avhhr",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/t96lhws1l0a7",
+      "player_url": "https://streamfort.online/e/t96lhws1l0a7",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t96lhws1l0a7",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/gtracpuemeql",
+      "player_url": "https://voe.sx/e/gtracpuemeql",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gtracpuemeql",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
