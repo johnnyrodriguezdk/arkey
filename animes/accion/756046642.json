@@ -17,7 +17,17 @@
   "slug": "avatar-la-leyenda-de-aang-246",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfd11b8de76661114a2874359a3cb02fac3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd11b8de76661114a2874359a3cb02fac3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd11b8de76661114a2874359a3cb02fac3a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
