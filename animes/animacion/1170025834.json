@@ -17,7 +17,35 @@
   "slug": "onmyji",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/e7cbuqtqg7xm",
+      "player_url": "https://streamfort.online/e/e7cbuqtqg7xm",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7cbuqtqg7xm",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/dv8tjpslyy8o",
+      "player_url": "https://streamfort.online/e/dv8tjpslyy8o",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dv8tjpslyy8o",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/hx0yipb79bgq",
+      "player_url": "https://voe.sx/e/hx0yipb79bgq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hx0yipb79bgq",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
