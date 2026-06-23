@@ -19,12 +19,120 @@
   "servidores": [
     {
       "id": 1,
-      "url": "https://lacloud.live/public/stream/d54065a65cf48e1/master.m3u8",
-      "player_url": "https://lacloud.live/public/stream/d54065a65cf48e1/master.m3u8",
+      "url": "https://lacloud.live/public/stream/ed54065a65cf48e1/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/ed54065a65cf48e1/master.m3u8",
       "nombre": "LaCloud",
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "d54065a65cf48e1"
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/bb8648fb859cd861/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/bb8648fb859cd861/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bb8648fb859cd861"
+    },
+    {
+      "id": 3,
+      "url": "https://lalafilecdn.space/hf079982c5d624d1ac80f750afee05fdb73a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf079982c5d624d1ac80f750afee05fdb73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf079982c5d624d1ac80f750afee05fdb73a"
+    },
+    {
+      "id": 4,
+      "url": "https://lalafilecdn.space/hf9608837fe27a3696ac6053b0dbeca7ba3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf9608837fe27a3696ac6053b0dbeca7ba3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9608837fe27a3696ac6053b0dbeca7ba3a"
+    },
+    {
+      "id": 5,
+      "url": "https://lalafilecdn.space/hf0b074d7ae504582eafe6676b7c9357893a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0b074d7ae504582eafe6676b7c9357893a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0b074d7ae504582eafe6676b7c9357893a"
+    },
+    {
+      "url": "https://streamfort.online/e/32ptp8ijzqvy",
+      "player_url": "https://streamfort.online/e/32ptp8ijzqvy",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "32ptp8ijzqvy",
+      "id": 6
+    },
+    {
+      "url": "https://vidnova.online/embed/sk0p4z6fuhv6",
+      "player_url": "https://vidnova.online/embed/sk0p4z6fuhv6",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sk0p4z6fuhv6",
+      "id": 7
+    },
+    {
+      "url": "https://dsvplay.com/e/14aqd8hb643l",
+      "player_url": "https://dsvplay.com/e/14aqd8hb643l",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "14aqd8hb643l",
+      "id": 8
+    },
+    {
+      "url": "https://voe.sx/e/wyzhh8e2skiq",
+      "player_url": "https://voe.sx/e/wyzhh8e2skiq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wyzhh8e2skiq",
+      "id": 9
+    },
+    {
+      "url": "https://streamfort.online/e/r9j0kfjxut16",
+      "player_url": "https://streamfort.online/e/r9j0kfjxut16",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r9j0kfjxut16",
+      "id": 10
+    },
+    {
+      "url": "https://vidnova.online/embed/y3qzr7omlhxd",
+      "player_url": "https://vidnova.online/embed/y3qzr7omlhxd",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y3qzr7omlhxd",
+      "id": 11
+    },
+    {
+      "url": "https://dsvplay.com/e/y7ah3j4viqx2",
+      "player_url": "https://dsvplay.com/e/y7ah3j4viqx2",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "y7ah3j4viqx2",
+      "id": 12
+    },
+    {
+      "url": "https://voe.sx/e/vjyqbkmrqbrk",
+      "player_url": "https://voe.sx/e/vjyqbkmrqbrk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vjyqbkmrqbrk",
+      "id": 13
     }
   ]
 }
