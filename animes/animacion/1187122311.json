@@ -14,7 +14,44 @@
   "slug": "yosuga-no-sora",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfee7c82dc6f78302cb498f9842a627edd3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfee7c82dc6f78302cb498f9842a627edd3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfee7c82dc6f78302cb498f9842a627edd3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/b1q5sqnmrdhw",
+      "player_url": "https://vidnova.online/embed/b1q5sqnmrdhw",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "b1q5sqnmrdhw",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/51ghyjam3uob",
+      "player_url": "https://voe.sx/e/51ghyjam3uob",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "51ghyjam3uob",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/6agwlcxlqow7",
+      "player_url": "https://voe.sx/e/6agwlcxlqow7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6agwlcxlqow7",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
