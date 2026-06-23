@@ -17,7 +17,98 @@
   "slug": "amos-del-universo-revolucion",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hff49477763d2e6d6e52c5aa0403410faf3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff49477763d2e6d6e52c5aa0403410faf3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff49477763d2e6d6e52c5aa0403410faf3a"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hff24d95d704fef54a7e6c307aabf01cc63a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff24d95d704fef54a7e6c307aabf01cc63a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff24d95d704fef54a7e6c307aabf01cc63a"
+    },
+    {
+      "url": "https://streamfort.online/e/94bk9qyajijh",
+      "player_url": "https://streamfort.online/e/94bk9qyajijh",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "94bk9qyajijh",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/hv9dep8n2d5j",
+      "player_url": "https://vidnova.online/embed/hv9dep8n2d5j",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hv9dep8n2d5j",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/wf77273up62t",
+      "player_url": "https://dsvplay.com/e/wf77273up62t",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wf77273up62t",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/swifuxi01glg",
+      "player_url": "https://voe.sx/e/swifuxi01glg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "swifuxi01glg",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/qaq9h7pwukds",
+      "player_url": "https://voe.sx/e/qaq9h7pwukds",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qaq9h7pwukds",
+      "id": 7
+    },
+    {
+      "url": "https://voe.sx/e/umol5zo4iiki",
+      "player_url": "https://voe.sx/e/umol5zo4iiki",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "umol5zo4iiki",
+      "id": 8
+    },
+    {
+      "url": "https://streamfort.online/e/uw0h5tv8qshd",
+      "player_url": "https://streamfort.online/e/uw0h5tv8qshd",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uw0h5tv8qshd",
+      "id": 9
+    },
+    {
+      "url": "https://voe.sx/e/oh6b5slxgboe",
+      "player_url": "https://voe.sx/e/oh6b5slxgboe",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oh6b5slxgboe",
+      "id": 10
+    }
+  ],
   "episodes": [
     {
       "season": 1,
