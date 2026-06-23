@@ -15,7 +15,53 @@
   "slug": "appare-ranman",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf52c0fa8d8a28431c8021ec7fd22901243a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf52c0fa8d8a28431c8021ec7fd22901243a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf52c0fa8d8a28431c8021ec7fd22901243a"
+    },
+    {
+      "url": "https://streamfort.online/e/jc6z0idyo7kd",
+      "player_url": "https://streamfort.online/e/jc6z0idyo7kd",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jc6z0idyo7kd",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/1aqw9ukz2okd",
+      "player_url": "https://vidnova.online/embed/1aqw9ukz2okd",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1aqw9ukz2okd",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/q9mkgorrkwfm",
+      "player_url": "https://voe.sx/e/q9mkgorrkwfm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q9mkgorrkwfm",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/ru54wcuyoldr",
+      "player_url": "https://voe.sx/e/ru54wcuyoldr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ru54wcuyoldr",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
