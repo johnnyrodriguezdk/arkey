@@ -16,7 +16,26 @@
   "slug": "solo-tu-una-coleccion-de-animados",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/nrb51p5g91f6",
+      "player_url": "https://dsvplay.com/e/nrb51p5g91f6",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nrb51p5g91f6",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/ci5o4jlktgnc",
+      "player_url": "https://dsvplay.com/e/ci5o4jlktgnc",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ci5o4jlktgnc",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
