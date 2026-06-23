@@ -18,7 +18,62 @@
   "slug": "in-the-land-of-leadale",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfb67a032b1c5097a024f5bdbb9a1192b43a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb67a032b1c5097a024f5bdbb9a1192b43a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb67a032b1c5097a024f5bdbb9a1192b43a"
+    },
+    {
+      "url": "https://voe.sx/e/d8pb83uff58j",
+      "player_url": "https://voe.sx/e/d8pb83uff58j",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d8pb83uff58j",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/xv5a473yjpdx",
+      "player_url": "https://dsvplay.com/e/xv5a473yjpdx",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xv5a473yjpdx",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/696mrmwxewmc",
+      "player_url": "https://dsvplay.com/e/696mrmwxewmc",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "696mrmwxewmc",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/bv4g4pdkqf5p",
+      "player_url": "https://voe.sx/e/bv4g4pdkqf5p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bv4g4pdkqf5p",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/ay0whl1rdlyp",
+      "player_url": "https://voe.sx/e/ay0whl1rdlyp",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ay0whl1rdlyp",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
