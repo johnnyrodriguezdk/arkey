@@ -15,7 +15,62 @@
   "slug": "isekai-onsen-paradise",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf45ad7064533f904d96809ca9ccdb65d93a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf45ad7064533f904d96809ca9ccdb65d93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf45ad7064533f904d96809ca9ccdb65d93a"
+    },
+    {
+      "url": "https://streamfort.online/e/o4b81zgrg32l",
+      "player_url": "https://streamfort.online/e/o4b81zgrg32l",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o4b81zgrg32l",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/tn1dk76kklr5",
+      "player_url": "https://vidnova.online/embed/tn1dk76kklr5",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tn1dk76kklr5",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/6bnj1vwq9mqp",
+      "player_url": "https://vidnova.online/embed/6bnj1vwq9mqp",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6bnj1vwq9mqp",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/w5hmz3hs8bkk",
+      "player_url": "https://dsvplay.com/e/w5hmz3hs8bkk",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w5hmz3hs8bkk",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/16vaqpitvnd1",
+      "player_url": "https://voe.sx/e/16vaqpitvnd1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "16vaqpitvnd1",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
