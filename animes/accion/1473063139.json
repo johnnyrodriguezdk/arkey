@@ -17,7 +17,35 @@
   "slug": "the-world-ends-with-you-the-animation",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf39f2e6979dfdf76465a7c94d870579d73a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf39f2e6979dfdf76465a7c94d870579d73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf39f2e6979dfdf76465a7c94d870579d73a"
+    },
+    {
+      "url": "https://streamfort.online/e/kpbew2gcjxry",
+      "player_url": "https://streamfort.online/e/kpbew2gcjxry",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kpbew2gcjxry",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/tnfuzlwksi9q",
+      "player_url": "https://voe.sx/e/tnfuzlwksi9q",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tnfuzlwksi9q",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
