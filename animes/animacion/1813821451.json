@@ -15,7 +15,71 @@
   "slug": "aishiteruze-baby",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfcc9f7447419f5d3fe4043e28458f4e453a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfcc9f7447419f5d3fe4043e28458f4e453a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfcc9f7447419f5d3fe4043e28458f4e453a"
+    },
+    {
+      "url": "https://streamfort.online/e/gwrfhq6dy3wi",
+      "player_url": "https://streamfort.online/e/gwrfhq6dy3wi",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gwrfhq6dy3wi",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/iqvbdp57wuoi",
+      "player_url": "https://vidnova.online/embed/iqvbdp57wuoi",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "iqvbdp57wuoi",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/u5v38tydshsq",
+      "player_url": "https://voe.sx/e/u5v38tydshsq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u5v38tydshsq",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/vjp8krbdlgw1",
+      "player_url": "https://voe.sx/e/vjp8krbdlgw1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vjp8krbdlgw1",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/fyr1xvyl0jle",
+      "player_url": "https://voe.sx/e/fyr1xvyl0jle",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "fyr1xvyl0jle",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/0dnttivk4px5",
+      "player_url": "https://voe.sx/e/0dnttivk4px5",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0dnttivk4px5",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
