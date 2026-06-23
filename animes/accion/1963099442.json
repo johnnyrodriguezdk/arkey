@@ -17,7 +17,53 @@
   "slug": "levius",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc884ff4392e3038bafee61c3c14588ec3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc884ff4392e3038bafee61c3c14588ec3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc884ff4392e3038bafee61c3c14588ec3a"
+    },
+    {
+      "url": "https://streamfort.online/e/3u9jw7chpbib",
+      "player_url": "https://streamfort.online/e/3u9jw7chpbib",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3u9jw7chpbib",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/yxdxl78dqh9p",
+      "player_url": "https://vidnova.online/embed/yxdxl78dqh9p",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yxdxl78dqh9p",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/8ov7e82v8ivx",
+      "player_url": "https://vidnova.online/embed/8ov7e82v8ivx",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8ov7e82v8ivx",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/tfbeywxhqx8p",
+      "player_url": "https://voe.sx/e/tfbeywxhqx8p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tfbeywxhqx8p",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
