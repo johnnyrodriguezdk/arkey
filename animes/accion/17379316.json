@@ -17,7 +17,44 @@
   "slug": "arifureta-from-commonplace-to-worlds-strongest",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfa57732532c261fe7e6bd4bf99ee1d8ac3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfa57732532c261fe7e6bd4bf99ee1d8ac3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfa57732532c261fe7e6bd4bf99ee1d8ac3a"
+    },
+    {
+      "url": "https://streamfort.online/e/7fd6x3m66p6h",
+      "player_url": "https://streamfort.online/e/7fd6x3m66p6h",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7fd6x3m66p6h",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/gxtl8zgjl6mf",
+      "player_url": "https://dsvplay.com/e/gxtl8zgjl6mf",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gxtl8zgjl6mf",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/kpqfpqnpvgks",
+      "player_url": "https://voe.sx/e/kpqfpqnpvgks",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kpqfpqnpvgks",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 0,
