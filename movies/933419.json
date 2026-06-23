@@ -1,1 +1,144 @@
-{"id":933419,"titulo":"Los campeones","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/8wzkVn3iEEuY52TMJhLRseQPzdF.jpg","release_date":"2023-03-09","genres":["drama"],"rating":"6.8","backdrop":"https://image.tmdb.org/t/p/original/l2VqHMBEwAYZh6DeAZSlOzAXw7N.jpg","overview":"Un equipo de baloncesto entrena y compite en las Olimpiadas Especiales bajo la guía de un entrenador imperfecto pero dedicado, Marcus. Remake de la exitosa película de Javier Fesser 'Campeones' (2018).","trailer":"","runtime":"123","slug":"los-campeones","servidores":[{"id":1,"url":"https://streamwish.to/e/14gf6p1tng3c","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"14gf6p1tng3c","player_url":"https://streamwish.to/e/14gf6p1tng3c"},{"id":2,"url":"https://bysejikuar.com/e/ux52dmeikdbb","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"ux52dmeikdbb","player_url":"https://bysejikuar.com/e/ux52dmeikdbb"},{"id":3,"url":"https://filelions.to/v/6rtvw0ymgytr","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"6rtvw0ymgytr","player_url":"https://filelions.to/v/6rtvw0ymgytr"},{"id":4,"url":"https://doodstream.com/e/74znv6t11s4j","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"74znv6t11s4j","player_url":"https://doodstream.com/e/74znv6t11s4j"},{"id":5,"url":"https://streamwish.to/e/vvtyhp8upxrm","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"vvtyhp8upxrm","player_url":"https://streamwish.to/e/vvtyhp8upxrm"},{"id":6,"url":"https://doodstream.com/e/rolc0rag12iq","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"rolc0rag12iq","player_url":"https://doodstream.com/e/rolc0rag12iq"},{"id":7,"url":"https://streamwish.to/e/3roqobqk4ydz","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"3roqobqk4ydz","player_url":"https://streamwish.to/e/3roqobqk4ydz"},{"id":8,"url":"https://doodstream.com/e/uegxaz11ur1g","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"uegxaz11ur1g","player_url":"https://doodstream.com/e/uegxaz11ur1g"}]}
+{
+  "id": 933419,
+  "titulo": "Los campeones",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/8wzkVn3iEEuY52TMJhLRseQPzdF.jpg",
+  "release_date": "2023-03-09",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/l2VqHMBEwAYZh6DeAZSlOzAXw7N.jpg",
+  "overview": "Un equipo de baloncesto entrena y compite en las Olimpiadas Especiales bajo la guía de un entrenador imperfecto pero dedicado, Marcus. Remake de la exitosa película de Javier Fesser 'Campeones' (2018).",
+  "trailer": "",
+  "runtime": "123",
+  "slug": "los-campeones",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/14gf6p1tng3c",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "14gf6p1tng3c",
+      "player_url": "https://streamwish.to/e/14gf6p1tng3c"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/ux52dmeikdbb",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "ux52dmeikdbb",
+      "player_url": "https://bysejikuar.com/e/ux52dmeikdbb"
+    },
+    {
+      "id": 3,
+      "url": "https://filelions.to/v/6rtvw0ymgytr",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "6rtvw0ymgytr",
+      "player_url": "https://filelions.to/v/6rtvw0ymgytr"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/74znv6t11s4j",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "74znv6t11s4j",
+      "player_url": "https://doodstream.com/e/74znv6t11s4j"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/vvtyhp8upxrm",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "vvtyhp8upxrm",
+      "player_url": "https://streamwish.to/e/vvtyhp8upxrm"
+    },
+    {
+      "id": 6,
+      "url": "https://doodstream.com/e/rolc0rag12iq",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "rolc0rag12iq",
+      "player_url": "https://doodstream.com/e/rolc0rag12iq"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/3roqobqk4ydz",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "3roqobqk4ydz",
+      "player_url": "https://streamwish.to/e/3roqobqk4ydz"
+    },
+    {
+      "id": 8,
+      "url": "https://doodstream.com/e/uegxaz11ur1g",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "uegxaz11ur1g",
+      "player_url": "https://doodstream.com/e/uegxaz11ur1g"
+    },
+    {
+      "url": "https://streamfort.online/e/eupwgdu0fy9m",
+      "player_url": "https://streamfort.online/e/eupwgdu0fy9m",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "upwgdu0fy9m",
+      "id": 9
+    },
+    {
+      "url": "https://streamfort.online/e/g420l7dnb1k5",
+      "player_url": "https://streamfort.online/e/g420l7dnb1k5",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g420l7dnb1k5",
+      "id": 10
+    },
+    {
+      "url": "https://vidnova.online/embed/jvynf7scx0cw",
+      "player_url": "https://vidnova.online/embed/jvynf7scx0cw",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jvynf7scx0cw",
+      "id": 11
+    },
+    {
+      "url": "https://dsvplay.com/e/04vcflfhgmpe",
+      "player_url": "https://dsvplay.com/e/04vcflfhgmpe",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "04vcflfhgmpe",
+      "id": 12
+    },
+    {
+      "url": "https://dsvplay.com/e/tw7lht1c8wr6",
+      "player_url": "https://dsvplay.com/e/tw7lht1c8wr6",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tw7lht1c8wr6",
+      "id": 13
+    },
+    {
+      "url": "https://voe.sx/e/10s738jqrvqj",
+      "player_url": "https://voe.sx/e/10s738jqrvqj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "10s738jqrvqj",
+      "id": 14
+    }
+  ]
+}
