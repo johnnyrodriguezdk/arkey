@@ -15,7 +15,44 @@
   "slug": "horimiya-the-missing-pieces",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf53e2d8397876588df3a3f2b2e96343ab3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf53e2d8397876588df3a3f2b2e96343ab3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf53e2d8397876588df3a3f2b2e96343ab3a"
+    },
+    {
+      "url": "https://streamfort.online/e/9o6fhxmchvl8",
+      "player_url": "https://streamfort.online/e/9o6fhxmchvl8",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9o6fhxmchvl8",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/6m6dg25bkwko",
+      "player_url": "https://vidnova.online/embed/6m6dg25bkwko",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6m6dg25bkwko",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/owffqn1fcupl",
+      "player_url": "https://voe.sx/e/owffqn1fcupl",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "owffqn1fcupl",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
