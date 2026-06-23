@@ -14,7 +14,71 @@
   "slug": "escuela-de-clones",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf246e7fa0bc21ef3b97dff173a2c09e243a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf246e7fa0bc21ef3b97dff173a2c09e243a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf246e7fa0bc21ef3b97dff173a2c09e243a"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hf0fb6a45b3b53f85e690a76f972eae6213a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0fb6a45b3b53f85e690a76f972eae6213a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0fb6a45b3b53f85e690a76f972eae6213a"
+    },
+    {
+      "url": "https://streamfort.online/e/edvz6p844cyu",
+      "player_url": "https://streamfort.online/e/edvz6p844cyu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dvz6p844cyu",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/u0d0m477ymah",
+      "player_url": "https://vidnova.online/embed/u0d0m477ymah",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u0d0m477ymah",
+      "id": 4
+    },
+    {
+      "url": "https://vidnova.online/embed/8t74bnlhvlrx",
+      "player_url": "https://vidnova.online/embed/8t74bnlhvlrx",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8t74bnlhvlrx",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/m5v1mj32sx2u",
+      "player_url": "https://dsvplay.com/e/m5v1mj32sx2u",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m5v1mj32sx2u",
+      "id": 6
+    },
+    {
+      "url": "https://streamfort.online/e/92d7gntzno7s",
+      "player_url": "https://streamfort.online/e/92d7gntzno7s",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "92d7gntzno7s",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
