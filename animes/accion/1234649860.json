@@ -15,7 +15,44 @@
   "slug": "fateextra-last-encore",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf1e8d7419c560bd747842a87654cba6163a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf1e8d7419c560bd747842a87654cba6163a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1e8d7419c560bd747842a87654cba6163a"
+    },
+    {
+      "url": "https://streamfort.online/e/24rls3j1ly4s",
+      "player_url": "https://streamfort.online/e/24rls3j1ly4s",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "24rls3j1ly4s",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/17t1how45oy0",
+      "player_url": "https://vidnova.online/embed/17t1how45oy0",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "17t1how45oy0",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/hgyr8mn0av0s",
+      "player_url": "https://voe.sx/e/hgyr8mn0av0s",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hgyr8mn0av0s",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 0,
