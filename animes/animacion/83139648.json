@@ -15,7 +15,62 @@
   "slug": "escandalositos",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf35df2ffaee56b4be747eb4eb5973aff23a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf35df2ffaee56b4be747eb4eb5973aff23a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf35df2ffaee56b4be747eb4eb5973aff23a"
+    },
+    {
+      "url": "https://streamfort.online/e/g8e5g5gl36yi",
+      "player_url": "https://streamfort.online/e/g8e5g5gl36yi",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g8e5g5gl36yi",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/tmnt0vcqut0n",
+      "player_url": "https://dsvplay.com/e/tmnt0vcqut0n",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tmnt0vcqut0n",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/dt1q9vl7u1pb",
+      "player_url": "https://voe.sx/e/dt1q9vl7u1pb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dt1q9vl7u1pb",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/ne7bt3axqb4t",
+      "player_url": "https://voe.sx/e/ne7bt3axqb4t",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ne7bt3axqb4t",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/z7fvc7hfavcn",
+      "player_url": "https://voe.sx/e/z7fvc7hfavcn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z7fvc7hfavcn",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
