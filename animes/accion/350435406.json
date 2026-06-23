@@ -17,7 +17,35 @@
   "slug": "dragon-ball-super",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf3d98fec465ee5eaa2569df954c1c4b133a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf3d98fec465ee5eaa2569df954c1c4b133a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3d98fec465ee5eaa2569df954c1c4b133a"
+    },
+    {
+      "url": "https://vidnova.online/embed/idhtuqpy0g7q",
+      "player_url": "https://vidnova.online/embed/idhtuqpy0g7q",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "idhtuqpy0g7q",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/7r64ss9npgaj",
+      "player_url": "https://voe.sx/e/7r64ss9npgaj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7r64ss9npgaj",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
