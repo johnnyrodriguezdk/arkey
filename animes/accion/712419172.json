@@ -17,7 +17,44 @@
   "slug": "fatestay-night",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf5dcf681f8d8c0df519290d1f013a93053a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf5dcf681f8d8c0df519290d1f013a93053a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf5dcf681f8d8c0df519290d1f013a93053a"
+    },
+    {
+      "url": "https://vidnova.online/embed/kralmwype2v4",
+      "player_url": "https://vidnova.online/embed/kralmwype2v4",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kralmwype2v4",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/ehj5vkl02exh",
+      "player_url": "https://voe.sx/e/ehj5vkl02exh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hj5vkl02exh",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/7kpt2brx15wu",
+      "player_url": "https://voe.sx/e/7kpt2brx15wu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7kpt2brx15wu",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
