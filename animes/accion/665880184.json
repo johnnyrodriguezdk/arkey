@@ -18,7 +18,53 @@
   "slug": "the-dungeon-of-black-company",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf117c44f6ded683ca126a8cba7323b4983a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf117c44f6ded683ca126a8cba7323b4983a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf117c44f6ded683ca126a8cba7323b4983a"
+    },
+    {
+      "url": "https://streamfort.online/e/k9eezk8oq3ru",
+      "player_url": "https://streamfort.online/e/k9eezk8oq3ru",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k9eezk8oq3ru",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/m9yoenonycb6",
+      "player_url": "https://vidnova.online/embed/m9yoenonycb6",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m9yoenonycb6",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/exzcujfw8y31",
+      "player_url": "https://dsvplay.com/e/exzcujfw8y31",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xzcujfw8y31",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/repzlfa084x7",
+      "player_url": "https://voe.sx/e/repzlfa084x7",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "repzlfa084x7",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
