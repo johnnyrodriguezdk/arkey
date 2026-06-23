@@ -14,7 +14,35 @@
   "slug": "lo-hice-con-mi-mejor-amigo-y-me-gusto",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf8cd7c373353f669ddd4107ceb2eb4ff93a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf8cd7c373353f669ddd4107ceb2eb4ff93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf8cd7c373353f669ddd4107ceb2eb4ff93a"
+    },
+    {
+      "url": "https://streamfort.online/e/s9m83e4w4ci0",
+      "player_url": "https://streamfort.online/e/s9m83e4w4ci0",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s9m83e4w4ci0",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/1wcblgegkspz",
+      "player_url": "https://voe.sx/e/1wcblgegkspz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1wcblgegkspz",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
