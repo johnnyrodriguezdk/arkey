@@ -16,7 +16,44 @@
   "slug": "invasion-en-las-alturas",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfb048aa1c7dad39dfa5d19bb21911a2723a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb048aa1c7dad39dfa5d19bb21911a2723a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb048aa1c7dad39dfa5d19bb21911a2723a"
+    },
+    {
+      "url": "https://vidnova.online/embed/5t3yjqszim4n",
+      "player_url": "https://vidnova.online/embed/5t3yjqszim4n",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5t3yjqszim4n",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/rhn7vpnn1b9y",
+      "player_url": "https://voe.sx/e/rhn7vpnn1b9y",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rhn7vpnn1b9y",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/ktopu9abc1zv",
+      "player_url": "https://voe.sx/e/ktopu9abc1zv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ktopu9abc1zv",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
