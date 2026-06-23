@@ -18,7 +18,44 @@
   "slug": "how-a-realist-hero-rebuilt-the-kingdom",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf10765bf1ba35f2c8925030f6f80ceeed3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf10765bf1ba35f2c8925030f6f80ceeed3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf10765bf1ba35f2c8925030f6f80ceeed3a"
+    },
+    {
+      "url": "https://streamfort.online/e/ekxm1069jjzw",
+      "player_url": "https://streamfort.online/e/ekxm1069jjzw",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kxm1069jjzw",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/veind1tk9fer",
+      "player_url": "https://voe.sx/e/veind1tk9fer",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "veind1tk9fer",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/4tcb6lohgjbz",
+      "player_url": "https://voe.sx/e/4tcb6lohgjbz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4tcb6lohgjbz",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
