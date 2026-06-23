@@ -17,7 +17,44 @@
   "slug": "sonic-prime",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf06f95d8369793ab1dd5049131bd6fae93a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf06f95d8369793ab1dd5049131bd6fae93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf06f95d8369793ab1dd5049131bd6fae93a"
+    },
+    {
+      "url": "https://streamfort.online/e/rda5pydkf6pf",
+      "player_url": "https://streamfort.online/e/rda5pydkf6pf",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rda5pydkf6pf",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/pg1xt7wmmxso",
+      "player_url": "https://vidnova.online/embed/pg1xt7wmmxso",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pg1xt7wmmxso",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/4pqbz4cozg5h",
+      "player_url": "https://dsvplay.com/e/4pqbz4cozg5h",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4pqbz4cozg5h",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
