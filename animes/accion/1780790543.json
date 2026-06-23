@@ -17,7 +17,35 @@
   "slug": "the-iceblade-sorcerer-shall-rule-the-world",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf25b6f0bce95ca627e5d4ac4e547bee1e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf25b6f0bce95ca627e5d4ac4e547bee1e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf25b6f0bce95ca627e5d4ac4e547bee1e3a"
+    },
+    {
+      "url": "https://voe.sx/e/bzyqj1mv1562",
+      "player_url": "https://voe.sx/e/bzyqj1mv1562",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bzyqj1mv1562",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/0yakhsy2fvoq",
+      "player_url": "https://voe.sx/e/0yakhsy2fvoq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0yakhsy2fvoq",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
