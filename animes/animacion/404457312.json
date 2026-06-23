@@ -15,7 +15,44 @@
   "slug": "kageki-shoujo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf99b6dc51f122ed73038561e34266f5e93a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf99b6dc51f122ed73038561e34266f5e93a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf99b6dc51f122ed73038561e34266f5e93a"
+    },
+    {
+      "url": "https://streamfort.online/e/oxzd9m6hymfs",
+      "player_url": "https://streamfort.online/e/oxzd9m6hymfs",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oxzd9m6hymfs",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/vfmr6h11rt3m",
+      "player_url": "https://vidnova.online/embed/vfmr6h11rt3m",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vfmr6h11rt3m",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/q6roylloibed",
+      "player_url": "https://voe.sx/e/q6roylloibed",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q6roylloibed",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
