@@ -17,7 +17,26 @@
   "slug": "huevos-verdes-con-jamon",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf565b4bd753af4215efa8caacd917503d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf565b4bd753af4215efa8caacd917503d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf565b4bd753af4215efa8caacd917503d3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/k144s02pft2w",
+      "player_url": "https://vidnova.online/embed/k144s02pft2w",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k144s02pft2w",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
