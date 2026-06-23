@@ -15,7 +15,53 @@
   "slug": "el-chavo-animado",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf5740a00bfa0b49cf84e2e6bbb2768d493a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf5740a00bfa0b49cf84e2e6bbb2768d493a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf5740a00bfa0b49cf84e2e6bbb2768d493a"
+    },
+    {
+      "url": "https://streamfort.online/e/ofbjjuz7tdim",
+      "player_url": "https://streamfort.online/e/ofbjjuz7tdim",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ofbjjuz7tdim",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/tfq30xf08dui",
+      "player_url": "https://vidnova.online/embed/tfq30xf08dui",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tfq30xf08dui",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/nmd71e8r2xjg",
+      "player_url": "https://voe.sx/e/nmd71e8r2xjg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nmd71e8r2xjg",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/v9t1yfm1fe4z",
+      "player_url": "https://voe.sx/e/v9t1yfm1fe4z",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v9t1yfm1fe4z",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
