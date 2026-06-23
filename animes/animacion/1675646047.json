@@ -16,7 +16,71 @@
   "slug": "mikami-la-cazafantasmas",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf6cb53bbdc0a273ced777d949dbc31a5d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf6cb53bbdc0a273ced777d949dbc31a5d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf6cb53bbdc0a273ced777d949dbc31a5d3a"
+    },
+    {
+      "url": "https://streamfort.online/e/q531tsazn6dk",
+      "player_url": "https://streamfort.online/e/q531tsazn6dk",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q531tsazn6dk",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/qe1surkkm3ue",
+      "player_url": "https://vidnova.online/embed/qe1surkkm3ue",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qe1surkkm3ue",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/aqt9gcn1jbfi",
+      "player_url": "https://dsvplay.com/e/aqt9gcn1jbfi",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aqt9gcn1jbfi",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/ch2pzlkrjymb",
+      "player_url": "https://voe.sx/e/ch2pzlkrjymb",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ch2pzlkrjymb",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/duswhqgcsywf",
+      "player_url": "https://voe.sx/e/duswhqgcsywf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "duswhqgcsywf",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/zdc7t3bcbdoz",
+      "player_url": "https://voe.sx/e/zdc7t3bcbdoz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zdc7t3bcbdoz",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
