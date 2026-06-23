@@ -16,7 +16,80 @@
   "slug": "classroom-for-heroes",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf0e3cacb57975b87b7a72a8b7dd2667593a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0e3cacb57975b87b7a72a8b7dd2667593a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0e3cacb57975b87b7a72a8b7dd2667593a"
+    },
+    {
+      "url": "https://streamfort.online/e/jfffc41cfi1b",
+      "player_url": "https://streamfort.online/e/jfffc41cfi1b",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jfffc41cfi1b",
+      "id": 2
+    },
+    {
+      "url": "https://streamfort.online/e/lb7i5fsewdhs",
+      "player_url": "https://streamfort.online/e/lb7i5fsewdhs",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lb7i5fsewdhs",
+      "id": 3
+    },
+    {
+      "url": "https://vidnova.online/embed/nzk4te2wwnoz",
+      "player_url": "https://vidnova.online/embed/nzk4te2wwnoz",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nzk4te2wwnoz",
+      "id": 4
+    },
+    {
+      "url": "https://vidnova.online/embed/h2z7w1ryph9x",
+      "player_url": "https://vidnova.online/embed/h2z7w1ryph9x",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h2z7w1ryph9x",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/muv63ydr7cix",
+      "player_url": "https://dsvplay.com/e/muv63ydr7cix",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "muv63ydr7cix",
+      "id": 6
+    },
+    {
+      "url": "https://dsvplay.com/e/plolrvsb7uf8",
+      "player_url": "https://dsvplay.com/e/plolrvsb7uf8",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "plolrvsb7uf8",
+      "id": 7
+    },
+    {
+      "url": "https://voe.sx/e/j8erkvenupds",
+      "player_url": "https://voe.sx/e/j8erkvenupds",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "j8erkvenupds",
+      "id": 8
+    }
+  ],
   "episodes": [
     {
       "season": 1,
