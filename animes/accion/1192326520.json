@@ -19,7 +19,44 @@
   "slug": "steven-universe",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf7eb1513882051044e444cd58e61c9b713a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf7eb1513882051044e444cd58e61c9b713a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf7eb1513882051044e444cd58e61c9b713a"
+    },
+    {
+      "url": "https://streamfort.online/e/dwxlta8hfmg2",
+      "player_url": "https://streamfort.online/e/dwxlta8hfmg2",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dwxlta8hfmg2",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/wc12nph8dqlf",
+      "player_url": "https://vidnova.online/embed/wc12nph8dqlf",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wc12nph8dqlf",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/vjwbk3dv3cm8",
+      "player_url": "https://dsvplay.com/e/vjwbk3dv3cm8",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vjwbk3dv3cm8",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
