@@ -15,7 +15,53 @@
   "slug": "another",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/f59jbuzdgqgo",
+      "player_url": "https://streamfort.online/e/f59jbuzdgqgo",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f59jbuzdgqgo",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/33z3tz1zor2n",
+      "player_url": "https://streamfort.online/e/33z3tz1zor2n",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "33z3tz1zor2n",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/vvxzumcelk3f",
+      "player_url": "https://dsvplay.com/e/vvxzumcelk3f",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vvxzumcelk3f",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/495ps62nejx9",
+      "player_url": "https://dsvplay.com/e/495ps62nejx9",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "495ps62nejx9",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/kvdrfknqspdi",
+      "player_url": "https://voe.sx/e/kvdrfknqspdi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kvdrfknqspdi",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 0,
