@@ -17,7 +17,44 @@
   "slug": "batman-del-futuro",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf63d906c19e3f1ba0c741d512156d6d533a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf63d906c19e3f1ba0c741d512156d6d533a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf63d906c19e3f1ba0c741d512156d6d533a"
+    },
+    {
+      "url": "https://streamfort.online/e/z1jncdj78ms7",
+      "player_url": "https://streamfort.online/e/z1jncdj78ms7",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z1jncdj78ms7",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/stkuyckoin1l",
+      "player_url": "https://voe.sx/e/stkuyckoin1l",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "stkuyckoin1l",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/vzookpzpsyqx",
+      "player_url": "https://voe.sx/e/vzookpzpsyqx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vzookpzpsyqx",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
