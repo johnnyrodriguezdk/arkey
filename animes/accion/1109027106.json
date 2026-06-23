@@ -16,7 +16,35 @@
   "slug": "wizard-barristers",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf1755d08394fee9ae6bccf6413a757f4d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf1755d08394fee9ae6bccf6413a757f4d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1755d08394fee9ae6bccf6413a757f4d3a"
+    },
+    {
+      "url": "https://streamfort.online/e/jst9quatm14n",
+      "player_url": "https://streamfort.online/e/jst9quatm14n",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jst9quatm14n",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/poaywaavzwwu",
+      "player_url": "https://voe.sx/e/poaywaavzwwu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "poaywaavzwwu",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
