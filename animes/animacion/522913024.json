@@ -16,7 +16,17 @@
   "slug": "invasor-zim",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfd4702af9cd4eb806b2fb6e2865c95e003a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd4702af9cd4eb806b2fb6e2865c95e003a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd4702af9cd4eb806b2fb6e2865c95e003a"
+    }
+  ],
   "episodes": [
     {
       "season": 1,
