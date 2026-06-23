@@ -18,7 +18,53 @@
   "slug": "los-vengadores-los-heroes-mas-poderosos-del-planeta",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf3ba32e07b809c33c76c08c0a8808e9973a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf3ba32e07b809c33c76c08c0a8808e9973a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf3ba32e07b809c33c76c08c0a8808e9973a"
+    },
+    {
+      "url": "https://streamfort.online/e/3h14tv4xu6gq",
+      "player_url": "https://streamfort.online/e/3h14tv4xu6gq",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3h14tv4xu6gq",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/hsin64wxghpy",
+      "player_url": "https://vidnova.online/embed/hsin64wxghpy",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hsin64wxghpy",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/voup606yddgs",
+      "player_url": "https://voe.sx/e/voup606yddgs",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "voup606yddgs",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/w5bnool09yjx",
+      "player_url": "https://voe.sx/e/w5bnool09yjx",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "w5bnool09yjx",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
