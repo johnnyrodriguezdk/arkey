@@ -13,7 +13,35 @@
   "slug": "deepa-y-anoop",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/f8cj7gv4qmjt",
+      "player_url": "https://streamfort.online/e/f8cj7gv4qmjt",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f8cj7gv4qmjt",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/g98c12fzy26o",
+      "player_url": "https://streamfort.online/e/g98c12fzy26o",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g98c12fzy26o",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/0cnuah64hkuv",
+      "player_url": "https://voe.sx/e/0cnuah64hkuv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0cnuah64hkuv",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
