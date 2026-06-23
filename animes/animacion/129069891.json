@@ -16,7 +16,53 @@
   "slug": "shinryaku-ika-musume",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf09f5546eca39a54205e313fc7daa207c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf09f5546eca39a54205e313fc7daa207c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf09f5546eca39a54205e313fc7daa207c3a"
+    },
+    {
+      "url": "https://streamfort.online/e/s8erxmug2en4",
+      "player_url": "https://streamfort.online/e/s8erxmug2en4",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "s8erxmug2en4",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/tnqf7ou7tqv7",
+      "player_url": "https://vidnova.online/embed/tnqf7ou7tqv7",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tnqf7ou7tqv7",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/0fx2i9gwmfjm",
+      "player_url": "https://voe.sx/e/0fx2i9gwmfjm",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0fx2i9gwmfjm",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/gvjriiucxpgv",
+      "player_url": "https://voe.sx/e/gvjriiucxpgv",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gvjriiucxpgv",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
