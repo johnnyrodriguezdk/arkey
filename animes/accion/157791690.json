@@ -15,7 +15,44 @@
   "slug": "stratos-4",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/a1ylen69lmyj",
+      "player_url": "https://streamfort.online/e/a1ylen69lmyj",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a1ylen69lmyj",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/dxckdhf3pa84",
+      "player_url": "https://streamfort.online/e/dxckdhf3pa84",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dxckdhf3pa84",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/mwv1uq9snhnz",
+      "player_url": "https://voe.sx/e/mwv1uq9snhnz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mwv1uq9snhnz",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/6yrgpx5wtnx2",
+      "player_url": "https://voe.sx/e/6yrgpx5wtnx2",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6yrgpx5wtnx2",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
