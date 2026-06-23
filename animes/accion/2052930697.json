@@ -19,7 +19,44 @@
   "slug": "tsugumomo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfffd6ce5b7f6a75eb303a8e34fcca0edc3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfffd6ce5b7f6a75eb303a8e34fcca0edc3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfffd6ce5b7f6a75eb303a8e34fcca0edc3a"
+    },
+    {
+      "url": "https://streamfort.online/e/cyet98yea3uu",
+      "player_url": "https://streamfort.online/e/cyet98yea3uu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cyet98yea3uu",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/f4vwqkyqxwvm",
+      "player_url": "https://dsvplay.com/e/f4vwqkyqxwvm",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f4vwqkyqxwvm",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/tojiiprx844l",
+      "player_url": "https://voe.sx/e/tojiiprx844l",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tojiiprx844l",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
