@@ -18,7 +18,26 @@
   "slug": "aria-the-scarlet-ammo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/mnjq9zj6in9p",
+      "player_url": "https://streamfort.online/e/mnjq9zj6in9p",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mnjq9zj6in9p",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/3pyzb5ib61ky",
+      "player_url": "https://streamfort.online/e/3pyzb5ib61ky",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3pyzb5ib61ky",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 0,
