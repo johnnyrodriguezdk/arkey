@@ -14,7 +14,44 @@
   "slug": "mi-gran-jefe",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf5b43eb419cc7d2d6391f80f0733407663a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf5b43eb419cc7d2d6391f80f0733407663a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf5b43eb419cc7d2d6391f80f0733407663a"
+    },
+    {
+      "url": "https://streamfort.online/e/yoii0bnn7vdf",
+      "player_url": "https://streamfort.online/e/yoii0bnn7vdf",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yoii0bnn7vdf",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/zo1aae2rsrcm",
+      "player_url": "https://vidnova.online/embed/zo1aae2rsrcm",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zo1aae2rsrcm",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/f7x820sbni6z",
+      "player_url": "https://voe.sx/e/f7x820sbni6z",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f7x820sbni6z",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
