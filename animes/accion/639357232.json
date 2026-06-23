@@ -17,7 +17,44 @@
   "slug": "x-men-97",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hffed84277d9c1dbecf844eb7b8f8f314e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hffed84277d9c1dbecf844eb7b8f8f314e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hffed84277d9c1dbecf844eb7b8f8f314e3a"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hf15a9a7e9a7d7900c5896f48855e2083d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf15a9a7e9a7d7900c5896f48855e2083d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf15a9a7e9a7d7900c5896f48855e2083d3a"
+    },
+    {
+      "url": "https://streamfort.online/e/ydnaqcd2ec4u",
+      "player_url": "https://streamfort.online/e/ydnaqcd2ec4u",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ydnaqcd2ec4u",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/ofo57ives9w9",
+      "player_url": "https://streamfort.online/e/ofo57ives9w9",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ofo57ives9w9",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
