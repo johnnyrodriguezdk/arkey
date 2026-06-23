@@ -19,7 +19,35 @@
   "slug": "capitan-laserhawk-un-remix-de-blood-dragon",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hff49da112fd3419297d5318da3809eb5d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hff49da112fd3419297d5318da3809eb5d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hff49da112fd3419297d5318da3809eb5d3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/cn4e2cnitase",
+      "player_url": "https://vidnova.online/embed/cn4e2cnitase",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cn4e2cnitase",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/0nlyu1i98iuq",
+      "player_url": "https://voe.sx/e/0nlyu1i98iuq",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0nlyu1i98iuq",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
