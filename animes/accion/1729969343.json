@@ -19,7 +19,35 @@
   "slug": "harvey-birdman-abogado",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf1dde4fa42dd90fa0bf13b362cb76a6063a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf1dde4fa42dd90fa0bf13b362cb76a6063a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf1dde4fa42dd90fa0bf13b362cb76a6063a"
+    },
+    {
+      "url": "https://streamfort.online/e/7ckbt11fe09o",
+      "player_url": "https://streamfort.online/e/7ckbt11fe09o",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7ckbt11fe09o",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/mxaswm8v6kbj",
+      "player_url": "https://dsvplay.com/e/mxaswm8v6kbj",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mxaswm8v6kbj",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
