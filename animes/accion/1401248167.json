@@ -17,7 +17,35 @@
   "slug": "jujutsu-kaisen",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hffe84d18ce68a9563256321977af28bc43a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hffe84d18ce68a9563256321977af28bc43a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hffe84d18ce68a9563256321977af28bc43a"
+    },
+    {
+      "url": "https://streamfort.online/e/eamqb63cgzyd",
+      "player_url": "https://streamfort.online/e/eamqb63cgzyd",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "amqb63cgzyd",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/263x1nzv32o8",
+      "player_url": "https://voe.sx/e/263x1nzv32o8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "263x1nzv32o8",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
