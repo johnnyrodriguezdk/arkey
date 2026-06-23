@@ -17,7 +17,35 @@
   "slug": "serial-experiments-lain",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/3xj2x8o4twuz",
+      "player_url": "https://dsvplay.com/e/3xj2x8o4twuz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3xj2x8o4twuz",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/yv8e9wvol1cg",
+      "player_url": "https://dsvplay.com/e/yv8e9wvol1cg",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yv8e9wvol1cg",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/laojx7o7bci1",
+      "player_url": "https://voe.sx/e/laojx7o7bci1",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "laojx7o7bci1",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
