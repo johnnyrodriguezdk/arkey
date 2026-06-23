@@ -15,7 +15,26 @@
   "slug": "my-home-hero",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/k9nwtqmobwvl",
+      "player_url": "https://dsvplay.com/e/k9nwtqmobwvl",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k9nwtqmobwvl",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/ypmd8x1vx3xq",
+      "player_url": "https://dsvplay.com/e/ypmd8x1vx3xq",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ypmd8x1vx3xq",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
