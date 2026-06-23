@@ -18,7 +18,35 @@
   "slug": "danmachi-que-tiene-de-malo-intentar-ligar-en-una-mazmorra",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfe746b107ced7e02d964eca5b72f9427d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe746b107ced7e02d964eca5b72f9427d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe746b107ced7e02d964eca5b72f9427d3a"
+    },
+    {
+      "url": "https://streamfort.online/e/nby93a8yfw6n",
+      "player_url": "https://streamfort.online/e/nby93a8yfw6n",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nby93a8yfw6n",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/walhqleszt2h",
+      "player_url": "https://dsvplay.com/e/walhqleszt2h",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "walhqleszt2h",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
