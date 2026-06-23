@@ -17,7 +17,53 @@
   "slug": "knights-of-sidonia",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfb2faf7db09d9acf56d7c6ee8b0136fa03a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb2faf7db09d9acf56d7c6ee8b0136fa03a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb2faf7db09d9acf56d7c6ee8b0136fa03a"
+    },
+    {
+      "url": "https://streamfort.online/e/oz5roulj8vdq",
+      "player_url": "https://streamfort.online/e/oz5roulj8vdq",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "oz5roulj8vdq",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/uqvad5dtkuts",
+      "player_url": "https://dsvplay.com/e/uqvad5dtkuts",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uqvad5dtkuts",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/estufblaasia",
+      "player_url": "https://voe.sx/e/estufblaasia",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "stufblaasia",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/kbcvrezvox5a",
+      "player_url": "https://voe.sx/e/kbcvrezvox5a",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kbcvrezvox5a",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
