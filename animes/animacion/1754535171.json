@@ -16,7 +16,71 @@
   "slug": "the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf126af6c78b809e2da925f868579d39153a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf126af6c78b809e2da925f868579d39153a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf126af6c78b809e2da925f868579d39153a"
+    },
+    {
+      "url": "https://streamfort.online/e/m35ofalpww16",
+      "player_url": "https://streamfort.online/e/m35ofalpww16",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m35ofalpww16",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/xtdqd7p5z5o9",
+      "player_url": "https://vidnova.online/embed/xtdqd7p5z5o9",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xtdqd7p5z5o9",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/og3zx2w6uqqh",
+      "player_url": "https://dsvplay.com/e/og3zx2w6uqqh",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "og3zx2w6uqqh",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/dlggaje1gjcc",
+      "player_url": "https://voe.sx/e/dlggaje1gjcc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dlggaje1gjcc",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/kn6hjowdnxbj",
+      "player_url": "https://voe.sx/e/kn6hjowdnxbj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kn6hjowdnxbj",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/6kshydas5hha",
+      "player_url": "https://voe.sx/e/6kshydas5hha",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6kshydas5hha",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
