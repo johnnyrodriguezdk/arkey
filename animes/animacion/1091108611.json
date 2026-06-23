@@ -14,7 +14,35 @@
   "slug": "el-show-de-bugs-bunny",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfc222eae4f03c77d7c89530df412146283a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc222eae4f03c77d7c89530df412146283a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc222eae4f03c77d7c89530df412146283a"
+    },
+    {
+      "url": "https://voe.sx/e/cd0djjckhtxh",
+      "player_url": "https://voe.sx/e/cd0djjckhtxh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cd0djjckhtxh",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/cvqcevcj4q7s",
+      "player_url": "https://voe.sx/e/cvqcevcj4q7s",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cvqcevcj4q7s",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 1,
