@@ -17,7 +17,35 @@
   "slug": "yo-soy-groot",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf99ef1aebf062218e762b7a12c701261d3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf99ef1aebf062218e762b7a12c701261d3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf99ef1aebf062218e762b7a12c701261d3a"
+    },
+    {
+      "url": "https://voe.sx/e/obbebffuksxg",
+      "player_url": "https://voe.sx/e/obbebffuksxg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "obbebffuksxg",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/ajhudowfgi11",
+      "player_url": "https://voe.sx/e/ajhudowfgi11",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ajhudowfgi11",
+      "id": 3
+    }
+  ],
   "episodes": [
     {
       "season": 2,
