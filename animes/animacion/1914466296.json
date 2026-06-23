@@ -14,7 +14,26 @@
   "slug": "dodo",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/6wnqhvkf9tzo",
+      "player_url": "https://streamfort.online/e/6wnqhvkf9tzo",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6wnqhvkf9tzo",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/ixqs5tmjm3om",
+      "player_url": "https://streamfort.online/e/ixqs5tmjm3om",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ixqs5tmjm3om",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
