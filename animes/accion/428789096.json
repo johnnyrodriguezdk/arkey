@@ -17,7 +17,26 @@
   "slug": "trigun-stampede",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/vtu1r65ire63",
+      "player_url": "https://dsvplay.com/e/vtu1r65ire63",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vtu1r65ire63",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/bdpswtpyngqk",
+      "player_url": "https://dsvplay.com/e/bdpswtpyngqk",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bdpswtpyngqk",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 0,
