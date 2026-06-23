@@ -16,7 +16,71 @@
   "slug": "haiyore-nyaruko-san",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf94cfa8cc62f1ef4d12505778bd4aa95c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf94cfa8cc62f1ef4d12505778bd4aa95c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf94cfa8cc62f1ef4d12505778bd4aa95c3a"
+    },
+    {
+      "url": "https://streamfort.online/e/k63ul4rjla99",
+      "player_url": "https://streamfort.online/e/k63ul4rjla99",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k63ul4rjla99",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/scisipobabh9",
+      "player_url": "https://vidnova.online/embed/scisipobabh9",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "scisipobabh9",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/hupdw3omn3d9",
+      "player_url": "https://dsvplay.com/e/hupdw3omn3d9",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hupdw3omn3d9",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/ccphmidb3quk",
+      "player_url": "https://voe.sx/e/ccphmidb3quk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ccphmidb3quk",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/v1ryi5dfmflh",
+      "player_url": "https://voe.sx/e/v1ryi5dfmflh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "v1ryi5dfmflh",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/5hd6v86fo13s",
+      "player_url": "https://voe.sx/e/5hd6v86fo13s",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5hd6v86fo13s",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
