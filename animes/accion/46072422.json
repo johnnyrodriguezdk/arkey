@@ -16,7 +16,71 @@
   "slug": "the-case-study-of-vanitas",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hf2e053d3e54ca8bf8aaad17c07763324a3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf2e053d3e54ca8bf8aaad17c07763324a3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf2e053d3e54ca8bf8aaad17c07763324a3a"
+    },
+    {
+      "url": "https://streamfort.online/e/osl2g573z5qu",
+      "player_url": "https://streamfort.online/e/osl2g573z5qu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "osl2g573z5qu",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/z5r1gjsqq6ha",
+      "player_url": "https://vidnova.online/embed/z5r1gjsqq6ha",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z5r1gjsqq6ha",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/er01cshl907x",
+      "player_url": "https://dsvplay.com/e/er01cshl907x",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r01cshl907x",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/8viibwqcet0w",
+      "player_url": "https://voe.sx/e/8viibwqcet0w",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8viibwqcet0w",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/sm4vbueiadlt",
+      "player_url": "https://voe.sx/e/sm4vbueiadlt",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sm4vbueiadlt",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/uzlgn27hkpzd",
+      "player_url": "https://voe.sx/e/uzlgn27hkpzd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "uzlgn27hkpzd",
+      "id": 7
+    }
+  ],
   "episodes": [
     {
       "season": 1,
