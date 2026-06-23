@@ -18,7 +18,44 @@
   "slug": "shangri-la-frontier",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/a3sh8w95i3qq",
+      "player_url": "https://streamfort.online/e/a3sh8w95i3qq",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a3sh8w95i3qq",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/3cvswk09dyzx",
+      "player_url": "https://streamfort.online/e/3cvswk09dyzx",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3cvswk09dyzx",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/a3o5l35il7ho",
+      "player_url": "https://dsvplay.com/e/a3o5l35il7ho",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a3o5l35il7ho",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/vay9rlvmhoa7",
+      "player_url": "https://dsvplay.com/e/vay9rlvmhoa7",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vay9rlvmhoa7",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 0,
