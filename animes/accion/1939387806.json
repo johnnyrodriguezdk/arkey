@@ -16,7 +16,26 @@
   "slug": "generador-rex",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://dsvplay.com/e/4xxy5g2s1agk",
+      "player_url": "https://dsvplay.com/e/4xxy5g2s1agk",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4xxy5g2s1agk",
+      "id": 1
+    },
+    {
+      "url": "https://dsvplay.com/e/5h661ln2tdrz",
+      "player_url": "https://dsvplay.com/e/5h661ln2tdrz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5h661ln2tdrz",
+      "id": 2
+    }
+  ],
   "episodes": [
     {
       "season": 1,
