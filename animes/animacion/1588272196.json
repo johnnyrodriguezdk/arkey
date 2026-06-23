@@ -14,7 +14,53 @@
   "slug": "dear-boys",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfb0db13866e3dd8cf46e1e516457685373a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb0db13866e3dd8cf46e1e516457685373a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb0db13866e3dd8cf46e1e516457685373a"
+    },
+    {
+      "url": "https://streamfort.online/e/qzxhupqtkf0b",
+      "player_url": "https://streamfort.online/e/qzxhupqtkf0b",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qzxhupqtkf0b",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/zea0wqueg5og",
+      "player_url": "https://dsvplay.com/e/zea0wqueg5og",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zea0wqueg5og",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/97usjwuylkj4",
+      "player_url": "https://voe.sx/e/97usjwuylkj4",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "97usjwuylkj4",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/mynythhtsq7t",
+      "player_url": "https://voe.sx/e/mynythhtsq7t",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mynythhtsq7t",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
