@@ -14,7 +14,62 @@
   "slug": "girlfriend-girlfriend",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hfb867b570eae8d197b4f2a21ed6aaf9433a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb867b570eae8d197b4f2a21ed6aaf9433a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb867b570eae8d197b4f2a21ed6aaf9433a"
+    },
+    {
+      "url": "https://streamfort.online/e/l3dnioz9dzvp",
+      "player_url": "https://streamfort.online/e/l3dnioz9dzvp",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l3dnioz9dzvp",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/1eo0wu7og21q",
+      "player_url": "https://vidnova.online/embed/1eo0wu7og21q",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1eo0wu7og21q",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/k2rdgl15cfmn",
+      "player_url": "https://dsvplay.com/e/k2rdgl15cfmn",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k2rdgl15cfmn",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/ulpslckwuczi",
+      "player_url": "https://voe.sx/e/ulpslckwuczi",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ulpslckwuczi",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/nyfhxsygstdk",
+      "player_url": "https://voe.sx/e/nyfhxsygstdk",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nyfhxsygstdk",
+      "id": 6
+    }
+  ],
   "episodes": [
     {
       "season": 1,
