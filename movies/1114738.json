@@ -1,1 +1,227 @@
-{"id":1114738,"titulo":"Sin rastro","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/tF11hjC92KC9mpUAxZbqOyRGCZp.jpg","release_date":"2024-07-05","genres":[],"rating":"5.5","backdrop":"https://image.tmdb.org/t/p/original/uNTciMXpCQDg7gvgMsPCdnxo6Re.jpg","overview":"Cuando se descubren los restos óseos de once mujeres y niñas en el desierto de Nuevo México, se pone en marcha una exhaustiva investigación. El jefe de policía Carter, el detective Ortega y el agente Petrovick hacen un esfuerzo interinstitucional por identificar y detener al asesino. A medida que sus agendas y métodos chocan, una enmarañada red de intrigas arroja sospechas en todas direcciones.","trailer":"","runtime":"96","slug":"boneyard","servidores":[{"id":1,"url":"https://bysejikuar.com/e/p7gnnvqvaipc","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"p7gnnvqvaipc","player_url":"https://bysejikuar.com/e/p7gnnvqvaipc"},{"id":2,"url":"https://voe.sx/e/jntypqoloeec","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"jntypqoloeec","player_url":"https://voe.sx/e/jntypqoloeec"},{"id":3,"url":"https://doodstream.com/e/8g2kn1bldv25","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"8g2kn1bldv25","player_url":"https://doodstream.com/e/8g2kn1bldv25"},{"id":4,"url":"https://streamwish.to/e/hdako1kx06z4","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"hdako1kx06z4","player_url":"https://streamwish.to/e/hdako1kx06z4"},{"id":5,"url":"https://vidhidepro.com/v/xtftj9kctstf","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"xtftj9kctstf","player_url":"https://vidhidepro.com/v/xtftj9kctstf"},{"id":6,"url":"https://voe.sx/e/unr7t9xfllvw","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"unr7t9xfllvw","player_url":"https://voe.sx/e/unr7t9xfllvw"},{"id":7,"url":"https://doodstream.com/e/qnvqigol4oh7","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"qnvqigol4oh7","player_url":"https://doodstream.com/e/qnvqigol4oh7"},{"id":8,"url":"https://streamwish.to/e/zigakmshj5x7","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"zigakmshj5x7","player_url":"https://streamwish.to/e/zigakmshj5x7"},{"id":9,"url":"https://vidhidepro.com/v/4b9esrojvc1k","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"4b9esrojvc1k","player_url":"https://vidhidepro.com/v/4b9esrojvc1k"},{"id":10,"url":"https://voe.sx/e/vb6yjgkicrks","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"vb6yjgkicrks","player_url":"https://voe.sx/e/vb6yjgkicrks"},{"id":11,"url":"https://doodstream.com/e/kkiqzdgf9tzr","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"kkiqzdgf9tzr","player_url":"https://doodstream.com/e/kkiqzdgf9tzr"}]}
+{
+  "id": 1114738,
+  "titulo": "Sin rastro",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/tF11hjC92KC9mpUAxZbqOyRGCZp.jpg",
+  "release_date": "2024-07-05",
+  "genres": [
+    "Suspense",
+    "Acción",
+    "Aventura"
+  ],
+  "rating": "5.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/uNTciMXpCQDg7gvgMsPCdnxo6Re.jpg",
+  "overview": "Cuando se descubren los restos óseos de once mujeres y niñas en el desierto de Nuevo México, se pone en marcha una exhaustiva investigación. El jefe de policía Carter, el detective Ortega y el agente Petrovick hacen un esfuerzo interinstitucional por identificar y detener al asesino. A medida que sus agendas y métodos chocan, una enmarañada red de intrigas arroja sospechas en todas direcciones.",
+  "trailer": "",
+  "runtime": "96",
+  "slug": "boneyard",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://bysejikuar.com/e/p7gnnvqvaipc",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "p7gnnvqvaipc",
+      "player_url": "https://bysejikuar.com/e/p7gnnvqvaipc"
+    },
+    {
+      "id": 2,
+      "url": "https://voe.sx/e/jntypqoloeec",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "jntypqoloeec",
+      "player_url": "https://voe.sx/e/jntypqoloeec"
+    },
+    {
+      "id": 3,
+      "url": "https://doodstream.com/e/8g2kn1bldv25",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "8g2kn1bldv25",
+      "player_url": "https://doodstream.com/e/8g2kn1bldv25"
+    },
+    {
+      "id": 4,
+      "url": "https://streamwish.to/e/hdako1kx06z4",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "hdako1kx06z4",
+      "player_url": "https://streamwish.to/e/hdako1kx06z4"
+    },
+    {
+      "id": 5,
+      "url": "https://vidhidepro.com/v/xtftj9kctstf",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "xtftj9kctstf",
+      "player_url": "https://vidhidepro.com/v/xtftj9kctstf"
+    },
+    {
+      "id": 6,
+      "url": "https://voe.sx/e/unr7t9xfllvw",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "unr7t9xfllvw",
+      "player_url": "https://voe.sx/e/unr7t9xfllvw"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/qnvqigol4oh7",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "qnvqigol4oh7",
+      "player_url": "https://doodstream.com/e/qnvqigol4oh7"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/zigakmshj5x7",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "zigakmshj5x7",
+      "player_url": "https://streamwish.to/e/zigakmshj5x7"
+    },
+    {
+      "id": 9,
+      "url": "https://vidhidepro.com/v/4b9esrojvc1k",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "4b9esrojvc1k",
+      "player_url": "https://vidhidepro.com/v/4b9esrojvc1k"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/vb6yjgkicrks",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "vb6yjgkicrks",
+      "player_url": "https://voe.sx/e/vb6yjgkicrks"
+    },
+    {
+      "id": 11,
+      "url": "https://doodstream.com/e/kkiqzdgf9tzr",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "kkiqzdgf9tzr",
+      "player_url": "https://doodstream.com/e/kkiqzdgf9tzr"
+    },
+    {
+      "id": 12,
+      "url": "https://minochinos.com/download/h4tvlbl9gecr",
+      "player_url": "https://minochinos.com/download/h4tvlbl9gecr",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h4tvlbl9gecr"
+    },
+    {
+      "id": 13,
+      "url": "https://ghbrisk.com/d/c4dwehajwwct",
+      "player_url": "https://ghbrisk.com/d/c4dwehajwwct",
+      "nombre": "Ghbrisk",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c4dwehajwwct"
+    },
+    {
+      "id": 14,
+      "url": "https://bysedikamoum.com/download/t2xk6s4szi22",
+      "player_url": "https://bysedikamoum.com/download/t2xk6s4szi22",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t2xk6s4szi22"
+    },
+    {
+      "id": 15,
+      "url": "https://voe.sx/e/1ci69vrnsp1p",
+      "player_url": "https://voe.sx/e/1ci69vrnsp1p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1ci69vrnsp1p"
+    },
+    {
+      "id": 16,
+      "url": "https://voe.sx/1ci69vrnsp1p/download",
+      "player_url": "https://voe.sx/1ci69vrnsp1p/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 17,
+      "url": "https://rapidvideo.link/e/25hdgufbwac3",
+      "player_url": "https://rapidvideo.link/e/25hdgufbwac3",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "25hdgufbwac3"
+    },
+    {
+      "id": 18,
+      "url": "https://minochinos.com/download/2r72e7shggvr",
+      "player_url": "https://minochinos.com/download/2r72e7shggvr",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2r72e7shggvr"
+    },
+    {
+      "id": 19,
+      "url": "https://ghbrisk.com/d/l92yn9lsk2wi",
+      "player_url": "https://ghbrisk.com/d/l92yn9lsk2wi",
+      "nombre": "Ghbrisk",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l92yn9lsk2wi"
+    },
+    {
+      "id": 20,
+      "url": "https://bysedikamoum.com/download/qnb2hc29s52c",
+      "player_url": "https://bysedikamoum.com/download/qnb2hc29s52c",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qnb2hc29s52c"
+    },
+    {
+      "id": 21,
+      "url": "https://voe.sx/e/gsizcr8mpyyg",
+      "player_url": "https://voe.sx/e/gsizcr8mpyyg",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gsizcr8mpyyg"
+    },
+    {
+      "id": 22,
+      "url": "https://voe.sx/gsizcr8mpyyg/download",
+      "player_url": "https://voe.sx/gsizcr8mpyyg/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 23,
+      "url": "https://rapidvideo.link/e/f0n1em83t5yl",
+      "player_url": "https://rapidvideo.link/e/f0n1em83t5yl",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "f0n1em83t5yl"
+    }
+  ]
+}
