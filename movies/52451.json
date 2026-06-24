@@ -1,1 +1,289 @@
-{"id":52451,"titulo":"Los Tres Mosqueteros","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/AuCJOLhSl3dsQ2DoRNuN1L9tVUF.jpg","release_date":"2011-08-31","genres":[],"rating":"5.8","backdrop":"https://image.tmdb.org/t/p/original/gxInxrSdEDUA5J3DT2wTj9vQIXr.jpg","overview":"Los tres mosqueteros. Son conocidos como Athos, Porthos y Aramis, tres guerreros de élite que sirven al rey de Francia como sus mejores mosqueteros. Tras descubrir una malévola conspiración para derrocar al rey, los mosqueteros se cruzan con un joven que aspira a convertirse en héroe, D’Artagnan, y lo toman bajo su tutela. Juntos, los cuatro emprenden una peligrosa misión para frustrar el complot que amenaza no solo a la Corona de Francia, sino al futuro de la propia Europa.","trailer":"","runtime":"110","slug":"los-tres-mosqueteros","servidores":[{"id":1,"url":"https://streamwish.to/e/52rsve2kd75x","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"52rsve2kd75x","player_url":"https://streamwish.to/e/52rsve2kd75x"},{"id":2,"url":"https://bysejikuar.com/e/lm93264m4lmm","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"lm93264m4lmm","player_url":"https://bysejikuar.com/e/lm93264m4lmm"},{"id":3,"url":"https://filelions.to/v/8107nml9w3pk","idioma":"latino","nombre":"Vidhide","calidad":"HD","embed_id":"8107nml9w3pk","player_url":"https://filelions.to/v/8107nml9w3pk"},{"id":4,"url":"https://voe.sx/e/bn9knpg8vceq","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"bn9knpg8vceq","player_url":"https://voe.sx/e/bn9knpg8vceq"},{"id":5,"url":"https://doodstream.com/e/akyck4zskwne","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"akyck4zskwne","player_url":"https://doodstream.com/e/akyck4zskwne"},{"id":6,"url":"https://streamwish.to/e/rgxvbajdnotb","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"rgxvbajdnotb","player_url":"https://streamwish.to/e/rgxvbajdnotb"},{"id":7,"url":"https://bysejikuar.com/e/vztbbl581u22","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"vztbbl581u22","player_url":"https://bysejikuar.com/e/vztbbl581u22"},{"id":8,"url":"https://voe.sx/e/z9um5qisatrn","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"z9um5qisatrn","player_url":"https://voe.sx/e/z9um5qisatrn"},{"id":9,"url":"https://doodstream.com/e/0acgdpirk14n","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"0acgdpirk14n","player_url":"https://doodstream.com/e/0acgdpirk14n"},{"id":10,"url":"https://streamwish.to/e/i1eztgnr9tmy","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"i1eztgnr9tmy","player_url":"https://streamwish.to/e/i1eztgnr9tmy"},{"id":11,"url":"https://bysejikuar.com/e/s521n0bdk736","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"s521n0bdk736","player_url":"https://bysejikuar.com/e/s521n0bdk736"},{"id":12,"url":"https://voe.sx/e/ourkxc7stmhc","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"ourkxc7stmhc","player_url":"https://voe.sx/e/ourkxc7stmhc"},{"id":13,"url":"https://doodstream.com/e/ktyqh9d68kal","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"ktyqh9d68kal","player_url":"https://doodstream.com/e/ktyqh9d68kal"}]}
+{
+  "id": 52451,
+  "titulo": "Los Tres Mosqueteros",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/AuCJOLhSl3dsQ2DoRNuN1L9tVUF.jpg",
+  "release_date": "2011-08-31",
+  "genres": [
+    "Aventura",
+    "Acción"
+  ],
+  "rating": "5.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/gxInxrSdEDUA5J3DT2wTj9vQIXr.jpg",
+  "overview": "Los tres mosqueteros. Son conocidos como Athos, Porthos y Aramis, tres guerreros de élite que sirven al rey de Francia como sus mejores mosqueteros. Tras descubrir una malévola conspiración para derrocar al rey, los mosqueteros se cruzan con un joven que aspira a convertirse en héroe, D’Artagnan, y lo toman bajo su tutela. Juntos, los cuatro emprenden una peligrosa misión para frustrar el complot que amenaza no solo a la Corona de Francia, sino al futuro de la propia Europa.",
+  "trailer": "",
+  "runtime": "110",
+  "slug": "los-tres-mosqueteros",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/52rsve2kd75x",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "52rsve2kd75x",
+      "player_url": "https://streamwish.to/e/52rsve2kd75x"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/lm93264m4lmm",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "lm93264m4lmm",
+      "player_url": "https://bysejikuar.com/e/lm93264m4lmm"
+    },
+    {
+      "id": 3,
+      "url": "https://filelions.to/v/8107nml9w3pk",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "8107nml9w3pk",
+      "player_url": "https://filelions.to/v/8107nml9w3pk"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/bn9knpg8vceq",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "bn9knpg8vceq",
+      "player_url": "https://voe.sx/e/bn9knpg8vceq"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/akyck4zskwne",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "akyck4zskwne",
+      "player_url": "https://doodstream.com/e/akyck4zskwne"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/rgxvbajdnotb",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "rgxvbajdnotb",
+      "player_url": "https://streamwish.to/e/rgxvbajdnotb"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/vztbbl581u22",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "vztbbl581u22",
+      "player_url": "https://bysejikuar.com/e/vztbbl581u22"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/z9um5qisatrn",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "z9um5qisatrn",
+      "player_url": "https://voe.sx/e/z9um5qisatrn"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/0acgdpirk14n",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "0acgdpirk14n",
+      "player_url": "https://doodstream.com/e/0acgdpirk14n"
+    },
+    {
+      "id": 10,
+      "url": "https://streamwish.to/e/i1eztgnr9tmy",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "i1eztgnr9tmy",
+      "player_url": "https://streamwish.to/e/i1eztgnr9tmy"
+    },
+    {
+      "id": 11,
+      "url": "https://bysejikuar.com/e/s521n0bdk736",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "s521n0bdk736",
+      "player_url": "https://bysejikuar.com/e/s521n0bdk736"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/ourkxc7stmhc",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ourkxc7stmhc",
+      "player_url": "https://voe.sx/e/ourkxc7stmhc"
+    },
+    {
+      "id": 13,
+      "url": "https://doodstream.com/e/ktyqh9d68kal",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ktyqh9d68kal",
+      "player_url": "https://doodstream.com/e/ktyqh9d68kal"
+    },
+    {
+      "id": 14,
+      "url": "https://minochinos.com/download/2d4s0tnifclq",
+      "player_url": "https://minochinos.com/download/2d4s0tnifclq",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2d4s0tnifclq"
+    },
+    {
+      "id": 15,
+      "url": "https://ghbrisk.com/d/za3y8hkkbum4",
+      "player_url": "https://ghbrisk.com/d/za3y8hkkbum4",
+      "nombre": "Ghbrisk",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "za3y8hkkbum4"
+    },
+    {
+      "id": 16,
+      "url": "https://bysedikamoum.com/download/m6hfl92tcd1w",
+      "player_url": "https://bysedikamoum.com/download/m6hfl92tcd1w",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "m6hfl92tcd1w"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/tlnpir2nhbk9",
+      "player_url": "https://voe.sx/e/tlnpir2nhbk9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tlnpir2nhbk9"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/gwhahedmb2q4/download",
+      "player_url": "https://voe.sx/gwhahedmb2q4/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/abku70dher23",
+      "player_url": "https://rapidvideo.link/e/abku70dher23",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "abku70dher23"
+    },
+    {
+      "id": 20,
+      "url": "https://minochinos.com/download/io0z8i33rk5v",
+      "player_url": "https://minochinos.com/download/io0z8i33rk5v",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "io0z8i33rk5v"
+    },
+    {
+      "id": 21,
+      "url": "https://ghbrisk.com/d/5pl44ahg2hyr",
+      "player_url": "https://ghbrisk.com/d/5pl44ahg2hyr",
+      "nombre": "Ghbrisk",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5pl44ahg2hyr"
+    },
+    {
+      "id": 22,
+      "url": "https://bysedikamoum.com/download/7op0z6oqt0t6",
+      "player_url": "https://bysedikamoum.com/download/7op0z6oqt0t6",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7op0z6oqt0t6"
+    },
+    {
+      "id": 23,
+      "url": "https://voe.sx/e/gwhahedmb2q4",
+      "player_url": "https://voe.sx/e/gwhahedmb2q4",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "gwhahedmb2q4"
+    },
+    {
+      "id": 24,
+      "url": "https://rapidvideo.link/e/02jgr34id5kt",
+      "player_url": "https://rapidvideo.link/e/02jgr34id5kt",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "02jgr34id5kt"
+    },
+    {
+      "id": 25,
+      "url": "https://minochinos.com/download/7fttt9kmyv7n",
+      "player_url": "https://minochinos.com/download/7fttt9kmyv7n",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "7fttt9kmyv7n"
+    },
+    {
+      "id": 26,
+      "url": "https://ghbrisk.com/d/2jygwct0qi99",
+      "player_url": "https://ghbrisk.com/d/2jygwct0qi99",
+      "nombre": "Ghbrisk",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2jygwct0qi99"
+    },
+    {
+      "id": 27,
+      "url": "https://bysedikamoum.com/download/hasjqrwai45y",
+      "player_url": "https://bysedikamoum.com/download/hasjqrwai45y",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "hasjqrwai45y"
+    },
+    {
+      "id": 28,
+      "url": "https://voe.sx/e/xxa0izkqyba9",
+      "player_url": "https://voe.sx/e/xxa0izkqyba9",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "xxa0izkqyba9"
+    },
+    {
+      "id": 29,
+      "url": "https://voe.sx/xxa0izkqyba9/download",
+      "player_url": "https://voe.sx/xxa0izkqyba9/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 30,
+      "url": "https://rapidvideo.link/e/wgy1h7en9c3i",
+      "player_url": "https://rapidvideo.link/e/wgy1h7en9c3i",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wgy1h7en9c3i"
+    }
+  ]
+}
