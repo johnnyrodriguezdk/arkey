@@ -1,6 +1,6 @@
 {
-  "total_movies": 27332,
-  "total_series": 13105,
+  "total_movies": 25546,
+  "total_series": 958,
   "total_animes": 519,
   "total_seasons": 16570,
   "per_page": 40,
@@ -588,6 +588,12 @@
     "added_at": "2026-06-25",
     "movies_added": 1784,
     "series_added": 567,
-    "source": "CAELUM V2 (com.caelum.elmagoapps) backend extracted via HMAC + AES-GCM"
+    "source": "CAELUM V2 (com.caelum.elmagoapps) backend extracted via HMAC + AES-GCM",
+    "merged_at": "2026-06-25T20:25",
+    "movies_merged": 1197,
+    "movies_unique": 0,
+    "series_with_caelum_server": 543,
+    "movies_with_caelum_server": 2322,
+    "pages_cleaned": 19
   }
 }
