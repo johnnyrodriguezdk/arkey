@@ -1,0 +1,32 @@
+{
+  "id": 9000532,
+  "titulo": "Robots",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/raxDqPCjSlKgEkxhwME75tjq8M2.jpg",
+  "release_date": "2023-01-01",
+  "genres": [
+    "comedia",
+    "ciencia-ficcion",
+    "romance",
+    "fantasia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Charles es un mujeriego, mientras que Elaine es una cazafortunas. El dúo aprende acerca de la humanidad cuando se ven obligados a unirse y perseguir a los robots dobles de sí mismos.",
+  "trailer": "",
+  "runtime": "93 min",
+  "slug": "robots",
+  "source": "caelum",
+  "type": "movie",
+  "caelum_id": 532,
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://caelum.elmagoapps.icu/public/api/proxy.php?id=532&sig=91d3401ea2bb2de7625d4d8a16ada1fa1c31f21bc54990dfe84e3d4140441959",
+      "player_url": "https://caelum.elmagoapps.icu/public/api/proxy.php?id=532&sig=91d3401ea2bb2de7625d4d8a16ada1fa1c31f21bc54990dfe84e3d4140441959",
+      "nombre": "Caelum Proxy",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

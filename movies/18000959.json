@@ -1,0 +1,31 @@
+{
+  "id": 18000959,
+  "titulo": "Elvis",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/z4miRBGEqhkIkUr0ausHLfUytgq.jpg",
+  "release_date": "2022-01-01",
+  "genres": [
+    "drama",
+    "musica",
+    "historia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "La película explora la vida y la música de Elvis Presley a través del prisma de su relación con el coronel Tom Parker, su enigmático manager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de veinte años, desde el ascenso de Presley a la fama hasta su estrellato sin precedentes, en el contexto de la revolución cultural y la pérdida de la inocencia en Estados Unidos. Y en el centro de ese periplo está Priscilla Presley, una de las personas más importantes e influyentes en la vida de Elvis.",
+  "trailer": "",
+  "runtime": "159 min",
+  "slug": "elvis",
+  "source": "caelum",
+  "type": "movie",
+  "caelum_id": 9000959,
+  "servidores": [
+    {
+      "id": 1,
+      "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/535210.mp4",
+      "player_url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/535210.mp4",
+      "nombre": "Caelum Proxy",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}
