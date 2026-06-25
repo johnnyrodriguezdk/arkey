@@ -1,1 +1,593 @@
-{"total_movies":21980,"total_series":11404,"total_animes":519,"total_seasons":16570,"per_page":40,"movie_genres":[{"slug":"accion","label":"Acción","total":1455},{"slug":"animacion","label":"Animación","total":992},{"slug":"aventura","label":"Aventura","total":994},{"slug":"belica","label":"Bélica","total":130},{"slug":"ciencia-ficcion","label":"Ciencia ficción","total":694},{"slug":"comedia","label":"Comedia","total":1530},{"slug":"crimen","label":"Crimen","total":679},{"slug":"documental","label":"Documental","total":55},{"slug":"drama","label":"Drama","total":8280},{"slug":"familia","label":"Familia","total":706},{"slug":"fantasia","label":"Fantasía","total":679},{"slug":"historia","label":"Historia","total":193},{"slug":"misterio","label":"Misterio","total":417},{"slug":"musica","label":"Música","total":110},{"slug":"pelicula-de-tv","label":"Película de TV","total":90},{"slug":"romance","label":"Romance","total":2744},{"slug":"suspense","label":"Suspense","total":1395},{"slug":"terror","label":"Terror","total":792},{"slug":"western","label":"Western","total":256}],"series_genres":[{"slug":"animacion","label":"Animación","total":2503},{"slug":"comedia","label":"Comedia","total":3},{"slug":"crimen","label":"Crimen","total":2},{"slug":"drama","label":"Drama","total":4334},{"slug":"familia","label":"Familia","total":1},{"slug":"misterio","label":"Misterio","total":1},{"slug":"romance","label":"Romance","total":1},{"slug":"sci-fi-fantasy","label":"Sci-Fi & Fantasy","total":4},{"slug":"western","label":"Western","total":25}],"anime_genres":[]}
+{
+  "total_movies": 27332,
+  "total_series": 13105,
+  "total_animes": 519,
+  "total_seasons": 16570,
+  "per_page": 40,
+  "movie_genres": [
+    {
+      "slug": "drama",
+      "label": "Drama",
+      "total": 9789
+    },
+    {
+      "slug": "romance",
+      "label": "Romance",
+      "total": 3269
+    },
+    {
+      "slug": "comedia",
+      "label": "Comedia",
+      "total": 2859
+    },
+    {
+      "slug": "accion",
+      "label": "Acción",
+      "total": 2484
+    },
+    {
+      "slug": "suspense",
+      "label": "Suspense",
+      "total": 2396
+    },
+    {
+      "slug": "terror",
+      "label": "Terror",
+      "total": 1645
+    },
+    {
+      "slug": "aventura",
+      "label": "Aventura",
+      "total": 1503
+    },
+    {
+      "slug": "animacion",
+      "label": "Animación",
+      "total": 1405
+    },
+    {
+      "slug": "ciencia-ficcion",
+      "label": "Ciencia ficción",
+      "total": 1198
+    },
+    {
+      "slug": "crimen",
+      "label": "Crimen",
+      "total": 1182
+    },
+    {
+      "slug": "familia",
+      "label": "Familia",
+      "total": 1107
+    },
+    {
+      "slug": "fantasia",
+      "label": "Fantasía",
+      "total": 1020
+    },
+    {
+      "slug": "misterio",
+      "label": "Misterio",
+      "total": 688
+    },
+    {
+      "slug": "documental",
+      "label": "Documental",
+      "total": 370
+    },
+    {
+      "slug": "historia",
+      "label": "Historia",
+      "total": 362
+    },
+    {
+      "slug": "musica",
+      "label": "Música",
+      "total": 296
+    },
+    {
+      "slug": "western",
+      "label": "Western",
+      "total": 286
+    },
+    {
+      "slug": "belica",
+      "label": "Bélica",
+      "total": 190
+    },
+    {
+      "slug": "pelicula-de-tv",
+      "label": "Película de TV",
+      "total": 157
+    },
+    {
+      "slug": "anime",
+      "label": "Anime",
+      "total": 66
+    },
+    {
+      "slug": "infantil",
+      "label": "Infantil",
+      "total": 42
+    },
+    {
+      "slug": "suspenso",
+      "label": "Suspenso",
+      "total": 24
+    },
+    {
+      "slug": "horror",
+      "label": "Horror",
+      "total": 8
+    },
+    {
+      "slug": "aventuras",
+      "label": "Aventuras",
+      "total": 6
+    },
+    {
+      "slug": "thriller",
+      "label": "Thriller",
+      "total": 6
+    },
+    {
+      "slug": "accin",
+      "label": "Accin",
+      "total": 4
+    },
+    {
+      "slug": "romance-drama",
+      "label": "Romance Drama",
+      "total": 4
+    },
+    {
+      "slug": "ficcion",
+      "label": "Ficcion",
+      "total": 4
+    },
+    {
+      "slug": "infantiles",
+      "label": "Infantiles",
+      "total": 4
+    },
+    {
+      "slug": "terror-y-suspense",
+      "label": "Terror Y Suspense",
+      "total": 4
+    },
+    {
+      "slug": "comedia-y-suspense",
+      "label": "Comedia Y Suspense",
+      "total": 4
+    },
+    {
+      "slug": "acción",
+      "label": "Acción",
+      "total": 4
+    },
+    {
+      "slug": "ciencia-ficcin-accin",
+      "label": "Ciencia Ficcin Accin",
+      "total": 3
+    },
+    {
+      "slug": "ciencia-ficcin",
+      "label": "Ciencia Ficcin",
+      "total": 3
+    },
+    {
+      "slug": "animacin-aventuras-comedia",
+      "label": "Animacin Aventuras Comedia",
+      "total": 3
+    },
+    {
+      "slug": "artes-marciales-accin",
+      "label": "Artes Marciales Accin",
+      "total": 3
+    },
+    {
+      "slug": "ciencia-ficción-acción",
+      "label": "Ciencia Ficción Acción",
+      "total": 3
+    },
+    {
+      "slug": "ciencia-ficción",
+      "label": "Ciencia Ficción",
+      "total": 3
+    },
+    {
+      "slug": "animación-aventuras-comedia",
+      "label": "Animación Aventuras Comedia",
+      "total": 3
+    },
+    {
+      "slug": "artes-marciales-acción",
+      "label": "Artes Marciales Acción",
+      "total": 3
+    },
+    {
+      "slug": "accin-thriller",
+      "label": "Accin Thriller",
+      "total": 2
+    },
+    {
+      "slug": "accin-aventuras-ciencia-ficcin",
+      "label": "Accin Aventuras Ciencia Ficcin",
+      "total": 2
+    },
+    {
+      "slug": "religin-biblia",
+      "label": "Religin Biblia",
+      "total": 2
+    },
+    {
+      "slug": "drama-romance",
+      "label": "Drama Romance",
+      "total": 2
+    },
+    {
+      "slug": "terror-thriller",
+      "label": "Terror Thriller",
+      "total": 2
+    },
+    {
+      "slug": "thriller-romance",
+      "label": "Thriller Romance",
+      "total": 2
+    },
+    {
+      "slug": "thriller-drama",
+      "label": "Thriller Drama",
+      "total": 2
+    },
+    {
+      "slug": "comedia-drama",
+      "label": "Comedia Drama",
+      "total": 2
+    },
+    {
+      "slug": "familiar",
+      "label": "Familiar",
+      "total": 2
+    },
+    {
+      "slug": "deporte",
+      "label": "Deporte",
+      "total": 2
+    },
+    {
+      "slug": "drama-carcelario-paternidad-remake",
+      "label": "Drama Carcelario Paternidad Remake",
+      "total": 2
+    },
+    {
+      "slug": "deportivo",
+      "label": "Deportivo",
+      "total": 2
+    },
+    {
+      "slug": "periodismo",
+      "label": "Periodismo",
+      "total": 2
+    },
+    {
+      "slug": "aventura-y-drama",
+      "label": "Aventura Y Drama",
+      "total": 2
+    },
+    {
+      "slug": "suspense-y-comedia",
+      "label": "Suspense Y Comedia",
+      "total": 2
+    },
+    {
+      "slug": "suspense-y-drama",
+      "label": "Suspense Y Drama",
+      "total": 2
+    },
+    {
+      "slug": "terror-y-misterio",
+      "label": "Terror Y Misterio",
+      "total": 2
+    },
+    {
+      "slug": "crimen-y-suspense",
+      "label": "Crimen Y Suspense",
+      "total": 2
+    },
+    {
+      "slug": "comedia-familia",
+      "label": "Comedia Familia",
+      "total": 2
+    },
+    {
+      "slug": "cine-romantico",
+      "label": "Cine Romantico",
+      "total": 2
+    },
+    {
+      "slug": "crimen-suspenso",
+      "label": "Crimen Suspenso",
+      "total": 2
+    },
+    {
+      "slug": "fantasia-terror-romance",
+      "label": "Fantasia Terror Romance",
+      "total": 2
+    },
+    {
+      "slug": "horror-terror",
+      "label": "Horror Terror",
+      "total": 2
+    },
+    {
+      "slug": "acción-thriller",
+      "label": "Acción Thriller",
+      "total": 2
+    },
+    {
+      "slug": "acción-aventuras-ciencia-ficción",
+      "label": "Acción Aventuras Ciencia Ficción",
+      "total": 2
+    },
+    {
+      "slug": "religión-biblia",
+      "label": "Religión Biblia",
+      "total": 2
+    },
+    {
+      "slug": "drama-biografa",
+      "label": "Drama Biografa",
+      "total": 1
+    },
+    {
+      "slug": "documental-animacin",
+      "label": "Documental Animacin",
+      "total": 1
+    },
+    {
+      "slug": "animacin-aventuras-fantstico",
+      "label": "Animacin Aventuras Fantstico",
+      "total": 1
+    },
+    {
+      "slug": "animacin-comedia-ciencia-ficcin",
+      "label": "Animacin Comedia Ciencia Ficcin",
+      "total": 1
+    },
+    {
+      "slug": "musical-fantasa-thriller",
+      "label": "Musical Fantasa Thriller",
+      "total": 1
+    },
+    {
+      "slug": "accin-suspenso",
+      "label": "Accin Suspenso",
+      "total": 1
+    },
+    {
+      "slug": "animacin-aventura",
+      "label": "Animacin Aventura",
+      "total": 1
+    },
+    {
+      "slug": "comedia-accin",
+      "label": "Comedia Accin",
+      "total": 1
+    },
+    {
+      "slug": "ciencia-ficcin-fantasa-terror",
+      "label": "Ciencia Ficcin Fantasa Terror",
+      "total": 1
+    },
+    {
+      "slug": "animacin-comedia-infantil",
+      "label": "Animacin Comedia Infantil",
+      "total": 1
+    },
+    {
+      "slug": "accin-aventuras-thriller",
+      "label": "Accin Aventuras Thriller",
+      "total": 1
+    },
+    {
+      "slug": "ciencia-ficcin-y-supervivencia-postapocalptica",
+      "label": "Ciencia Ficcin Y Supervivencia Postapocalptica",
+      "total": 1
+    },
+    {
+      "slug": "aventura-y-fantasa",
+      "label": "Aventura Y Fantasa",
+      "total": 1
+    },
+    {
+      "slug": "biogrfico",
+      "label": "Biogrfico",
+      "total": 1
+    },
+    {
+      "slug": "fantasa-y-familia",
+      "label": "Fantasa Y Familia",
+      "total": 1
+    },
+    {
+      "slug": "blico",
+      "label": "Blico",
+      "total": 1
+    },
+    {
+      "slug": "animacin",
+      "label": "Animacin",
+      "total": 1
+    },
+    {
+      "slug": "drama-biografía",
+      "label": "Drama Biografía",
+      "total": 1
+    },
+    {
+      "slug": "documental-animación",
+      "label": "Documental Animación",
+      "total": 1
+    },
+    {
+      "slug": "animación-aventuras-fantástico",
+      "label": "Animación Aventuras Fantástico",
+      "total": 1
+    },
+    {
+      "slug": "animación-comedia-ciencia-ficción",
+      "label": "Animación Comedia Ciencia Ficción",
+      "total": 1
+    },
+    {
+      "slug": "musical-fantasía-thriller",
+      "label": "Musical Fantasía Thriller",
+      "total": 1
+    },
+    {
+      "slug": "acción-suspenso",
+      "label": "Acción Suspenso",
+      "total": 1
+    },
+    {
+      "slug": "animación-aventura",
+      "label": "Animación Aventura",
+      "total": 1
+    },
+    {
+      "slug": "comedia-acción",
+      "label": "Comedia Acción",
+      "total": 1
+    },
+    {
+      "slug": "ciencia-ficción-fantasía-terror",
+      "label": "Ciencia Ficción Fantasía Terror",
+      "total": 1
+    },
+    {
+      "slug": "animación-comedia-infantil",
+      "label": "Animación Comedia Infantil",
+      "total": 1
+    },
+    {
+      "slug": "acción-aventuras-thriller",
+      "label": "Acción Aventuras Thriller",
+      "total": 1
+    },
+    {
+      "slug": "ciencia-ficción-y-supervivencia-postapocalíptica",
+      "label": "Ciencia Ficción Y Supervivencia Postapocalíptica",
+      "total": 1
+    },
+    {
+      "slug": "aventura-y-fantasía",
+      "label": "Aventura Y Fantasía",
+      "total": 1
+    },
+    {
+      "slug": "biográfico",
+      "label": "Biográfico",
+      "total": 1
+    },
+    {
+      "slug": "bélico",
+      "label": "Bélico",
+      "total": 1
+    },
+    {
+      "slug": "animación",
+      "label": "Animación",
+      "total": 1
+    }
+  ],
+  "series_genres": [
+    {
+      "slug": "drama",
+      "label": "Drama",
+      "total": 5446
+    },
+    {
+      "slug": "animacion",
+      "label": "Animación",
+      "total": 2644
+    },
+    {
+      "slug": "crimen",
+      "label": "Crimen",
+      "total": 458
+    },
+    {
+      "slug": "comedia",
+      "label": "Comedia",
+      "total": 390
+    },
+    {
+      "slug": "accion",
+      "label": "Accion",
+      "total": 316
+    },
+    {
+      "slug": "misterio",
+      "label": "Misterio",
+      "total": 309
+    },
+    {
+      "slug": "sci-fi-fantasy",
+      "label": "Sci-Fi & Fantasy",
+      "total": 247
+    },
+    {
+      "slug": "documental",
+      "label": "Documental",
+      "total": 153
+    },
+    {
+      "slug": "familia",
+      "label": "Familia",
+      "total": 121
+    },
+    {
+      "slug": "western",
+      "label": "Western",
+      "total": 45
+    },
+    {
+      "slug": "reality",
+      "label": "Reality",
+      "total": 42
+    },
+    {
+      "slug": "soap",
+      "label": "Soap",
+      "total": 27
+    },
+    {
+      "slug": "war-y-politics",
+      "label": "War Y Politics",
+      "total": 14
+    },
+    {
+      "slug": "talk",
+      "label": "Talk",
+      "total": 2
+    },
+    {
+      "slug": "series-estrenos-2025",
+      "label": "Series Estrenos 2025",
+      "total": 2
+    },
+    {
+      "slug": "romance",
+      "label": "Romance",
+      "total": 1
+    }
+  ],
+  "anime_genres": [],
+  "caelum_vod": {
+    "added_at": "2026-06-25",
+    "movies_added": 1784,
+    "series_added": 567,
+    "source": "CAELUM V2 (com.caelum.elmagoapps) backend extracted via HMAC + AES-GCM"
+  }
+}
