@@ -1,7 +1,7 @@
 {
   "page": 1,
   "total_pages": 1,
-  "total": 31,
+  "total": 29,
   "data": [
     {
       "slug": "lucky-luke",
@@ -362,18 +362,6 @@
       "rating": ""
     },
     {
-      "slug": "padre-no-hay-m-s-que-uno-la-serie",
-      "type": "serie",
-      "titulo": "Padre no hay más que uno, la serie",
-      "poster": "https://image.tmdb.org/t/p/w500/g1T4RXeChi27cc2abUdz3ufzcGi.jpg",
-      "release_date": "2026-01-01",
-      "genres": [
-        "comedia",
-        "familia"
-      ],
-      "rating": ""
-    },
-    {
       "slug": "playback-una-somos-dos",
       "type": "serie",
       "titulo": "Playback: Una somos dos",
@@ -397,20 +385,6 @@
         "sci-fi-fantasy",
         "drama",
         "familia"
-      ],
-      "rating": ""
-    },
-    {
-      "slug": "the-pendragon-cycle-rise-of-the-merlin",
-      "type": "serie",
-      "titulo": "The Pendragon Cycle: Rise of the Merlin",
-      "poster": "https://image.tmdb.org/t/p/w500/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
-      "release_date": "2026-01-01",
-      "genres": [
-        "sci-fi-fantasy",
-        "accion",
-        "familia",
-        "drama"
       ],
       "rating": ""
     }

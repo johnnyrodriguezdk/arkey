@@ -22,5 +22,24 @@
       "poster": "https://image.tmdb.org/t/p/w500/oJvYWuL94S4n6KAICe0sexYp3UL.jpg",
       "episodios_count": 8
     }
-  ]
+  ],
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "",
+      "player_url": "",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ],
+  "caelum_sources": [
+    {
+      "caelum_id": 61564,
+      "matched_by": "slug"
+    }
+  ],
+  "_caelum_merged": true,
+  "caelum_tmdb_id": 61564
 }

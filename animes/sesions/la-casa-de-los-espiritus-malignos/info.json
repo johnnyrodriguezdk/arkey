@@ -27,5 +27,19 @@
       "poster": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-2A786F58/ico_1775643668_512.jpg",
       "episodios_count": 12
     }
-  ]
+  ],
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "",
+      "player_url": "",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ],
+  "caelum_sources": [],
+  "_caelum_merged": true,
+  "caelum_tmdb_id": null
 }

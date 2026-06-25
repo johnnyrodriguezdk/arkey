@@ -1,7 +1,7 @@
 {
   "page": 3,
-  "total_pages": 4,
-  "total": 130,
+  "total_pages": 1,
+  "total": 38,
   "data": [
     {
       "slug": "ginny-y-georgia",
@@ -278,18 +278,6 @@
       "rating": ""
     },
     {
-      "slug": "tal-vez-ma-ana",
-      "type": "serie",
-      "titulo": "Tal vez mañana",
-      "poster": "https://image.tmdb.org/t/p/w500/jVNNZFiC4FwNOfV8O6SMWff2Bb.jpg",
-      "release_date": "2025-01-01",
-      "genres": [
-        "comedia",
-        "drama"
-      ],
-      "rating": ""
-    },
-    {
       "slug": "buen-chico",
       "type": "serie",
       "titulo": "Buen chico",
@@ -300,19 +288,6 @@
         "comedia",
         "accion",
         "drama"
-      ],
-      "rating": ""
-    },
-    {
-      "slug": "c-sate-con-mi-esposo-jap-n",
-      "type": "serie",
-      "titulo": "Cásate con mi esposo: Japón",
-      "poster": "https://image.tmdb.org/t/p/w500/naN5VjwB7zwyEqtOPJRcrFhaQiW.jpg",
-      "release_date": "2025-01-01",
-      "genres": [
-        "drama",
-        "comedia",
-        "sci-fi-fantasy"
       ],
       "rating": ""
     },

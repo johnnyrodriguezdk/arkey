@@ -1,7 +1,7 @@
 {
   "page": 10,
-  "total_pages": 15,
-  "total": 567,
+  "total_pages": 1,
+  "total": 37,
   "data": [
     {
       "slug": "dtf-st-louis",
@@ -144,17 +144,6 @@
       "rating": ""
     },
     {
-      "slug": "heated-rivalry",
-      "type": "serie",
-      "titulo": "Heated Rivalry",
-      "poster": "https://image.tmdb.org/t/p/w500/rFZLFbuAOIQGZxXJT9XWhE87XMY.jpg",
-      "release_date": "2025-01-01",
-      "genres": [
-        "drama"
-      ],
-      "rating": ""
-    },
-    {
       "slug": "i-love-la",
       "type": "serie",
       "titulo": "I Love LA",
@@ -255,17 +244,6 @@
       "genres": [
         "crimen",
         "documental"
-      ],
-      "rating": ""
-    },
-    {
-      "slug": "the-pitt",
-      "type": "serie",
-      "titulo": "The Pitt",
-      "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "release_date": "2025-01-01",
-      "genres": [
-        "drama"
       ],
       "rating": ""
     },
@@ -430,18 +408,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg",
       "release_date": "2024-01-01",
       "genres": [
-        "drama"
-      ],
-      "rating": ""
-    },
-    {
-      "slug": "devil-in-disguise-john-wayne-gacy",
-      "type": "serie",
-      "titulo": "Devil in Disguise: John Wayne Gacy",
-      "poster": "https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
-      "release_date": "2025-01-01",
-      "genres": [
-        "crimen",
         "drama"
       ],
       "rating": ""

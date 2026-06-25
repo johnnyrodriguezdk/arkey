@@ -22,5 +22,19 @@
       "poster": "",
       "episodios_count": 13
     }
-  ]
+  ],
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "",
+      "player_url": "",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ],
+  "caelum_sources": [],
+  "_caelum_merged": true,
+  "caelum_tmdb_id": null
 }

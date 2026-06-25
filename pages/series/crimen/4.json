@@ -1,7 +1,7 @@
 {
   "page": 4,
-  "total_pages": 4,
-  "total": 152,
+  "total_pages": 1,
+  "total": 30,
   "data": [
     {
       "slug": "buen-chico",
@@ -99,18 +99,6 @@
       "release_date": "2025-01-01",
       "genres": [
         "misterio",
-        "crimen"
-      ],
-      "rating": ""
-    },
-    {
-      "slug": "ballard",
-      "type": "serie",
-      "titulo": "Ballard",
-      "poster": "https://image.tmdb.org/t/p/w500/3ErR4qIwAWQPlonlfko4j6UlPiP.jpg",
-      "release_date": "2025-01-01",
-      "genres": [
-        "drama",
         "crimen"
       ],
       "rating": ""
@@ -298,18 +286,6 @@
       "genres": [
         "crimen",
         "misterio"
-      ],
-      "rating": ""
-    },
-    {
-      "slug": "boston-blue",
-      "type": "serie",
-      "titulo": "Boston Blue",
-      "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
-      "release_date": "2025-01-01",
-      "genres": [
-        "crimen",
-        "drama"
       ],
       "rating": ""
     },

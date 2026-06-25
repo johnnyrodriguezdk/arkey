@@ -1,1 +1,34 @@
-{"id":660982,"titulo":"American Pie presenta: Las chicas mandan","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/xbYK25nMYDexYT6wbOAVwwGk8ui.jpg","release_date":"2020-10-06","genres":[],"rating":"6.2","backdrop":"https://image.tmdb.org/t/p/original/75ooojtgiKYm5LcCczbCexioZze.jpg","overview":"¡Es el último año! Annie, Kayla, Michelle y Stephanie deciden finalmente aprovechar su poder femenino y unirse para conseguir lo que quieren. Los chicos no sabrán qué los golpeó cuando sus atrevidas novias son las que están tomando las decisiones.","trailer":"","runtime":"95","slug":"american-pie-presenta-las-chicas-mandan","servidores":[{"id":1,"url":"https://doodstream.com/e/1zdpqfil7cho","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"1zdpqfil7cho","player_url":"https://doodstream.com/e/1zdpqfil7cho"}]}
+{
+  "id": 660982,
+  "titulo": "American Pie presenta: Las chicas mandan",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/xbYK25nMYDexYT6wbOAVwwGk8ui.jpg",
+  "release_date": "2020-10-06",
+  "genres": [],
+  "rating": "6.2",
+  "backdrop": "https://image.tmdb.org/t/p/original/75ooojtgiKYm5LcCczbCexioZze.jpg",
+  "overview": "¡Es el último año! Annie, Kayla, Michelle y Stephanie deciden finalmente aprovechar su poder femenino y unirse para conseguir lo que quieren. Los chicos no sabrán qué los golpeó cuando sus atrevidas novias son las que están tomando las decisiones.",
+  "trailer": "",
+  "runtime": "95",
+  "slug": "american-pie-presenta-las-chicas-mandan",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://doodstream.com/e/1zdpqfil7cho",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "1zdpqfil7cho",
+      "player_url": "https://doodstream.com/e/1zdpqfil7cho"
+    },
+    {
+      "id": 2,
+      "url": "http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20Girls%20Rules%202020.mkv",
+      "player_url": "http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20Girls%20Rules%202020.mkv",
+      "nombre": "Caelum Proxy",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ],
+  "_caelum_merged": true
+}
