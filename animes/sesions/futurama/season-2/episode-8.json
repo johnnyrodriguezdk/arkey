@@ -1,0 +1,37 @@
+{
+  "id": 66253250,
+  "titulo": "Cuento de Navidad",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/28t4x2WDEtG1uAx7kYvJQgavH9r.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "comedia",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "La navidad en el año 3000 es una festividad de miedo. Un Papá Noel robot tiene estándares demasiado altos, por lo que piensa que todo el mundo es malo y llega a la tierra con armas.",
+  "slug": "futurama",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 615,
+  "temporada": 2,
+  "episodio": "8",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "8",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-388E2BEC/NsBKW8nHzVnCcFy1",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-388E2BEC/NsBKW8nHzVnCcFy1",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

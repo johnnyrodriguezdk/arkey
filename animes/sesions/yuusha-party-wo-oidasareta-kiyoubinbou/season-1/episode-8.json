@@ -1,114 +1,37 @@
 {
-  "id": 2031683316,
-  "titulo": "Episodio 8",
+  "id": 81377641,
+  "titulo": "El aprendiz de todo se pelea con todos",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/4279jpg.webp",
-  "release_date": "2026-02-18",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/vTrxODNyk3e6ThJ6jzPQCIHZqSB.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Orhun enfrenta a los tenientes de los Conejos Plateados y conoce a los miembros del primer escuadrón.",
   "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "2268",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 285166,
   "temporada": 1,
   "episodio": "8",
   "idiomas": [
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "8",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2268&idcapitulo=8",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/378oaoluoufl",
-      "player_url": "https://streamwish.to/e/378oaoluoufl",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo8.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo8.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "378oaoluoufl"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/sweyrwdyg3y3",
-      "player_url": "https://filelions.top/v/sweyrwdyg3y3",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "sweyrwdyg3y3"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/a1M3Qm9EWlF2S01kUXdnM0RWa216dz09",
-      "player_url": "https://player.streamhj.top/e/a1M3Qm9EWlF2S01kUXdnM0RWa216dz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "a1M3Qm9EWlF2S01kUXdnM0RWa216dz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/hmq1xdh12qdo",
-      "player_url": "https://bysekoze.com/e/hmq1xdh12qdo",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "hmq1xdh12qdo"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/xqKjXVLMRDiljp",
-      "player_url": "https://streamtape.com/e/xqKjXVLMRDiljp",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xqKjXVLMRDiljp"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-9km69hk10ulh.html",
-      "player_url": "https://www.mp4upload.com/embed-9km69hk10ulh.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-9km69hk10ulh.html"
-    },
-    {
-      "id": 7,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/jdz1qn9nhk7ozm",
-      "player_url": "https://mxdrop.to/e/jdz1qn9nhk7ozm",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "jdz1qn9nhk7ozm"
-    },
-    {
-      "id": 8,
-      "server": "Voe",
-      "url": "https://voe.sx/e/hdzntlxclxn4",
-      "player_url": "https://voe.sx/e/hdzntlxclxn4",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "hdzntlxclxn4"
-    },
-    {
-      "id": 9,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/on330oh1a74j",
-      "player_url": "https://savefiles.top/e/on330oh1a74j",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "on330oh1a74j"
+      "calidad": "HD"
     }
   ]
 }

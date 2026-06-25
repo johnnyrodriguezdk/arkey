@@ -1,0 +1,37 @@
+{
+  "id": 255214600,
+  "titulo": "Universidad de Marte",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/uqIVJR1fmkiwpcIsIcV0vxiyY4z.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "comedia",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Fry y Amy deciden ingresar en la universidad de Marte. Fry tiene que compartir su habitación con Guenter, un mono con un sombrero de super-inteligencia creado por el profesor Farnsworth con el que no se lleva demasiado bien. Mientras, Bender enseña a divertirse a los empollones de su antigua hermandad robot.",
+  "slug": "futurama",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 615,
+  "temporada": 2,
+  "episodio": "2",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "2",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3502C20C/xVR78vOej2lrozre",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3502C20C/xVR78vOej2lrozre",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

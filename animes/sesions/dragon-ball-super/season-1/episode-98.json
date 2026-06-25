@@ -1,105 +1,37 @@
 {
-  "id": 1495372895,
-  "titulo": "Episodio 98",
+  "id": 123290730,
+  "titulo": "¡Incertidumbre! La desesperación de un universo",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/6lep2tZlqKsF7Yt7hOU7uTAnvWK.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "El Torneo de Poder, donde 8 universos pelean por su supervivencia, inició. 80 guerreros en total. El tiempo límite es 48 minutos terrestres. En el combate, Goku es atrapado por Nink del Universo 4. Aunque se las arregla para salir de sus garras, que es lo que hará Goku?",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "98",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "98",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=98",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/38sm6smqiw9e",
-      "player_url": "https://streamwish.to/e/38sm6smqiw9e",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-AA24FA2F/DLgXMFgY65jRShxg",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-AA24FA2F/DLgXMFgY65jRShxg",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "38sm6smqiw9e"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/p785h2ma2xo2",
-      "player_url": "https://filelions.top/v/p785h2ma2xo2",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "p785h2ma2xo2"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/a3pXTnFZRzFvcnpOYnRreHZ4K1V0QT09",
-      "player_url": "https://netuplayer.top/e/a3pXTnFZRzFvcnpOYnRreHZ4K1V0QT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "a3pXTnFZRzFvcnpOYnRreHZ4K1V0QT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/wb7gjjh0fu8i/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_098",
-      "player_url": "https://bysekoze.com/e/wb7gjjh0fu8i/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_098",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "wb7gjjh0fu8i/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_098"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/z3AwpwDM0VtYlve/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_098.mp4",
-      "player_url": "https://streamtape.com/e/z3AwpwDM0VtYlve/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_098.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "z3AwpwDM0VtYlve/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_098.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-urwh6ly0vqm2.html",
-      "player_url": "https://www.mp4upload.com/embed-urwh6ly0vqm2.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-urwh6ly0vqm2.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-98cinm23pcgw.html",
-      "player_url": "https://uqload.to/embed-98cinm23pcgw.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-98cinm23pcgw.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/zpede6douggkmo",
-      "player_url": "https://mixdropjmk.pw/e/zpede6douggkmo",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "zpede6douggkmo"
+      "calidad": "HD"
     }
   ]
 }

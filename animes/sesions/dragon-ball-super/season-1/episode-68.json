@@ -1,105 +1,37 @@
 {
-  "id": 846050121,
-  "titulo": "Episodio 68",
+  "id": 60526338,
+  "titulo": "¡Aparece, Shenron! ¿A quién se le concederá el deseo?",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/xt90JqLL1r3bx7aiOXQttfbkHsU.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Goku les promete a Kaio y a sus amigos que los revivirá con las bolas de Dragón, así que parte en su búsqueda. Cuando invocan a Shenron, todos se pelean por pedir su deseo, hasta que Bulma interviene.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "68",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "68",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=68",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/2o3aconrue4o",
-      "player_url": "https://streamwish.to/e/2o3aconrue4o",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-83C2286D/mZrsWIWTFC02faj7",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-83C2286D/mZrsWIWTFC02faj7",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "2o3aconrue4o"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/p8e97aehsjth",
-      "player_url": "https://filelions.top/v/p8e97aehsjth",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "p8e97aehsjth"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/ZGxIL3BKVnBTdlU4L29jdGh0Tnd5dz09",
-      "player_url": "https://netuplayer.top/e/ZGxIL3BKVnBTdlU4L29jdGh0Tnd5dz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ZGxIL3BKVnBTdlU4L29jdGh0Tnd5dz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/m3h8k8ju9m8i",
-      "player_url": "https://bysekoze.com/e/m3h8k8ju9m8i",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "m3h8k8ju9m8i"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/Vz3Z60kXVoCz39/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_068.mp4",
-      "player_url": "https://streamtape.com/e/Vz3Z60kXVoCz39/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_068.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Vz3Z60kXVoCz39/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_068.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-qmofaqizzu23.html",
-      "player_url": "https://www.mp4upload.com/embed-qmofaqizzu23.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-qmofaqizzu23.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-23ewosdzxzcd.html",
-      "player_url": "https://uqload.to/embed-23ewosdzxzcd.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-23ewosdzxzcd.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/0vlrlxr4akk3j6",
-      "player_url": "https://mixdropjmk.pw/e/0vlrlxr4akk3j6",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "0vlrlxr4akk3j6"
+      "calidad": "HD"
     }
   ]
 }

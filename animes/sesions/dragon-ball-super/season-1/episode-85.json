@@ -1,105 +1,37 @@
 {
-  "id": 78481943,
-  "titulo": "Episodio 85",
+  "id": 96644349,
+  "titulo": "Los universos se mueven. Cada uno tiene sus planes",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/uLcSDEpMXqyPaOzvtgX8dvMvvVJ.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Mientras Goku va a ver a Dende para que este le diga dónde encontrar a Número 17, los miembros de los demás Universos se han reunido para elaborar sus propias estrategias respecto al Torneo de Fuerza.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "85",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "85",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=85",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/4mo2d32uq3yd",
-      "player_url": "https://streamwish.to/e/4mo2d32uq3yd",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-DA0B5E89/TbisdNqyK3hf9bdK",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-DA0B5E89/TbisdNqyK3hf9bdK",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "4mo2d32uq3yd"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/41p0dqsl88re",
-      "player_url": "https://filelions.top/v/41p0dqsl88re",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "41p0dqsl88re"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/Y0dPSFJidTFFeVR5Q2V6UFRSeERrdz09",
-      "player_url": "https://netuplayer.top/e/Y0dPSFJidTFFeVR5Q2V6UFRSeERrdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Y0dPSFJidTFFeVR5Q2V6UFRSeERrdz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/3ns9lljka0zs",
-      "player_url": "https://bysekoze.com/e/3ns9lljka0zs",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "3ns9lljka0zs"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/qxo1mY2WYWIz98V/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_085.mp4",
-      "player_url": "https://streamtape.com/e/qxo1mY2WYWIz98V/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_085.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "qxo1mY2WYWIz98V/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_085.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-sjz0g81g4528.html",
-      "player_url": "https://www.mp4upload.com/embed-sjz0g81g4528.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-sjz0g81g4528.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-spdpiwvhpobt.html",
-      "player_url": "https://uqload.to/embed-spdpiwvhpobt.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-spdpiwvhpobt.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/840706wocoq0mm",
-      "player_url": "https://mixdropjmk.pw/e/840706wocoq0mm",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "840706wocoq0mm"
+      "calidad": "HD"
     }
   ]
 }

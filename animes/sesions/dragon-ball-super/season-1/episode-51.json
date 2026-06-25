@@ -1,105 +1,37 @@
 {
-  "id": 338541666,
-  "titulo": "Episodio 51",
+  "id": 198168623,
+  "titulo": "Sentimientos que atraviesan océanos de tiempo. Trunks y Mai",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/rLYvVzEvuRkW2hTVW8CxC0QpyLd.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "La máquina del tiempo está deteriorada, por lo que Bulma necesita repararla y ha pedido ayuda a su padre y a la Banda de Pilaf para su mantención. Goku y Vegeta planean viajar por el tiempo junto a Trunks del futuro, pero mientras la máquina es arreglada por Bulma, ambos deciden entrenar para su batalla en el futuro. Aunque Goku no logra encontrar quien lo entrene, ya que Whis está meditando sobre la identidad de Black, y Kaito no puede volver a permitir que Goku entrene en su planeta, ya que ha destruido gran parte de ella en su último entrenamiento. En el futuro, Black considera que su batalla con Goku le ha traído grandes beneficios, ya que gracias a esta, ha logrado mejorar considerablemente el manejo de su cuerpo, ya que al parecer, el cuerpo de Black está siendo controlado por un ser desconocido. Por otro lado, Whis y Beerus quieren encontrar la identidad del verdadero Black.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "51",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "51",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=51",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/91v2lcg6mnog",
-      "player_url": "https://streamwish.to/e/91v2lcg6mnog",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-39846FAC/ilIdJxexXoHaLp2a",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-39846FAC/ilIdJxexXoHaLp2a",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "91v2lcg6mnog"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/ra0wgct0p7vo",
-      "player_url": "https://filelions.top/v/ra0wgct0p7vo",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ra0wgct0p7vo"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/VFhBWUhFN0pwM2NLbDZjeXQycFc0dz09",
-      "player_url": "https://netuplayer.top/e/VFhBWUhFN0pwM2NLbDZjeXQycFc0dz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "VFhBWUhFN0pwM2NLbDZjeXQycFc0dz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/cyg3ihdgu7uc",
-      "player_url": "https://bysekoze.com/e/cyg3ihdgu7uc",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cyg3ihdgu7uc"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/jYzWrZxRjJhqVy/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_051.mp4",
-      "player_url": "https://streamtape.com/e/jYzWrZxRjJhqVy/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_051.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "jYzWrZxRjJhqVy/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_051.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-z7gm938myosv.html",
-      "player_url": "https://www.mp4upload.com/embed-z7gm938myosv.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-z7gm938myosv.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-p1a4bfsueo1l.html",
-      "player_url": "https://uqload.to/embed-p1a4bfsueo1l.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-p1a4bfsueo1l.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/knx1xq6gh3r489p",
-      "player_url": "https://mixdropjmk.pw/e/knx1xq6gh3r489p",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "knx1xq6gh3r489p"
+      "calidad": "HD"
     }
   ]
 }

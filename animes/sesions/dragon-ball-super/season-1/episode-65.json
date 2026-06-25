@@ -1,105 +1,37 @@
 {
-  "id": 1520213756,
-  "titulo": "Episodio 65",
+  "id": 144838840,
+  "titulo": "¿El juicio final? ¡El poder definitivo del Dios supremo!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/eASKXzLkUArLS36FMkxWozIBHBu.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Al fusionarse, Zamas y Black Goku han creado un ser imbatible, inmortal y con un poder ilimitado, que amenaza con destruirlo todo en nombre de la justicia. Pero ni Goku, ni Vegeta, ni Trunks están dispuestos a permitirlo, y aunque no haya esperanza, enfrentan a Zamas con todo su poder.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "65",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "65",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=65",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/m7rrn1rz5k4s",
-      "player_url": "https://streamwish.to/e/m7rrn1rz5k4s",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-86E24258/GmOCLtUHaiVRkCDK",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-86E24258/GmOCLtUHaiVRkCDK",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "m7rrn1rz5k4s"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/aserqgpdwga1",
-      "player_url": "https://filelions.top/v/aserqgpdwga1",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "aserqgpdwga1"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/aVFtQk9YQ01wOWxuNGl3TEw1dTg2dz09",
-      "player_url": "https://netuplayer.top/e/aVFtQk9YQ01wOWxuNGl3TEw1dTg2dz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "aVFtQk9YQ01wOWxuNGl3TEw1dTg2dz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/ft176ahklncr",
-      "player_url": "https://bysekoze.com/e/ft176ahklncr",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ft176ahklncr"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/Bv2RBMbjVmsGDj/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_065.mp4",
-      "player_url": "https://streamtape.com/e/Bv2RBMbjVmsGDj/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_065.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Bv2RBMbjVmsGDj/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_065.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-ri8mu6pdoucx.html",
-      "player_url": "https://www.mp4upload.com/embed-ri8mu6pdoucx.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-ri8mu6pdoucx.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-f371iql08ai7.html",
-      "player_url": "https://uqload.to/embed-f371iql08ai7.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-f371iql08ai7.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/840706refpmm60",
-      "player_url": "https://mixdropjmk.pw/e/840706refpmm60",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "840706refpmm60"
+      "calidad": "HD"
     }
   ]
 }

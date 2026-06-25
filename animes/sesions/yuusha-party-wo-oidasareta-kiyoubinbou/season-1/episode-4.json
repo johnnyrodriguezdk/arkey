@@ -1,114 +1,37 @@
 {
-  "id": 1058505470,
-  "titulo": "Episodio 4",
+  "id": 75320274,
+  "titulo": "El Grupo de los Héroes recapacita",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/4279jpg.webp",
-  "release_date": "2026-01-21",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/w9bP8Fq5Ja0IG3jefmHW1925R2F.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "El Grupo de los Héroes va a la mazmorra con su nueva maga, pero algo falla: son muy débiles.",
   "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "2268",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 285166,
   "temporada": 1,
   "episodio": "4",
   "idiomas": [
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "4",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2268&idcapitulo=4",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/b33o9j4go5jw",
-      "player_url": "https://streamwish.to/e/b33o9j4go5jw",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo4.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo4.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "b33o9j4go5jw"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/5sltzthhonh4",
-      "player_url": "https://filelions.top/v/5sltzthhonh4",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "5sltzthhonh4"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/Q0tSa1lZL0JObjdpV0xBRGwvQkdIZz09",
-      "player_url": "https://player.streamhj.top/e/Q0tSa1lZL0JObjdpV0xBRGwvQkdIZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Q0tSa1lZL0JObjdpV0xBRGwvQkdIZz09"
-    },
-    {
-      "id": 4,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/GbbBL0kgqlI1X0q",
-      "player_url": "https://streamtape.com/e/GbbBL0kgqlI1X0q",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "GbbBL0kgqlI1X0q"
-    },
-    {
-      "id": 5,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-d60gscssnb1i.html",
-      "player_url": "https://www.mp4upload.com/embed-d60gscssnb1i.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-d60gscssnb1i.html"
-    },
-    {
-      "id": 6,
-      "server": "Uqload",
-      "url": "https://uqload.bz/embed-69zx5izacmy3.html",
-      "player_url": "https://uqload.bz/embed-69zx5izacmy3.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.bz_embed-69zx5izacmy3.html"
-    },
-    {
-      "id": 7,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/1n46dqndck8vx7z",
-      "player_url": "https://mxdrop.to/e/1n46dqndck8vx7z",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "1n46dqndck8vx7z"
-    },
-    {
-      "id": 8,
-      "server": "Voe",
-      "url": "https://voe.sx/e/tel13j9lxw1l",
-      "player_url": "https://voe.sx/e/tel13j9lxw1l",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "tel13j9lxw1l"
-    },
-    {
-      "id": 9,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/jz58auh0327k",
-      "player_url": "https://savefiles.top/e/jz58auh0327k",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "jz58auh0327k"
+      "calidad": "HD"
     }
   ]
 }

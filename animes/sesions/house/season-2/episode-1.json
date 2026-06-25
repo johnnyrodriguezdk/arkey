@@ -1,0 +1,35 @@
+{
+  "id": 255366645,
+  "titulo": "Aceptación",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/n8NQlmEVwtz2OP8qQEH46NnFvBJ.jpg",
+  "release_date": "",
+  "genres": [
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un condenado a muerte sufre un colapso causado por unas alucinaciones en las que aparece la gente a la que mató.",
+  "slug": "house",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1408,
+  "temporada": 2,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-96698F80/EDZSMsy2U0tZe5dw",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-96698F80/EDZSMsy2U0tZe5dw",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

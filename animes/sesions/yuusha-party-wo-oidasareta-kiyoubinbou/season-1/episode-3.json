@@ -1,114 +1,37 @@
 {
-  "id": 1135728473,
-  "titulo": "Episodio 3",
+  "id": 151624021,
+  "titulo": "El aprendiz de todo deja claros sus principios",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/4279jpg.webp",
-  "release_date": "2026-01-14",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/vWeeKsVrbywDeW0M5NcRBMgjg5U.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Tras la noticia que dejaban mal a Ohrun, este se preocupa por qué pensarán los novatos.",
   "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "2268",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 285166,
   "temporada": 1,
   "episodio": "3",
   "idiomas": [
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "3",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2268&idcapitulo=3",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/e63j8uxvq0sk",
-      "player_url": "https://streamwish.to/e/e63j8uxvq0sk",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo3.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo3.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "e63j8uxvq0sk"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/8dtasunua1cw",
-      "player_url": "https://filelions.top/v/8dtasunua1cw",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "8dtasunua1cw"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/cExFQmZRTS9URDExazd4SEtKcmZsZz09",
-      "player_url": "https://player.streamhj.top/e/cExFQmZRTS9URDExazd4SEtKcmZsZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cExFQmZRTS9URDExazd4SEtKcmZsZz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/lt8kgj18u962",
-      "player_url": "https://bysekoze.com/e/lt8kgj18u962",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "lt8kgj18u962"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/8BK8lwgZVLToKaL",
-      "player_url": "https://streamtape.com/e/8BK8lwgZVLToKaL",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "8BK8lwgZVLToKaL"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-55yphc61qzfy.html",
-      "player_url": "https://www.mp4upload.com/embed-55yphc61qzfy.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-55yphc61qzfy.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.bz/embed-cnr8nl35hufg.html",
-      "player_url": "https://uqload.bz/embed-cnr8nl35hufg.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.bz_embed-cnr8nl35hufg.html"
-    },
-    {
-      "id": 8,
-      "server": "Voe",
-      "url": "https://voe.sx/e/yysdfi689klv",
-      "player_url": "https://voe.sx/e/yysdfi689klv",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "yysdfi689klv"
-    },
-    {
-      "id": 9,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/mzpdxglt2129",
-      "player_url": "https://savefiles.top/e/mzpdxglt2129",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "mzpdxglt2129"
+      "calidad": "HD"
     }
   ]
 }

@@ -1,105 +1,37 @@
 {
-  "id": 959058571,
-  "titulo": "Episodio 126",
+  "id": 231697087,
+  "titulo": "Superando a un dios. ¡El sacrificio de Vegeta!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/lpvlKU3R63NOu4n3qf5RkdoA2N5.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Freezer y Número 17 sucumben ante el poder destructor de Toppo, pero no Vegeta. Toppo, que afirma que el verdadero poder se alcanza desechando todo, se enfrenta a Vegeta, quien asegura que nunca dejará de lado su orgullo.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "126",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "126",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=126",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/3fxu270gz9j1",
-      "player_url": "https://streamwish.to/e/3fxu270gz9j1",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A07B35F1/0P3yTRDLTf0eMoKf",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A07B35F1/0P3yTRDLTf0eMoKf",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "3fxu270gz9j1"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/s7qc1sircw2z",
-      "player_url": "https://filelions.top/v/s7qc1sircw2z",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "s7qc1sircw2z"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/V0RSd3dQZ0NXN1U4bFhlZm5vb2ZMUT09",
-      "player_url": "https://netuplayer.top/e/V0RSd3dQZ0NXN1U4bFhlZm5vb2ZMUT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "V0RSd3dQZ0NXN1U4bFhlZm5vb2ZMUT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/hui5dk07xrg7",
-      "player_url": "https://bysekoze.com/e/hui5dk07xrg7",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "hui5dk07xrg7"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/vpyRwrBJpPt4mW2/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_126.mp4",
-      "player_url": "https://streamtape.com/e/vpyRwrBJpPt4mW2/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_126.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "vpyRwrBJpPt4mW2/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_126.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-wbk77ukzhtcb.html",
-      "player_url": "https://www.mp4upload.com/embed-wbk77ukzhtcb.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-wbk77ukzhtcb.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-d29llrfl3nya.html",
-      "player_url": "https://uqload.to/embed-d29llrfl3nya.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-d29llrfl3nya.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/0vlrle1obg4qr8",
-      "player_url": "https://mixdropjmk.pw/e/0vlrle1obg4qr8",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "0vlrle1obg4qr8"
+      "calidad": "HD"
     }
   ]
 }

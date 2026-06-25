@@ -1,0 +1,35 @@
+{
+  "id": 89029396,
+  "titulo": "Encerrado",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/lr6VI0in0Ge45z6AnDTGiCDC8RY.jpg",
+  "release_date": "",
+  "genres": [
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un episodio narrado desde la perspectiva del paciente, en el que House, herido en un accidente de moto, ocupa la cama junto a un accidentado que no puede comunicarse.",
+  "slug": "house",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1408,
+  "temporada": 5,
+  "episodio": "19",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "19",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C6193552/ED21gptYDvR2CSGn",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C6193552/ED21gptYDvR2CSGn",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

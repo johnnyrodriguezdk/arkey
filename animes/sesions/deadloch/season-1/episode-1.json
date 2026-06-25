@@ -1,0 +1,36 @@
+{
+  "id": 17695146,
+  "titulo": "Episodio 1",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/hcdiepBUX8ofrt9xhh29io6LsZn.jpg",
+  "release_date": "",
+  "genres": [
+    "comedia",
+    "crimen"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "En la víspera del festival de invierno de Deadloch, el cuerpo del entrenador del club de fútbol local, Trent Latham, aparece en la playa. La sargento Dulcie Collins se hace cargo de la investigación, pero pronto llega desde Darwin el detective Eddie Redcliffe para dirigir la investigación, lo que provoca fricciones.",
+  "slug": "deadloch",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 225780,
+  "temporada": 1,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-042A576B/D7zyNJ6F78f4bHqR",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-042A576B/D7zyNJ6F78f4bHqR",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

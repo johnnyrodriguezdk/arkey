@@ -1,0 +1,37 @@
+{
+  "id": 106077892,
+  "titulo": "Presión",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/d2rrB6V2tZ8gmHR7dcMyuPgVJ4O.jpg",
+  "release_date": "",
+  "genres": [
+    "accion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Atrapados en un laberinto de cuevas oscuras con una horda de Susurradores, los habitantes de Alejandría corren a contrarreloj para encontrar una salida. Mientras, Negan usa la creciente paranoia de Alpha a su favor.",
+  "slug": "the-walking-dead",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1402,
+  "temporada": 10,
+  "episodio": "9",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "9",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C5F9200D/3H6lQssT1FqRSuls",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C5F9200D/3H6lQssT1FqRSuls",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 101674562,
+  "titulo": "Don Artístico",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/ff5sHZpVE7R3yiEA2UaFDJD0ipr.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "comedia",
+    "familia",
+    "familia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Los pingüinos deben ir al museo a recuperar unos planos de Kowalski que podrían destruir el mundo ya que una crítica de arte lo confundió con un cuadro que Burt había pintado.",
+  "slug": "the-penguins-of-madagascar",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 7869,
+  "temporada": 2,
+  "episodio": "33",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "33",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-EDBF350C/wyGlVjT0TUn4WZvo",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-EDBF350C/wyGlVjT0TUn4WZvo",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

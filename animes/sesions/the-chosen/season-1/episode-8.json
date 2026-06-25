@@ -1,0 +1,37 @@
+{
+  "id": 50020789,
+  "titulo": "Yo soy Él",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/3Zp4mSEZ51sGRdaS0TZUmfizcn1.jpg",
+  "release_date": "",
+  "genres": [
+    "accion",
+    "familia",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Mientras la desconfianza en el sanedrín aumenta, Jesús y los suyos dejan Cafarnaúm y se dirigen a Samaria. Allí, Jesús para a beber agua de un pozo y conoce a una mujer con problemas.",
+  "slug": "the-chosen",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 85077,
+  "temporada": 1,
+  "episodio": "8",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "8",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C32115C4/64jQ6o1780PUP2lY",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C32115C4/64jQ6o1780PUP2lY",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

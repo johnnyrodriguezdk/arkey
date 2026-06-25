@@ -1,0 +1,37 @@
+{
+  "id": 16718220,
+  "titulo": "El bocinazo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/eS3NW1cGT5UFu2c5SVL3uOciKsG.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "comedia",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Cuando un Coche-lobo atropella a otro robot, éste también se convierte en Coche-lobo. Bender es atropellado por uno de ellos en los alrededores de la casa que acaba de heredar de su tío Vladimir y todos los días a las 12, se transforma en uno de los coches asesinos.",
+  "slug": "futurama",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 615,
+  "temporada": 3,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-F3709429/5bfSLIl5csrTLVgJ",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-F3709429/5bfSLIl5csrTLVgJ",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 53221188,
+  "titulo": "Episodio 1",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/2gzMbpnekOu3vtSVIfiNboEA6Ej.jpg",
+  "release_date": "",
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "El invierno ha caído en el Polo Sur. Un pequeño equipo, conocido como los Winterers, permanecerá en la Estación de Investigación Antártica Polaris VI para continuar su investigación innovadora, una parte crucial en la lucha contra el cambio climático. Después del invierno, Johan Berg regresa a la base y encuentra a la mayoría del equipo muerto o desaparecido. Solo Maggie permaneció en la estación.",
+  "slug": "the-head",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 102434,
+  "temporada": 1,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-D8826C6D/FBBz3Dsyl7w6c4ss",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-D8826C6D/FBBz3Dsyl7w6c4ss",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 66149001,
+  "titulo": "The Witcher",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w500/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+  "release_date": "2019-01-01",
+  "genres": [
+    "drama",
+    "accion"
+  ],
+  "rating": "",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+  "overview": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+  "slug": "the-witcher",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 71912,
+  "total_episodes": 32,
+  "total_temporadas": 4,
+  "temporadas": [
+    {
+      "numero": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "episodios_count": 8
+    },
+    {
+      "numero": 2,
+      "poster": "https://image.tmdb.org/t/p/w500/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "episodios_count": 8
+    },
+    {
+      "numero": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "episodios_count": 8
+    },
+    {
+      "numero": 4,
+      "poster": "https://image.tmdb.org/t/p/w500/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "episodios_count": 8
+    }
+  ]
+}

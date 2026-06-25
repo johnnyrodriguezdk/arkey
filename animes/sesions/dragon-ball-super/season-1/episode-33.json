@@ -1,105 +1,37 @@
 {
-  "id": 1023441295,
-  "titulo": "Episodio 33",
+  "id": 16615236,
+  "titulo": "¡Sorprendeos guerreros del sexto universo! ¡Este es el Super Saiyan Son Goku!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/vpBgN1M2bbnJAOQzfvydU3UNtg1.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Goku inicia un ataque cuerpo a cuerpo, pero sus ataques no le hacen daño al cuerpo de Botamo, ya que su cuerpo absorbe los impactos enviándolos a otra dimensión. Goku derriba a Botamo y lo arrastra a la orilla del cuadrilétero lanzándolo fuera, ganando Goku la primera pelea. El segundo combate es entre Goku y Frost, quien es el opuesto de Freezer pero una persona honorable. Goku le pide que se transforme y use su máximo poder, transformándose en su 4° forma. Goku se transforma en Super Saiyan y derrota fácilmente a Frost, pero recibe un golpe lento en la mano quedando extrañamente debilitado, siendo sacado de una patada del cuadrilátero perdiendo.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "33",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "33",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=33",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/9y87krxcu5am",
-      "player_url": "https://streamwish.to/e/9y87krxcu5am",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-55CFC23E/rb9AXM9ZbraCsi1k",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-55CFC23E/rb9AXM9ZbraCsi1k",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "9y87krxcu5am"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/a3b21c6vg92q",
-      "player_url": "https://filelions.top/v/a3b21c6vg92q",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "a3b21c6vg92q"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/VjE3ZGllaHR1TkhBSGtReVBjeWNLZz09",
-      "player_url": "https://netuplayer.top/e/VjE3ZGllaHR1TkhBSGtReVBjeWNLZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "VjE3ZGllaHR1TkhBSGtReVBjeWNLZz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/j70keb87kurz",
-      "player_url": "https://bysekoze.com/e/j70keb87kurz",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "j70keb87kurz"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/gLlk3OY2xAu92a/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_033.mp4",
-      "player_url": "https://streamtape.com/e/gLlk3OY2xAu92a/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_033.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "gLlk3OY2xAu92a/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_033.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-ey1ux694mtyy.html",
-      "player_url": "https://www.mp4upload.com/embed-ey1ux694mtyy.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-ey1ux694mtyy.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-r6qxx557o5ub.html",
-      "player_url": "https://uqload.to/embed-r6qxx557o5ub.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-r6qxx557o5ub.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/l6zwznrlswgwop",
-      "player_url": "https://mixdropjmk.pw/e/l6zwznrlswgwop",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "l6zwznrlswgwop"
+      "calidad": "HD"
     }
   ]
 }

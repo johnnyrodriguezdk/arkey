@@ -1,0 +1,37 @@
+{
+  "id": 97165619,
+  "titulo": "Los odiosos de ocho años",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/dXlQvuVhWfOqQJYHI8G6IjxVahQ.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Lisa hace una nueva amiga que ama los caballos y eso le lleva a juntarse con un grupo de jóvenes ricas y presumidas. Mientras tanto, Homer se lleva a Marge a un crucero romántico.",
+  "slug": "the-simpsons",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 456,
+  "temporada": 31,
+  "episodio": "21",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "21",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-6065FA65/9QajP5bEut16TJmF",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-6065FA65/9QajP5bEut16TJmF",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

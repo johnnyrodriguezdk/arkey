@@ -1,75 +1,38 @@
 {
-  "id": 1596287890,
-  "titulo": "Episodio 3",
+  "id": 236752764,
+  "titulo": "NECESITO DESPEJARME UN POCO",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/l1NxZbECvU2Md6hMzoQvr969HHejpg.webp",
-  "release_date": "2026-03-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/feqa4Ct3uOpMvwWfJkvQet6w1yP.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy",
+    "accion"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Las consecuencias pesan sobre Mark. Oliver acepta un nuevo trabajo.",
   "slug": "invencible",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1534",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 95557,
   "temporada": 4,
   "episodio": "3",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "3",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1534&idcapitulo=3",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/49w2tfcde2ub",
-      "player_url": "https://streamwish.to/e/49w2tfcde2ub",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-1A14B28D/940AH2KzY1eyPiz4",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-1A14B28D/940AH2KzY1eyPiz4",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "49w2tfcde2ub"
-    },
-    {
-      "id": 2,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/MnkwcXovdk9WaHpRKzRLcnFEQnB0QT09",
-      "player_url": "https://player.streamhj.top/e/MnkwcXovdk9WaHpRKzRLcnFEQnB0QT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "MnkwcXovdk9WaHpRKzRLcnFEQnB0QT09"
-    },
-    {
-      "id": 3,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/47t94n6rz7jq",
-      "player_url": "https://bysekoze.com/e/47t94n6rz7jq",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "47t94n6rz7jq"
-    },
-    {
-      "id": 4,
-      "server": "Uqload",
-      "url": "https://uqload.net/embed-uahhf0e3evfo.html",
-      "player_url": "https://uqload.net/embed-uahhf0e3evfo.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.net_embed-uahhf0e3evfo.html"
-    },
-    {
-      "id": 5,
-      "server": "Voe",
-      "url": "https://voe.sx/e/hctl7qxw1vig",
-      "player_url": "https://voe.sx/e/hctl7qxw1vig",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "hctl7qxw1vig"
+      "calidad": "HD"
     }
   ]
 }

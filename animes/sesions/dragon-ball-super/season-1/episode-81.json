@@ -1,105 +1,37 @@
 {
-  "id": 1599246911,
-  "titulo": "Episodio 81",
+  "id": 92758621,
+  "titulo": "¡Bergamo, el triturador, contra Son Goku! ¿Quién es el guerrero de fuerza ilimitada?",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/3kc8vONRAjna47TDqWKiGQ2L5hv.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Va a comenzar el tercer combate, donde se enfrentarán Son Goku y Bergamo. En este combate, parece que Son Goku tendrá problemas porque Bergamo le devuelve toda la fuerza que emplea nuestro protagonista.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "81",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "81",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=81",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/h7e2prjjun94",
-      "player_url": "https://streamwish.to/e/h7e2prjjun94",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-E958496E/lI22ovSZ2rG8JVp6",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-E958496E/lI22ovSZ2rG8JVp6",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "h7e2prjjun94"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/5l8fcrchf8d2",
-      "player_url": "https://filelions.top/v/5l8fcrchf8d2",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "5l8fcrchf8d2"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/VXZ6d2RJRUgzSzQyZW84WU4zZVRkdz09",
-      "player_url": "https://netuplayer.top/e/VXZ6d2RJRUgzSzQyZW84WU4zZVRkdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "VXZ6d2RJRUgzSzQyZW84WU4zZVRkdz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/4mvlori7ihbq",
-      "player_url": "https://bysekoze.com/e/4mvlori7ihbq",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "4mvlori7ihbq"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/xmrOokaORpFk4j7/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_081.mp4",
-      "player_url": "https://streamtape.com/e/xmrOokaORpFk4j7/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_081.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xmrOokaORpFk4j7/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_081.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-qajn3itxfutq.html",
-      "player_url": "https://www.mp4upload.com/embed-qajn3itxfutq.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-qajn3itxfutq.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-qkuktp5r2jyf.html",
-      "player_url": "https://uqload.to/embed-qkuktp5r2jyf.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-qkuktp5r2jyf.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/3n101gkncmkm0rn",
-      "player_url": "https://mixdropjmk.pw/e/3n101gkncmkm0rn",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "3n101gkncmkm0rn"
+      "calidad": "HD"
     }
   ]
 }

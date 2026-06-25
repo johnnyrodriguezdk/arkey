@@ -1,0 +1,33 @@
+{
+  "id": 94483147,
+  "titulo": "Fubar",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w500/fSa1OPyE95Zgu1lufOBIpqv8U2K.jpg",
+  "release_date": "2023-01-01",
+  "genres": [
+    "accion",
+    "drama",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cgA0ffyHviUaRw0Fj9OgRv2xzUj.jpg",
+  "overview": "Cuando un padre y su hija descubren que ambos trabajan en secreto para la CIA, sus peligrosas misiones se mezclan con dinámicas familiares de lo más incómodas.",
+  "slug": "fubar",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 221300,
+  "total_episodes": 16,
+  "total_temporadas": 2,
+  "temporadas": [
+    {
+      "numero": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/fSa1OPyE95Zgu1lufOBIpqv8U2K.jpg",
+      "episodios_count": 8
+    },
+    {
+      "numero": 2,
+      "poster": "https://image.tmdb.org/t/p/w500/fSa1OPyE95Zgu1lufOBIpqv8U2K.jpg",
+      "episodios_count": 8
+    }
+  ]
+}

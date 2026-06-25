@@ -1,0 +1,35 @@
+{
+  "id": 163604203,
+  "titulo": "Sin razón",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/g5OBhvRV3mvpZWWWQ2ES8REQUAL.jpg",
+  "release_date": "",
+  "genres": [
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "El marido de una paciente de House entra en el hospital y le dispara, perforándole el estómago. El episodio completo se desarrola como una alucinación de House.",
+  "slug": "house",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1408,
+  "temporada": 2,
+  "episodio": "24",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "24",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-F45BDC87/vFaJaABIAW5IAnGu",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-F45BDC87/vFaJaABIAW5IAnGu",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

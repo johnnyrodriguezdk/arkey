@@ -1,0 +1,37 @@
+{
+  "id": 19120515,
+  "titulo": "Adaptación",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/eoNL5FcszYtcfi3BICYKQhLBkIG.jpg",
+  "release_date": "",
+  "genres": [
+    "accion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Las comunidades pensaron que podían construir un futuro mejor por separado, pero la reciente pérdida de uno de los suyos los impulsa a unirse. Se alzan nuevos líderes cuando una nueva amenaza perturbadora y peligrosa es descubierta.",
+  "slug": "the-walking-dead",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1402,
+  "temporada": 9,
+  "episodio": "9",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "9",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-FB0011C0/lGYecSxtxORpIEGa",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-FB0011C0/lGYecSxtxORpIEGa",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

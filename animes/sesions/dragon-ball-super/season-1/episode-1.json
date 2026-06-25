@@ -1,105 +1,37 @@
 {
-  "id": 325191099,
-  "titulo": "Episodio 1",
+  "id": 202971115,
+  "titulo": "El gran premio de la paz. ¿Quién se llevará los cien millones de zenís?",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/mQwqbaoxaEJdi5xNMnWpt02Y6Bd.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Seis meses después de la derrota de Majin Bu, la paz ha regresado a la Tierra una vez más. Chi-Chi quiere que Goku consiga un trabajo, por lo que comienza a trabajar como agricultor de rábanos, aunque él realmente quiere entrenar. Mientras tanto, Gohan se ha comprometido con Videl, y Goten quiere darles un regalo de compromiso. Le pide a Trunks para el consejo y se van fuera en busca de un regalo.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "1",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "1",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=1",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/d3juutjjucxt",
-      "player_url": "https://streamwish.to/e/d3juutjjucxt",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-28BAFDC2/l2834TG19X2hfGbr",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-28BAFDC2/l2834TG19X2hfGbr",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "d3juutjjucxt"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/n0mzjpru8xuw",
-      "player_url": "https://filelions.top/v/n0mzjpru8xuw",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "n0mzjpru8xuw"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/aDdTK3g4Q3IvWEpwZ2grbElpejFJZz09",
-      "player_url": "https://netuplayer.top/e/aDdTK3g4Q3IvWEpwZ2grbElpejFJZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "aDdTK3g4Q3IvWEpwZ2grbElpejFJZz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/7u07c9rwwn28",
-      "player_url": "https://bysekoze.com/e/7u07c9rwwn28",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7u07c9rwwn28"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/bwBR4A2zy9fPjBo/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_001.mp4",
-      "player_url": "https://streamtape.com/e/bwBR4A2zy9fPjBo/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_001.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "bwBR4A2zy9fPjBo/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_001.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-hh0e0arfc19d.html",
-      "player_url": "https://www.mp4upload.com/embed-hh0e0arfc19d.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-hh0e0arfc19d.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-r68g4rnijsch.html",
-      "player_url": "https://uqload.to/embed-r68g4rnijsch.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-r68g4rnijsch.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/qle6e9odcdn8x",
-      "player_url": "https://mixdropjmk.pw/e/qle6e9odcdn8x",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "qle6e9odcdn8x"
+      "calidad": "HD"
     }
   ]
 }

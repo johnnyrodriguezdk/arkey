@@ -1,105 +1,37 @@
 {
-  "id": 306602296,
-  "titulo": "Episodio 110",
+  "id": 113498729,
+  "titulo": "¡El renacer de Son Goku! Un nuevo nivel se libera",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/3Ztdp4838lSsJcpeY09SLH0IOnE.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Goku se ve cada vez más superado por el abrumador poder de Jiren. Aunque solo es por un instante, parece que la balanza puede decantarse por el otro lado, pero todo es incierto.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "110",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "110",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=110",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/4yvv67avo1om",
-      "player_url": "https://streamwish.to/e/4yvv67avo1om",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-BCA09625/kDohUrDeyh4V0Gcs",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-BCA09625/kDohUrDeyh4V0Gcs",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "4yvv67avo1om"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/cuztmj2r7woc",
-      "player_url": "https://filelions.top/v/cuztmj2r7woc",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cuztmj2r7woc"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/dFFXd3dzNFUvZGlZK2RwYWtYRTlqZz09",
-      "player_url": "https://netuplayer.top/e/dFFXd3dzNFUvZGlZK2RwYWtYRTlqZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "dFFXd3dzNFUvZGlZK2RwYWtYRTlqZz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/rk3vsxst6s55",
-      "player_url": "https://bysekoze.com/e/rk3vsxst6s55",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "rk3vsxst6s55"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/QwlYp8alk3F07Ad/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_110.mp4",
-      "player_url": "https://streamtape.com/e/QwlYp8alk3F07Ad/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_110.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "QwlYp8alk3F07Ad/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_110.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-432shof858d2.html",
-      "player_url": "https://www.mp4upload.com/embed-432shof858d2.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-432shof858d2.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-kumqmnxu0fcd.html",
-      "player_url": "https://uqload.to/embed-kumqmnxu0fcd.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-kumqmnxu0fcd.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/7rd0de0ob4xler",
-      "player_url": "https://mixdropjmk.pw/e/7rd0de0ob4xler",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7rd0de0ob4xler"
+      "calidad": "HD"
     }
   ]
 }

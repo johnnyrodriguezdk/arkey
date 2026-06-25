@@ -1,0 +1,37 @@
+{
+  "id": 243529290,
+  "titulo": "Nuevo trato",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/8oAThTF3PMOQEgvtmThkU9iXgvo.jpg",
+  "release_date": "",
+  "genres": [
+    "accion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Carol hace un trato con Pamela para hacer borrón y cuenta nueva en nombre de sus amigos. Aaron, Jerry, Lydia y Elijah se ponen en camino hacia Oceanside para ponerlos al tanto de un plan. La Mancomunidad celebra el Día de los Fundadores.",
+  "slug": "the-walking-dead",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1402,
+  "temporada": 11,
+  "episodio": "18",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "18",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-26FD5616/F8yhqvlA8KLpSkOy",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-26FD5616/F8yhqvlA8KLpSkOy",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

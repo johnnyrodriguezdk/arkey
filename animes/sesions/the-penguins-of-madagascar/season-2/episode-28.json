@@ -1,0 +1,38 @@
+{
+  "id": 123205748,
+  "titulo": "El Robo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/h1DmEluOMnPxFq0i6oHNwJVdmH4.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "comedia",
+    "familia",
+    "familia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Al intentar escapar de la policía, 2 ladrones lanzan al zoológico un collar de diamantes que habían robado y este cae en el hábitat de Julien. Cuando los ladrones pierden de vista a la policía, descubren que el collar cayó en el zoológico y tratarán de recuperarlo a toda costa.",
+  "slug": "the-penguins-of-madagascar",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 7869,
+  "temporada": 2,
+  "episodio": "28",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "28",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-CE3DF721/JC9pe0tHEiA0NCnt",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-CE3DF721/JC9pe0tHEiA0NCnt",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

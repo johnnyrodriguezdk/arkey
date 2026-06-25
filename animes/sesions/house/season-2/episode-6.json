@@ -1,0 +1,35 @@
+{
+  "id": 243510042,
+  "titulo": "Dar vueltas",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/5EvDvCcSmqRVQHrAwA2LlGHskU3.jpg",
+  "release_date": "",
+  "genres": [
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un famoso ciclista tiene dificultades para respirar y sufre una caída. House no se interesa ya que piensa que probablemente se deban al uso de esteroides.",
+  "slug": "house",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1408,
+  "temporada": 2,
+  "episodio": "6",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "6",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-40ECB682/VqZON1NQilRPmgjv",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-40ECB682/VqZON1NQilRPmgjv",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

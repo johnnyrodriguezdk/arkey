@@ -1,105 +1,37 @@
 {
-  "id": 1973284564,
-  "titulo": "Episodio 104",
+  "id": 212869890,
+  "titulo": "¡Un combate a velocidad estratosférica! La alianza de Goku y Hit",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/eX0Cn224hyJZtMzBQJKvFupQYUg.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Hit y Dyspo comienzan a luchar a la velocidad de la luz golpeado está en desventaja cuando Goku viene a ayudar.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "104",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "104",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=104",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/dhrb8erfigas",
-      "player_url": "https://streamwish.to/e/dhrb8erfigas",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-297719C7/PIGgk3ZTqxpIySPk",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-297719C7/PIGgk3ZTqxpIySPk",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "dhrb8erfigas"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/az6lmm3djk47",
-      "player_url": "https://filelions.top/v/az6lmm3djk47",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "az6lmm3djk47"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/K2lXTVRPVXBMREYwem1WeGtydmlEQT09",
-      "player_url": "https://netuplayer.top/e/K2lXTVRPVXBMREYwem1WeGtydmlEQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "K2lXTVRPVXBMREYwem1WeGtydmlEQT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/cfb9d7pf6yfg",
-      "player_url": "https://bysekoze.com/e/cfb9d7pf6yfg",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cfb9d7pf6yfg"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/DGwB9voaDRCGVM/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_104.mp4",
-      "player_url": "https://streamtape.com/e/DGwB9voaDRCGVM/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_104.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "DGwB9voaDRCGVM/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_104.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-nzgf8hit8f96.html",
-      "player_url": "https://www.mp4upload.com/embed-nzgf8hit8f96.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-nzgf8hit8f96.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-tf777oy59nes.html",
-      "player_url": "https://uqload.to/embed-tf777oy59nes.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-tf777oy59nes.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/vneleg1wi8ejog",
-      "player_url": "https://mixdropjmk.pw/e/vneleg1wi8ejog",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "vneleg1wi8ejog"
+      "calidad": "HD"
     }
   ]
 }

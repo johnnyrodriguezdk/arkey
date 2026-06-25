@@ -1,24 +1,27 @@
 {
-  "id": 1123300308,
+  "id": 213423997,
   "titulo": "Kimi to Koete Koi ni Naru",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/deGs1CWzQqA3JXVYfpzq2iUN7r6jpg.webp",
-  "release_date": "",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w500/l8YQfVfTKtWnBS54cvHlCLeUidc.jpg",
+  "release_date": "2025-01-01",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
-  "backdrop": "",
-  "overview": "Mari, una estudiante de secundaria, no se imaginaba que se enamoraría de Tsunagu, un amable y sensible hombres bestia, los cuales están segregados tras unos ...",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e8GfDn0MlqaxddpU6s928wOcAdI.jpg",
+  "overview": "Cuando Mari, estudiante de secundaria, llega tarde a la escuela, nunca espera enamorarse de Tsunagu, ¡una bestia gentil y sensible! En un mundo donde los pueblos bestia están segregados detrás de muros, Mari y Tsunagu muestran que sus diferencias son realmente puentes. ¿Podrá su amor superar la división entre los pueblos bestia y la humanidad?",
   "slug": "kimi-to-koete-koi-ni-naru",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1872",
-  "anime_id_wp": "10144",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 282662,
   "total_episodes": 12,
   "total_temporadas": 1,
   "temporadas": [
     {
       "numero": 1,
-      "poster": "https://hj.animejara.com/api-web/img/deGs1CWzQqA3JXVYfpzq2iUN7r6jpg.webp",
+      "poster": "https://image.tmdb.org/t/p/w500/l8YQfVfTKtWnBS54cvHlCLeUidc.jpg",
       "episodios_count": 12
     }
   ]

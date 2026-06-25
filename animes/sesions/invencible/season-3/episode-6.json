@@ -1,74 +1,38 @@
 {
-  "id": 1174679704,
-  "titulo": "Episodio 6",
+  "id": 53356282,
+  "titulo": "SOLO PUEDO DECIRTE QUE LO SIENTO",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/3XiJlYq7REcKNKy1WBu7BOlRYcbjpg.webp",
-  "release_date": "2026-03-18",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/5NMW2Q21EOINDHcFeJvzm1i73xW.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy",
+    "accion"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Una figura nueva y poderosa hace a Mark replantearse lo que está bien y lo que está mal. Rae le cuenta a Rex una decisión muy importante en su vida.",
   "slug": "invencible",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1534",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 95557,
   "temporada": 3,
   "episodio": "6",
   "idiomas": [
     "LATINO"
   ],
   "idcapitulo": "6",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1534&idcapitulo=6",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/rnnx1czmfkt4",
-      "player_url": "https://streamwish.to/e/rnnx1czmfkt4",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A88B506C/D53Rp2CdzHG0JsQm",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A88B506C/D53Rp2CdzHG0JsQm",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "rnnx1czmfkt4"
-    },
-    {
-      "id": 2,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/WFlhTlJOb2JZanZLNG1Wd1h5SVA2Zz09",
-      "player_url": "https://player.streamhj.top/e/WFlhTlJOb2JZanZLNG1Wd1h5SVA2Zz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "WFlhTlJOb2JZanZLNG1Wd1h5SVA2Zz09"
-    },
-    {
-      "id": 3,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/yn1drcom4k86",
-      "player_url": "https://bysekoze.com/e/yn1drcom4k86",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "yn1drcom4k86"
-    },
-    {
-      "id": 4,
-      "server": "Uqload",
-      "url": "https://uqload.net/embed-f9ieacw8yfo7.html",
-      "player_url": "https://uqload.net/embed-f9ieacw8yfo7.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.net_embed-f9ieacw8yfo7.html"
-    },
-    {
-      "id": 5,
-      "server": "Voe",
-      "url": "https://voe.sx/e/q9jj2qjdes1w",
-      "player_url": "https://voe.sx/e/q9jj2qjdes1w",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "q9jj2qjdes1w"
+      "calidad": "HD"
     }
   ]
 }

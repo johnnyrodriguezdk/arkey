@@ -1,105 +1,37 @@
 {
-  "id": 1440343145,
-  "titulo": "Episodio 29",
+  "id": 195383342,
+  "titulo": "¡Se celebrará un Torneo de Artes Marciales! El líder del equipo es incluso más fuerte que Goku",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/jhuz1PyGYM8BVwbOoUT8sG6NSfF.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Goku y Vegeta recomiendan realizar un torneo con las reglas del Torneo de las A.M. de la Tierra el cual es aceptado, y el lugar será en un planeta no habitado que se encuentra entre el Universo 6 y 7. Al faltar solo cinco días para el torneo, Champa y Vados arreglan el planeta y posicionan las seis súper bolas del Dragón alrededor del planeta. Para encontrar la última súper bola, reúnen las bolas de la Tierra pero son limitadas, Bulma decide hacer un radar el cual abarque el rango de una galaxia, por lo que llama a Jaco para dirigirse al centro del Universo. Beerus revela al primero de cinco luchadores, Monaka, quien es más fuerte que Goku, siendo el segundo y Vegeta tercero.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "29",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "29",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=29",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/uy1wb6qdgmdp",
-      "player_url": "https://streamwish.to/e/uy1wb6qdgmdp",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-FECA1794/d45GLVlGzAzlpwKk",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-FECA1794/d45GLVlGzAzlpwKk",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uy1wb6qdgmdp"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/tbzti6rdifxi",
-      "player_url": "https://filelions.top/v/tbzti6rdifxi",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "tbzti6rdifxi"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/SC9tSVBBWnVKVDdCaXdhdkk5S3RlZz09",
-      "player_url": "https://netuplayer.top/e/SC9tSVBBWnVKVDdCaXdhdkk5S3RlZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "SC9tSVBBWnVKVDdCaXdhdkk5S3RlZz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/cnpug28cuq1t",
-      "player_url": "https://bysekoze.com/e/cnpug28cuq1t",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cnpug28cuq1t"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/wJ7L79g7Q3iJKOm/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_029.mp4",
-      "player_url": "https://streamtape.com/e/wJ7L79g7Q3iJKOm/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_029.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "wJ7L79g7Q3iJKOm/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_029.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-ionsga1i2lkg.html",
-      "player_url": "https://www.mp4upload.com/embed-ionsga1i2lkg.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-ionsga1i2lkg.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-8tgzai9tqvyq.html",
-      "player_url": "https://uqload.to/embed-8tgzai9tqvyq.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-8tgzai9tqvyq.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/0vlrl9o9adxd4m",
-      "player_url": "https://mixdropjmk.pw/e/0vlrl9o9adxd4m",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "0vlrl9o9adxd4m"
+      "calidad": "HD"
     }
   ]
 }

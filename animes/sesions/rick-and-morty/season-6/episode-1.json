@@ -1,0 +1,38 @@
+{
+  "id": 29119254,
+  "titulo": "Solaricks",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/5tiOEjp03nvaGiKT73knretU8e8.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "comedia",
+    "sci-fi-fantasy",
+    "accion"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "El final de la temporada anterior trae consecuencias. Rick y Morty están a la deriva en el espacio, entre los restos de la Ciudadela. ¿Se recuperarán?",
+  "slug": "rick-and-morty",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 60625,
+  "temporada": 6,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-5BE7832F/M3ZoDJTPMjTrQ2yd",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-5BE7832F/M3ZoDJTPMjTrQ2yd",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

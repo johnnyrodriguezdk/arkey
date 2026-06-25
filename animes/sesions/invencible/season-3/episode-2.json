@@ -1,74 +1,38 @@
 {
-  "id": 2007014929,
-  "titulo": "Episodio 2",
+  "id": 168785420,
+  "titulo": "PACTAR CON EL DIABLO",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/3XiJlYq7REcKNKy1WBu7BOlRYcbjpg.webp",
-  "release_date": "2026-03-18",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/lmrqdiLq4d2NOi0I7PUGHxjMoHi.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy",
+    "accion"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Mark planta cara, sin ser consciente de las ramificaciones para su familia, a la GDA e incluso a los Guardianes. Cecil recuerda su pasado e Eve toma una decisión importante.",
   "slug": "invencible",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1534",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 95557,
   "temporada": 3,
   "episodio": "2",
   "idiomas": [
     "LATINO"
   ],
   "idcapitulo": "2",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1534&idcapitulo=2",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/4tcyv5jsqwsb",
-      "player_url": "https://streamwish.to/e/4tcyv5jsqwsb",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-5321E981/INlsI1z6e0eF5gK0",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-5321E981/INlsI1z6e0eF5gK0",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "4tcyv5jsqwsb"
-    },
-    {
-      "id": 2,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/YzNNZnBJTyt1ZG5ldzgvT0FrVndjQT09",
-      "player_url": "https://player.streamhj.top/e/YzNNZnBJTyt1ZG5ldzgvT0FrVndjQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "YzNNZnBJTyt1ZG5ldzgvT0FrVndjQT09"
-    },
-    {
-      "id": 3,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/k67fw8xjp4we",
-      "player_url": "https://bysekoze.com/e/k67fw8xjp4we",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "k67fw8xjp4we"
-    },
-    {
-      "id": 4,
-      "server": "Uqload",
-      "url": "https://uqload.net/embed-3i1sl0c80p4l.html",
-      "player_url": "https://uqload.net/embed-3i1sl0c80p4l.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.net_embed-3i1sl0c80p4l.html"
-    },
-    {
-      "id": 5,
-      "server": "Voe",
-      "url": "https://voe.sx/e/zs9ibdvdqegl",
-      "player_url": "https://voe.sx/e/zs9ibdvdqegl",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "zs9ibdvdqegl"
+      "calidad": "HD"
     }
   ]
 }

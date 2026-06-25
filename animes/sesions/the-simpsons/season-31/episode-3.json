@@ -1,0 +1,37 @@
+{
+  "id": 234729151,
+  "titulo": "La gorda línea azul",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/iczczHw7GtN0FeyBtqf8U7eD5i6.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Durante el festival callejero de San Castellanta, muchos de los ciudadanos descubren que les han robado la cartera. Cuando el investigador estatal encarcela al hombre equivocado, el Jefe Wiggum se propone limpiar su nombre, encontrar al auténtico criminal y demostrar que aún es digno de ser policía.",
+  "slug": "the-simpsons",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 456,
+  "temporada": 31,
+  "episodio": "3",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "3",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-158C65B6/9SsVkaop4OKpniUA",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-158C65B6/9SsVkaop4OKpniUA",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5514121,
+  "titulo": "Piloto",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg",
+  "release_date": "",
+  "genres": [
+    "drama",
+    "crimen"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Walter White, profesor de química en un instituto, descubre que tiene cáncer de pulmón y decide trabajar junto con un ex-alumno elaborando metanfetamina de alta calidad para poder ganar dinero para que su familia se mantenga.",
+  "slug": "breaking-bad",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1396,
+  "temporada": 1,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-78CB7F91/D7iQy1ZYoSkebGQw",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-78CB7F91/D7iQy1ZYoSkebGQw",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

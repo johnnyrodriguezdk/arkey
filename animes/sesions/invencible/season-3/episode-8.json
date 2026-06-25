@@ -1,74 +1,38 @@
 {
-  "id": 2117410982,
-  "titulo": "Episodio 8",
+  "id": 33341847,
+  "titulo": "CREÍA QUE NO IBAS A CALLARTE NUNCA",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/3XiJlYq7REcKNKy1WBu7BOlRYcbjpg.webp",
-  "release_date": "2026-03-18",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/6HqCGRpP4BfbPoQ3rQ71ViuWwXk.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy",
+    "accion"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "El mundo aún se está tambaleando cuando llega un desconocido muy peligroso que pone a prueba a Mark más allá de sus límites.",
   "slug": "invencible",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1534",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 95557,
   "temporada": 3,
   "episodio": "8",
   "idiomas": [
     "LATINO"
   ],
   "idcapitulo": "8",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1534&idcapitulo=8",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/2irvvyoq8nou",
-      "player_url": "https://streamwish.to/e/2irvvyoq8nou",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-2ED6890C/0wOpwSUiaG8lVQye",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-2ED6890C/0wOpwSUiaG8lVQye",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "2irvvyoq8nou"
-    },
-    {
-      "id": 2,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/ZWJiV0ZTbHZMSzNmNndxdmZKNlllUT09",
-      "player_url": "https://player.streamhj.top/e/ZWJiV0ZTbHZMSzNmNndxdmZKNlllUT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ZWJiV0ZTbHZMSzNmNndxdmZKNlllUT09"
-    },
-    {
-      "id": 3,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/sidlvnd3hnza",
-      "player_url": "https://bysekoze.com/e/sidlvnd3hnza",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "sidlvnd3hnza"
-    },
-    {
-      "id": 4,
-      "server": "Uqload",
-      "url": "https://uqload.net/embed-0el1reyo3abb.html",
-      "player_url": "https://uqload.net/embed-0el1reyo3abb.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.net_embed-0el1reyo3abb.html"
-    },
-    {
-      "id": 5,
-      "server": "Voe",
-      "url": "https://voe.sx/e/idj5aq9d0s7w",
-      "player_url": "https://voe.sx/e/idj5aq9d0s7w",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "idj5aq9d0s7w"
+      "calidad": "HD"
     }
   ]
 }

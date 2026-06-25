@@ -1,105 +1,37 @@
 {
-  "id": 1820058163,
-  "titulo": "Episodio 127",
+  "id": 75416555,
+  "titulo": "El muro que se aproxima. ¡La barrera de la última esperanza!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/1KdBdOoWc2vPRpSiklgHktFtJMp.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Luego de que Vegeta derrotase a Toppo, Jiren se queda como único representante del Universo 11, así que desplegará toda su fuerza para acabar con todos sus enemigos.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "127",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "127",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=127",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/6jqmd0kwhyfu",
-      "player_url": "https://streamwish.to/e/6jqmd0kwhyfu",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-6ECDDF18/C4Xfxi3rx34j7qQq",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-6ECDDF18/C4Xfxi3rx34j7qQq",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "6jqmd0kwhyfu"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/6brijkroo8d4",
-      "player_url": "https://filelions.top/v/6brijkroo8d4",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "6brijkroo8d4"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/Q0U2M1hQcHdOZ3pFNGEwVzRZdDh1Zz09",
-      "player_url": "https://netuplayer.top/e/Q0U2M1hQcHdOZ3pFNGEwVzRZdDh1Zz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Q0U2M1hQcHdOZ3pFNGEwVzRZdDh1Zz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/62c5z27sko5a",
-      "player_url": "https://bysekoze.com/e/62c5z27sko5a",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "62c5z27sko5a"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/mwG1v9rpBAfbmop/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_127.mp4",
-      "player_url": "https://streamtape.com/e/mwG1v9rpBAfbmop/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_127.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "mwG1v9rpBAfbmop/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_127.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-j4g11mhnhn67.html",
-      "player_url": "https://www.mp4upload.com/embed-j4g11mhnhn67.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-j4g11mhnhn67.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-vply9weawf9g.html",
-      "player_url": "https://uqload.to/embed-vply9weawf9g.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-vply9weawf9g.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/4nx7xewduqrdq7k",
-      "player_url": "https://mixdropjmk.pw/e/4nx7xewduqrdq7k",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "4nx7xewduqrdq7k"
+      "calidad": "HD"
     }
   ]
 }

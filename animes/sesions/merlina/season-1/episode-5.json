@@ -1,0 +1,35 @@
+{
+  "id": 100744101,
+  "titulo": "Episodio 5",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/NTneH19F9V24oHl1z62H4t8S32.jpg",
+  "release_date": "",
+  "genres": [
+    "familia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "",
+  "slug": "merlina",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 61564,
+  "temporada": 1,
+  "episodio": "5",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "5",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-83006359/rNC4OcDDhVKS885D",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-83006359/rNC4OcDDhVKS885D",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

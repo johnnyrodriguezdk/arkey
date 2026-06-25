@@ -1,105 +1,37 @@
 {
-  "id": 1378363536,
-  "titulo": "Episodio 16",
+  "id": 117347562,
+  "titulo": "¿Vegeta de aprendiz? ¡Toma eso, Whis!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/tyI3h1rpfWMuouAkTeSTTXDEfzj.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Vegeta se dispone a seguir un duro entrenamiento para superar los límites del Super Saiyan Dios. Al volver del entrenamiento, se encuentra con Whis, quien se encontraba almorzando con Bulma. Whis le explica que para ser más fuerte, debe convertirse en un Super Saiyan Dios, y ocultar al máximo su ki. Además, le revela que fue el maestro del Dios de la destrucción. Vegeta, inmediatamente le pide a Whis que lo entrene, y a cambio, le prepara la comida más deliciosa de la tierra, sopa de ramen instantánea. Al quedar maravillado, Whis se lleva a Vegeta convirtiéndolo en su nuevo discípulo.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "16",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "16",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=16",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/si7lsi0fn308",
-      "player_url": "https://streamwish.to/e/si7lsi0fn308",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-252A6B1D/eOlSsSbByUrx6PcH",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-252A6B1D/eOlSsSbByUrx6PcH",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "si7lsi0fn308"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/3tq5spmapcog",
-      "player_url": "https://filelions.top/v/3tq5spmapcog",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "3tq5spmapcog"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/eFRXNlJtOGUyOWJVTTZ5dEI3ZXZXUT09",
-      "player_url": "https://netuplayer.top/e/eFRXNlJtOGUyOWJVTTZ5dEI3ZXZXUT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "eFRXNlJtOGUyOWJVTTZ5dEI3ZXZXUT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/cseg7d5tqahd",
-      "player_url": "https://bysekoze.com/e/cseg7d5tqahd",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cseg7d5tqahd"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/ZXV7oKYgyOSqVzM/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_016.mp4",
-      "player_url": "https://streamtape.com/e/ZXV7oKYgyOSqVzM/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_016.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ZXV7oKYgyOSqVzM/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_016.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-rylh4lefwx7j.html",
-      "player_url": "https://www.mp4upload.com/embed-rylh4lefwx7j.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-rylh4lefwx7j.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-325jprbx121l.html",
-      "player_url": "https://uqload.to/embed-325jprbx121l.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-325jprbx121l.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/o7ene4x3tl0n4zj",
-      "player_url": "https://mixdropjmk.pw/e/o7ene4x3tl0n4zj",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "o7ene4x3tl0n4zj"
+      "calidad": "HD"
     }
   ]
 }

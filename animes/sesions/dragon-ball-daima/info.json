@@ -1,24 +1,29 @@
 {
-  "id": 182032781,
+  "id": 154594776,
   "titulo": "Dragon Ball Daima",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/fHJgkdisqyP4aHM9HFcDDjJJaLXjpg.webp",
+  "poster": "https://image.tmdb.org/t/p/w500/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg",
   "release_date": "2024-01-01",
-  "genres": [],
+  "genres": [
+    "animacion",
+    "accion",
+    "comedia",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
-  "backdrop": "",
-  "overview": "Serie de TV (2024). Debido a una conspiración, Goku y sus amigos se vuelven pequeños. ¿Qué tipo de aventura les espera a Goku, al Supremo Kaio y a los nuevos...",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+  "overview": "Goku, Vegeta, Bulma y el resto se convierten en niños, y Goten y Trunks vuelven a ser bebés. Parece que un deseo de Shenron provocó que se produjera el cambio, y dependerá de Goku y sus amigos luchar contra las nuevas amenazas que aparezcan.",
   "slug": "dragon-ball-daima",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1475",
-  "total_episodes": 20,
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 236994,
+  "total_episodes": 10,
   "total_temporadas": 1,
   "temporadas": [
     {
       "numero": 1,
-      "poster": "https://hj.animejara.com/api-web/img/fHJgkdisqyP4aHM9HFcDDjJJaLXjpg.webp",
-      "episodios_count": 20
+      "poster": "https://image.tmdb.org/t/p/w500/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg",
+      "episodios_count": 10
     }
   ]
 }

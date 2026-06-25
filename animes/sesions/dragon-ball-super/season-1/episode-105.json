@@ -1,105 +1,37 @@
 {
-  "id": 795205761,
-  "titulo": "Episodio 105",
+  "id": 132720356,
+  "titulo": "¡Ataque a la desesperada! El sacrificio del Maestro Roshi",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/3KnuMATqxrgoSbQaQ1S8Ov3vS7h.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "El Torneo de Fuerza sigue adelante. Esta vez la pelea se centrará en el Maestro Roshi, quien deberá hacer frente a sus deseos más mundanos y superarlos si quiere seguir adelante.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "105",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "105",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=105",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/5crde7wdjtup",
-      "player_url": "https://streamwish.to/e/5crde7wdjtup",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A82AFEBC/Tbtp6OFsH9p7auDe",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A82AFEBC/Tbtp6OFsH9p7auDe",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "5crde7wdjtup"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/m17uczmf8o7z",
-      "player_url": "https://filelions.top/v/m17uczmf8o7z",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "m17uczmf8o7z"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/OFpwa1dQVDkwcmZYYVZJNzR4cVlDQT09",
-      "player_url": "https://netuplayer.top/e/OFpwa1dQVDkwcmZYYVZJNzR4cVlDQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "OFpwa1dQVDkwcmZYYVZJNzR4cVlDQT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/ot8da03850b2",
-      "player_url": "https://bysekoze.com/e/ot8da03850b2",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ot8da03850b2"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/Z1joK0pxdyCqaeW/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_105.mp4",
-      "player_url": "https://streamtape.com/e/Z1joK0pxdyCqaeW/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_105.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Z1joK0pxdyCqaeW/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_105.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-lpkjzhwi6bmh.html",
-      "player_url": "https://www.mp4upload.com/embed-lpkjzhwi6bmh.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-lpkjzhwi6bmh.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-qyz4u3g5xgs9.html",
-      "player_url": "https://uqload.to/embed-qyz4u3g5xgs9.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-qyz4u3g5xgs9.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/xorjr8edhld0j4o",
-      "player_url": "https://mixdropjmk.pw/e/xorjr8edhld0j4o",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xorjr8edhld0j4o"
+      "calidad": "HD"
     }
   ]
 }

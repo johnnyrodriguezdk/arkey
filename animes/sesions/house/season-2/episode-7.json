@@ -1,0 +1,35 @@
+{
+  "id": 232663108,
+  "titulo": "Caza",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/hZVZ35j21gaK7HI6rMheGi3DK3E.jpg",
+  "release_date": "",
+  "genres": [
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un joven con SIDA, que tiene problemas respiratorios, logra que House lo atienda contra su voluntad.",
+  "slug": "house",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1408,
+  "temporada": 2,
+  "episodio": "7",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "7",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-1F0461D2/JZ2u0m76QWelBpLR",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-1F0461D2/JZ2u0m76QWelBpLR",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

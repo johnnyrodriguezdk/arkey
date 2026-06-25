@@ -1,0 +1,33 @@
+{
+  "id": 142972766,
+  "titulo": "ONE PIECE",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+  "release_date": "1999-01-01",
+  "genres": [
+    "accion",
+    "comedia",
+    "animacion"
+  ],
+  "rating": "",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+  "overview": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+  "slug": "one-piece",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 37854,
+  "total_episodes": 16,
+  "total_temporadas": 2,
+  "temporadas": [
+    {
+      "numero": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "episodios_count": 8
+    },
+    {
+      "numero": 2,
+      "poster": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "episodios_count": 8
+    }
+  ]
+}

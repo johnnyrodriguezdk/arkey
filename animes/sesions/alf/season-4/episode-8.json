@@ -1,0 +1,37 @@
+{
+  "id": 25077621,
+  "titulo": "Primer encuentro",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/pJ5zLLOk1ZQ2NWjgB2bE3g4UEVJ.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "comedia",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "El hermano de Willie conoce en persona a ALF.",
+  "slug": "alf",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 4658,
+  "temporada": 4,
+  "episodio": "8",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "8",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-DF36DE4D/M6ivb4AcYCE0sLkb",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-DF36DE4D/M6ivb4AcYCE0sLkb",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

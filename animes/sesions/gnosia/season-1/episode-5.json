@@ -1,105 +1,37 @@
 {
-  "id": 151119734,
+  "id": 44804999,
   "titulo": "Episodio 5",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/hgYLAH8F54gRbS4fEew7koDN2lYjpg.webp",
-  "release_date": "2026-03-08",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/7VB71CwuYZ0aLOLPsrLTuNLMeKy.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "misterio",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
   "overview": "",
   "slug": "gnosia",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "4468",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 278604,
   "temporada": 1,
   "episodio": "5",
   "idiomas": [
-    "LATINO",
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "5",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4468&idcapitulo=5",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/dy4k10m2s5nf",
-      "player_url": "https://streamwish.to/e/dy4k10m2s5nf",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/seriegnosiat1/capitulo5.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/seriegnosiat1/capitulo5.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "dy4k10m2s5nf"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/moi3gzre7puv",
-      "player_url": "https://filelions.top/v/moi3gzre7puv",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "moi3gzre7puv"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/mUYmNaDcFFCP",
-      "player_url": "https://netuplayer.top/e/mUYmNaDcFFCP",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "mUYmNaDcFFCP"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://filemoon.to/e/qcwpq7lu4owg",
-      "player_url": "https://filemoon.to/e/qcwpq7lu4owg",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "qcwpq7lu4owg"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/xo3ZLDDe9Pcw31/%5BAnimeOnlineNinja%5D_GNOSIA_Latino_05.mp4",
-      "player_url": "https://streamtape.com/e/xo3ZLDDe9Pcw31/%5BAnimeOnlineNinja%5D_GNOSIA_Latino_05.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xo3ZLDDe9Pcw31/%5BAnimeOnlineNinja%5D_GNOSIA_Latino_05.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-i01yae3rt1ff.html",
-      "player_url": "https://www.mp4upload.com/embed-i01yae3rt1ff.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-i01yae3rt1ff.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.com/embed-qby3wryww4pp.html",
-      "player_url": "https://uqload.com/embed-qby3wryww4pp.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.com_embed-qby3wryww4pp.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/36qkpzg3i8j449",
-      "player_url": "https://mxdrop.to/e/36qkpzg3i8j449",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "36qkpzg3i8j449"
+      "calidad": "HD"
     }
   ]
 }

@@ -1,105 +1,37 @@
 {
-  "id": 495895690,
-  "titulo": "Episodio 73",
+  "id": 197302053,
+  "titulo": "¡El problema de Gohan! ¿Harán una película del Gran Saiyaman?",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/3bXI7KMhg2GM0HBVnKiZDpplgXO.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Se filma una película con un combate de ensueño: Mr. Satán VS Gran Saiyaman. El actor Barry Kahn desempeña el rol del héroe, se llega el momento del rodaje de una escena peligrosa y Gohan se ofrece para reemplazarlo.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "73",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "73",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=73",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/osunn26dhwdy",
-      "player_url": "https://streamwish.to/e/osunn26dhwdy",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C29EA756/y3zfTaEEX8x5teh4",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C29EA756/y3zfTaEEX8x5teh4",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "osunn26dhwdy"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/vscvnl8e3kjk",
-      "player_url": "https://filelions.top/v/vscvnl8e3kjk",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "vscvnl8e3kjk"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/WVlFTG5aRmp2VlFQN05QVGtCL0NDdz09",
-      "player_url": "https://netuplayer.top/e/WVlFTG5aRmp2VlFQN05QVGtCL0NDdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "WVlFTG5aRmp2VlFQN05QVGtCL0NDdz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/5gzn61tycwhu",
-      "player_url": "https://bysekoze.com/e/5gzn61tycwhu",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "5gzn61tycwhu"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/PDvqpbRq8dS0d9B/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_073.mp4",
-      "player_url": "https://streamtape.com/e/PDvqpbRq8dS0d9B/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_073.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "PDvqpbRq8dS0d9B/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_073.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-wjw4ztql4owt.html",
-      "player_url": "https://www.mp4upload.com/embed-wjw4ztql4owt.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-wjw4ztql4owt.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-qw503a53p12r.html",
-      "player_url": "https://uqload.to/embed-qw503a53p12r.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-qw503a53p12r.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/0vlrlx3rfkk3voo",
-      "player_url": "https://mixdropjmk.pw/e/0vlrlx3rfkk3voo",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "0vlrlx3rfkk3voo"
+      "calidad": "HD"
     }
   ]
 }

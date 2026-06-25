@@ -1,105 +1,37 @@
 {
-  "id": 1426797031,
-  "titulo": "Episodio 93",
+  "id": 55498465,
+  "titulo": "Tú eres el décimo guerrero. Goku visita a Freezer",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/s3WWHHygNxyyvWu0IUjlkfeJiSi.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Goku quiere a Freezer como décimo miembro del equipo. Todo el mundo se sorprende y se oponen rotundamente a la idea, pero el Saiyan está determinado a ir en su búsqueda. Goku se irá hasta el infierno a visitar a Freezer.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "93",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "93",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=93",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/jba89gltg69b",
-      "player_url": "https://streamwish.to/e/jba89gltg69b",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-1388E78B/bX6InQwra7uGRo8g",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-1388E78B/bX6InQwra7uGRo8g",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "jba89gltg69b"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/pbnc5hrza5pa",
-      "player_url": "https://filelions.top/v/pbnc5hrza5pa",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "pbnc5hrza5pa"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/SENmc09mbHR3NUZEUXpGM1QzT0N4QT09",
-      "player_url": "https://netuplayer.top/e/SENmc09mbHR3NUZEUXpGM1QzT0N4QT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "SENmc09mbHR3NUZEUXpGM1QzT0N4QT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/n4581hc7zkjy",
-      "player_url": "https://bysekoze.com/e/n4581hc7zkjy",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "n4581hc7zkjy"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/L1r3e1kp1MSR06m/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_093.mp4",
-      "player_url": "https://streamtape.com/e/L1r3e1kp1MSR06m/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_093.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "L1r3e1kp1MSR06m/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_093.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-685fteyg3gqb.html",
-      "player_url": "https://www.mp4upload.com/embed-685fteyg3gqb.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-685fteyg3gqb.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-3m22eh20c040.html",
-      "player_url": "https://uqload.to/embed-3m22eh20c040.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-3m22eh20c040.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/wnexeg1ocp4p1z",
-      "player_url": "https://mixdropjmk.pw/e/wnexeg1ocp4p1z",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "wnexeg1ocp4p1z"
+      "calidad": "HD"
     }
   ]
 }

@@ -1,75 +1,38 @@
 {
-  "id": 1503433380,
-  "titulo": "Episodio 2",
+  "id": 173103614,
+  "titulo": "DISFRUTA DE LA VISITA GUIADA",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/l1NxZbECvU2Md6hMzoQvr969HHejpg.webp",
-  "release_date": "2026-03-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/eZljaDBUuBrKQjm0sRKfKorNFmk.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy",
+    "accion"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "La aparición de un antiguo enemigo pone a prueba las lealtades.",
   "slug": "invencible",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1534",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 95557,
   "temporada": 4,
   "episodio": "2",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "2",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1534&idcapitulo=2",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/4tcyv5jsqwsb",
-      "player_url": "https://streamwish.to/e/4tcyv5jsqwsb",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-6909A92C/MMs0xgH8GiF3d7Ze",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-6909A92C/MMs0xgH8GiF3d7Ze",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "4tcyv5jsqwsb"
-    },
-    {
-      "id": 2,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/YzNNZnBJTyt1ZG5ldzgvT0FrVndjQT09",
-      "player_url": "https://player.streamhj.top/e/YzNNZnBJTyt1ZG5ldzgvT0FrVndjQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "YzNNZnBJTyt1ZG5ldzgvT0FrVndjQT09"
-    },
-    {
-      "id": 3,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/k67fw8xjp4we",
-      "player_url": "https://bysekoze.com/e/k67fw8xjp4we",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "k67fw8xjp4we"
-    },
-    {
-      "id": 4,
-      "server": "Uqload",
-      "url": "https://uqload.net/embed-3i1sl0c80p4l.html",
-      "player_url": "https://uqload.net/embed-3i1sl0c80p4l.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.net_embed-3i1sl0c80p4l.html"
-    },
-    {
-      "id": 5,
-      "server": "Voe",
-      "url": "https://voe.sx/e/zs9ibdvdqegl",
-      "player_url": "https://voe.sx/e/zs9ibdvdqegl",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "zs9ibdvdqegl"
+      "calidad": "HD"
     }
   ]
 }

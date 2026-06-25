@@ -1,24 +1,27 @@
 {
-  "id": 1789709035,
+  "id": 120856814,
   "titulo": "Yuusha Party wo Oidasareta Kiyoubinbou",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/4279jpg.webp",
-  "release_date": "",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w500/7eVq3cC9V5ZUl7FOXJ5U3OA5YNh.jpg",
+  "release_date": "2026-01-01",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
-  "backdrop": "",
-  "overview": "\\\"Orn Doula, hoy será tu último día en el grupo.\\\" Orn, un hábil espadachín, se había adaptado al papel de encantador para llenar un vacío crucial en el Grup...",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1nt43fq7CKbqAJAospEo63vYXBV.jpg",
+  "overview": "Traicionado por su amigo de la infancia y expulsado del Grupo del Héroe, a Orhun Dura, al que llaman \"aprendiz de todo, pero maestro de nada\", decide forjarse un nuevo camino como aventurero en solitario. En su viaje encontrará batallas épocas, enemigos mortales y aliados inesperados, llegando a brillar como nadie esperaba.",
   "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "2268",
-  "anime_id_wp": "17062",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 285166,
   "total_episodes": 12,
   "total_temporadas": 1,
   "temporadas": [
     {
       "numero": 1,
-      "poster": "https://hj.animejara.com/api-web/img/4279jpg.webp",
+      "poster": "https://image.tmdb.org/t/p/w500/7eVq3cC9V5ZUl7FOXJ5U3OA5YNh.jpg",
       "episodios_count": 12
     }
   ]

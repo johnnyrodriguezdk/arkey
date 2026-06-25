@@ -1,74 +1,38 @@
 {
-  "id": 684748378,
-  "titulo": "Episodio 4",
+  "id": 192723375,
+  "titulo": "CUÁNTO TIEMPO SIN VERTE",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/vrkkXKbqPfNtvcgUPUEmVaoXVfGjpg.webp",
-  "release_date": "2026-03-18",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/4OVjqdrakEnlEbstrhQVS4YhBVU.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy",
+    "accion"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Mark acude a la llamada para salvar a una especie alienígena, pero la misión tiene consecuencias personales inesperadas.",
   "slug": "invencible",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1534",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 95557,
   "temporada": 2,
   "episodio": "4",
   "idiomas": [
     "LATINO"
   ],
   "idcapitulo": "4",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1534&idcapitulo=4",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/r2xsnsznm5t4",
-      "player_url": "https://streamwish.to/e/r2xsnsznm5t4",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-514A2040/eHWLw8phM85BESu0",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-514A2040/eHWLw8phM85BESu0",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "r2xsnsznm5t4"
-    },
-    {
-      "id": 2,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/MUtyVWlhU010elBFRXZ1d0VxOXczdz09",
-      "player_url": "https://player.streamhj.top/e/MUtyVWlhU010elBFRXZ1d0VxOXczdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "MUtyVWlhU010elBFRXZ1d0VxOXczdz09"
-    },
-    {
-      "id": 3,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/w5lc4ac2eqi0",
-      "player_url": "https://bysekoze.com/e/w5lc4ac2eqi0",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "w5lc4ac2eqi0"
-    },
-    {
-      "id": 4,
-      "server": "Uqload",
-      "url": "https://uqload.net/embed-ghg6r7ya94ze.html",
-      "player_url": "https://uqload.net/embed-ghg6r7ya94ze.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.net_embed-ghg6r7ya94ze.html"
-    },
-    {
-      "id": 5,
-      "server": "Voe",
-      "url": "https://voe.sx/e/s4rpo5k2qm8f",
-      "player_url": "https://voe.sx/e/s4rpo5k2qm8f",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "s4rpo5k2qm8f"
+      "calidad": "HD"
     }
   ]
 }

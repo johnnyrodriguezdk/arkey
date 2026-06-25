@@ -1,0 +1,37 @@
+{
+  "id": 73561217,
+  "titulo": "La tormenta",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/wYevZmK40ZveZHRiHV0RwOsOll8.jpg",
+  "release_date": "",
+  "genres": [
+    "sci-fi-fantasy",
+    "drama",
+    "accion"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Tras una terrible tormenta, un colapso estructural pone en peligro a Marybeth y a Lucas. La tensión entre Eve y los demás continúa tras frustrar su vuelta. Eve hace todo lo posible por arreglar las cosas.",
+  "slug": "la-brea",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 128839,
+  "temporada": 1,
+  "episodio": "7",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "7",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-344A2414/tmzX34OD7rEAoivz",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-344A2414/tmzX34OD7rEAoivz",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

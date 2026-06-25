@@ -1,105 +1,37 @@
 {
-  "id": 490793315,
-  "titulo": "Episodio 28",
+  "id": 25568188,
+  "titulo": "El dios de la destrucción del sexto universo. ¡Su nombre es Champa!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/zMGzZJUnDK2ePJxKzSc7e1D2Qbg.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Después de un tiempo, Goku y Vegeta vuelven al planeta de Beerus para seguir entrenando, de pronto Champa y su asistente Vados del Universo 6 aparecen. Vados revela que Whis es su hermano menor, y que Champa es el hermano gemelo de Beerus, Whis también explica que hay 12 Universos y que cada uno tiene su contrario. Champa prueba la comida del planeta Tierra, la cual es mucho mejor que la de ambos Universos. Como la Tierra del Universo 6 fue destruido por las guerras de los humanos, Champa le ofrece a Beerus seis de las originales súper bolas del Dragón a cambio de la tierra. Beerus acepta y deciden realizar un torneo con los mejores guerreros de ambos Universos.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "28",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "28",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=28",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/mq8wytex88s6",
-      "player_url": "https://streamwish.to/e/mq8wytex88s6",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-7533D447/xrT2plaO0whzTe0L",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-7533D447/xrT2plaO0whzTe0L",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "mq8wytex88s6"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/0g4vb11on4o0",
-      "player_url": "https://filelions.top/v/0g4vb11on4o0",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "0g4vb11on4o0"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/bTR1WXgyYUJaMjJkZEFsdTQyQ1VzUT09",
-      "player_url": "https://netuplayer.top/e/bTR1WXgyYUJaMjJkZEFsdTQyQ1VzUT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "bTR1WXgyYUJaMjJkZEFsdTQyQ1VzUT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/xsz24ktvivpx",
-      "player_url": "https://bysekoze.com/e/xsz24ktvivpx",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xsz24ktvivpx"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/G2yJ0b6l30t17AD/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_028.mp4",
-      "player_url": "https://streamtape.com/e/G2yJ0b6l30t17AD/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_028.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "G2yJ0b6l30t17AD/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_028.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-v56sl533zn9o.html",
-      "player_url": "https://www.mp4upload.com/embed-v56sl533zn9o.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-v56sl533zn9o.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-2b02wip7ow5a.html",
-      "player_url": "https://uqload.to/embed-2b02wip7ow5a.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-2b02wip7ow5a.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/l6zwzngei6zjzv",
-      "player_url": "https://mixdropjmk.pw/e/l6zwzngei6zjzv",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "l6zwzngei6zjzv"
+      "calidad": "HD"
     }
   ]
 }

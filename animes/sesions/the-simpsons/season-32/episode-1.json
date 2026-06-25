@@ -1,0 +1,37 @@
+{
+  "id": 31468121,
+  "titulo": "Burns encubierto",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/83sbq5Y3askRXtPJgRNvTEgS4PT.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "El Sr. Burns se hace pasar por \"Fred\" en la planta de energía nuclear y se hace amigo de Homer y la pandilla. Burns implementa todo tipo de comodidades para mejorar la vida de sus empleados, pero un celoso Smithers planea traer de vuelta al viejo y amargado Burns y destruir a Fred.",
+  "slug": "the-simpsons",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 456,
+  "temporada": 32,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-0193995A/NrulT9pERDsBXGBo",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-0193995A/NrulT9pERDsBXGBo",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

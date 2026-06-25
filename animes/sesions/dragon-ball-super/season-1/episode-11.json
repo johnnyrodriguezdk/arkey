@@ -1,105 +1,37 @@
 {
-  "id": 112679878,
-  "titulo": "Episodio 11",
+  "id": 71267473,
+  "titulo": "Adelante, lord Beerus. Comienza la batalla de los dioses",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/icjxZcyrPmDBcdO7jZWzLluxvzE.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Goku empieza a demostrar el verdadero poder del Super Saiyan Dios, pero no parece suficiente para frenar al Dios de la destrucción. Bills contraataca y golpea salvajemente a Goku para luego llevar la batalla al espacio, donde se dispondrá a destruir la tierra, enojado por los resultados de la batalla. Goku logra detener sus ataques, pero luego es herido de muerte por Bills y cae al fondo del mar; tiempo después Goku se recupera y aumenta al máximo sus poderes, continuando la batalla con Bills.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "11",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "11",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=11",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/xlcf2ieu4y0c",
-      "player_url": "https://streamwish.to/e/xlcf2ieu4y0c",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-B47449F1/ewKSsdhTsu37aC8f",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-B47449F1/ewKSsdhTsu37aC8f",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xlcf2ieu4y0c"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/drm5wn63htf0",
-      "player_url": "https://filelions.top/v/drm5wn63htf0",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "drm5wn63htf0"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/cWhQdlFzNnJ2YWdzaFB1eXF2WTVpQT09",
-      "player_url": "https://netuplayer.top/e/cWhQdlFzNnJ2YWdzaFB1eXF2WTVpQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cWhQdlFzNnJ2YWdzaFB1eXF2WTVpQT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/t5gt0yt4jgaj/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_011",
-      "player_url": "https://bysekoze.com/e/t5gt0yt4jgaj/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_011",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "t5gt0yt4jgaj/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_011"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/O2BdmG78W1um01/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_011.mp4",
-      "player_url": "https://streamtape.com/e/O2BdmG78W1um01/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_011.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "O2BdmG78W1um01/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_011.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-auiyedavw8wa.html",
-      "player_url": "https://www.mp4upload.com/embed-auiyedavw8wa.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-auiyedavw8wa.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-zvb2s5h77ozo.html",
-      "player_url": "https://uqload.to/embed-zvb2s5h77ozo.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-zvb2s5h77ozo.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/6q6d69ndtl4ldxg",
-      "player_url": "https://mixdropjmk.pw/e/6q6d69ndtl4ldxg",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "6q6d69ndtl4ldxg"
+      "calidad": "HD"
     }
   ]
 }

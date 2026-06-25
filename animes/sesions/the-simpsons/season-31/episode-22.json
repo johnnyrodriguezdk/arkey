@@ -1,0 +1,37 @@
+{
+  "id": 232529211,
+  "titulo": "El camino del perro",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/os8xKlW51wXFitXznAGvau5U9Lu.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Cuando el Pequeño Ayudante de Santa Claus muerde a Marge, la familia explora el trágico pasado de su perro con la ayuda de una psicóloga canina llamada Elaine.",
+  "slug": "the-simpsons",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 456,
+  "temporada": 31,
+  "episodio": "22",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "22",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-83451E70/7mcdWCNnKlgwUnuK",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-83451E70/7mcdWCNnKlgwUnuK",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

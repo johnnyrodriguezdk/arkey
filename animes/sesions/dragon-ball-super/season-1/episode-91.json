@@ -1,105 +1,37 @@
 {
-  "id": 1202812627,
-  "titulo": "Episodio 91",
+  "id": 27949993,
+  "titulo": "¿Qué universo sobrevivirá? Los guerreros más poderosos se reúnen",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/8ya0FGIsjoDXdxQMPID8Q5FUBOw.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Aburridos, ambos Zenos exigen que el torneo de inicio inmediatamente. Entonces, Daishinkan aconseja y explica la situación a cada uno de los guerreros que participará en el torneo.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "91",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "91",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=91",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/kjgt6zt5yu64",
-      "player_url": "https://streamwish.to/e/kjgt6zt5yu64",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-71EFFE39/2emm2hV5EYsM4BAe",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-71EFFE39/2emm2hV5EYsM4BAe",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "kjgt6zt5yu64"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/qdha71vg69id",
-      "player_url": "https://filelions.top/v/qdha71vg69id",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "qdha71vg69id"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/b0V0OXUxdkFoODFGbDZuY1BzeTFOdz09",
-      "player_url": "https://netuplayer.top/e/b0V0OXUxdkFoODFGbDZuY1BzeTFOdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "b0V0OXUxdkFoODFGbDZuY1BzeTFOdz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/l8uw1nwsi54u",
-      "player_url": "https://bysekoze.com/e/l8uw1nwsi54u",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "l8uw1nwsi54u"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/oeqjAPMJ7vuder/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_091.mp4",
-      "player_url": "https://streamtape.com/e/oeqjAPMJ7vuder/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_091.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "oeqjAPMJ7vuder/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_091.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-8pqdia8za6wk.html",
-      "player_url": "https://www.mp4upload.com/embed-8pqdia8za6wk.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-8pqdia8za6wk.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-hpec4hs3krdh.html",
-      "player_url": "https://uqload.to/embed-hpec4hs3krdh.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-hpec4hs3krdh.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/6q6d6v1ef6vq9p",
-      "player_url": "https://mixdropjmk.pw/e/6q6d6v1ef6vq9p",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "6q6d6v1ef6vq9p"
+      "calidad": "HD"
     }
   ]
 }

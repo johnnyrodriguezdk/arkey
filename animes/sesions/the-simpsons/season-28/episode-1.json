@@ -1,0 +1,37 @@
+{
+  "id": 214969479,
+  "titulo": "El circo volador de Monty Burns",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/cR0WmMABkL23PKUqgXWhX91J7Ke.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Cuando Springfield se quema hasta los cimientos, los Simpsons hablan con el Sr. Burns para que financie su reconstrucción. Burns está de acuerdo pero con una condición: que se ponga un espectaculo de variedades en el Springfield Bowl.",
+  "slug": "the-simpsons",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 456,
+  "temporada": 28,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3107C207/msRDXw1bv7zd2F9N",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3107C207/msRDXw1bv7zd2F9N",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

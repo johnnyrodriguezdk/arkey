@@ -1,0 +1,35 @@
+{
+  "id": 39174023,
+  "titulo": "Wilson",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/dQDqDcJRWbDeVel5ZVuvOs25EBU.jpg",
+  "release_date": "",
+  "genres": [
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un viejo amigo y expaciente de Wilson experimenta una parálisis en el brazo izquierdo, y Wilson mismo toma el caso.",
+  "slug": "house",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1408,
+  "temporada": 6,
+  "episodio": "9",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "9",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3E5F690B/cu03VEDgvAAZ5bza",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3E5F690B/cu03VEDgvAAZ5bza",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

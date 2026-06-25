@@ -1,105 +1,37 @@
 {
-  "id": 1821419215,
-  "titulo": "Episodio 4",
+  "id": 821700,
+  "titulo": "¡Vamos a buscar con ahínco las bolas de dragón! ¡El plan de la banda de Pilaf!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/4wdZEIzYmQKMkN9zjU3VLPMaBmY.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "La Banda de Pilaf están en busca de un tesoro en una isla, siendo atacados por un tiburón, pero luego son rescatados por Goten y Trunks y llevados al crucero donde se celebra el cumpleaños de Bulma. En el planeta de Kaio, este trata de convencer a Goku de ir a la fiesta de Bulma para que no se encontrara con Bills. Finalmente, Kaito decide contarle a Goku sobre la existencia de Bills y los poderes que este posee, esto hace que Goku se emocione y quiera enfrentarlo, pero Kaito le prohíbe hacerlo y lo mete a su casa, en ese mismo instante, Bills y Whis llegan al planeta de Kaio para conocer a Goku.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "4",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "4",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=4",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/97w3r534yhdk",
-      "player_url": "https://streamwish.to/e/97w3r534yhdk",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C986A779/BH8ex4tEeus2wb1F",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C986A779/BH8ex4tEeus2wb1F",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "97w3r534yhdk"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/tahmdhf9pyah",
-      "player_url": "https://filelions.top/v/tahmdhf9pyah",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "tahmdhf9pyah"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/UGZaSHRzSTM1SmFWemYzYjJYRjVDUT09",
-      "player_url": "https://netuplayer.top/e/UGZaSHRzSTM1SmFWemYzYjJYRjVDUT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "UGZaSHRzSTM1SmFWemYzYjJYRjVDUT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/vhdszmwuy622/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_004",
-      "player_url": "https://bysekoze.com/e/vhdszmwuy622/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_004",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "vhdszmwuy622/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_004"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/RDYYKZXblrSdlVD/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_004.mp4",
-      "player_url": "https://streamtape.com/e/RDYYKZXblrSdlVD/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_004.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "RDYYKZXblrSdlVD/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_004.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-jgcmhhomq7b5.html",
-      "player_url": "https://www.mp4upload.com/embed-jgcmhhomq7b5.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-jgcmhhomq7b5.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-6d5hipxgq2ee.html",
-      "player_url": "https://uqload.to/embed-6d5hipxgq2ee.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-6d5hipxgq2ee.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/xorjrq3pa7146v",
-      "player_url": "https://mixdropjmk.pw/e/xorjrq3pa7146v",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xorjrq3pa7146v"
+      "calidad": "HD"
     }
   ]
 }

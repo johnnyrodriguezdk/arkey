@@ -1,115 +1,38 @@
 {
-  "id": 1922727631,
-  "titulo": "Episodio 6",
+  "id": 133399537,
+  "titulo": "Rayo",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/fHJgkdisqyP4aHM9HFcDDjJJaLXjpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/sqrlnH3tLl3JMUJHlCAUUQ8lVt5.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "comedia",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Tras enfrentarse a la gendarmería, los guardianes del Reino Demoníaco, los cuatro se ven obligados a pasar la noche en una cueva donde ¡encontrarán aún más problemas! El enigmático Glorio usa la magia del rayo contra Goku ante la situación.",
   "slug": "dragon-ball-daima",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1475",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 236994,
   "temporada": 1,
   "episodio": "6",
   "idiomas": [
-    "LATINO",
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "6",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1475&idcapitulo=6",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/f33gi5f0wwmk",
-      "player_url": "https://streamwish.to/e/f33gi5f0wwmk",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-B2E9BAC2/zn32sConrVe6PC9H",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-B2E9BAC2/zn32sConrVe6PC9H",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "f33gi5f0wwmk"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://vidhideplus.com/v/7nwtpvtphkrt",
-      "player_url": "https://vidhideplus.com/v/7nwtpvtphkrt",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7nwtpvtphkrt"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/Q1ZacWJTTHdPQk9DcjRKR1pZZnorZz09",
-      "player_url": "https://player.streamhj.top/e/Q1ZacWJTTHdPQk9DcjRKR1pZZnorZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Q1ZacWJTTHdPQk9DcjRKR1pZZnorZz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/9z1kmtio42dj",
-      "player_url": "https://bysekoze.com/e/9z1kmtio42dj",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "9z1kmtio42dj"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/YDW8eGqK4ehLWP/Dragon_Ball_Daima_06_Latino%5B1080%5D%5BHenaojara.Com%5D.mp4",
-      "player_url": "https://streamtape.com/e/YDW8eGqK4ehLWP/Dragon_Ball_Daima_06_Latino%5B1080%5D%5BHenaojara.Com%5D.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "YDW8eGqK4ehLWP/Dragon_Ball_Daima_06_Latino%5B1080%5D%5BHenaojara.Com%5D.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Uqload",
-      "url": "https://uqload.net/embed-g2cvoav30bap.html",
-      "player_url": "https://uqload.net/embed-g2cvoav30bap.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.net_embed-g2cvoav30bap.html"
-    },
-    {
-      "id": 7,
-      "server": "Nyuu",
-      "url": "https://nyuu.henaojara.com/player/vip/go.php?v=ZGhyc2FpZ2Fvc25tX2tiZmF2bGhsc19pZGFhc2ltbWthZl92bGhhc3RpaWFuc29tL2tkZnJ2YWhnc29pbmFfc2JtYWtsZmx2X2hkc2FpaWFtc2FtX2swZjZ2X2hsc2FpdGFpc25tb2tbZjF2MGg4czBpXWFbc2htZWtuZmF2b2hqc2FpcmFhcy5tY2tvZm12XWguc21pcGE0cw==&inicio=55&final=144",
-      "player_url": "https://nyuu.henaojara.com/player/vip/go.php?v=ZGhyc2FpZ2Fvc25tX2tiZmF2bGhsc19pZGFhc2ltbWthZl92bGhhc3RpaWFuc29tL2tkZnJ2YWhnc29pbmFfc2JtYWtsZmx2X2hkc2FpaWFtc2FtX2swZjZ2X2hsc2FpdGFpc25tb2tbZjF2MGg4czBpXWFbc2htZWtuZmF2b2hqc2FpcmFhcy5tY2tvZm12XWguc21pcGE0cw==&inicio=55&final=144",
-      "nombre": "Nyuu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "nyuu.henaojara.com_player_vip_go.php"
-    },
-    {
-      "id": 8,
-      "server": "Mediafire",
-      "url": "https://www.mediafire.com/file/d9ljnztku0ac8sd/Dragon+Ball+Daima+06+Latino[1080][Henaojara.Com].rar/file",
-      "player_url": "https://www.mediafire.com/file/d9ljnztku0ac8sd/Dragon+Ball+Daima+06+Latino[1080][Henaojara.Com].rar/file",
-      "nombre": "Mediafire",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mediafire.com_file_d9ljnztku0ac8sd_Dragon+Ball+Daima+06+Latino[1080][Henaojara.Com].rar_file"
-    },
-    {
-      "id": 9,
-      "server": "LuluStream",
-      "url": "https://luluvdo.com/e/6vypixv7tvxu",
-      "player_url": "https://luluvdo.com/e/6vypixv7tvxu",
-      "nombre": "LuluStream",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "6vypixv7tvxu"
+      "calidad": "HD"
     }
   ]
 }

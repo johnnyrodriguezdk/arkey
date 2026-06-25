@@ -1,105 +1,37 @@
 {
-  "id": 1782431521,
-  "titulo": "Episodio 42",
+  "id": 5017785,
+  "titulo": "Una celebración enturbiada. ¿Por fin combaten? ¡Mónaka contra Goku!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/vHOEgVjfxHUpL507FXnAuItKZ3e.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Una vez finalizado el torneo, Bulma invita a Beerus y Whis para celebrar la victoria del universo 7. Jaco encarga un postre que es popular por todo el universo, pero el repartidor terminó siendo Monaka y Mr. Satán le ofrecerta ser la imagen de su gimnasio trayendo un disfraz de el, pero Goten y Trunks golpean accidentalmente a Monaka quien termina llorando, siendo descubierta su debilidad por todos. En ese momento llega Beerus y Whis, notando que todos ya sospechan de Monaka, amenazando a todos a no contarle nada a Goku, quien aparece e invita a Monaka a pelear con el, siendo distraído mientras que convencen a Beerus de usar el disfraz de Monaka. Beerus accede y se disfraza para pelear con Goku, cuando el combate sobrepasa los límites, Whis los detiene para que no destruyan la tierra. Aunque Yamcha revela accidentalmente que hay dos Monaka, pero Goku cree que es una de sus habilidades sin darse cuenta de nada.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "42",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "42",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=42",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/1lg42btu9pc1",
-      "player_url": "https://streamwish.to/e/1lg42btu9pc1",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-015DCDFC/RAiY3sLAZ5i3OWbz",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-015DCDFC/RAiY3sLAZ5i3OWbz",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "1lg42btu9pc1"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/uu7d204dwme5",
-      "player_url": "https://filelions.top/v/uu7d204dwme5",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uu7d204dwme5"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/UEhMSjg1MDZYT09qUExHNzl2Nkd0UT09",
-      "player_url": "https://netuplayer.top/e/UEhMSjg1MDZYT09qUExHNzl2Nkd0UT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "UEhMSjg1MDZYT09qUExHNzl2Nkd0UT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/yood12ifn6qr",
-      "player_url": "https://bysekoze.com/e/yood12ifn6qr",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "yood12ifn6qr"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/beeZQJ6BGrFPapO/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_042.mp4",
-      "player_url": "https://streamtape.com/e/beeZQJ6BGrFPapO/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_042.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "beeZQJ6BGrFPapO/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_042.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-hfsk99olm2f1.html",
-      "player_url": "https://www.mp4upload.com/embed-hfsk99olm2f1.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-hfsk99olm2f1.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-b8wo0skp39vz.html",
-      "player_url": "https://uqload.to/embed-b8wo0skp39vz.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-b8wo0skp39vz.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/o7ene4jvs47k8v",
-      "player_url": "https://mixdropjmk.pw/e/o7ene4jvs47k8v",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "o7ene4jvs47k8v"
+      "calidad": "HD"
     }
   ]
 }

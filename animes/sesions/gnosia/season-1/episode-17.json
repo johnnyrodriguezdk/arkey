@@ -1,105 +1,37 @@
 {
-  "id": 156162195,
+  "id": 4064479,
   "titulo": "Episodio 17",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/hgYLAH8F54gRbS4fEew7koDN2lYjpg.webp",
-  "release_date": "2026-03-08",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/yG2cysVr95wXREnqfEEs8bR0J4k.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "misterio",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
   "overview": "",
   "slug": "gnosia",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "4468",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 278604,
   "temporada": 1,
   "episodio": "17",
   "idiomas": [
-    "LATINO",
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "17",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=4468&idcapitulo=17",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/zik79rqghqx9",
-      "player_url": "https://streamwish.to/e/zik79rqghqx9",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/seriegnosiat1/capitulo17.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/seriegnosiat1/capitulo17.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "zik79rqghqx9"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/fg4m5t1fddt3",
-      "player_url": "https://filelions.top/v/fg4m5t1fddt3",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "fg4m5t1fddt3"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/kcdDiH1EHupu",
-      "player_url": "https://netuplayer.top/e/kcdDiH1EHupu",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "kcdDiH1EHupu"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://filemoon.to/e/k1hltfpx8rzp",
-      "player_url": "https://filemoon.to/e/k1hltfpx8rzp",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "k1hltfpx8rzp"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/xO7kkroO4aTkeZm",
-      "player_url": "https://streamtape.com/e/xO7kkroO4aTkeZm",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xO7kkroO4aTkeZm"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-q9jg4qwylaot.html",
-      "player_url": "https://www.mp4upload.com/embed-q9jg4qwylaot.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-q9jg4qwylaot.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.com/embed-p3vc4a0yugr6.html",
-      "player_url": "https://uqload.com/embed-p3vc4a0yugr6.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.com_embed-p3vc4a0yugr6.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/9wq39e9nb67j9g",
-      "player_url": "https://mxdrop.to/e/9wq39e9nb67j9g",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "9wq39e9nb67j9g"
+      "calidad": "HD"
     }
   ]
 }

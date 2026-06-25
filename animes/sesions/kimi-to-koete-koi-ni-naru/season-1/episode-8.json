@@ -1,125 +1,37 @@
 {
-  "id": 1459522353,
-  "titulo": "Episodio 8",
+  "id": 162195335,
+  "titulo": "Bajo el mismo cielo nocturno",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/deGs1CWzQqA3JXVYfpzq2iUN7r6jpg.webp",
-  "release_date": "2026-01-08",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/lv7FGuZFYZ7lHGyLMfrVXkgmwLY.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Una noche tranquila se convierte en el escenario para una confesión sincera. Sin promesas exageradas, solo la verdad de lo que sienten en ese instante.",
   "slug": "kimi-to-koete-koi-ni-naru",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1872",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 282662,
   "temporada": 1,
   "episodio": "8",
   "idiomas": [
-    "LATINO",
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "8",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1872&idcapitulo=8",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/5e5hfnzuwd8e",
-      "player_url": "https://streamwish.to/e/5e5hfnzuwd8e",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/seriekimitokoetekoininarut1/capitulo8.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/seriekimitokoetekoininarut1/capitulo8.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "5e5hfnzuwd8e"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/qojgfkm5rq6d",
-      "player_url": "https://filelions.top/v/qojgfkm5rq6d",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "qojgfkm5rq6d"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/QVR6Tkdtb1AvazlCZzVIVzR1SlpmUT09",
-      "player_url": "https://player.streamhj.top/e/QVR6Tkdtb1AvazlCZzVIVzR1SlpmUT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "QVR6Tkdtb1AvazlCZzVIVzR1SlpmUT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/5tqdjxf0k09y",
-      "player_url": "https://bysekoze.com/e/5tqdjxf0k09y",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "5tqdjxf0k09y"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/Zy9o3AM7vMtqD63",
-      "player_url": "https://streamtape.com/e/Zy9o3AM7vMtqD63",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Zy9o3AM7vMtqD63"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-7bkzgmrfxr8h.html",
-      "player_url": "https://www.mp4upload.com/embed-7bkzgmrfxr8h.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-7bkzgmrfxr8h.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.bz/embed-2grpxe905w9d.html",
-      "player_url": "https://uqload.bz/embed-2grpxe905w9d.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.bz_embed-2grpxe905w9d.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/z1z9786mf0x3ln",
-      "player_url": "https://mxdrop.to/e/z1z9786mf0x3ln",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "z1z9786mf0x3ln"
-    },
-    {
-      "id": 9,
-      "server": "Voe",
-      "url": "https://voe.sx/e/e0jg9czkjfnn",
-      "player_url": "https://voe.sx/e/e0jg9czkjfnn",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "e0jg9czkjfnn"
-    },
-    {
-      "id": 10,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/jhpto9talhgz",
-      "player_url": "https://savefiles.top/e/jhpto9talhgz",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "jhpto9talhgz"
+      "calidad": "HD"
     }
   ]
 }

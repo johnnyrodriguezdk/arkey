@@ -1,105 +1,37 @@
 {
-  "id": 1167458615,
-  "titulo": "Episodio 46",
+  "id": 113089114,
+  "titulo": "¡Goku contra el clon de Vegeta! ¿Quién vencerá?",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/1BJsw5HLiuFDB2DIVvSEAYalne3.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "El combate entre Goku y la copia de Vegeta ha iniciado, quienes posen el mismo nivel de pelea aunque con una leve superioridad de la copia, llegando a obligar a Goku a utilizar la teletranspotación catorce veces en un solo ataque. El Vegeta original comienza a irritarse al no poder ser el quien pelee con Goku, llegando a contradecirse al apoyar a Goku, para luego apoyar a su copia debido a su orgullo. Vegeta desespera e intenta atacar a su copia, pero lo traspasa debido a su transparencia, por lo que les pide a ambos que peleen en serio. Goku y la copia de Vegeta se transforman en Super Saiyan Azul. El anciano recuerda detalles, y para debilitar a la copia de Vegeta deben derrotar el núcleo de la copia de Grill, siendo Monaka quien lo destruye al pisarlo accidentalmente, logrando Goku destruir la copia de Vegeta con un Kame Hame Ha. Finalmente el agua vuelve a ser sellada, mientras que todos vuelven a la Tierra.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "46",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "46",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=46",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/opqm8kp0rxiy",
-      "player_url": "https://streamwish.to/e/opqm8kp0rxiy",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-E2C3B1EF/vqBqc4s5CD93skxQ",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-E2C3B1EF/vqBqc4s5CD93skxQ",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "opqm8kp0rxiy"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/epqrmyhca9hw",
-      "player_url": "https://filelions.top/v/epqrmyhca9hw",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "epqrmyhca9hw"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/NWxuMmkrL0JNaW85WmRzVTl5RkRNdz09",
-      "player_url": "https://netuplayer.top/e/NWxuMmkrL0JNaW85WmRzVTl5RkRNdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "NWxuMmkrL0JNaW85WmRzVTl5RkRNdz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/b9o5isq5ghlj/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_046",
-      "player_url": "https://bysekoze.com/e/b9o5isq5ghlj/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_046",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "b9o5isq5ghlj/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_046"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/Lpw4eOwdG4fRYoO/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_046.mp4",
-      "player_url": "https://streamtape.com/e/Lpw4eOwdG4fRYoO/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_046.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Lpw4eOwdG4fRYoO/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_046.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-9l5rai3t37it.html",
-      "player_url": "https://www.mp4upload.com/embed-9l5rai3t37it.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-9l5rai3t37it.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-seezxpwdy76b.html",
-      "player_url": "https://uqload.to/embed-seezxpwdy76b.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-seezxpwdy76b.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/n09m91drtrd436",
-      "player_url": "https://mixdropjmk.pw/e/n09m91drtrd436",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "n09m91drtrd436"
+      "calidad": "HD"
     }
   ]
 }

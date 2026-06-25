@@ -1,0 +1,32 @@
+{
+  "id": 101242978,
+  "titulo": "Halo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w500/lfTm372lHNjQnnUwpdumVfUB0rh.jpg",
+  "release_date": "2022-01-01",
+  "genres": [
+    "sci-fi-fantasy",
+    "accion"
+  ],
+  "rating": "",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
+  "overview": "En el siglo 26, la humanidad tiene que lidiar con una amenaza alienígena conocida como the Covenant (El Pacto). Halo tejerá historias personales repletas de acción, aventura y una enriquecedora visión del futuro. La serie es una historia independiente inspirada en la franquicia del videojuego.",
+  "slug": "halo",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 52814,
+  "total_episodes": 17,
+  "total_temporadas": 2,
+  "temporadas": [
+    {
+      "numero": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/lfTm372lHNjQnnUwpdumVfUB0rh.jpg",
+      "episodios_count": 9
+    },
+    {
+      "numero": 2,
+      "poster": "https://image.tmdb.org/t/p/w500/lfTm372lHNjQnnUwpdumVfUB0rh.jpg",
+      "episodios_count": 8
+    }
+  ]
+}

@@ -1,105 +1,37 @@
 {
-  "id": 1858754486,
-  "titulo": "Episodio 103",
+  "id": 258142165,
+  "titulo": "¡Sin piedad, Gohan! Doble duelo contra el Décimo Universo",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/kQapkPUZhxWA8qC2vHPg3jzGx0R.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Gohan, Se enfrenta a los guerreros del universo 10! El universo 10 después de eliminar a sus dos últimos guerreros es eliminado.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "103",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "103",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=103",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/vqus7vj1ie7h",
-      "player_url": "https://streamwish.to/e/vqus7vj1ie7h",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-38C70107/vxV2l5Mmk8ZISJVW",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-38C70107/vxV2l5Mmk8ZISJVW",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "vqus7vj1ie7h"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/8o5kk750o8ag",
-      "player_url": "https://filelions.top/v/8o5kk750o8ag",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "8o5kk750o8ag"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/dGNjb1lGRE9ZNVQzN2FhOWxsbTVZUT09",
-      "player_url": "https://netuplayer.top/e/dGNjb1lGRE9ZNVQzN2FhOWxsbTVZUT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "dGNjb1lGRE9ZNVQzN2FhOWxsbTVZUT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/mxzianihgvn7",
-      "player_url": "https://bysekoze.com/e/mxzianihgvn7",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "mxzianihgvn7"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/eP0aQzmjWPfYRDG/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_103.mp4",
-      "player_url": "https://streamtape.com/e/eP0aQzmjWPfYRDG/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_103.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "eP0aQzmjWPfYRDG/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_103.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-qwywwcgm5brt.html",
-      "player_url": "https://www.mp4upload.com/embed-qwywwcgm5brt.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-qwywwcgm5brt.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-ugxheg8rvz3p.html",
-      "player_url": "https://uqload.to/embed-ugxheg8rvz3p.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-ugxheg8rvz3p.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/mdeqe7jrtx6qzqg",
-      "player_url": "https://mixdropjmk.pw/e/mdeqe7jrtx6qzqg",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "mdeqe7jrtx6qzqg"
+      "calidad": "HD"
     }
   ]
 }

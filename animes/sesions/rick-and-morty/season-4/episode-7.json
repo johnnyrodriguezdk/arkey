@@ -1,0 +1,38 @@
+{
+  "id": 227226185,
+  "titulo": "Promortyus",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/cgtHF7rqaac6ZhJp94orTFnNHgJ.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "comedia",
+    "sci-fi-fantasy",
+    "accion"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Morty conoce a un chico nuevo llamado Jack que está enamorado de un alienígena llamado Tom. Rick intenta salvarlo cuando resulta que el alienígena no es quien él piensa.",
+  "slug": "rick-and-morty",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 60625,
+  "temporada": 4,
+  "episodio": "7",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "7",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-B0917B0E/wX3JLPB5YLT4fUVW",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-B0917B0E/wX3JLPB5YLT4fUVW",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

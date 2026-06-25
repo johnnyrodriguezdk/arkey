@@ -1,84 +1,38 @@
 {
-  "id": 1167477576,
-  "titulo": "Episodio 1",
+  "id": 106070541,
+  "titulo": "YA NO TE RÍES TANTO",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/3XiJlYq7REcKNKy1WBu7BOlRYcbjpg.webp",
-  "release_date": "2026-03-18",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/z4Hy6lntZDS6sGJGPCjhJ5bcCO.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy",
+    "accion"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Mark Grayson ha vuelto con más fuerza que nunca, con nuevos enemigos sedientos de sangre y villanos conocidos que claman venganza.",
   "slug": "invencible",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1534",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 95557,
   "temporada": 3,
   "episodio": "1",
   "idiomas": [
     "LATINO"
   ],
   "idcapitulo": "1",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1534&idcapitulo=1",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/ozfue18ilav0",
-      "player_url": "https://streamwish.to/e/ozfue18ilav0",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-856B4756/PwSeUCCylJ4nDjb2",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-856B4756/PwSeUCCylJ4nDjb2",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ozfue18ilav0"
-    },
-    {
-      "id": 2,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/K3lacU05RXFrUDcvdStieWt5eFFJdz09",
-      "player_url": "https://player.streamhj.top/e/K3lacU05RXFrUDcvdStieWt5eFFJdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "K3lacU05RXFrUDcvdStieWt5eFFJdz09"
-    },
-    {
-      "id": 3,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/hoohq5c43075",
-      "player_url": "https://bysekoze.com/e/hoohq5c43075",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "hoohq5c43075"
-    },
-    {
-      "id": 4,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/wx1QjmXbKMHx9v",
-      "player_url": "https://streamtape.com/e/wx1QjmXbKMHx9v",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "wx1QjmXbKMHx9v"
-    },
-    {
-      "id": 5,
-      "server": "Uqload",
-      "url": "https://uqload.net/embed-k90o3fh9f7x3.html",
-      "player_url": "https://uqload.net/embed-k90o3fh9f7x3.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.net_embed-k90o3fh9f7x3.html"
-    },
-    {
-      "id": 6,
-      "server": "Voe",
-      "url": "https://voe.sx/e/y6pakqcd9ztk",
-      "player_url": "https://voe.sx/e/y6pakqcd9ztk",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "y6pakqcd9ztk"
+      "calidad": "HD"
     }
   ]
 }

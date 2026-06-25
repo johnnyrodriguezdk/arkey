@@ -1,105 +1,37 @@
 {
-  "id": 945625683,
-  "titulo": "Episodio 60",
+  "id": 12405803,
+  "titulo": "Regreso al futuro. Se revela la auténtica identidad de Black Goku",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/5mVxEPOPzHDJpcgNt2PiLV58ybD.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Trunks sigue pensando que el Zamas de su futuro sigue vivo a pesar de las palabras de Beerus, que asegura lo contrario. Antes de volver al futuro, Trunks habla con el pequeño Trunks del presente sobre las diferencias entre la vida de ambos, como el cambio de A-18 o la imposibilidad de vivir una noche tranquila cuando era pequeño. Tras explicar que al salvar a Goku años atrás de la muerte de aquella enfermedad cardiaca y destruir a los androides el futuro nunca cambio, lo que supondría que la muerte de Zamas en el presente no ha cambiado la existencia de Zamas y Black Goku en el futuro, Trunks vuelve a su tiempo junto a Goku, Vegeta y Bulma para comprobar en qué estado se encuentra. Una vez allí, Trunks salva con una semilla Senzu a Mai, que estaba herida, y junto a Goku y Vegeta se vuelve a confrontar a Zamas y Black Goku, que siguen vivos. Black desvela que su cuerpo es en realidad el del Goku de pasado y no una simple copia.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "60",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "60",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=60",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/8pmxuvn0e5w0",
-      "player_url": "https://streamwish.to/e/8pmxuvn0e5w0",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-60DFC5A0/4gKkA8ueSdv5HSzU",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-60DFC5A0/4gKkA8ueSdv5HSzU",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "8pmxuvn0e5w0"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/vmby2d28k3k1",
-      "player_url": "https://filelions.top/v/vmby2d28k3k1",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "vmby2d28k3k1"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/RFdheFNLNHltZHl6cUoxK1dIVkxuZz09",
-      "player_url": "https://netuplayer.top/e/RFdheFNLNHltZHl6cUoxK1dIVkxuZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "RFdheFNLNHltZHl6cUoxK1dIVkxuZz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/q1ucv0lcs8n8",
-      "player_url": "https://bysekoze.com/e/q1ucv0lcs8n8",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "q1ucv0lcs8n8"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/vW019jdLP0h4gaL/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_060.mp4",
-      "player_url": "https://streamtape.com/e/vW019jdLP0h4gaL/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_060.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "vW019jdLP0h4gaL/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_060.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-671je6u0z30i.html",
-      "player_url": "https://www.mp4upload.com/embed-671je6u0z30i.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-671je6u0z30i.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-t3uws2omy839.html",
-      "player_url": "https://uqload.to/embed-t3uws2omy839.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-t3uws2omy839.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/en7e7d3da9v8xz",
-      "player_url": "https://mixdropjmk.pw/e/en7e7d3da9v8xz",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "en7e7d3da9v8xz"
+      "calidad": "HD"
     }
   ]
 }

@@ -1,124 +1,37 @@
 {
-  "id": 160308241,
-  "titulo": "Episodio 9",
+  "id": 85221357,
+  "titulo": "El aprendiz de todo tiene un mal presentimiento",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/4279jpg.webp",
-  "release_date": "2026-02-25",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/zPyMvtwLr6ei2TPWOvpQYFzPfQQ.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Orhun acude a la mazmorra para su primera misión con Selma y sus nuevos compañeros.",
   "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "2268",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 285166,
   "temporada": 1,
   "episodio": "9",
   "idiomas": [
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "9",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2268&idcapitulo=9",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/jqr6nk7j3ln3",
-      "player_url": "https://streamwish.to/e/jqr6nk7j3ln3",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo9.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo9.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "jqr6nk7j3ln3"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/eu6b82pjb45x",
-      "player_url": "https://filelions.top/v/eu6b82pjb45x",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "eu6b82pjb45x"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/TkxTeVJjQmxLc1Mza0w0M1RxRW1iQT09",
-      "player_url": "https://player.streamhj.top/e/TkxTeVJjQmxLc1Mza0w0M1RxRW1iQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "TkxTeVJjQmxLc1Mza0w0M1RxRW1iQT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/165ti1m5nlhq",
-      "player_url": "https://bysekoze.com/e/165ti1m5nlhq",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "165ti1m5nlhq"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/V6Z36780ppsKA14",
-      "player_url": "https://streamtape.com/e/V6Z36780ppsKA14",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "V6Z36780ppsKA14"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-h4um9851c17x.html",
-      "player_url": "https://www.mp4upload.com/embed-h4um9851c17x.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-h4um9851c17x.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.com/embed-s407o3yj7mge.html",
-      "player_url": "https://uqload.com/embed-s407o3yj7mge.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.com_embed-s407o3yj7mge.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/gjkxonkwfkvwpv",
-      "player_url": "https://mxdrop.to/e/gjkxonkwfkvwpv",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "gjkxonkwfkvwpv"
-    },
-    {
-      "id": 9,
-      "server": "Voe",
-      "url": "https://voe.sx/e/7gxjiabaoug9",
-      "player_url": "https://voe.sx/e/7gxjiabaoug9",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7gxjiabaoug9"
-    },
-    {
-      "id": 10,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/c6bkndskw9t0",
-      "player_url": "https://savefiles.top/e/c6bkndskw9t0",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "c6bkndskw9t0"
+      "calidad": "HD"
     }
   ]
 }

@@ -1,105 +1,37 @@
 {
-  "id": 1971357123,
-  "titulo": "Episodio 7",
+  "id": 161201260,
+  "titulo": "¿Qué le has hecho a mi Bulma? ¡La ira de Vegeta estalla!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/6BFIhumOY0SGhyHLFOiiowSKrAZ.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Después de una batalla con los Guerreros Z, Bills decide destruir la tierra pero debe esperarse ya que Whis estaba ocupado comiendo. Más tarde Vegeta decide enfrentarse a Bills pero en ese instante Bulma interrumpe la batalla con una cachetada a Bills, el cual decide devolvérsela, esto hace que Vegeta se enfade y explote su ira aumentando drásticamente su poder.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "7",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "7",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=7",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/lj2ctl2kn67v",
-      "player_url": "https://streamwish.to/e/lj2ctl2kn67v",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-CA52B254/X3rumdVbhhWVtjTW",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-CA52B254/X3rumdVbhhWVtjTW",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "lj2ctl2kn67v"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/5psdo0hp9azg",
-      "player_url": "https://filelions.top/v/5psdo0hp9azg",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "5psdo0hp9azg"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/cE4wSkk0OE9zQ3dQMlpZU1RJOWpEZz09",
-      "player_url": "https://netuplayer.top/e/cE4wSkk0OE9zQ3dQMlpZU1RJOWpEZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cE4wSkk0OE9zQ3dQMlpZU1RJOWpEZz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/8hfk7bt4v1jh",
-      "player_url": "https://bysekoze.com/e/8hfk7bt4v1jh",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "8hfk7bt4v1jh"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/QkaGmXzvALuwwW/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_007.mp4",
-      "player_url": "https://streamtape.com/e/QkaGmXzvALuwwW/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_007.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "QkaGmXzvALuwwW/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_007.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-0iomb4piw568.html",
-      "player_url": "https://www.mp4upload.com/embed-0iomb4piw568.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-0iomb4piw568.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-0pvpz13inrn1.html",
-      "player_url": "https://uqload.to/embed-0pvpz13inrn1.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-0pvpz13inrn1.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/mdeqengkaxdqe38",
-      "player_url": "https://mixdropjmk.pw/e/mdeqengkaxdqe38",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "mdeqengkaxdqe38"
+      "calidad": "HD"
     }
   ]
 }

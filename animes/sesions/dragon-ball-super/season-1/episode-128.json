@@ -1,105 +1,37 @@
 {
-  "id": 1878404571,
-  "titulo": "Episodio 128",
+  "id": 43741050,
+  "titulo": "¡Con orgullo hasta el final! La caída de Vegeta",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/h31kX3q0gguusHacmLgdEZESbsu.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Ya prácticamente no quedan guerreros sobre la pista, así que Vegeta se medirá contra Jiren al máximo nivel. El poder de Jiren parece aplastante, pero con el orgulloso Saiyan nunca se sabe.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "128",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "128",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=128",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/s5giml9xbpfq",
-      "player_url": "https://streamwish.to/e/s5giml9xbpfq",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A635EF21/zXb2f9Su5YKDZsgJ",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A635EF21/zXb2f9Su5YKDZsgJ",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "s5giml9xbpfq"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/42pbbt885hdh",
-      "player_url": "https://filelions.top/v/42pbbt885hdh",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "42pbbt885hdh"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/eGpDR3V1b3U3bm9BRExtUWVudVRUUT09",
-      "player_url": "https://netuplayer.top/e/eGpDR3V1b3U3bm9BRExtUWVudVRUUT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "eGpDR3V1b3U3bm9BRExtUWVudVRUUT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/lnknz5ysamcw",
-      "player_url": "https://bysekoze.com/e/lnknz5ysamcw",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "lnknz5ysamcw"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/x3mRwrKb7vIkPqM/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_128.mp4",
-      "player_url": "https://streamtape.com/e/x3mRwrKb7vIkPqM/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_128.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "x3mRwrKb7vIkPqM/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_128.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-r7om07kqndjs.html",
-      "player_url": "https://www.mp4upload.com/embed-r7om07kqndjs.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-r7om07kqndjs.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-oj1x1rjznlqo.html",
-      "player_url": "https://uqload.to/embed-oj1x1rjznlqo.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-oj1x1rjznlqo.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/j91316oouglr77",
-      "player_url": "https://mixdropjmk.pw/e/j91316oouglr77",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "j91316oouglr77"
+      "calidad": "HD"
     }
   ]
 }

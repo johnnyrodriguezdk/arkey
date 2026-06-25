@@ -1,105 +1,37 @@
 {
-  "id": 1477607023,
-  "titulo": "Episodio 130",
+  "id": 121123056,
+  "titulo": "¡El mayor combate de todos los tiempos! La última batalla por la supervivencia",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/uqq5mYfTFhnpHgWYYKj9dc9n9fp.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Goku por fin ha despertado por completo el poder definitivo. Gracias a él podrá luchar de igual a igual contra Jiren, pero ¿bastará eso para derrotarlo?",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "130",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "130",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=130",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/udup528x2qjb",
-      "player_url": "https://streamwish.to/e/udup528x2qjb",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-FB5A60D3/kNmawtDHrqhEjif7",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-FB5A60D3/kNmawtDHrqhEjif7",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "udup528x2qjb"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/6b0h6mcpbq83",
-      "player_url": "https://filelions.top/v/6b0h6mcpbq83",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "6b0h6mcpbq83"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/cVNRQ3VrMXVadHVjUzRwQmNUaEtTQT09",
-      "player_url": "https://netuplayer.top/e/cVNRQ3VrMXVadHVjUzRwQmNUaEtTQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cVNRQ3VrMXVadHVjUzRwQmNUaEtTQT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/4zny1sdpydva/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_130",
-      "player_url": "https://bysekoze.com/e/4zny1sdpydva/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_130",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "4zny1sdpydva/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_130"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/9yJdDKDlzyTa3BK/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_130.mp4",
-      "player_url": "https://streamtape.com/e/9yJdDKDlzyTa3BK/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_130.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "9yJdDKDlzyTa3BK/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_130.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-73030ob7d82b.html",
-      "player_url": "https://www.mp4upload.com/embed-73030ob7d82b.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-73030ob7d82b.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-yt8m7u2vc3z6.html",
-      "player_url": "https://uqload.to/embed-yt8m7u2vc3z6.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-yt8m7u2vc3z6.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/1vq6q717iqom4g",
-      "player_url": "https://mixdropjmk.pw/e/1vq6q717iqom4g",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "1vq6q717iqom4g"
+      "calidad": "HD"
     }
   ]
 }

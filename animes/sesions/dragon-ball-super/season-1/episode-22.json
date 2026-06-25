@@ -1,105 +1,37 @@
 {
-  "id": 1498507353,
-  "titulo": "Episodio 22",
+  "id": 93331899,
+  "titulo": "¡Body Change! Una reaparición inesperada. ¡Su nombre es Ginyu!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/HVxCcF8R1foZpCBX0NZp8Lit7.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Gohan se come una semilla del ermitaño recuperándose, Piccolo ataca a Tagoma pero le arranca un brazo, en ese momento aparece Gotenks y atacan a Tagoma, pero de inmediato se separan al expirar el tiempo de fusión. En ese momento, Ginyu en cuerpo de rana logra hacer el cambio con Tagoma e inicia un ataque aún más fuerte que el de Tagoma. Mientras, Goku y Vegeta se encuentran en una dimensión similar a la de la habitación del tiempo. Gohan logra convertirse en Super Saiyan logrando contrarrestar a Ginyu, pero al verlo en ese estado, Freezer se enfurece y ataca a Gohan dejándolo en estado grave, pero antes del ataque final, Piccolo muere al intervenir en el ataque.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "22",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "22",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=22",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/zddma81r40wp",
-      "player_url": "https://streamwish.to/e/zddma81r40wp",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-E131E09B/2zEaWTCPhgZyUOhX",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-E131E09B/2zEaWTCPhgZyUOhX",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "zddma81r40wp"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/o6ti97z0l12m",
-      "player_url": "https://filelions.top/v/o6ti97z0l12m",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "o6ti97z0l12m"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/c21NekhXQzJzZmRWSDd4RHBVYWF3UT09",
-      "player_url": "https://netuplayer.top/e/c21NekhXQzJzZmRWSDd4RHBVYWF3UT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "c21NekhXQzJzZmRWSDd4RHBVYWF3UT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/jqw2ua63vpvj",
-      "player_url": "https://bysekoze.com/e/jqw2ua63vpvj",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "jqw2ua63vpvj"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/V77GVVw89XSKrxp/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_022.mp4",
-      "player_url": "https://streamtape.com/e/V77GVVw89XSKrxp/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_022.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "V77GVVw89XSKrxp/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_022.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-4zzqfcip0jpu.html",
-      "player_url": "https://www.mp4upload.com/embed-4zzqfcip0jpu.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-4zzqfcip0jpu.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-q49sac6rigat.html",
-      "player_url": "https://uqload.to/embed-q49sac6rigat.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-q49sac6rigat.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/4nx7xvmlbjlko7",
-      "player_url": "https://mixdropjmk.pw/e/4nx7xvmlbjlko7",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "4nx7xvmlbjlko7"
+      "calidad": "HD"
     }
   ]
 }

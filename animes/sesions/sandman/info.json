@@ -1,0 +1,33 @@
+{
+  "id": 120707337,
+  "titulo": "Sandman",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w500/dnDGWdBwBC1zexCYcv8ihQKQPVT.jpg",
+  "release_date": "2022-01-01",
+  "genres": [
+    "sci-fi-fantasy",
+    "drama",
+    "accion"
+  ],
+  "rating": "",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i8taDLjpF8cCbp53N8kOFt1LSkW.jpg",
+  "overview": "Después de pasar años encarcelado, Morfeo (el Rey de los Sueños) emprende un viaje por diferentes mundos para encontrar lo que le fue arrebatado y recuperar su poder.",
+  "slug": "sandman",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 90802,
+  "total_episodes": 23,
+  "total_temporadas": 2,
+  "temporadas": [
+    {
+      "numero": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/dnDGWdBwBC1zexCYcv8ihQKQPVT.jpg",
+      "episodios_count": 11
+    },
+    {
+      "numero": 2,
+      "poster": "https://image.tmdb.org/t/p/w500/dnDGWdBwBC1zexCYcv8ihQKQPVT.jpg",
+      "episodios_count": 12
+    }
+  ]
+}

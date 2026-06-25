@@ -1,105 +1,37 @@
 {
-  "id": 1210886694,
-  "titulo": "Episodio 90",
+  "id": 26692711,
+  "titulo": "Un muro que tendrás que superar. Goku contra Gohan",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/iVFlLs1H32Tkbnn0yrE9v5sroOq.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Como Gohan lucha tanto con su padre y Tien, Piccolo ataca a sus dos enemigos con una técnica fuerte. Esto eventualmente resulta en la arena que consigue destruida que termina el fósforo. Sin embargo, Gohan pide una pelea cara a cara contra su padre. Goku acepta y ambos luchan por igual, con Goku transformándose en un Super Saiyan 2 y Gohan usando su máximo poder, con el objetivo de superarlo a su manera. Eventualmente, Gohan hace que Goku se convierta en un Super Saiyan Azul y realice su técnica Kaio-Ken para tener un intercambio final en el que Gohan es derrotado.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "90",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "90",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=90",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/iu94osw4egej",
-      "player_url": "https://streamwish.to/e/iu94osw4egej",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C76B8B61/fsa1ykP5dkZucodz",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C76B8B61/fsa1ykP5dkZucodz",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "iu94osw4egej"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/x26cj1nrum96",
-      "player_url": "https://filelions.top/v/x26cj1nrum96",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "x26cj1nrum96"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/K1JXUktQUk5BYUpMSXNmK2pkYVFSdz09",
-      "player_url": "https://netuplayer.top/e/K1JXUktQUk5BYUpMSXNmK2pkYVFSdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "K1JXUktQUk5BYUpMSXNmK2pkYVFSdz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/7ms3gynrjvvd",
-      "player_url": "https://bysekoze.com/e/7ms3gynrjvvd",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7ms3gynrjvvd"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/4ogvx6qZ1LIKQ9B/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_090.mp4",
-      "player_url": "https://streamtape.com/e/4ogvx6qZ1LIKQ9B/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_090.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "4ogvx6qZ1LIKQ9B/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_090.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-3xiyv0so0xm2.html",
-      "player_url": "https://www.mp4upload.com/embed-3xiyv0so0xm2.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-3xiyv0so0xm2.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-ran6gwg142ku.html",
-      "player_url": "https://uqload.to/embed-ran6gwg142ku.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-ran6gwg142ku.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/840706m3ajoow3",
-      "player_url": "https://mixdropjmk.pw/e/840706m3ajoow3",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "840706m3ajoow3"
+      "calidad": "HD"
     }
   ]
 }

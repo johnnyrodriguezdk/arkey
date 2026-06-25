@@ -1,105 +1,37 @@
 {
-  "id": 1050462524,
-  "titulo": "Episodio 101",
+  "id": 145264698,
+  "titulo": "Los guerreros de la justicia atacan. ¡Son las Tropas del Orgullo!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/ry76L4RkyeOtMAveIVNRtON91Ve.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Cinco guerreros del universo once, comandados por Khaseral, atacarán al reciente nuevo equipo de Goku. Pese a que no son necesariamente los más fuertes, poseen técnicas especiales que pondrán en aprietos a los Saiyans. Los androides se unen a la batalla.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "101",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "101",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=101",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/vj5y0bjlx76s",
-      "player_url": "https://streamwish.to/e/vj5y0bjlx76s",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-214E9558/5dQBtH1RdlRgzNmC",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-214E9558/5dQBtH1RdlRgzNmC",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "vj5y0bjlx76s"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/oxo82a4o20e0",
-      "player_url": "https://filelions.top/v/oxo82a4o20e0",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "oxo82a4o20e0"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/MmNSZnVsbmdlaThsZ2JaV1JRRC9YZz09",
-      "player_url": "https://netuplayer.top/e/MmNSZnVsbmdlaThsZ2JaV1JRRC9YZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "MmNSZnVsbmdlaThsZ2JaV1JRRC9YZz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/1c3iqvyyajif",
-      "player_url": "https://bysekoze.com/e/1c3iqvyyajif",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "1c3iqvyyajif"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/BAZAM1dlZMSyLAB/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_101.mp4",
-      "player_url": "https://streamtape.com/e/BAZAM1dlZMSyLAB/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_101.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "BAZAM1dlZMSyLAB/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_101.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-kx874x7pnig1.html",
-      "player_url": "https://www.mp4upload.com/embed-kx874x7pnig1.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-kx874x7pnig1.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-8blnwm5wvho7.html",
-      "player_url": "https://uqload.to/embed-8blnwm5wvho7.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-8blnwm5wvho7.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/xorjr8eqh0n7zl",
-      "player_url": "https://mixdropjmk.pw/e/xorjr8eqh0n7zl",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xorjr8eqh0n7zl"
+      "calidad": "HD"
     }
   ]
 }

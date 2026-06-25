@@ -1,125 +1,37 @@
 {
-  "id": 343339485,
-  "titulo": "Episodio 4",
+  "id": 226392093,
+  "titulo": "Un paso que no supe dar",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/deGs1CWzQqA3JXVYfpzq2iUN7r6jpg.webp",
-  "release_date": "2025-12-17",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/og8CQCN9ttQo6bopCfNe8esTOoJ.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Un malentendido provoca un quiebre sutil entre ellos. Haru duda, Sora espera, y ambos se preguntan si avanzar juntos es realmente posible.",
   "slug": "kimi-to-koete-koi-ni-naru",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1872",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 282662,
   "temporada": 1,
   "episodio": "4",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "4",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1872&idcapitulo=4",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/9cf500wabyw4",
-      "player_url": "https://streamwish.to/e/9cf500wabyw4",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/seriekimitokoetekoininarut1/capitulo4.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/seriekimitokoetekoininarut1/capitulo4.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "9cf500wabyw4"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/wy8sijblcxy1",
-      "player_url": "https://filelions.top/v/wy8sijblcxy1",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "wy8sijblcxy1"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/b2FCMVNYdW5tbVlTa0w2R0Y0dHNQdz09",
-      "player_url": "https://player.streamhj.top/e/b2FCMVNYdW5tbVlTa0w2R0Y0dHNQdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "b2FCMVNYdW5tbVlTa0w2R0Y0dHNQdz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/z9c1xexa3ou8",
-      "player_url": "https://bysekoze.com/e/z9c1xexa3ou8",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "z9c1xexa3ou8"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/2LmQopo6RzHzaG",
-      "player_url": "https://streamtape.com/e/2LmQopo6RzHzaG",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "2LmQopo6RzHzaG"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-6vki3b4gfhl8.html",
-      "player_url": "https://www.mp4upload.com/embed-6vki3b4gfhl8.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-6vki3b4gfhl8.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.cx/embed-duogk5hb6o9x.html",
-      "player_url": "https://uqload.cx/embed-duogk5hb6o9x.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.cx_embed-duogk5hb6o9x.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/9wx0wvvpbrpoep",
-      "player_url": "https://mxdrop.to/e/9wx0wvvpbrpoep",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "9wx0wvvpbrpoep"
-    },
-    {
-      "id": 9,
-      "server": "Voe",
-      "url": "https://voe.sx/e/s1o3isclbnbz",
-      "player_url": "https://voe.sx/e/s1o3isclbnbz",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "s1o3isclbnbz"
-    },
-    {
-      "id": 10,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/qvtua5zgq6ve",
-      "player_url": "https://savefiles.top/e/qvtua5zgq6ve",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "qvtua5zgq6ve"
+      "calidad": "HD"
     }
   ]
 }

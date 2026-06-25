@@ -1,0 +1,37 @@
+{
+  "id": 91253469,
+  "titulo": "El buen libro",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/A1vbGogJ0wVnYLRiS9SSswIlyPd.jpg",
+  "release_date": "",
+  "genres": [
+    "crimen",
+    "drama",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Cross allana una casa relacionada con el asesinato de Emir. El sospechoso escapa, pero deja tras de sí una prueba tan singular que limita la lista de sospechosos a unos pocos miembros de la élite de D. C.",
+  "slug": "cross",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 213306,
+  "temporada": 1,
+  "episodio": "3",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "3",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-0FF270BE/yb4rYfFKcQESJihc",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-0FF270BE/yb4rYfFKcQESJihc",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

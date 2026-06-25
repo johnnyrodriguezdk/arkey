@@ -1,115 +1,37 @@
 {
-  "id": 1992194291,
-  "titulo": "Episodio 10",
+  "id": 181224085,
+  "titulo": "El camino de regreso",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/deGs1CWzQqA3JXVYfpzq2iUN7r6jpg.webp",
-  "release_date": "2026-01-21",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/yFGGeEmUPUlSbvD2jaE1FbhQqKK.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Después de un tiempo separados, el reencuentro trae emociones contenidas. No todo está resuelto, pero ambos saben que volver a verse ya es un paso importante.",
   "slug": "kimi-to-koete-koi-ni-naru",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1872",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 282662,
   "temporada": 1,
   "episodio": "10",
   "idiomas": [
-    "LATINO",
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "10",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1872&idcapitulo=10",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/1nfpb2w9nx4d",
-      "player_url": "https://streamwish.to/e/1nfpb2w9nx4d",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/seriekimitokoetekoininarut1/capitulo10.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/seriekimitokoetekoininarut1/capitulo10.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "1nfpb2w9nx4d"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/5w1ssxj9kpmx",
-      "player_url": "https://filelions.top/v/5w1ssxj9kpmx",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "5w1ssxj9kpmx"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/N1ZnaXFTcldqVjZ1cm9YNFhwdmVsZz09",
-      "player_url": "https://player.streamhj.top/e/N1ZnaXFTcldqVjZ1cm9YNFhwdmVsZz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "N1ZnaXFTcldqVjZ1cm9YNFhwdmVsZz09"
-    },
-    {
-      "id": 4,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/bqqqrPLm4VFP9lV",
-      "player_url": "https://streamtape.com/e/bqqqrPLm4VFP9lV",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "bqqqrPLm4VFP9lV"
-    },
-    {
-      "id": 5,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-jpuhi7272teg.html",
-      "player_url": "https://www.mp4upload.com/embed-jpuhi7272teg.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-jpuhi7272teg.html"
-    },
-    {
-      "id": 6,
-      "server": "Uqload",
-      "url": "https://uqload.bz/embed-ulcuqjskiuqg.html",
-      "player_url": "https://uqload.bz/embed-ulcuqjskiuqg.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.bz_embed-ulcuqjskiuqg.html"
-    },
-    {
-      "id": 7,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/l7qwvgzdbqv46wk",
-      "player_url": "https://mxdrop.to/e/l7qwvgzdbqv46wk",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "l7qwvgzdbqv46wk"
-    },
-    {
-      "id": 8,
-      "server": "Voe",
-      "url": "https://voe.sx/e/epicbe8mdiky",
-      "player_url": "https://voe.sx/e/epicbe8mdiky",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "epicbe8mdiky"
-    },
-    {
-      "id": 9,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/72akirjrmpx5",
-      "player_url": "https://savefiles.top/e/72akirjrmpx5",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "72akirjrmpx5"
+      "calidad": "HD"
     }
   ]
 }

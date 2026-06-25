@@ -1,0 +1,38 @@
+{
+  "id": 82433460,
+  "titulo": "Piloto",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "comedia",
+    "sci-fi-fantasy",
+    "accion"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Rick, un excéntrico científico con problemas con la bebida, vivirá extrañas aventuras con su nieto Morty en esta serie basada en Regreso al futuro.",
+  "slug": "rick-and-morty",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 60625,
+  "temporada": 1,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-CE4CC04D/S13d1Z8ffsSs9lNi",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-CE4CC04D/S13d1Z8ffsSs9lNi",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

@@ -1,105 +1,37 @@
 {
-  "id": 1835268075,
-  "titulo": "Episodio 112",
+  "id": 5848601,
+  "titulo": "La promesa de un Saiyan. ¡Vegeta y su determinación!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/4Zt1BcEqZyVuy9ygBCHJYR2Z72i.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Cabba y Vegeta vuelven a encontrarse. En pleno torneo, los dos Saiyans recuerdan la promesa que se hicieron la última vez que se vieron.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "112",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "112",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=112",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/7ymyvyow5yfr",
-      "player_url": "https://streamwish.to/e/7ymyvyow5yfr",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-588B512F/nEuTjZpVKRuSt5p6",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-588B512F/nEuTjZpVKRuSt5p6",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7ymyvyow5yfr"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/7pcksto9vec4",
-      "player_url": "https://filelions.top/v/7pcksto9vec4",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7pcksto9vec4"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/V2RvSDFqWVpXazVMSVNIU1lkRERCdz09",
-      "player_url": "https://netuplayer.top/e/V2RvSDFqWVpXazVMSVNIU1lkRERCdz09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "V2RvSDFqWVpXazVMSVNIU1lkRERCdz09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/fjlt4p2r6jiu",
-      "player_url": "https://bysekoze.com/e/fjlt4p2r6jiu",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "fjlt4p2r6jiu"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/DMXXklqLojtkaWk/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_112.mp4",
-      "player_url": "https://streamtape.com/e/DMXXklqLojtkaWk/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_112.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "DMXXklqLojtkaWk/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_112.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-jiakfw5gdz4i.html",
-      "player_url": "https://www.mp4upload.com/embed-jiakfw5gdz4i.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-jiakfw5gdz4i.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-d47sgtxq43lk.html",
-      "player_url": "https://uqload.to/embed-d47sgtxq43lk.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-d47sgtxq43lk.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/dq0e08d0adp3pr",
-      "player_url": "https://mixdropjmk.pw/e/dq0e08d0adp3pr",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "dq0e08d0adp3pr"
+      "calidad": "HD"
     }
   ]
 }

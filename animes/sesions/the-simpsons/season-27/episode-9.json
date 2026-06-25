@@ -1,0 +1,37 @@
+{
+  "id": 196069786,
+  "titulo": "Barthood",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/cHR8I80240a5X2NRjGtdGDkOudy.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "La historia sobre la llegada a la adultez de Bart, al estilo “Boyhood (Momentos de una vida)”, relata su vida desde los seis años de edad hasta que se convierte en un joven hombre consumado. A lo largo del camino, su tensa relación con Homer, una versión excesivamente insensible de sí mismo, y Lisa, quien le hace sombra en todos los ámbitos posibles, moldean la personalidad de Bart más de lo que él imagina.",
+  "slug": "the-simpsons",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 456,
+  "temporada": 27,
+  "episodio": "9",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "9",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3170049F/fUVs78o3Z9Z4fYsh",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3170049F/fUVs78o3Z9Z4fYsh",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

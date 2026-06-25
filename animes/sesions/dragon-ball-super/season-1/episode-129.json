@@ -1,105 +1,37 @@
 {
-  "id": 301017879,
-  "titulo": "Episodio 129",
+  "id": 182342597,
+  "titulo": "Todos los límites superados. ¡Ultra Instinto dominado!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/3pKowZkQBolsVnWJ8qSGrIuwZ11.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Si Goku pretende derrotar a Jiren tendrá que hacer uso del Ultra Instinto al máximo poder, así que es la hora de desatar todo su poder para proteger al Universo 7.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "129",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "129",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=129",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/30mes4fz3g39",
-      "player_url": "https://streamwish.to/e/30mes4fz3g39",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-4C5B22CD/K8ERhnTa1WUXmhZP",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-4C5B22CD/K8ERhnTa1WUXmhZP",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "30mes4fz3g39"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/u41qjajrh7aj",
-      "player_url": "https://filelions.top/v/u41qjajrh7aj",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "u41qjajrh7aj"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/cStyQXI1dW8vTGt5SnlZdlN0TnBIQT09",
-      "player_url": "https://netuplayer.top/e/cStyQXI1dW8vTGt5SnlZdlN0TnBIQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "cStyQXI1dW8vTGt5SnlZdlN0TnBIQT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/7256wzl217oa",
-      "player_url": "https://bysekoze.com/e/7256wzl217oa",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7256wzl217oa"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/XB7GMloMQQHDjwp/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_129.mp4",
-      "player_url": "https://streamtape.com/e/XB7GMloMQQHDjwp/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_129.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "XB7GMloMQQHDjwp/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_129.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-7764k63glsii.html",
-      "player_url": "https://www.mp4upload.com/embed-7764k63glsii.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-7764k63glsii.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-psfyqlaoxfog.html",
-      "player_url": "https://uqload.to/embed-psfyqlaoxfog.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-psfyqlaoxfog.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/vnelegw4fq4wdqp",
-      "player_url": "https://mixdropjmk.pw/e/vnelegw4fq4wdqp",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "vnelegw4fq4wdqp"
+      "calidad": "HD"
     }
   ]
 }

@@ -1,114 +1,37 @@
 {
-  "id": 1772199865,
-  "titulo": "Episodio 12",
+  "id": 194358092,
+  "titulo": "El aprendiz de todo protege a sus compañeros",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/4279jpg.webp",
-  "release_date": "2026-03-18",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/2J6HQ42JaMlYp4lHWfnoIWtFEmO.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Orhun se apresura por vencer al Dragón Negro para poder ir a salvar a Sophia, Caroline y Logan.",
   "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "2268",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 285166,
   "temporada": 1,
   "episodio": "12",
   "idiomas": [
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "12",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2268&idcapitulo=12",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/wi26y5zanwnb",
-      "player_url": "https://streamwish.to/e/wi26y5zanwnb",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo12.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo12.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "wi26y5zanwnb"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/6w14xvxvgx89",
-      "player_url": "https://filelions.top/v/6w14xvxvgx89",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "6w14xvxvgx89"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/NDNXYll4M0NEZFRlZUo3ZWUxK2lMQT09",
-      "player_url": "https://player.streamhj.top/e/NDNXYll4M0NEZFRlZUo3ZWUxK2lMQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "NDNXYll4M0NEZFRlZUo3ZWUxK2lMQT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/ikqyiltr90qq",
-      "player_url": "https://bysekoze.com/e/ikqyiltr90qq",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ikqyiltr90qq"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/QybXMXw21di01eR",
-      "player_url": "https://streamtape.com/e/QybXMXw21di01eR",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "QybXMXw21di01eR"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-5vx6y2gohmvn.html",
-      "player_url": "https://www.mp4upload.com/embed-5vx6y2gohmvn.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-5vx6y2gohmvn.html"
-    },
-    {
-      "id": 7,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/03jnd7veskokgw1",
-      "player_url": "https://mxdrop.to/e/03jnd7veskokgw1",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "03jnd7veskokgw1"
-    },
-    {
-      "id": 8,
-      "server": "Voe",
-      "url": "https://voe.sx/e/ifp4tor5vk07",
-      "player_url": "https://voe.sx/e/ifp4tor5vk07",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ifp4tor5vk07"
-    },
-    {
-      "id": 9,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/j3qetknhm3ve",
-      "player_url": "https://savefiles.top/e/j3qetknhm3ve",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "j3qetknhm3ve"
+      "calidad": "HD"
     }
   ]
 }

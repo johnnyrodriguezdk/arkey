@@ -1,105 +1,37 @@
 {
-  "id": 1240007115,
-  "titulo": "Episodio 9",
+  "id": 38388504,
+  "titulo": "¡Siento la espera lord Beerus! ¡Nace el Super Saiyan Dios!",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/dtPbhwpbZcjLOahkKj2QXkeaUyd.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Goku llama a Shenron con la bolas de Dragón y le pide que traiga al Super Saiyan Dios, pero Shenron le explica que se necesita la energía de cinco Super Saiyans de corazón puro, para transferirselos a un sexto Saiyan. Por lo que Vegeta, Gohan, Goten y Trunks se reúnen para darles su energía a Goku, pero al faltar un Saiyan, Videl les comenta que está embarazada de Gohan, por lo cual tiene a un Saiyan en su interior. Con esto, Goku logra la transformación del Super Saiyan Dios.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "9",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "9",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=9",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/kh90z81g5o7m",
-      "player_url": "https://streamwish.to/e/kh90z81g5o7m",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-86918250/QHQaaHP4IVcYpP0E",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-86918250/QHQaaHP4IVcYpP0E",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "kh90z81g5o7m"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/nfok68mr4tkv",
-      "player_url": "https://filelions.top/v/nfok68mr4tkv",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "nfok68mr4tkv"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/Z1dRVC9UWGdnSS9FVFEwM1U2Z2J3QT09",
-      "player_url": "https://netuplayer.top/e/Z1dRVC9UWGdnSS9FVFEwM1U2Z2J3QT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "Z1dRVC9UWGdnSS9FVFEwM1U2Z2J3QT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/uu74ivuw48d1",
-      "player_url": "https://bysekoze.com/e/uu74ivuw48d1",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uu74ivuw48d1"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/WP39raYvz8Fbv0e/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_009.mp4",
-      "player_url": "https://streamtape.com/e/WP39raYvz8Fbv0e/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_009.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "WP39raYvz8Fbv0e/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_009.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-io3u017u7a1r.html",
-      "player_url": "https://www.mp4upload.com/embed-io3u017u7a1r.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-io3u017u7a1r.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-odutd5d44ql0.html",
-      "player_url": "https://uqload.to/embed-odutd5d44ql0.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-odutd5d44ql0.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/qle6e90eblp6vx",
-      "player_url": "https://mixdropjmk.pw/e/qle6e90eblp6vx",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "qle6e90eblp6vx"
+      "calidad": "HD"
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "id": 81353826,
+  "titulo": "Lo que queda por delante",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/dGKEA22beB0xsVNGxKiJ2yr1h6S.jpg",
+  "release_date": "",
+  "genres": [
+    "accion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Rick dirige al grupo fuera de Atlanta. En la autopista, se ven involucrados en un inesperado atasco en el que surgirán amenazas desconocidas para ellos hasta el momento. Un miembro del grupo desaparecerá y el resto hará lo posible por encontrarlo.",
+  "slug": "the-walking-dead",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1402,
+  "temporada": 2,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-9B06FA51/KtIBAjemmXOyF9B7",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-9B06FA51/KtIBAjemmXOyF9B7",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 169872243,
+  "titulo": "Episodio 1",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w200/45kPCZ0u6WDkIslRqNtEWXF1qxa.jpg",
+  "release_date": "",
+  "genres": [
+    "crimen",
+    "misterio"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un brutal crimen sacude la Terra Alta, un lugar donde nunca pasa nada. Han torturado y asesinado junto a su criada a los patriarcas de los Adell, la familia más rica y poderosa de la zona. El agente Melchor Marín, un “recién llegado” hace ya ocho años, se hace cargo del caso.",
+  "slug": "terra-alta",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 259615,
+  "temporada": 1,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/serieterraaltat1/capitulo1.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/serieterraaltat1/capitulo1.m3u8",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

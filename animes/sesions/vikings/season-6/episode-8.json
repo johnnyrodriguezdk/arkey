@@ -1,0 +1,36 @@
+{
+  "id": 123299404,
+  "titulo": "El Valhalla puede esperar",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/qQz3GyZvuWHIDVmwlBP2k4eoQQ2.jpg",
+  "release_date": "",
+  "genres": [
+    "accion",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Bjorn enfrenta una difícil decisión. Ubbe y Torvi se van de Kattegat en busca de nuevas tierras. Los planes de Oleg para la nueva invasión de Escandinavia van tomando forma. El rey Harald se desconcierta con el surgimiento de un grupo de saqueo.",
+  "slug": "vikings",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 44217,
+  "temporada": 6,
+  "episodio": "8",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "8",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3280D95D/xLddPwcQVWLxwrbx",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-3280D95D/xLddPwcQVWLxwrbx",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 150547753,
+  "titulo": "Piloto",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/cCOYcX2p8GUj9dsyJdDbFKzzRBz.jpg",
+  "release_date": "",
+  "genres": [
+    "accion",
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Una familia desestructurada se ve forzada a permanecer unida cuando descubren que un virus es en realidad el comienzo del apocalipsis de los no muertos.",
+  "slug": "fear-the-walking-dead",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62286,
+  "temporada": 1,
+  "episodio": "1",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "1",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C098BF57/KZNgRb1U1frI4PUC",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-C098BF57/KZNgRb1U1frI4PUC",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 72015000,
+  "titulo": "Cada uno por su lado",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/sSc2DMYwOxBzaET6ezuLh6bUC7x.jpg",
+  "release_date": "",
+  "genres": [
+    "accion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Daryl y Carol llegan a una bifurcación en el camino y toman caminos separados. Cada uno entra en su propio tipo de modo de supervivencia, los desafíos más fáciles se vuelven mucho más difíciles. ¿Serán sus viajes individuales el punto de inflexión necesario para enmendar su amistad, o la distancia entre ellos es permanente?",
+  "slug": "the-walking-dead",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1402,
+  "temporada": 10,
+  "episodio": "21",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "21",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-ECDEAF37/Vojmy44LE2f1x5EJ",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-ECDEAF37/Vojmy44LE2f1x5EJ",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

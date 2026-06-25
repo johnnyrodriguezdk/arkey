@@ -1,0 +1,37 @@
+{
+  "id": 12696125,
+  "titulo": "Confía, pero verifica",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/mJ6XRjFYYyfZT3kKwhhX6HuPLkX.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Lisa y Bart investigan los sospechosos nuevos dulces de Krusty. Mientras tanto, Homer quiere una promoción en la planta nuclear y le pide a Marge que lo ayude a vestirse, y el presentador de noticias Kent Brockman se esfuerza por encontrar sus pies en el cambiante mundo de los medios de comunicación.",
+  "slug": "the-simpsons",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 456,
+  "temporada": 28,
+  "episodio": "5",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "5",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-09BCC1B9/3giHaAFyztBk0ZEL",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-09BCC1B9/3giHaAFyztBk0ZEL",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 241231615,
+  "titulo": "Un tipo cualquiera",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/o24MhNTRTC6Z9ddGC9UBkQRp66R.jpg",
+  "release_date": "",
+  "genres": [
+    "accion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Los supervivientes de un ataque devastador luchan por sobrevivir. Carol, que está sola en un puesto de los Salvadores, debe pensar y actuar con rapidez.",
+  "slug": "the-walking-dead",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1402,
+  "temporada": 8,
+  "episodio": "4",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "4",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-6C8F4CBD/jNEW5H2CLNbx80OS",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-6C8F4CBD/jNEW5H2CLNbx80OS",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

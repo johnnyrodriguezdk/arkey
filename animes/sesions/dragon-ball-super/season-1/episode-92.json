@@ -1,105 +1,37 @@
 {
-  "id": 974748984,
-  "titulo": "Episodio 92",
+  "id": 177312330,
+  "titulo": "Situación crítica. Nuestro equipo está incompleto",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/pIX6S5TMwV9gndf1Yct84B8Gdl.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Majin Buu no se despierta, y todos los guerreros más fuertes de todos los mundos se unen, Goku y sus amigos entran en pánico al ver que este no se despierta. El demonio rosado se durmió, y parece que no hay forma de despertarlo, por otra parte, el torneo del poder se acerca, es por ello que Goku y sus amigos están tratando de interrumpir su sueño, pero mientras tanto, en el otro mundo, los guerreros se reúnen.",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "92",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "92",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=92",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/i696lg708n1b",
-      "player_url": "https://streamwish.to/e/i696lg708n1b",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-5F2A19C5/fKqwj048hqzbA7AJ",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-5F2A19C5/fKqwj048hqzbA7AJ",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "i696lg708n1b"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/krxj7g8pkq8p",
-      "player_url": "https://filelions.top/v/krxj7g8pkq8p",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "krxj7g8pkq8p"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/d25FWHFLOTlCUE85SVJuZWxzcFB5QT09",
-      "player_url": "https://netuplayer.top/e/d25FWHFLOTlCUE85SVJuZWxzcFB5QT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "d25FWHFLOTlCUE85SVJuZWxzcFB5QT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/oo7kls6melae",
-      "player_url": "https://bysekoze.com/e/oo7kls6melae",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "oo7kls6melae"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/ZVpa8Zqkj7CqaY1/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_092.mp4",
-      "player_url": "https://streamtape.com/e/ZVpa8Zqkj7CqaY1/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_092.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "ZVpa8Zqkj7CqaY1/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_092.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-tg6u83jzkfxm.html",
-      "player_url": "https://www.mp4upload.com/embed-tg6u83jzkfxm.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-tg6u83jzkfxm.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-kvacxrg9n38z.html",
-      "player_url": "https://uqload.to/embed-kvacxrg9n38z.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-kvacxrg9n38z.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/7rd0dnzztnnepz",
-      "player_url": "https://mixdropjmk.pw/e/7rd0dnzztnnepz",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7rd0dnzztnnepz"
+      "calidad": "HD"
     }
   ]
 }

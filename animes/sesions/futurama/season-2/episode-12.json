@@ -1,0 +1,37 @@
+{
+  "id": 184646831,
+  "titulo": "Bender salvaje",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/hjKSgHDGfy2YPfeLpBESuxz80Ln.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "comedia",
+    "sci-fi-fantasy"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Bender es la atracción destacada en la Ultimate Robot Fighting League, pero su gloria es de corta duración cuando se le indica que pierda intencionalmente su próximo partido. Leela se compromete a llevar a Bender a la victoria, en un esfuerzo por mostrar a su profesor de artes marciales sin apoyo.",
+  "slug": "futurama",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 615,
+  "temporada": 2,
+  "episodio": "12",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "12",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-B38EC8FE/iKbllwxglPXEzxjz",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-B38EC8FE/iKbllwxglPXEzxjz",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

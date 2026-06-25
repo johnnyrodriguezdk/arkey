@@ -1,0 +1,35 @@
+{
+  "id": 222738847,
+  "titulo": "Todo un ejemplo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/igpePrxhDUScng1sPtz3sVQWNE9.jpg",
+  "release_date": "",
+  "genres": [
+    "drama"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un senador afroamericano padece un mareo durante un discurso y todo indica que sufre una inmunodeficiencia.",
+  "slug": "house",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 1408,
+  "temporada": 1,
+  "episodio": "17",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "17",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-FCF0936E/NFK6u9zpuJKX4Y2w",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-FCF0936E/NFK6u9zpuJKX4Y2w",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

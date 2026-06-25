@@ -1,105 +1,37 @@
 {
-  "id": 67916683,
-  "titulo": "Episodio 88",
+  "id": 194040315,
+  "titulo": "Gohan y Piccolo. Maestro y discípulo entrenan al límite",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/dz0QEGujd6f4EYF4cTaqRGahy16jpg.webp",
-  "release_date": "2026-02-20",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/rmGzR6On6CtlMKlkiZCLxASLmmT.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Con el fin de salvar el universo 7 en el torneo del poder, el retorno a Gohan es fundamental en este momento, el maestro Piccoro y alumno Gohan han preparado une entrenamiento especial, uno contra uno, aquí Gohan recupera todo el poder que hace mucho había perdido ¿Cuál será el resultado de este entrenamiento?",
   "slug": "dragon-ball-super",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1125",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 62715,
   "temporada": 1,
   "episodio": "88",
   "idiomas": [
-    "JAPONES",
     "LATINO"
   ],
   "idcapitulo": "88",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1125&idcapitulo=88",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/udasjkv30p5u",
-      "player_url": "https://streamwish.to/e/udasjkv30p5u",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-E8682E10/pze6hPhr0bKgl3g6",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-E8682E10/pze6hPhr0bKgl3g6",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "udasjkv30p5u"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/d0lejk4oqz7f",
-      "player_url": "https://filelions.top/v/d0lejk4oqz7f",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "d0lejk4oqz7f"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://netuplayer.top/e/K0Y4aXNsdFpZODRDNTFIbzcyQTFNQT09",
-      "player_url": "https://netuplayer.top/e/K0Y4aXNsdFpZODRDNTFIbzcyQTFNQT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "K0Y4aXNsdFpZODRDNTFIbzcyQTFNQT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/bh0woopsirxb/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_088",
-      "player_url": "https://bysekoze.com/e/bh0woopsirxb/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_088",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "bh0woopsirxb/_AnimeOnlineNinja__Dragon_Ball_Super_BD_Latino_088"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/8WDoDpWmYltGjV/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_088.mp4",
-      "player_url": "https://streamtape.com/e/8WDoDpWmYltGjV/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_088.mp4",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "8WDoDpWmYltGjV/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_088.mp4"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-s4fve7d6ajmn.html",
-      "player_url": "https://www.mp4upload.com/embed-s4fve7d6ajmn.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-s4fve7d6ajmn.html"
-    },
-    {
-      "id": 7,
-      "server": "Uqload",
-      "url": "https://uqload.to/embed-5y4rab5b8i9q.html",
-      "player_url": "https://uqload.to/embed-5y4rab5b8i9q.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.to_embed-5y4rab5b8i9q.html"
-    },
-    {
-      "id": 8,
-      "server": "Mixdrop",
-      "url": "https://mixdropjmk.pw/e/7rd0dne1cp0ez6",
-      "player_url": "https://mixdropjmk.pw/e/7rd0dne1cp0ez6",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "7rd0dne1cp0ez6"
+      "calidad": "HD"
     }
   ]
 }

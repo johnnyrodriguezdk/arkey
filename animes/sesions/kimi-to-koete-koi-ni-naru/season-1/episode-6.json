@@ -1,115 +1,37 @@
 {
-  "id": 942551479,
-  "titulo": "Episodio 6",
+  "id": 147505696,
+  "titulo": "Cuando mostraste tu miedo",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/deGs1CWzQqA3JXVYfpzq2iUN7r6jpg.webp",
-  "release_date": "2025-12-24",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/8ai4fuxFBlycY0ffejueWknNNlD.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "drama",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "Haru revela una parte frágil de sí misma. Sora, sin grandes discursos, permanece a su lado, demostrando que estar presente también es una forma de amar.",
   "slug": "kimi-to-koete-koi-ni-naru",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "1872",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 282662,
   "temporada": 1,
   "episodio": "6",
   "idiomas": [
-    "LATINO",
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "6",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=1872&idcapitulo=6",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/o4uihrbmfnzf",
-      "player_url": "https://streamwish.to/e/o4uihrbmfnzf",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/seriekimitokoetekoininarut1/capitulo6.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/seriekimitokoetekoininarut1/capitulo6.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "o4uihrbmfnzf"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/5v8hvtssec5h",
-      "player_url": "https://filelions.top/v/5v8hvtssec5h",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "5v8hvtssec5h"
-    },
-    {
-      "id": 3,
-      "server": "Netu",
-      "url": "https://player.streamhj.top/e/c1g4aDRBUTRBc3RUOEtVOHJBcDg1UT09",
-      "player_url": "https://player.streamhj.top/e/c1g4aDRBUTRBc3RUOEtVOHJBcDg1UT09",
-      "nombre": "Netu",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "c1g4aDRBUTRBc3RUOEtVOHJBcDg1UT09"
-    },
-    {
-      "id": 4,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/fmydradjtqs9",
-      "player_url": "https://bysekoze.com/e/fmydradjtqs9",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "fmydradjtqs9"
-    },
-    {
-      "id": 5,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/9yAOrbK1Xqualz8",
-      "player_url": "https://streamtape.com/e/9yAOrbK1Xqualz8",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "9yAOrbK1Xqualz8"
-    },
-    {
-      "id": 6,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-g8ehik0nb1mg.html",
-      "player_url": "https://www.mp4upload.com/embed-g8ehik0nb1mg.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-g8ehik0nb1mg.html"
-    },
-    {
-      "id": 7,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/dkr8z31gio68rx",
-      "player_url": "https://mxdrop.to/e/dkr8z31gio68rx",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "dkr8z31gio68rx"
-    },
-    {
-      "id": 8,
-      "server": "Voe",
-      "url": "https://voe.sx/e/khltkcsmuioo",
-      "player_url": "https://voe.sx/e/khltkcsmuioo",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "khltkcsmuioo"
-    },
-    {
-      "id": 9,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/scgjrbos7ztk",
-      "player_url": "https://savefiles.top/e/scgjrbos7ztk",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "scgjrbos7ztk"
+      "calidad": "HD"
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "id": 90517480,
+  "titulo": "Naranja es el nuevo amarillo",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/waVlWZCnDPWgotG3nfcLCKdmkKl.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Cuando Marge es arrestada por dejar que Bart vaya al parque sin supervisión, se da cuenta de que la cárcel es un agradable descanso de las obligaciones de su vida como madre y esposa. En su ausencia, Homer lucha por sacar adelante todas las responsabilidades paternales de las que normalmente se encarga Marge.",
+  "slug": "the-simpsons",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 456,
+  "temporada": 27,
+  "episodio": "22",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "22",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-CC40725B/eWGUYFdex2QWZn0N",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-CC40725B/eWGUYFdex2QWZn0N",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

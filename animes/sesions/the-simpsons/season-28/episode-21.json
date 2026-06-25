@@ -1,0 +1,37 @@
+{
+  "id": 130588370,
+  "titulo": "Moho House",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/w300/fciyOgSwwks9mJSYdNGFfNo8UPU.jpg",
+  "release_date": "",
+  "genres": [
+    "familia",
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Homer y Marge intentan trabajar en su matrimonio sin saber que el Sr. Burns y Nigel están apostando sobre si Nigel podrá separarles. Con la exitosa, aunque poco convencional, ayuda de Moe, la pareja recupera su ‘mojo’.",
+  "slug": "the-simpsons",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 456,
+  "temporada": 28,
+  "episodio": "21",
+  "idiomas": [
+    "LATINO"
+  ],
+  "idcapitulo": "21",
+  "iframe_url": "",
+  "servidores": [
+    {
+      "id": 1,
+      "server": "Caelum Direct",
+      "url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A03B851F/nr1RolwpaAO0bnku",
+      "player_url": "https://github.com/kenoke303/VOD_CDN/releases/download/REL-A03B851F/nr1RolwpaAO0bnku",
+      "nombre": "Caelum Direct",
+      "idioma": "latino",
+      "calidad": "HD"
+    }
+  ]
+}

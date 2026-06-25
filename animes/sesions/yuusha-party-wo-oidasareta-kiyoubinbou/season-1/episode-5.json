@@ -1,114 +1,37 @@
 {
-  "id": 1169723535,
-  "titulo": "Episodio 5",
+  "id": 182413457,
+  "titulo": "El mal presentimiento del aprendiz de todo se hace realidad",
   "titulo_orig": "",
-  "poster": "https://hj.animejara.com/api-web/img/4279jpg.webp",
-  "release_date": "2026-01-29",
-  "genres": [],
+  "poster": "https://image.tmdb.org/t/p/w300/qTEAJIS0uUEqfnwtkxahrdDhpVq.jpg",
+  "release_date": "",
+  "genres": [
+    "animacion",
+    "accion",
+    "sci-fi-fantasy"
+  ],
   "rating": "",
   "backdrop": "",
-  "overview": "",
+  "overview": "El último día en la mazmorra parece ir bien, pero Orhun siente algo extraño en el ambiente.",
   "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
-  "source": "animejara",
-  "type": "anime",
-  "anime_id": "2268",
+  "source": "caelum",
+  "type": "serie",
+  "tmdb_id": 285166,
   "temporada": 1,
   "episodio": "5",
   "idiomas": [
-    "JAPONES"
+    "LATINO"
   ],
   "idcapitulo": "5",
-  "iframe_url": "https://multiplayer.streamhj.top/player/multiplayer/embed.php?idanime=2268&idcapitulo=5",
+  "iframe_url": "",
   "servidores": [
     {
       "id": 1,
-      "server": "StreamWish",
-      "url": "https://streamwish.to/e/n8k60eifxyci",
-      "player_url": "https://streamwish.to/e/n8k60eifxyci",
-      "nombre": "StreamWish",
+      "server": "Caelum Direct",
+      "url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo5.m3u8",
+      "player_url": "https://moviluz.neocities.org/series/serieyuushapartywooidasaretakiyoubinbout1/capitulo5.m3u8",
+      "nombre": "Caelum Direct",
       "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "n8k60eifxyci"
-    },
-    {
-      "id": 2,
-      "server": "FileLions",
-      "url": "https://filelions.top/v/xf2bal98u5uv",
-      "player_url": "https://filelions.top/v/xf2bal98u5uv",
-      "nombre": "FileLions",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "xf2bal98u5uv"
-    },
-    {
-      "id": 3,
-      "server": "Bysekoze",
-      "url": "https://bysekoze.com/e/dh1m9r1gpe8o",
-      "player_url": "https://bysekoze.com/e/dh1m9r1gpe8o",
-      "nombre": "Bysekoze",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "dh1m9r1gpe8o"
-    },
-    {
-      "id": 4,
-      "server": "Streamtape",
-      "url": "https://streamtape.com/e/L2QgvObKePCvOe",
-      "player_url": "https://streamtape.com/e/L2QgvObKePCvOe",
-      "nombre": "Streamtape",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "L2QgvObKePCvOe"
-    },
-    {
-      "id": 5,
-      "server": "Mp4upload",
-      "url": "https://www.mp4upload.com/embed-mhddeb8m8s8b.html",
-      "player_url": "https://www.mp4upload.com/embed-mhddeb8m8s8b.html",
-      "nombre": "Mp4upload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "www.mp4upload.com_embed-mhddeb8m8s8b.html"
-    },
-    {
-      "id": 6,
-      "server": "Uqload",
-      "url": "https://uqload.bz/embed-jtb8zucz8xd6.html",
-      "player_url": "https://uqload.bz/embed-jtb8zucz8xd6.html",
-      "nombre": "Uqload",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "uqload.bz_embed-jtb8zucz8xd6.html"
-    },
-    {
-      "id": 7,
-      "server": "Mixdrop",
-      "url": "https://mxdrop.to/e/pj99ppl3f9vw8x",
-      "player_url": "https://mxdrop.to/e/pj99ppl3f9vw8x",
-      "nombre": "Mixdrop",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "pj99ppl3f9vw8x"
-    },
-    {
-      "id": 8,
-      "server": "Voe",
-      "url": "https://voe.sx/e/z2rp1wyrdk8c",
-      "player_url": "https://voe.sx/e/z2rp1wyrdk8c",
-      "nombre": "Voe",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "z2rp1wyrdk8c"
-    },
-    {
-      "id": 9,
-      "server": "Savefiles",
-      "url": "https://savefiles.top/e/thl7gokmnrie",
-      "player_url": "https://savefiles.top/e/thl7gokmnrie",
-      "nombre": "Savefiles",
-      "idioma": "latino",
-      "calidad": "HD",
-      "embed_id": "thl7gokmnrie"
+      "calidad": "HD"
     }
   ]
 }
