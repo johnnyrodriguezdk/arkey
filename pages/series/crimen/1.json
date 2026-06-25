@@ -1,1 +1,505 @@
-{"page":1,"total_pages":1,"total":2,"data":[{"id":1766738511,"titulo":"Berlín y la dama del armiño","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg","release_date":"2026-01-01","genres":["drama","crimen"],"rating":"7.711"},{"id":2130240878,"titulo":"El Artista","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/iThI47g23tzm8SHc1PSxHqF3Utt.jpg","release_date":"2025-01-01","genres":["crimen","misterio"],"rating":"5"}]}
+{
+  "page": 1,
+  "total_pages": 4,
+  "total": 152,
+  "data": [
+    {
+      "slug": "agatha-christie-las-siete-esferas",
+      "type": "serie",
+      "titulo": "Agatha Christie: Las siete esferas",
+      "poster": "https://image.tmdb.org/t/p/w500/aG0jRHUoyZ2bwsnjfoyXx6mpHoB.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "misterio",
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "alguien-tiene-que-saber",
+      "type": "serie",
+      "titulo": "Alguien tiene que saber",
+      "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "misterio"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "amor-incondicional",
+      "type": "serie",
+      "titulo": "Amor incondicional",
+      "poster": "https://image.tmdb.org/t/p/w500/rTaQPmANiRRQ7ezkzKCiLvwrp7u.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "banksters",
+      "type": "serie",
+      "titulo": "Banksters",
+      "poster": "https://image.tmdb.org/t/p/w500/3hGT2xZdWiG0bSnjUG5cRd0wXkd.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "berl-n-y-la-dama-del-armi-o",
+      "type": "serie",
+      "titulo": "Berlín y la dama del armiño",
+      "poster": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "accion",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "beso-de-sirena",
+      "type": "serie",
+      "titulo": "Beso de sirena",
+      "poster": "https://image.tmdb.org/t/p/w500/x4Se5oHeTmA6NuDuYVP2nQWTjtU.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "misterio"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "cia",
+      "type": "serie",
+      "titulo": "CIA",
+      "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "conf-a-en-m-el-falso-profeta",
+      "type": "serie",
+      "titulo": "Confía en mí: El falso profeta",
+      "poster": "https://image.tmdb.org/t/p/w500/emukhfluHEAjj0oAPqwn4y6Reg.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "documental",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "dear-killer-nannies-criado-por-sicarios",
+      "type": "serie",
+      "titulo": "Dear Killer Nannies: Criado por sicarios",
+      "poster": "https://image.tmdb.org/t/p/w500/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-arte-de-sarah",
+      "type": "serie",
+      "titulo": "El arte de Sarah",
+      "poster": "https://image.tmdb.org/t/p/w500/qDVHKWy6mQuOlYYtRdUDqnEIuY.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "misterio",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-asesino-de-tiktok",
+      "type": "serie",
+      "titulo": "El asesino de TikTok",
+      "poster": "https://image.tmdb.org/t/p/w500/qAf0KsU9jNUGNDUYqcJyJ8z8m8O.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "documental",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-depredador-de-sevilla",
+      "type": "serie",
+      "titulo": "El depredador de Sevilla",
+      "poster": "https://image.tmdb.org/t/p/w500/rKc3uZ2myruS1U6dU2Xj6vHrTuP.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "documental",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-mochaorejas",
+      "type": "serie",
+      "titulo": "El Mochaorejas",
+      "poster": "https://image.tmdb.org/t/p/w500/oYZ5gWX0wgqQQojoGK9d482qI5f.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-robo",
+      "type": "serie",
+      "titulo": "El robo",
+      "poster": "https://image.tmdb.org/t/p/w500/txcrTTjG5hCo7oYl4J8hsIyBFxu.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "misterio"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-tiempo-de-las-moscas",
+      "type": "serie",
+      "titulo": "El tiempo de las moscas",
+      "poster": "https://image.tmdb.org/t/p/w500/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "errores-picos",
+      "type": "serie",
+      "titulo": "Errores épicos",
+      "poster": "https://image.tmdb.org/t/p/w500/1tLPir3Na0TT1NgjuYXaUCeNYPV.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "esa-noche",
+      "type": "serie",
+      "titulo": "Esa noche",
+      "poster": "https://image.tmdb.org/t/p/w500/2N0zVirrHWkNPQGEBcXVIqj5BKJ.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "drama",
+        "misterio"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "girl-taken",
+      "type": "serie",
+      "titulo": "Girl Taken",
+      "poster": "https://image.tmdb.org/t/p/w500/rsjOTVvak7CdBh2hDF3rmdH5GIh.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "gomorra-le-origini",
+      "type": "serie",
+      "titulo": "Gomorra - Le Origini",
+      "poster": "https://image.tmdb.org/t/p/w500/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg",
+      "release_date": "2014-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "harry-hole",
+      "type": "serie",
+      "titulo": "Harry Hole",
+      "poster": "https://image.tmdb.org/t/p/w500/ubHwrufeIkNynTjkRDIbliWX9dM.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "hombre-en-llamas",
+      "type": "serie",
+      "titulo": "Hombre en llamas",
+      "poster": "https://image.tmdb.org/t/p/w500/9jQSxMZuadcnzKb1OYJ9Jn3V6g0.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "accion",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "la-fiscal",
+      "type": "serie",
+      "titulo": "La fiscal",
+      "poster": "https://image.tmdb.org/t/p/w500/nJgoICwjYNgih3RMSJgeMX4KI3a.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "documental",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "la-infiltrada-srta-hong",
+      "type": "serie",
+      "titulo": "La infiltrada Srta. Hong",
+      "poster": "https://image.tmdb.org/t/p/w500/nJ0gSaXfoiPFngy1ulCCuxsKt0q.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "la-tierra-del-pecado",
+      "type": "serie",
+      "titulo": "La tierra del pecado",
+      "poster": "https://image.tmdb.org/t/p/w500/cCHjCJxrUZrDGFxnSCM5Xfl0lMo.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "misterio"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "leyendas",
+      "type": "serie",
+      "titulo": "Leyendas",
+      "poster": "https://image.tmdb.org/t/p/w500/1Em0VjO0IFSneoF9a8u7ibDGPK8.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "accion",
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "lisbon-noir",
+      "type": "serie",
+      "titulo": "Lisbon Noir",
+      "poster": "https://image.tmdb.org/t/p/w500/t8pJgw27hci7eSQMsVwCiPeI7Lg.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "los-pecados-de-kujo",
+      "type": "serie",
+      "titulo": "Los pecados de Kujo",
+      "poster": "https://image.tmdb.org/t/p/w500/276nOduPN10I05ajiQdoq6NQBcU.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "m-i-a",
+      "type": "serie",
+      "titulo": "M.I.A.",
+      "poster": "https://image.tmdb.org/t/p/w500/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "marshals-una-historia-de-yellowstone",
+      "type": "serie",
+      "titulo": "Marshals: Una historia de Yellowstone",
+      "poster": "https://image.tmdb.org/t/p/w500/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "memory-of-a-killer",
+      "type": "serie",
+      "titulo": "Memory of a Killer",
+      "poster": "https://image.tmdb.org/t/p/w500/79EO16C4zs8fwxKEjRENVvIQHIB.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "mujeres-imperfectas",
+      "type": "serie",
+      "titulo": "Mujeres imperfectas",
+      "poster": "https://image.tmdb.org/t/p/w500/hD3M24I0AJm0ZKzrZ0N7p18fkPO.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "murder-in-glitterball-city",
+      "type": "serie",
+      "titulo": "Murder in Glitterball City",
+      "poster": "https://image.tmdb.org/t/p/w500/8o9RVrJgoMU6rbbyhTC5H6hr95h.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "documental"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "n-mesis",
+      "type": "serie",
+      "titulo": "Némesis",
+      "poster": "https://image.tmdb.org/t/p/w500/rckS1DiKMVaYkkpIdE5D2wHirBv.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "accion",
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "pelayo-m-s-all-del-l-mite",
+      "type": "serie",
+      "titulo": "Pelayo: Más allá del límite",
+      "poster": "https://image.tmdb.org/t/p/w500/fNxvkDtJKUXIPZaVHVSNacktBRV.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "documental",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "piek-o-kobiet",
+      "type": "serie",
+      "titulo": "Piekło kobiet",
+      "poster": "https://image.tmdb.org/t/p/w500/ni4PIYl6P6kjQpFOzZp3fbfZf6S.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "misterio"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "ponies",
+      "type": "serie",
+      "titulo": "Ponies",
+      "poster": "https://image.tmdb.org/t/p/w500/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "por-cien-millones",
+      "type": "serie",
+      "titulo": "Por cien millones",
+      "poster": "https://image.tmdb.org/t/p/w500/c6dqAOAwaOvxYjSQSIewXOyrC48.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "portobello",
+      "type": "serie",
+      "titulo": "Portobello",
+      "poster": "https://image.tmdb.org/t/p/w500/3GhuMtzXBw5eW4fSi8wwmgSouXD.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "prisoner",
+      "type": "serie",
+      "titulo": "Prisoner",
+      "poster": "https://image.tmdb.org/t/p/w500/zDjl6FOCuCy8gyug54VDlLgxa1l.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "recal",
+      "type": "serie",
+      "titulo": "Recalé",
+      "poster": "https://image.tmdb.org/t/p/w500/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "crimen"
+      ],
+      "rating": ""
+    }
+  ]
+}

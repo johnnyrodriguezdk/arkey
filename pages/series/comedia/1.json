@@ -1,1 +1,488 @@
-{"page":1,"total_pages":1,"total":3,"data":[{"id":2139685836,"titulo":"The WONDERfools","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg","release_date":"2026-01-01","genres":["comedia","sci-fi-fantasy","drama","drama"],"rating":"4"},{"id":1312836933,"titulo":"Mi némesis con aires de realeza","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/gRkBqyHrIqcjsIoTdbRmWgxMKpV.jpg","release_date":"2026-01-01","genres":["drama","comedia","sci-fi-fantasy"],"rating":""},{"id":1441337576,"titulo":"Un show más: Las cintas perdidas","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/fQX1grWHT7W603p2GRQCUGaPs3J.jpg","release_date":"2026-01-01","genres":["animacion","comedia","sci-fi-fantasy"],"rating":""}]}
+{
+  "page": 1,
+  "total_pages": 4,
+  "total": 130,
+  "data": [
+    {
+      "slug": "alkhallat-la-serie",
+      "type": "serie",
+      "titulo": "Alkhallat+: la serie",
+      "poster": "https://image.tmdb.org/t/p/w500/5t1g6ramHYGQd75jSwugoCvpw5e.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "amor-de-oficina",
+      "type": "serie",
+      "titulo": "Amor de oficina",
+      "poster": "https://image.tmdb.org/t/p/w500/drpeMcOyFlaoSP2R5ZkWgbqLfDK.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "barrio-esperanza",
+      "type": "serie",
+      "titulo": "Barrio Esperanza",
+      "poster": "https://image.tmdb.org/t/p/w500/oIT5meYMxaNPi8X6YgEVcyDsfTa.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "berl-n-y-la-dama-del-armi-o",
+      "type": "serie",
+      "titulo": "Berlín y la dama del armiño",
+      "poster": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "accion",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "cochinas",
+      "type": "serie",
+      "titulo": "Cochinas",
+      "poster": "https://image.tmdb.org/t/p/w500/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "c-mo-llegar-al-cielo-desde-belfast",
+      "type": "serie",
+      "titulo": "Cómo llegar al cielo desde Belfast",
+      "poster": "https://image.tmdb.org/t/p/w500/7A37vpIWIAQqaoFtnzaVSVKcaZ7.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "misterio",
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "dtf-st-louis",
+      "type": "serie",
+      "titulo": "DTF St. Louis",
+      "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-jurado-presenta-retiro-corporativo",
+      "type": "serie",
+      "titulo": "El jurado presenta: Retiro corporativo",
+      "poster": "https://image.tmdb.org/t/p/w500/nunEk2OXJWMaqZVYYmpY5emuZR3.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-se-uelo",
+      "type": "serie",
+      "titulo": "El señuelo",
+      "poster": "https://image.tmdb.org/t/p/w500/frRY7FwU8T3oxNu31lBDA9u73at.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-tiempo-de-las-moscas",
+      "type": "serie",
+      "titulo": "El tiempo de las moscas",
+      "poster": "https://image.tmdb.org/t/p/w500/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "errores-picos",
+      "type": "serie",
+      "titulo": "Errores épicos",
+      "poster": "https://image.tmdb.org/t/p/w500/1tLPir3Na0TT1NgjuYXaUCeNYPV.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "esto-no-es-un-dating",
+      "type": "serie",
+      "titulo": "Esto no es un dating",
+      "poster": "https://image.tmdb.org/t/p/w500/scWOqGRLhFhsZA7r4WdYzNsShSj.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "fiebre-de-primavera",
+      "type": "serie",
+      "titulo": "Fiebre de primavera",
+      "poster": "https://image.tmdb.org/t/p/w500/sj7Gb79b5f45EC4IQBQPqJjLjNP.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "free-bert",
+      "type": "serie",
+      "titulo": "Free Bert",
+      "poster": "https://image.tmdb.org/t/p/w500/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "humana-por-accidente",
+      "type": "serie",
+      "titulo": "Humana por accidente",
+      "poster": "https://image.tmdb.org/t/p/w500/wPqwfPOfJOMLFR1ZF2HL6mcpVas.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "la-corona-perfecta",
+      "type": "serie",
+      "titulo": "La corona perfecta",
+      "poster": "https://image.tmdb.org/t/p/w500/51EIbzw2pvsi73UXGtuHaZGJfQa.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "la-infiltrada-srta-hong",
+      "type": "serie",
+      "titulo": "La infiltrada Srta. Hong",
+      "poster": "https://image.tmdb.org/t/p/w500/nJ0gSaXfoiPFngy1ulCCuxsKt0q.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "la-maldici-n-de-widow-s-bay",
+      "type": "serie",
+      "titulo": "La maldición de Widow's Bay",
+      "poster": "https://image.tmdb.org/t/p/w500/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "la-oficina",
+      "type": "serie",
+      "titulo": "La oficina",
+      "poster": "https://image.tmdb.org/t/p/w500/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "lol-buscando-talento",
+      "type": "serie",
+      "titulo": "LOL Buscando Talento",
+      "poster": "https://image.tmdb.org/t/p/w500/70l4rLm9JHMoVncvfizfL8OT5CS.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "los-colorado",
+      "type": "serie",
+      "titulo": "Los Colorado",
+      "poster": "https://image.tmdb.org/t/p/w500/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "los-encantos-del-sinverg-enza",
+      "type": "serie",
+      "titulo": "Los encantos del sinvergüenza",
+      "poster": "https://image.tmdb.org/t/p/w500/o5qxoBRhFrBMmpwPGKFJ18KOUbe.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "lucky-luke",
+      "type": "serie",
+      "titulo": "Lucky Luke",
+      "poster": "https://image.tmdb.org/t/p/w500/3dCO02aOGaKTdwDJaXtqlGa1GlF.jpg",
+      "release_date": "1984-01-01",
+      "genres": [
+        "animacion",
+        "comedia",
+        "familia",
+        "western",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "luka-makan-cinta",
+      "type": "serie",
+      "titulo": "Luka, Makan, Cinta",
+      "poster": "https://image.tmdb.org/t/p/w500/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "malcolm-el-de-en-medio-la-vida-sigue-siendo-injusta",
+      "type": "serie",
+      "titulo": "Malcolm el de en Medio: La vida sigue siendo injusta",
+      "poster": "https://image.tmdb.org/t/p/w500/hsRxfDXuecLGIKxe9rz7aJSgRdD.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "margo-tiene-problemas-de-dinero",
+      "type": "serie",
+      "titulo": "Margo tiene problemas de dinero",
+      "poster": "https://image.tmdb.org/t/p/w500/zqUvfOQtaffnkQL0ZVKPD7Z1KIR.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "mel-brooks-the-99-year-old-man",
+      "type": "serie",
+      "titulo": "Mel Brooks: The 99 Year Old Man!",
+      "poster": "https://image.tmdb.org/t/p/w500/ujWVhJqBLxC2rwvqMrm93HTp9F.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "documental",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "mi-n-mesis-con-aires-de-realeza",
+      "type": "serie",
+      "titulo": "Mi némesis con aires de realeza",
+      "poster": "https://image.tmdb.org/t/p/w500/gRkBqyHrIqcjsIoTdbRmWgxMKpV.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "padre-no-hay-m-s-que-uno-la-serie",
+      "type": "serie",
+      "titulo": "Padre no hay más que uno, la serie",
+      "poster": "https://image.tmdb.org/t/p/w500/g1T4RXeChi27cc2abUdz3ufzcGi.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "por-cien-millones",
+      "type": "serie",
+      "titulo": "Por cien millones",
+      "poster": "https://image.tmdb.org/t/p/w500/c6dqAOAwaOvxYjSQSIewXOyrC48.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "rafaela-y-su-loco-mundo",
+      "type": "serie",
+      "titulo": "Rafaela y su loco mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/zLJhRK6cOwSaKTmww3Fr8MbNQjG.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "recal",
+      "type": "serie",
+      "titulo": "Recalé",
+      "poster": "https://image.tmdb.org/t/p/w500/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "rooster",
+      "type": "serie",
+      "titulo": "Rooster",
+      "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "scrubs",
+      "type": "serie",
+      "titulo": "Scrubs",
+      "poster": "https://image.tmdb.org/t/p/w500/538HtaGdkP8kVtrlP77bdfVSTwI.jpg",
+      "release_date": "2001-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "si-es-martes-es-asesinato",
+      "type": "serie",
+      "titulo": "Si es martes, es asesinato",
+      "poster": "https://image.tmdb.org/t/p/w500/8Yc9eR3DOGw4jokqHjA7vS1CERC.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "misterio"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-burbs",
+      "type": "serie",
+      "titulo": "The 'Burbs",
+      "poster": "https://image.tmdb.org/t/p/w500/q1Ere9Lash2d6aOMStkRHfsixZC.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "misterio"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-audacity",
+      "type": "serie",
+      "titulo": "The Audacity",
+      "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-fall-and-rise-of-reggie-dinkins",
+      "type": "serie",
+      "titulo": "The Fall and Rise of Reggie Dinkins",
+      "poster": "https://image.tmdb.org/t/p/w500/lrF8Ve4GoazCalfbrSY52tUIXSN.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-miniature-wife",
+      "type": "serie",
+      "titulo": "The Miniature Wife",
+      "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-other-bennet-sister",
+      "type": "serie",
+      "titulo": "The Other Bennet Sister",
+      "poster": "https://image.tmdb.org/t/p/w500/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia"
+      ],
+      "rating": ""
+    }
+  ]
+}

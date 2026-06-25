@@ -1,1 +1,418 @@
-{"page":1,"total_pages":1,"total":1,"data":[{"id":1251825847,"titulo":"Voltron: El defensor legendario","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/yWAGNuPuUWJT9gIQmGdZiTGJWzh.jpg","release_date":"2016-01-01","genres":["animacion","sci-fi-fantasy","familia"],"rating":"7.197"}]}
+{
+  "page": 1,
+  "total_pages": 1,
+  "total": 31,
+  "data": [
+    {
+      "slug": "lucky-luke",
+      "type": "serie",
+      "titulo": "Lucky Luke",
+      "poster": "https://image.tmdb.org/t/p/w500/3dCO02aOGaKTdwDJaXtqlGa1GlF.jpg",
+      "release_date": "1984-01-01",
+      "genres": [
+        "animacion",
+        "comedia",
+        "familia",
+        "western",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "mi-hermano-el-minotauro",
+      "type": "serie",
+      "titulo": "Mi hermano el minotauro",
+      "poster": "https://image.tmdb.org/t/p/w500/3rWAA1bJq7jeOtGU9B080uCJ3uv.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "familia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "padre-no-hay-m-s-que-uno-la-serie",
+      "type": "serie",
+      "titulo": "Padre no hay más que uno, la serie",
+      "poster": "https://image.tmdb.org/t/p/w500/g1T4RXeChi27cc2abUdz3ufzcGi.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-pendragon-cycle-rise-of-the-merlin",
+      "type": "serie",
+      "titulo": "The Pendragon Cycle: Rise of the Merlin",
+      "poster": "https://image.tmdb.org/t/p/w500/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "accion",
+        "familia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "vecinos",
+      "type": "serie",
+      "titulo": "Vecinos",
+      "poster": "https://image.tmdb.org/t/p/w500/c35P7xK3RQDINeHhSXqqKq3oKBk.jpg",
+      "release_date": "2005-01-01",
+      "genres": [
+        "comedia",
+        "familia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-maravillosamente-extra-o-mundo-de-gumball",
+      "type": "serie",
+      "titulo": "El maravillosamente extraño mundo de Gumball",
+      "poster": "https://image.tmdb.org/t/p/w500/zjon4kGt6L6mYu04fKVr0u07Fte.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "comedia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "las-aventuras-de-los-elegidos",
+      "type": "serie",
+      "titulo": "Las aventuras de Los Elegidos",
+      "poster": "https://image.tmdb.org/t/p/w500/qpEitrZdIWTgDMf70Q7UxYLuQl0.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "familia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "lego-marvel-avengers-strange-tails",
+      "type": "serie",
+      "titulo": "LEGO Marvel Avengers: Strange Tails",
+      "poster": "https://image.tmdb.org/t/p/w500/6MhzH93izyEvVO15qgM8UJNvY4z.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "familia",
+        "animacion",
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "los-tipos-malos-malos-comienzos",
+      "type": "serie",
+      "titulo": "Los tipos malos: Malos comienzos",
+      "poster": "https://image.tmdb.org/t/p/w500/ycdB6a7XGLhJjpkBFaRTLsGKw7H.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "crimen",
+        "comedia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "stugo",
+      "type": "serie",
+      "titulo": "StuGo",
+      "poster": "https://image.tmdb.org/t/p/w500/9wFxvTx9ge2Ge8AAnrztTQ9oKXZ.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "familia",
+        "animacion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "agent-p-under-c",
+      "type": "serie",
+      "titulo": "Agent P, Under C",
+      "poster": "https://image.tmdb.org/t/p/w500/8jjhsesZ6QUEv0pKD2GuLuvEt1x.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "accion",
+        "familia",
+        "animacion",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "jurassic-world-camp-cretaceous",
+      "type": "serie",
+      "titulo": "Jurassic World: Camp Cretaceous",
+      "poster": "https://image.tmdb.org/t/p/w500/sHMeoaJaPbGIBYxvcydTvzBNgKU.jpg",
+      "release_date": "2020-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "accion",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "aventuras-con-the-chosen",
+      "type": "serie",
+      "titulo": "Aventuras con The Chosen",
+      "poster": "https://image.tmdb.org/t/p/w500/qpEitrZdIWTgDMf70Q7UxYLuQl0.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "familia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "camp-snoopy",
+      "type": "serie",
+      "titulo": "Camp Snoopy",
+      "poster": "https://image.tmdb.org/t/p/w500/aAhLeyIBoCMHI4hwAx9MoYjDtlM.jpg",
+      "release_date": "2024-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-chosen-adventures",
+      "type": "serie",
+      "titulo": "The Chosen Adventures",
+      "poster": "https://image.tmdb.org/t/p/w500/qpEitrZdIWTgDMf70Q7UxYLuQl0.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "familia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-penguins-of-madagascar",
+      "type": "serie",
+      "titulo": "The Penguins of Madagascar",
+      "poster": "https://image.tmdb.org/t/p/w500/tW2JWu0RmdsSNYeiEtET6RqYOqx.jpg",
+      "release_date": "2008-01-01",
+      "genres": [
+        "animacion",
+        "comedia",
+        "familia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-pink-panther-show",
+      "type": "serie",
+      "titulo": "The Pink Panther Show",
+      "poster": "https://image.tmdb.org/t/p/w500/xuzz9yDTHl2Ox1f0YZsNwflaBGt.jpg",
+      "release_date": "1978-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "familia",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-simpsons",
+      "type": "serie",
+      "titulo": "The Simpsons",
+      "poster": "https://image.tmdb.org/t/p/w500/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+      "release_date": "1989-01-01",
+      "genres": [
+        "familia",
+        "animacion",
+        "comedia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "anne-shirley",
+      "type": "serie",
+      "titulo": "Anne Shirley",
+      "poster": "https://image.tmdb.org/t/p/w500/rwgWe6wAgP7JDbXdPNdrQO2UQT5.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "drama",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "c-mplices",
+      "type": "serie",
+      "titulo": "Cómplices",
+      "poster": "https://image.tmdb.org/t/p/w500/m2l2V1AUwx878DrvF2H0TblMj4X.jpg",
+      "release_date": "2002-01-01",
+      "genres": [
+        "drama",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "dr-seuss-s-horton",
+      "type": "serie",
+      "titulo": "Dr. Seuss's Horton!",
+      "poster": "https://image.tmdb.org/t/p/w500/tblqsEAgIy8l5q10Y7N5hOREsdc.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "hombre-vs-beb",
+      "type": "serie",
+      "titulo": "Hombre vs. Bebé",
+      "poster": "https://image.tmdb.org/t/p/w500/15g7XBiKyzHh9D6ZV5kls5JyVJz.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "comedia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "sicily-express",
+      "type": "serie",
+      "titulo": "Sicily Express",
+      "poster": "https://image.tmdb.org/t/p/w500/vstqyaV9p0hSbSJWY4VyAuQ7z8L.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "comedia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "alf",
+      "type": "serie",
+      "titulo": "ALF",
+      "poster": "https://image.tmdb.org/t/p/w500/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg",
+      "release_date": "1986-01-01",
+      "genres": [
+        "familia",
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "merlina",
+      "type": "serie",
+      "titulo": "Merlina",
+      "poster": "https://image.tmdb.org/t/p/w500/oJvYWuL94S4n6KAICe0sexYp3UL.jpg",
+      "release_date": "1983-01-01",
+      "genres": [
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-chosen",
+      "type": "serie",
+      "titulo": "The Chosen",
+      "poster": "https://image.tmdb.org/t/p/w500/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "release_date": "2019-01-01",
+      "genres": [
+        "accion",
+        "familia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "galacticos",
+      "type": "serie",
+      "titulo": "Galacticos",
+      "poster": "https://image.tmdb.org/t/p/w500/ibwEwyl2OclWOhANHqUgiuB7CtY.jpg",
+      "release_date": "1986-01-01",
+      "genres": [
+        "animacion",
+        "accion",
+        "sci-fi-fantasy",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "padre-no-hay-m-s-que-uno-la-serie",
+      "type": "serie",
+      "titulo": "Padre no hay más que uno, la serie",
+      "poster": "https://image.tmdb.org/t/p/w500/g1T4RXeChi27cc2abUdz3ufzcGi.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "playback-una-somos-dos",
+      "type": "serie",
+      "titulo": "Playback: Una somos dos",
+      "poster": "https://image.tmdb.org/t/p/w500/zY115hZIOJ7O1KW2L6nva2x3AjM.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "familia",
+        "comedia",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "percy-jackson-and-the-olympians",
+      "type": "serie",
+      "titulo": "Percy Jackson and the Olympians",
+      "poster": "https://image.tmdb.org/t/p/w500/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
+      "release_date": "2023-01-01",
+      "genres": [
+        "accion",
+        "sci-fi-fantasy",
+        "drama",
+        "familia"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-pendragon-cycle-rise-of-the-merlin",
+      "type": "serie",
+      "titulo": "The Pendragon Cycle: Rise of the Merlin",
+      "poster": "https://image.tmdb.org/t/p/w500/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "accion",
+        "familia",
+        "drama"
+      ],
+      "rating": ""
+    }
+  ]
+}

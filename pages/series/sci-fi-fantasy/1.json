@@ -1,1 +1,533 @@
-{"page":1,"total_pages":1,"total":4,"data":[{"id":2139685836,"titulo":"The WONDERfools","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg","release_date":"2026-01-01","genres":["comedia","sci-fi-fantasy","drama","drama"],"rating":"4"},{"id":1312836933,"titulo":"Mi némesis con aires de realeza","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/gRkBqyHrIqcjsIoTdbRmWgxMKpV.jpg","release_date":"2026-01-01","genres":["drama","comedia","sci-fi-fantasy"],"rating":""},{"id":1441337576,"titulo":"Un show más: Las cintas perdidas","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/fQX1grWHT7W603p2GRQCUGaPs3J.jpg","release_date":"2026-01-01","genres":["animacion","comedia","sci-fi-fantasy"],"rating":""},{"id":1251825847,"titulo":"Voltron: El defensor legendario","titulo_orig":"","poster":"https://image.tmdb.org/t/p/w500/yWAGNuPuUWJT9gIQmGdZiTGJWzh.jpg","release_date":"2016-01-01","genres":["animacion","sci-fi-fantasy","familia"],"rating":"7.197"}]}
+{
+  "page": 1,
+  "total_pages": 3,
+  "total": 83,
+  "data": [
+    {
+      "slug": "algo-terrible-est-a-punto-de-suceder",
+      "type": "serie",
+      "titulo": "Algo terrible está a punto de suceder",
+      "poster": "https://image.tmdb.org/t/p/w500/6a89uiHWkYE2DQvZfTAP8HrzGUT.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "baki-dou-el-samur-i-invencible",
+      "type": "serie",
+      "titulo": "Baki-Dou: El samurái invencible",
+      "poster": "https://image.tmdb.org/t/p/w500/qjfAG3NAOK2wPLMqz1Z81SBTJfB.jpg",
+      "release_date": "2021-01-01",
+      "genres": [
+        "animacion",
+        "accion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "belleza-perfecta",
+      "type": "serie",
+      "titulo": "Belleza perfecta",
+      "poster": "https://image.tmdb.org/t/p/w500/52OoN8hj5jSllNxZRACxIVIenuG.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "dark-moon-the-blood-altar",
+      "type": "serie",
+      "titulo": "DARK MOON: THE BLOOD ALTAR",
+      "poster": "https://image.tmdb.org/t/p/w500/qgy4z9HsdotSpVUy44ZMUt7J9tL.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "dead-account",
+      "type": "serie",
+      "titulo": "Dead Account",
+      "poster": "https://image.tmdb.org/t/p/w500/3KxyECISY5arB72ADxUuY4DUwJL.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "drama",
+        "accion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-agente-divino",
+      "type": "serie",
+      "titulo": "El agente divino",
+      "poster": "https://image.tmdb.org/t/p/w500/efFwhZ9uOCYVG3VSjBoLBqRypDv.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "accion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-caballero-de-los-siete-reinos",
+      "type": "serie",
+      "titulo": "El Caballero de los Siete Reinos",
+      "poster": "https://image.tmdb.org/t/p/w500/pKWuCnx1DAjLFamTdYVRfK0cck6.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-incidente-darwin",
+      "type": "serie",
+      "titulo": "El Incidente Darwin",
+      "poster": "https://image.tmdb.org/t/p/w500/5CtiUIEWnJQPORkOQR0LSBYUYpS.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-se-uelo",
+      "type": "serie",
+      "titulo": "El señuelo",
+      "poster": "https://image.tmdb.org/t/p/w500/frRY7FwU8T3oxNu31lBDA9u73at.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "humana-por-accidente",
+      "type": "serie",
+      "titulo": "Humana por accidente",
+      "poster": "https://image.tmdb.org/t/p/w500/wPqwfPOfJOMLFR1ZF2HL6mcpVas.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "comedia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "kiss-me",
+      "type": "serie",
+      "titulo": "Kiss Me",
+      "poster": "https://image.tmdb.org/t/p/w500/n0TaW56I85I7PjBRpdnJN2hv8Wi.jpg",
+      "release_date": "2018-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "mi-hermano-el-minotauro",
+      "type": "serie",
+      "titulo": "Mi hermano el minotauro",
+      "poster": "https://image.tmdb.org/t/p/w500/3rWAA1bJq7jeOtGU9B080uCJ3uv.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "familia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "mi-n-mesis-con-aires-de-realeza",
+      "type": "serie",
+      "titulo": "Mi némesis con aires de realeza",
+      "poster": "https://image.tmdb.org/t/p/w500/gRkBqyHrIqcjsIoTdbRmWgxMKpV.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "comedia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "star-trek-starfleet-academy",
+      "type": "serie",
+      "titulo": "Star Trek: Starfleet Academy",
+      "poster": "https://image.tmdb.org/t/p/w500/vmo8SYv8AacIViGZ6hj0d3mxuYN.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "star-wars-maul-se-or-de-las-sombras",
+      "type": "serie",
+      "titulo": "Star Wars: Maul - Señor de las sombras",
+      "poster": "https://image.tmdb.org/t/p/w500/9T4ECKFMBWqT7msxdaCGtsa3g5R.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "accion",
+        "animacion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "stranger-things-relatos-del-85",
+      "type": "serie",
+      "titulo": "Stranger Things: Relatos del 85",
+      "poster": "https://image.tmdb.org/t/p/w500/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "sci-fi-fantasy",
+        "misterio",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-pendragon-cycle-rise-of-the-merlin",
+      "type": "serie",
+      "titulo": "The Pendragon Cycle: Rise of the Merlin",
+      "poster": "https://image.tmdb.org/t/p/w500/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "accion",
+        "familia",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-wonderfools",
+      "type": "serie",
+      "titulo": "The WONDERfools",
+      "poster": "https://image.tmdb.org/t/p/w500/zEZuIW4UDU9OHTwN7zMf8BE5tOF.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "accion",
+        "comedia",
+        "sci-fi-fantasy",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "un-novio-por-suscripci-n",
+      "type": "serie",
+      "titulo": "Un novio por suscripción",
+      "poster": "https://image.tmdb.org/t/p/w500/hqIXo0s2gof6UxWDWeiP4d3rMr0.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "comedia",
+        "sci-fi-fantasy",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "un-show-m-s-las-cintas-perdidas",
+      "type": "serie",
+      "titulo": "Un Show Más: Las Cintas Perdidas",
+      "poster": "https://image.tmdb.org/t/p/w500/fQX1grWHT7W603p2GRQCUGaPs3J.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "comedia",
+        "accion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
+      "type": "serie",
+      "titulo": "Yuusha Party wo Oidasareta Kiyoubinbou",
+      "poster": "https://image.tmdb.org/t/p/w500/7eVq3cC9V5ZUl7FOXJ5U3OA5YNh.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "accion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
+      "type": "serie",
+      "titulo": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "poster": "https://image.tmdb.org/t/p/w500/juGNOhRx7MXg3i2NuZ9lR6arVQw.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-eternauta-2025",
+      "type": "serie",
+      "titulo": "El Eternauta (2025)",
+      "poster": "https://image.tmdb.org/t/p/w500/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "accion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "outlander",
+      "type": "serie",
+      "titulo": "Outlander",
+      "poster": "https://image.tmdb.org/t/p/w500/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
+      "release_date": "2014-01-01",
+      "genres": [
+        "drama",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "stranger-things",
+      "type": "serie",
+      "titulo": "Stranger Things",
+      "poster": "https://image.tmdb.org/t/p/w500/1sRJ8D1vpXE5WQBGrUBky3uUwvX.jpg",
+      "release_date": "2016-01-01",
+      "genres": [
+        "accion",
+        "misterio",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "la-casa-del-drag-n",
+      "type": "serie",
+      "titulo": "La casa del dragón",
+      "poster": "https://image.tmdb.org/t/p/w500/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "release_date": "2022-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "drama",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "juego-de-tronos",
+      "type": "serie",
+      "titulo": "Juego de tronos",
+      "poster": "https://image.tmdb.org/t/p/w500/3hDtRuwTfQQYRst3kjhvp4Cogjw.jpg",
+      "release_date": "2011-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "drama",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-maravillosamente-extra-o-mundo-de-gumball",
+      "type": "serie",
+      "titulo": "El maravillosamente extraño mundo de Gumball",
+      "poster": "https://image.tmdb.org/t/p/w500/zjon4kGt6L6mYu04fKVr0u07Fte.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "familia",
+        "comedia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "fortnite-x-los-simpson",
+      "type": "serie",
+      "titulo": "Fortnite x Los Simpson",
+      "poster": "https://image.tmdb.org/t/p/w500/g9vIuO3Fe52X6hXbiNuw0He11yh.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "comedia",
+        "animacion",
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "lego-marvel-avengers-strange-tails",
+      "type": "serie",
+      "titulo": "LEGO Marvel Avengers: Strange Tails",
+      "poster": "https://image.tmdb.org/t/p/w500/6MhzH93izyEvVO15qgM8UJNvY4z.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "familia",
+        "animacion",
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "invencible",
+      "type": "serie",
+      "titulo": "Invencible",
+      "poster": "https://image.tmdb.org/t/p/w500/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+      "release_date": "2021-01-01",
+      "genres": [
+        "animacion",
+        "drama",
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "rick-and-morty",
+      "type": "serie",
+      "titulo": "Rick and Morty",
+      "poster": "https://image.tmdb.org/t/p/w500/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "release_date": "2013-01-01",
+      "genres": [
+        "animacion",
+        "comedia",
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-incidente-darwin",
+      "type": "serie",
+      "titulo": "El incidente Darwin",
+      "poster": "https://image.tmdb.org/t/p/w500/5CtiUIEWnJQPORkOQR0LSBYUYpS.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "animacion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "futurama",
+      "type": "serie",
+      "titulo": "Futurama",
+      "poster": "https://image.tmdb.org/t/p/w500/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+      "release_date": "1999-01-01",
+      "genres": [
+        "animacion",
+        "comedia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "chanto-suenai-kyuuketsuki-chan",
+      "type": "serie",
+      "titulo": "Chanto Suenai Kyuuketsuki-chan",
+      "poster": "https://image.tmdb.org/t/p/w500/4ldkUuEe5YqrJ6QwIxCFBSfv9wV.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "comedia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "gnosia",
+      "type": "serie",
+      "titulo": "Gnosia",
+      "poster": "https://image.tmdb.org/t/p/w500/2D4j3VlE2ZzNroic5imNLBQXGi.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "misterio",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "kimi-to-koete-koi-ni-naru",
+      "type": "serie",
+      "titulo": "Kimi to Koete Koi ni Naru",
+      "poster": "https://image.tmdb.org/t/p/w500/l8YQfVfTKtWnBS54cvHlCLeUidc.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "drama",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "lazarus",
+      "type": "serie",
+      "titulo": "Lazarus",
+      "poster": "https://image.tmdb.org/t/p/w500/ActpqKbShWGYNDRsCjTueRixlrr.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "accion",
+        "animacion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "tatsuki-fujimoto-17-26",
+      "type": "serie",
+      "titulo": "Tatsuki Fujimoto 17-26",
+      "poster": "https://image.tmdb.org/t/p/w500/l27JS4B5odqZydcQrXiYeNqnB0d.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "drama",
+        "comedia",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-mighty-nein",
+      "type": "serie",
+      "titulo": "The Mighty Nein",
+      "poster": "https://image.tmdb.org/t/p/w500/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "animacion",
+        "accion",
+        "sci-fi-fantasy"
+      ],
+      "rating": ""
+    }
+  ]
+}

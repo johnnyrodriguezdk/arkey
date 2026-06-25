@@ -1,0 +1,498 @@
+{
+  "page": 3,
+  "total_pages": 4,
+  "total": 152,
+  "data": [
+    {
+      "slug": "sol-negro",
+      "type": "serie",
+      "titulo": "Sol negro",
+      "poster": "https://image.tmdb.org/t/p/w500/yBpEGM0DpKCZx5dnFX5Q6omV4HK.jpg",
+      "release_date": "2003-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "black-rabbit",
+      "type": "serie",
+      "titulo": "Black Rabbit",
+      "poster": "https://image.tmdb.org/t/p/w500/yUd957QtHo2TVY7k17o3nZ6DmzM.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "demasiado",
+      "type": "serie",
+      "titulo": "Demasiado",
+      "poster": "https://image.tmdb.org/t/p/w500/gwM2wE1LCY2MRWlglkl5FToIF3i.jpg",
+      "release_date": "1997-01-01",
+      "genres": [
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "apuesta",
+      "type": "serie",
+      "titulo": "Apuesta",
+      "poster": "https://image.tmdb.org/t/p/w500/6r0PeNrf8YtkAtCnIt58CEhELE8.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-adn-del-delito",
+      "type": "serie",
+      "titulo": "El ADN del delito",
+      "poster": "https://image.tmdb.org/t/p/w500/sKETyavKQOqsxaA2lq3T3iGnvTC.jpg",
+      "release_date": "2023-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "barracuda-queens",
+      "type": "serie",
+      "titulo": "Barracuda Queens",
+      "poster": "https://image.tmdb.org/t/p/w500/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+      "release_date": "2023-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "vivir-sin-permiso",
+      "type": "serie",
+      "titulo": "Vivir sin permiso",
+      "poster": "https://image.tmdb.org/t/p/w500/58Z3KlTeOe1rHwa6x3xSRRVTIXk.jpg",
+      "release_date": "2018-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "atentado-de-londres-la-caceria-tras-las-bombas-del-7-7",
+      "type": "serie",
+      "titulo": "Atentado de Londres: la caceria tras las bombas del 7/7",
+      "poster": "https://image.tmdb.org/t/p/w500/rJGFiBuLAr8wZRL4u6esqeZivNm.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "documental",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "solo-una-mirada",
+      "type": "serie",
+      "titulo": "Solo una mirada",
+      "poster": "https://image.tmdb.org/t/p/w500/rQ0K2m5ofSTEKHW3ELqhObjAjNf.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "misterio",
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "dna-do-crime",
+      "type": "serie",
+      "titulo": "DNA DO CRIME",
+      "poster": "https://image.tmdb.org/t/p/w500/sKETyavKQOqsxaA2lq3T3iGnvTC.jpg",
+      "release_date": "2023-01-01",
+      "genres": [
+        "drama",
+        "crimen",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "prison-break",
+      "type": "serie",
+      "titulo": "Prison Break",
+      "poster": "https://image.tmdb.org/t/p/w500/oqy7vnLWIFwoKBimCQfJHoVRYTS.jpg",
+      "release_date": "2005-01-01",
+      "genres": [
+        "accion",
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-investigador-con-millones-de-seguidores",
+      "type": "serie",
+      "titulo": "El investigador con millones de seguidores",
+      "poster": "https://image.tmdb.org/t/p/w500/bEUIoWHzkcxkrIEAqDZtVSKCuyS.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "godfather-of-harlem",
+      "type": "serie",
+      "titulo": "Godfather of Harlem",
+      "poster": "https://image.tmdb.org/t/p/w500/VhACYfMldohwyMo0XzmCs1xYgU.jpg",
+      "release_date": "2019-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "debanhi-qui-n-mat-a-nuestra-hija",
+      "type": "serie",
+      "titulo": "Debanhi: ¿Quién mató a nuestra hija?",
+      "poster": "https://image.tmdb.org/t/p/w500/wyrtuVCcAmcgLPquvT2Pzr5knFz.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "documental",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "devil-in-disguise-john-wayne-gacy",
+      "type": "serie",
+      "titulo": "Devil in Disguise: John Wayne Gacy",
+      "poster": "https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "escenas-de-un-crimen",
+      "type": "serie",
+      "titulo": "Escenas de un crimen",
+      "poster": "https://image.tmdb.org/t/p/w500/iZezQhv4QhjFqDI205zNUziqcCd.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "flukten-fra-bolivia",
+      "type": "serie",
+      "titulo": "Flukten fra Bolivia",
+      "poster": "https://image.tmdb.org/t/p/w500/rUrt2F6PBfgnI7e1mOcmsxOryPn.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-friday-the-13th-murders",
+      "type": "serie",
+      "titulo": "The Friday the 13th Murders",
+      "poster": "https://image.tmdb.org/t/p/w500/nKiGQ9UOgUw8sw7sPO0dQogg6l8.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "crimen",
+        "documental"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "ngela-diniz-assassinada-e-condenada",
+      "type": "serie",
+      "titulo": "Ângela Diniz: Assassinada e Condenada",
+      "poster": "https://image.tmdb.org/t/p/w500/fY8KEmdJjHbP564TOsX1HofAdZv.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "ciudad-de-dios",
+      "type": "serie",
+      "titulo": "ciudad de dios",
+      "poster": "https://image.tmdb.org/t/p/w500/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",
+      "release_date": "2024-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "los-asesinatos-de-la-tienda-de-yogur",
+      "type": "serie",
+      "titulo": "Los asesinatos de la tienda de yogur",
+      "poster": "https://image.tmdb.org/t/p/w500/1kwrF2Hd6FBHUjS9EgUg2jrkmRf.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "documental",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "malditos",
+      "type": "serie",
+      "titulo": "Malditos",
+      "poster": "https://image.tmdb.org/t/p/w500/5erzJrE8lpoK7YMDSpqCcUv5FJv.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-outsider-el-visitante",
+      "type": "serie",
+      "titulo": "The outsider (El visitante)",
+      "poster": "https://image.tmdb.org/t/p/w500/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg",
+      "release_date": "2020-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "banksters",
+      "type": "serie",
+      "titulo": "Banksters",
+      "poster": "https://image.tmdb.org/t/p/w500/3hGT2xZdWiG0bSnjUG5cRd0wXkd.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "devil-in-disguise-john-wayne-gacy",
+      "type": "serie",
+      "titulo": "Devil in Disguise: John Wayne Gacy",
+      "poster": "https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "imperfect-women",
+      "type": "serie",
+      "titulo": "Imperfect Women",
+      "poster": "https://image.tmdb.org/t/p/w500/hD3M24I0AJm0ZKzrZ0N7p18fkPO.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-lincoln-lawyer",
+      "type": "serie",
+      "titulo": "The Lincoln Lawyer",
+      "poster": "https://image.tmdb.org/t/p/w500/w4kfFjqanJuvkVOg1nb2ag1VG2e.jpg",
+      "release_date": "2022-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "a-killer-among-friends",
+      "type": "serie",
+      "titulo": "A Killer Among Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/eK2EsnQ7bSiSoRbUNENHtYf9WqU.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "crimen",
+        "documental"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "all-her-fault",
+      "type": "serie",
+      "titulo": "All Her Fault",
+      "poster": "https://image.tmdb.org/t/p/w500/rXimJTvyUsXRhPI3SD2B0sltUUX.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "bookish",
+      "type": "serie",
+      "titulo": "Bookish",
+      "poster": "https://image.tmdb.org/t/p/w500/9StiB7RgLunR7EcMM3i6C9yCUou.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "crimen",
+        "misterio",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "death-by-lightning",
+      "type": "serie",
+      "titulo": "Death by Lightning",
+      "poster": "https://image.tmdb.org/t/p/w500/YJzH2fGt96ExpRNcIp1yyTqB3n.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "down-cemetery-road-el-misterio-de-oxford",
+      "type": "serie",
+      "titulo": "Down Cemetery Road: El misterio de Oxford",
+      "poster": "https://image.tmdb.org/t/p/w500/bvqQ1MGg2WjZWQ2QEd0vMRvqm2L.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "el-imperio-de-msterdam",
+      "type": "serie",
+      "titulo": "El imperio de Ámsterdam",
+      "poster": "https://image.tmdb.org/t/p/w500/8qaf4GIj6Nt5lMMe5rycQRpiaNd.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "glina-nowy-rozdzia",
+      "type": "serie",
+      "titulo": "Glina. Nowy rozdział",
+      "poster": "https://image.tmdb.org/t/p/w500/bRojnurH5NfaOiXAZGGbQ8RTbv9.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "crimen",
+        "accion",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "kaosun-anatomisi",
+      "type": "serie",
+      "titulo": "Kaosun Anatomisi",
+      "poster": "https://image.tmdb.org/t/p/w500/z8mk1BCFDg6IF625t3mJhat5Cyq.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "crimen",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "maigret",
+      "type": "serie",
+      "titulo": "Maigret",
+      "poster": "https://image.tmdb.org/t/p/w500/pskC2szlKUS52mnz4GLrwKcr7Di.jpg",
+      "release_date": "1960-01-01",
+      "genres": [
+        "crimen",
+        "drama",
+        "misterio"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "sean-combs-ajuste-de-cuentas",
+      "type": "serie",
+      "titulo": "Sean Combs: Ajuste de cuentas",
+      "poster": "https://image.tmdb.org/t/p/w500/7xBpUzZ2DYxMh5po3jO4QtGwt4U.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "documental",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "silencio",
+      "type": "serie",
+      "titulo": "Silencio",
+      "poster": "https://image.tmdb.org/t/p/w500/jioXDo5kOhhAyB28lWv0zluaCgC.jpg",
+      "release_date": "2023-01-01",
+      "genres": [
+        "drama",
+        "misterio",
+        "crimen"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "the-iris-affair",
+      "type": "serie",
+      "titulo": "The Iris Affair",
+      "poster": "https://image.tmdb.org/t/p/w500/AuIJ9Da6TQinu5cZVz20JHDAmGs.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "crimen",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "trememb",
+      "type": "serie",
+      "titulo": "Tremembé",
+      "poster": "https://image.tmdb.org/t/p/w500/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
+      "release_date": "2025-01-01",
+      "genres": [
+        "drama",
+        "crimen"
+      ],
+      "rating": ""
+    }
+  ]
+}

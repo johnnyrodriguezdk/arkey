@@ -1,0 +1,43 @@
+{
+  "page": 3,
+  "total_pages": 3,
+  "total": 83,
+  "data": [
+    {
+      "slug": "halo",
+      "type": "serie",
+      "titulo": "Halo",
+      "poster": "https://image.tmdb.org/t/p/w500/lfTm372lHNjQnnUwpdumVfUB0rh.jpg",
+      "release_date": "2022-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "star-trek-strange-new-worlds",
+      "type": "serie",
+      "titulo": "Star Trek: Strange New Worlds",
+      "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "release_date": "2022-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "drama"
+      ],
+      "rating": ""
+    },
+    {
+      "slug": "star-trek-starfleet-academy",
+      "type": "serie",
+      "titulo": "Star Trek: Starfleet Academy",
+      "poster": "https://image.tmdb.org/t/p/w500/vmo8SYv8AacIViGZ6hj0d3mxuYN.jpg",
+      "release_date": "2026-01-01",
+      "genres": [
+        "sci-fi-fantasy",
+        "accion"
+      ],
+      "rating": ""
+    }
+  ]
+}
