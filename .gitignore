@@ -1,0 +1,13 @@
+# Archivos derivados (regenerados en runtime, no son código fuente)
+# search/: combinado por bflix_build.py desde los chunks de pages/
+search/movies/all.json
+search/movies/all.json.gz
+search/series/all.json
+search/series/all.json.gz
+search/animes/all.json
+search/animes/all.json.gz
+search/manifest.json
+
+# channels_fallbacks.json: regenerado por el cron CAELUM cada 1h
+channels_fallbacks.json
+
