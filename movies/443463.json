@@ -1,1 +1,207 @@
-{"id":443463,"titulo":"Sin Rastro","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/2ldnd5R5x6wWKfvhhKa59UmIc6P.jpg","release_date":"2018-06-29","genres":["drama"],"rating":"6.8","backdrop":"https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg","overview":"Un padre y su hija de 13 años viven una vida paradisíaca en un parque enorme de Portland, Oregon, hasta que un pequeño error complica sus vidas para siempre.","trailer":"","runtime":"109","slug":"sin-rastro","servidores":[{"id":1,"url":"https://streamwish.to/e/h48kvbq7w9eh","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"h48kvbq7w9eh","player_url":"https://streamwish.to/e/h48kvbq7w9eh"},{"id":2,"url":"https://bysejikuar.com/e/5fspsgac59wl","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"5fspsgac59wl","player_url":"https://bysejikuar.com/e/5fspsgac59wl"},{"id":3,"url":"https://voe.sx/e/xiq1o9vcstf2","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"xiq1o9vcstf2","player_url":"https://voe.sx/e/xiq1o9vcstf2"},{"id":4,"url":"https://doodstream.com/e/yf7991ujcudb","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"yf7991ujcudb","player_url":"https://doodstream.com/e/yf7991ujcudb"},{"id":5,"url":"https://streamwish.to/e/ere5txqonxqg","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"ere5txqonxqg","player_url":"https://streamwish.to/e/ere5txqonxqg"},{"id":6,"url":"https://bysejikuar.com/e/6z3mh7lchua6","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"6z3mh7lchua6","player_url":"https://bysejikuar.com/e/6z3mh7lchua6"},{"id":7,"url":"https://streamwish.to/e/mcsanrnb6tqw","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"mcsanrnb6tqw","player_url":"https://streamwish.to/e/mcsanrnb6tqw"},{"id":8,"url":"https://bysejikuar.com/e/ota1ggaensj6","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"ota1ggaensj6","player_url":"https://bysejikuar.com/e/ota1ggaensj6"},{"id":9,"url":"https://voe.sx/e/aysrhyyzgyeg","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"aysrhyyzgyeg","player_url":"https://voe.sx/e/aysrhyyzgyeg"}]}
+{
+  "id": 443463,
+  "titulo": "Sin Rastro",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/2ldnd5R5x6wWKfvhhKa59UmIc6P.jpg",
+  "release_date": "2018-06-29",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.8",
+  "backdrop": "https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg",
+  "overview": "Un padre y su hija de 13 años viven una vida paradisíaca en un parque enorme de Portland, Oregon, hasta que un pequeño error complica sus vidas para siempre.",
+  "trailer": "",
+  "runtime": "109",
+  "slug": "sin-rastro",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/h48kvbq7w9eh",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "h48kvbq7w9eh",
+      "player_url": "https://streamwish.to/e/h48kvbq7w9eh"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/5fspsgac59wl",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "5fspsgac59wl",
+      "player_url": "https://bysejikuar.com/e/5fspsgac59wl"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/xiq1o9vcstf2",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "xiq1o9vcstf2",
+      "player_url": "https://voe.sx/e/xiq1o9vcstf2"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/yf7991ujcudb",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "yf7991ujcudb",
+      "player_url": "https://doodstream.com/e/yf7991ujcudb"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/ere5txqonxqg",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "ere5txqonxqg",
+      "player_url": "https://streamwish.to/e/ere5txqonxqg"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/6z3mh7lchua6",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "6z3mh7lchua6",
+      "player_url": "https://bysejikuar.com/e/6z3mh7lchua6"
+    },
+    {
+      "id": 7,
+      "url": "https://streamwish.to/e/mcsanrnb6tqw",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "mcsanrnb6tqw",
+      "player_url": "https://streamwish.to/e/mcsanrnb6tqw"
+    },
+    {
+      "id": 8,
+      "url": "https://bysejikuar.com/e/ota1ggaensj6",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "ota1ggaensj6",
+      "player_url": "https://bysejikuar.com/e/ota1ggaensj6"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/aysrhyyzgyeg",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "aysrhyyzgyeg",
+      "player_url": "https://voe.sx/e/aysrhyyzgyeg"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/download/h4tvlbl9gecr",
+      "player_url": "https://minochinos.com/download/h4tvlbl9gecr",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "h4tvlbl9gecr"
+    },
+    {
+      "id": 11,
+      "url": "https://ghbrisk.com/d/c4dwehajwwct",
+      "player_url": "https://ghbrisk.com/d/c4dwehajwwct",
+      "nombre": "Ghbrisk",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c4dwehajwwct"
+    },
+    {
+      "id": 12,
+      "url": "https://bysedikamoum.com/download/t2xk6s4szi22",
+      "player_url": "https://bysedikamoum.com/download/t2xk6s4szi22",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "t2xk6s4szi22"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/e/1ci69vrnsp1p",
+      "player_url": "https://voe.sx/e/1ci69vrnsp1p",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1ci69vrnsp1p"
+    },
+    {
+      "id": 14,
+      "url": "https://voe.sx/1ci69vrnsp1p/download",
+      "player_url": "https://voe.sx/1ci69vrnsp1p/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 15,
+      "url": "https://rapidvideo.link/e/25hdgufbwac3",
+      "player_url": "https://rapidvideo.link/e/25hdgufbwac3",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "25hdgufbwac3"
+    },
+    {
+      "id": 16,
+      "url": "https://minochinos.com/download/2r72e7shggvr",
+      "player_url": "https://minochinos.com/download/2r72e7shggvr",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "2r72e7shggvr"
+    },
+    {
+      "id": 17,
+      "url": "https://ghbrisk.com/d/l92yn9lsk2wi",
+      "player_url": "https://ghbrisk.com/d/l92yn9lsk2wi",
+      "nombre": "Ghbrisk",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l92yn9lsk2wi"
+    },
+    {
+      "id": 18,
+      "url": "https://bysedikamoum.com/download/qnb2hc29s52c",
+      "player_url": "https://bysedikamoum.com/download/qnb2hc29s52c",
+      "nombre": "Filemoon",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "qnb2hc29s52c"
+    },
+    {
+      "id": 19,
+      "url": "https://voe.sx/e/gsizcr8mpyyg",
+      "player_url": "https://voe.sx/e/gsizcr8mpyyg",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "gsizcr8mpyyg"
+    },
+    {
+      "id": 20,
+      "url": "https://voe.sx/gsizcr8mpyyg/download",
+      "player_url": "https://voe.sx/gsizcr8mpyyg/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 21,
+      "url": "https://rapidvideo.link/e/f0n1em83t5yl",
+      "player_url": "https://rapidvideo.link/e/f0n1em83t5yl",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "f0n1em83t5yl"
+    }
+  ]
+}
