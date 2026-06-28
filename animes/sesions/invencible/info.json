@@ -1,63 +1,40 @@
 {
-  "id": 25472950,
-  "titulo": "Invencible",
+  "id": 263567203,
+  "titulo": "INVENCIBLE",
   "titulo_orig": "",
-  "poster": "https://image.tmdb.org/t/p/w500/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
-  "release_date": "2021-01-01",
-  "genres": [
-    "animacion",
-    "drama",
-    "sci-fi-fantasy",
-    "accion"
-  ],
+  "poster": "https://hj.animejara.com/api-web/img/invinciblejpg.webp",
+  "release_date": "",
+  "genres": [],
   "rating": "",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-  "overview": "Mark Grayson es un adolescente normal, excepto por el hecho de que su padre es el superhéroe más poderoso del planeta. Poco después de su decimoséptimo cumpleaños, Mark comienza a desarrollar sus propios poderes y entra en la tutela de su padre.",
+  "backdrop": "",
+  "overview": "Mark Grayson es un adolescente normal, excepto por el hecho de que su padre es el superhéroe más poderoso del planeta. Poco después de su decimoséptimo cumpl...",
   "slug": "invencible",
-  "source": "caelum",
-  "type": "serie",
-  "tmdb_id": 95557,
-  "total_episodes": 32,
+  "source": "animejara",
+  "type": "anime",
+  "anime_id": "1534",
+  "anime_id_wp": "23566",
+  "total_episodes": 33,
   "total_temporadas": 4,
   "temporadas": [
     {
       "numero": 1,
-      "poster": "https://image.tmdb.org/t/p/w500/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
-      "episodios_count": 8
+      "poster": "https://hj.animejara.com/api-web/img/invinciblejpg.webp",
+      "episodios_count": 9
     },
     {
       "numero": 2,
-      "poster": "https://image.tmdb.org/t/p/w500/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+      "poster": "https://hj.animejara.com/api-web/img/vrkkXKbqPfNtvcgUPUEmVaoXVfGjpg.webp",
       "episodios_count": 8
     },
     {
       "numero": 3,
-      "poster": "https://image.tmdb.org/t/p/w500/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+      "poster": "https://hj.animejara.com/api-web/img/3XiJlYq7REcKNKy1WBu7BOlRYcbjpg.webp",
       "episodios_count": 8
     },
     {
       "numero": 4,
-      "poster": "https://image.tmdb.org/t/p/w500/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+      "poster": "https://hj.animejara.com/api-web/img/l1NxZbECvU2Md6hMzoQvr969HHejpg.webp",
       "episodios_count": 8
     }
-  ],
-  "servidores": [
-    {
-      "id": 1,
-      "server": "Caelum Direct",
-      "url": "",
-      "player_url": "",
-      "nombre": "Caelum Direct",
-      "idioma": "latino",
-      "calidad": "HD"
-    }
-  ],
-  "caelum_sources": [
-    {
-      "caelum_id": 95557,
-      "matched_by": "slug"
-    }
-  ],
-  "_caelum_merged": true,
-  "caelum_tmdb_id": 95557
+  ]
 }
