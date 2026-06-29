@@ -1,0 +1,57 @@
+{
+  "id": 607239465,
+  "titulo": "Ballistic",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/f88920d4589dae7abec2eb05fca153e3.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "drama",
+    "suspenso"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Una madre desconsolada que trabaja en una fábrica de municiones descubre que la bala que mató a su hijo en Afganistán fue fabricada en su propia línea de mo",
+  "trailer": "",
+  "runtime": "",
+  "slug": "ballistic",
+  "iframe_url": "https://lacloud.live/20efe766c3f563ed",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/20efe766c3f563ed/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/20efe766c3f563ed/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "20efe766c3f563ed"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hfb18c55648e486cc3da3ad9cbfa23048b3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfb18c55648e486cc3da3ad9cbfa23048b3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfb18c55648e486cc3da3ad9cbfa23048b3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/mhuhcs6637nw",
+      "player_url": "https://vidnova.online/embed/mhuhcs6637nw",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mhuhcs6637nw",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/wumgr3vzkc99",
+      "player_url": "https://dsvplay.com/e/wumgr3vzkc99",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wumgr3vzkc99",
+      "id": 4
+    }
+  ]
+}
