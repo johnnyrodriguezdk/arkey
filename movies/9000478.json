@@ -4,7 +4,10 @@
   "titulo_orig": "",
   "poster": "https://compucalitv.lol/wp-content/uploads/2026/04/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg.webp",
   "release_date": "2026-01-01",
-  "genres": [],
+  "genres": [
+    "accion",
+    "suspenso"
+  ],
   "rating": "",
   "backdrop": "",
   "overview": "Carlos Estrada sobrevive a un ataque en el que asesinan a su esposa. Su amigo Miguel Díaz lo oculta en un pueblo hasta que gana la lotería. Con su fortuna, se prepara para cazar a los responsables. Misión: justicia y venganza implacable.",
@@ -22,6 +25,60 @@
       "nombre": "Caelum Proxy",
       "idioma": "latino",
       "calidad": "HD"
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/86103520e807090a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/86103520e807090a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "86103520e807090a"
+    },
+    {
+      "id": 3,
+      "url": "https://lalafilecdn.space/hf6cad88b9f79510647664c3cea449ea513a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf6cad88b9f79510647664c3cea449ea513a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf6cad88b9f79510647664c3cea449ea513a"
+    },
+    {
+      "url": "https://streamfort.online/e/vaye7576m538",
+      "player_url": "https://streamfort.online/e/vaye7576m538",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vaye7576m538",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/7sw9utfq0p9n",
+      "player_url": "https://dsvplay.com/e/7sw9utfq0p9n",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7sw9utfq0p9n",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/zofawuef3jaj",
+      "player_url": "https://voe.sx/e/zofawuef3jaj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "zofawuef3jaj",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/dcoszfmiidbw",
+      "player_url": "https://voe.sx/e/dcoszfmiidbw",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "dcoszfmiidbw",
+      "id": 7
     }
   ],
   "_caelum_merged": true
