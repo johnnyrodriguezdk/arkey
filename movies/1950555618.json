@@ -1,0 +1,65 @@
+{
+  "id": 1950555618,
+  "titulo": "Torrente Presidente",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/714bb9ae1e0f98eab9dff4c8edaeb6f8.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "José Luis Torrente, siempre convencido de ser un héroe nacional de España pese a su ineptitud, es persuadido para meterse en política y, con su estilo vulga",
+  "trailer": "",
+  "runtime": "",
+  "slug": "torrente-presidente",
+  "iframe_url": "https://lacloud.live/f47d8785ba991955",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/f47d8785ba991955/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/f47d8785ba991955/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f47d8785ba991955"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hf9f55913f8cb5e112af0c184fdf89fb2f3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf9f55913f8cb5e112af0c184fdf89fb2f3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9f55913f8cb5e112af0c184fdf89fb2f3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/evzshkf7dww2",
+      "player_url": "https://vidnova.online/embed/evzshkf7dww2",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vzshkf7dww2",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/9tlhsphnstmm",
+      "player_url": "https://dsvplay.com/e/9tlhsphnstmm",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "9tlhsphnstmm",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/rdhd02tzx5td",
+      "player_url": "https://voe.sx/e/rdhd02tzx5td",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rdhd02tzx5td",
+      "id": 5
+    }
+  ]
+}
