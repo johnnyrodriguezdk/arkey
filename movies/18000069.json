@@ -4,7 +4,11 @@
   "titulo_orig": "",
   "poster": "https://m.media-amazon.com/images/M/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@._V1_FMjpg_UY711_.jpg",
   "release_date": "2026-01-01",
-  "genres": [],
+  "genres": [
+    "accion",
+    "crimen",
+    "suspenso"
+  ],
   "rating": "",
   "backdrop": "",
   "overview": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligrosa tempestad, lo que desencadena una serie de eventos que los ponen a ambos en grave peligro. A medida que sus destinos se entrelazan, su misión será protegerla a toda costa, mientras se enfrenta a los enemigos de su pasado, en una trepidante odisea por sobrevivir.",
@@ -22,6 +26,69 @@
       "nombre": "Caelum Proxy",
       "idioma": "latino",
       "calidad": "HD"
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/a3270a03d86ef0ab/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/a3270a03d86ef0ab/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "a3270a03d86ef0ab"
+    },
+    {
+      "id": 3,
+      "url": "https://lalafilecdn.space/hf7d0781a751838ff691abe1ce7540ecfc3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf7d0781a751838ff691abe1ce7540ecfc3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf7d0781a751838ff691abe1ce7540ecfc3a"
+    },
+    {
+      "url": "https://streamfort.online/e/q8i2bcfgfrdp",
+      "player_url": "https://streamfort.online/e/q8i2bcfgfrdp",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q8i2bcfgfrdp",
+      "id": 4
+    },
+    {
+      "url": "https://vidnova.online/embed/q2yql89a9pi0",
+      "player_url": "https://vidnova.online/embed/q2yql89a9pi0",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "q2yql89a9pi0",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/5a4jz89ovcgz",
+      "player_url": "https://dsvplay.com/e/5a4jz89ovcgz",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5a4jz89ovcgz",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/pynj59sizieh",
+      "player_url": "https://voe.sx/e/pynj59sizieh",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pynj59sizieh",
+      "id": 7
+    },
+    {
+      "url": "https://voe.sx/e/ell1sjhnxf6k",
+      "player_url": "https://voe.sx/e/ell1sjhnxf6k",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ll1sjhnxf6k",
+      "id": 8
     }
   ]
 }
