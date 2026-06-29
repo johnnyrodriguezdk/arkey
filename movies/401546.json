@@ -9,7 +9,7 @@
   ],
   "rating": "4.6",
   "backdrop": "https://image.tmdb.org/t/p/original/oLHIzRF99r9PXF2rhDOe1cgqPPi.jpg",
-  "overview": "España, 15 de abril de 1939. Terminó la Guerra Civil. Franco va a cenar con sus generales al Palace Hotel para festejar su triunfo.",
+  "overview": "Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel Palace. Un joven teniente, un maître meticuloso y un grup",
   "trailer": "",
   "runtime": "120",
   "slug": "la-cena",
@@ -130,6 +130,69 @@
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "ew2arbmxzfkd"
+    },
+    {
+      "id": 14,
+      "url": "https://lacloud.live/public/stream/39c93445cfe5245b/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/39c93445cfe5245b/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "39c93445cfe5245b"
+    },
+    {
+      "id": 15,
+      "url": "https://lalafilecdn.space/hfe99da9abc16b3b7f1dcca13fba0aee203a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe99da9abc16b3b7f1dcca13fba0aee203a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe99da9abc16b3b7f1dcca13fba0aee203a"
+    },
+    {
+      "url": "https://streamfort.online/e/g1ie7dk963sr",
+      "player_url": "https://streamfort.online/e/g1ie7dk963sr",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g1ie7dk963sr",
+      "id": 16
+    },
+    {
+      "url": "https://vidnova.online/embed/l4xdbdo9s7y5",
+      "player_url": "https://vidnova.online/embed/l4xdbdo9s7y5",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l4xdbdo9s7y5",
+      "id": 17
+    },
+    {
+      "url": "https://dsvplay.com/e/nqoavaoyazyp",
+      "player_url": "https://dsvplay.com/e/nqoavaoyazyp",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nqoavaoyazyp",
+      "id": 18
+    },
+    {
+      "url": "https://voe.sx/e/igr45ojvnqba",
+      "player_url": "https://voe.sx/e/igr45ojvnqba",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "igr45ojvnqba",
+      "id": 19
+    },
+    {
+      "url": "https://voe.sx/e/sofqfjjb4epr",
+      "player_url": "https://voe.sx/e/sofqfjjb4epr",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sofqfjjb4epr",
+      "id": 20
     }
   ]
 }
