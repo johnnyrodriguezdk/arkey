@@ -4,7 +4,9 @@
   "titulo_orig": "",
   "poster": "https://es.web.img3.acsta.net/c_310_420/img/4e/1c/4e1c98c204d25d61b16d2302c90927ce.jpeg",
   "release_date": "2025-01-01",
-  "genres": [],
+  "genres": [
+    "drama"
+  ],
   "rating": "",
   "backdrop": "",
   "overview": "Un padre de familia ejemplar es encarcelado injustamente por un crimen que él no cometió. En consecuencia, su hija se queda sola y debe de buscar como sobrevivir en lo que el padre trata de demostrar su inocencia.",
@@ -22,6 +24,69 @@
       "nombre": "Caelum Proxy",
       "idioma": "latino",
       "calidad": "HD"
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/29fa203a9bf03dd6/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/29fa203a9bf03dd6/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "29fa203a9bf03dd6"
+    },
+    {
+      "id": 3,
+      "url": "https://lalafilecdn.space/hfc8e968b326eeb789694b83cdc8c95cfd3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfc8e968b326eeb789694b83cdc8c95cfd3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfc8e968b326eeb789694b83cdc8c95cfd3a"
+    },
+    {
+      "url": "https://streamfort.online/e/5tbhr3wvrkad",
+      "player_url": "https://streamfort.online/e/5tbhr3wvrkad",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5tbhr3wvrkad",
+      "id": 4
+    },
+    {
+      "url": "https://vidnova.online/embed/vt7r3v49574y",
+      "player_url": "https://vidnova.online/embed/vt7r3v49574y",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vt7r3v49574y",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/rov9hl39y8em",
+      "player_url": "https://dsvplay.com/e/rov9hl39y8em",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rov9hl39y8em",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/o8ynbqpncxot",
+      "player_url": "https://voe.sx/e/o8ynbqpncxot",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o8ynbqpncxot",
+      "id": 7
+    },
+    {
+      "url": "https://voe.sx/e/vzz1nvnnbmtn",
+      "player_url": "https://voe.sx/e/vzz1nvnnbmtn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vzz1nvnnbmtn",
+      "id": 8
     }
   ],
   "_caelum_merged": true
