@@ -3,14 +3,14 @@
   "titulo": "El yerno",
   "titulo_orig": "",
   "poster": "https://image.tmdb.org/t/p/w300/2C6EUH0qSthnOM6wtjS7ZRCdVZU.jpg",
-  "release_date": "",
+  "release_date": "2026-01-01",
   "genres": [
     "Comedia",
     "Drama"
   ],
   "rating": "5.4",
   "backdrop": "https://image.tmdb.org/t/p/original/2C6EUH0qSthnOM6wtjS7ZRCdVZU.jpg",
-  "overview": "",
+  "overview": "José Sánchez tiene un bigote memorable, una lengua habilidosa y una ambición desmedida. Después de una mala racha en los negocios, el azar lo transforma en ",
   "trailer": "",
   "runtime": "",
   "slug": "el-yerno-ex2gWT",
@@ -176,6 +176,51 @@
       "idioma": "jap",
       "calidad": "HD",
       "embed_id": "de4n21k86a5b"
+    },
+    {
+      "id": 19,
+      "url": "https://lacloud.live/public/stream/3b19b6bbdf49580a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/3b19b6bbdf49580a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3b19b6bbdf49580a"
+    },
+    {
+      "id": 20,
+      "url": "https://lalafilecdn.space/hf856868eea9af4db7734a4d99e916cc6e3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf856868eea9af4db7734a4d99e916cc6e3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf856868eea9af4db7734a4d99e916cc6e3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/akzhvocm1xu7",
+      "player_url": "https://vidnova.online/embed/akzhvocm1xu7",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "akzhvocm1xu7",
+      "id": 21
+    },
+    {
+      "url": "https://dsvplay.com/e/sso2rf8k0pjw",
+      "player_url": "https://dsvplay.com/e/sso2rf8k0pjw",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "sso2rf8k0pjw",
+      "id": 22
+    },
+    {
+      "url": "https://voe.sx/e/haci8aivf6c8",
+      "player_url": "https://voe.sx/e/haci8aivf6c8",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "haci8aivf6c8",
+      "id": 23
     }
   ]
 }
