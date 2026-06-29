@@ -4,7 +4,12 @@
   "titulo_orig": "",
   "poster": "https://m.media-amazon.com/images/M/MV5BODI4NGRlODgtZGMwMi00ZmE5LWExNWItZjYzYTkyYWVkNDdiXkEyXkFqcGc@._V1_QL75_UX290_.jpg",
   "release_date": "2026-01-01",
-  "genres": [],
+  "genres": [
+    "accion",
+    "animacion",
+    "comedia",
+    "familia"
+  ],
   "rating": "",
   "backdrop": "",
   "overview": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que ¡los pequeños saben jugar!",
@@ -22,6 +27,60 @@
       "nombre": "Caelum Proxy",
       "idioma": "latino",
       "calidad": "HD"
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/896657865560e7ba/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/896657865560e7ba/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "896657865560e7ba"
+    },
+    {
+      "id": 3,
+      "url": "https://lalafilecdn.space/hfdef0e6cf4246d1382e136519995e3a503a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfdef0e6cf4246d1382e136519995e3a503a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfdef0e6cf4246d1382e136519995e3a503a"
+    },
+    {
+      "url": "https://streamfort.online/e/qxnnuhqqvasv",
+      "player_url": "https://streamfort.online/e/qxnnuhqqvasv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "qxnnuhqqvasv",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/ymodg2p8ove0",
+      "player_url": "https://dsvplay.com/e/ymodg2p8ove0",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ymodg2p8ove0",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/cpoonvhm4wcc",
+      "player_url": "https://voe.sx/e/cpoonvhm4wcc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cpoonvhm4wcc",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/adljfcerzivg",
+      "player_url": "https://voe.sx/e/adljfcerzivg",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "adljfcerzivg",
+      "id": 7
     }
   ]
 }
