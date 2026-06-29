@@ -4,7 +4,12 @@
   "titulo_orig": "",
   "poster": "https://image.tmdb.org/t/p/w500/gZb2ULX6C7bNs9AjtSt52FaQkT6.jpg",
   "release_date": "1986-01-01",
-  "genres": [],
+  "genres": [
+    "accion",
+    "aventura",
+    "drama",
+    "guerra"
+  ],
   "rating": "",
   "backdrop": "",
   "overview": "Mineko Negishi conocida como Neko es aparentemente una chica normal y corriente, pero tiene poderes psíquicos como los de una bruja. En una noche de luna llena con su amigo de Haruka Saiki, un chico con poderes de teletransportación, conoce a Keichiro, un chico capaz de transformarse en un león. Misteriosamente son transportados a otro mundo llamado El Reino Medio. Esta tierra está bajo el poder de un poderoso y opresor general llamado Durán III. Además, Mineko resulta ser la reencarnación de la legendaria reina Nerula.",
@@ -22,6 +27,60 @@
       "nombre": "Caelum Proxy",
       "idioma": "latino",
       "calidad": "HD"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hf020f9b0de4224249e566ee254c8cfd603a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf020f9b0de4224249e566ee254c8cfd603a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf020f9b0de4224249e566ee254c8cfd603a"
+    },
+    {
+      "url": "https://streamfort.online/e/k5nvx7mi5e7r",
+      "player_url": "https://streamfort.online/e/k5nvx7mi5e7r",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "k5nvx7mi5e7r",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/mxakshu28iqq",
+      "player_url": "https://streamfort.online/e/mxakshu28iqq",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mxakshu28iqq",
+      "id": 4
+    },
+    {
+      "url": "https://dsvplay.com/e/wpltbvxvfil6",
+      "player_url": "https://dsvplay.com/e/wpltbvxvfil6",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wpltbvxvfil6",
+      "id": 5
+    },
+    {
+      "url": "https://dsvplay.com/e/21eldnv30pjg",
+      "player_url": "https://dsvplay.com/e/21eldnv30pjg",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "21eldnv30pjg",
+      "id": 6
+    },
+    {
+      "url": "https://voe.sx/e/1r1sdurns79t",
+      "player_url": "https://voe.sx/e/1r1sdurns79t",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "1r1sdurns79t",
+      "id": 7
     }
   ],
   "_caelum_merged": true
