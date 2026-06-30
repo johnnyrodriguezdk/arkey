@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 262275,
+  "episodios": [
+    {
+      "id": 26227501001,
+      "imagen": "https://image.tmdb.org/t/p/w300/hHts26V86PEpR8ADk4kPrW9YtpC.jpg",
+      "number": 1,
+      "titulo": "Episodio 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serietakethatt1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serietakethatt1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 26227501002,
+      "imagen": "https://image.tmdb.org/t/p/w300/2GGWDfyGAz8hxwNs4XYpvk6t9xw.jpg",
+      "number": 2,
+      "titulo": "Episodio 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serietakethatt1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serietakethatt1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 26227501003,
+      "imagen": "https://image.tmdb.org/t/p/w300/n8EiNIiGXu8LodDo4ho1XxIvx0C.jpg",
+      "number": 3,
+      "titulo": "Episodio 3",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serietakethatt1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serietakethatt1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

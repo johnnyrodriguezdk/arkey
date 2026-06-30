@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 312046,
+  "episodios": [
+    {
+      "id": 31204601001,
+      "imagen": "https://image.tmdb.org/t/p/w300/6dNmmAA1Mmx4V0Q05KcEdP88wCN.jpg",
+      "number": 1,
+      "titulo": "Episodio 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriebrillantinayorodanzasobrehielot1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriebrillantinayorodanzasobrehielot1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31204601002,
+      "imagen": "https://image.tmdb.org/t/p/w300/9fa9fPX0uXS7npUsePjispWJqz1.jpg",
+      "number": 2,
+      "titulo": "Episodio 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriebrillantinayorodanzasobrehielot1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriebrillantinayorodanzasobrehielot1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31204601003,
+      "imagen": "https://image.tmdb.org/t/p/w300/jU5PXNw2iLoTa8Btex6vhgEoAq7.jpg",
+      "number": 3,
+      "titulo": "Episodio 3",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriebrillantinayorodanzasobrehielot1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriebrillantinayorodanzasobrehielot1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

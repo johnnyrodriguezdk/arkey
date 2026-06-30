@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 314541,
+  "episodios": [
+    {
+      "id": 31454101001,
+      "imagen": "https://image.tmdb.org/t/p/w300/lZnakkzQnwfd2yzgCLTnaYFF7Oa.jpg",
+      "number": 1,
+      "titulo": "Episodio 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriesobreviviralparasomsalldelostestigosdejehovt1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriesobreviviralparasomsalldelostestigosdejehovt1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31454101002,
+      "imagen": "https://image.tmdb.org/t/p/w300/nNByPww13VGs3mCC2DaWLlHkaMx.jpg",
+      "number": 2,
+      "titulo": "Episodio 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriesobreviviralparasomsalldelostestigosdejehovt1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriesobreviviralparasomsalldelostestigosdejehovt1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31454101003,
+      "imagen": "https://image.tmdb.org/t/p/w300/3PvU5mRvFfKwteGYoFqFOUOZf3U.jpg",
+      "number": 3,
+      "titulo": "Episodio 3",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriesobreviviralparasomsalldelostestigosdejehovt1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriesobreviviralparasomsalldelostestigosdejehovt1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

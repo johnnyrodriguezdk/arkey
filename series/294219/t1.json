@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 294219,
+  "episodios": [
+    {
+      "id": 29421901001,
+      "imagen": "https://image.tmdb.org/t/p/w300/5Kl90GDyK7Ol8DrWiDiQvKu2g81.jpg",
+      "number": 1,
+      "titulo": "Episodio 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieakilleramongfriendst1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieakilleramongfriendst1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 29421901002,
+      "imagen": "https://image.tmdb.org/t/p/w300/hhqtDwAorh0ITUnUvuC4GwazWCC.jpg",
+      "number": 2,
+      "titulo": "Episodio 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieakilleramongfriendst1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieakilleramongfriendst1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 29421901003,
+      "imagen": "https://image.tmdb.org/t/p/w300/ojIBPyM5OpTu9OBIh83Tc7VxLkn.jpg",
+      "number": 3,
+      "titulo": "Episodio 3",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieakilleramongfriendst1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieakilleramongfriendst1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "number": 1,
+  "serie_id": 10004,
+  "episodios": [
+    {
+      "id": 1000401001,
+      "imagen": "https://image.tmdb.org/t/p/w300/fcpR2JRYuDspsNtArP9NRnydbo3.jpg",
+      "number": 1,
+      "titulo": "Episodio 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieyellowt1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieyellowt1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 1000401002,
+      "imagen": "https://image.tmdb.org/t/p/w300/nyX3VV1Q6RuSDC4lwL0IQ1GPNBX.jpg",
+      "number": 2,
+      "titulo": "Episodio 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieyellowt1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieyellowt1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 1000401004,
+      "imagen": "https://image.tmdb.org/t/p/w300/o8ABivJT0Vudv5bo0orXBbOd6pr.jpg",
+      "number": 4,
+      "titulo": "Episodio 4",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieyellowt1/capitulo4.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieyellowt1/capitulo4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 1000401005,
+      "imagen": "https://image.tmdb.org/t/p/w300/haQYWdHn63iRpEDpaimHRZQtrdY.jpg",
+      "number": 5,
+      "titulo": "Episodio 5",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieyellowt1/capitulo5.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieyellowt1/capitulo5.m3u8"
+        }
+      ]
+    }
+  ]
+}

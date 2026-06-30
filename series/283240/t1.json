@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 283240,
+  "episodios": [
+    {
+      "id": 28324001001,
+      "imagen": "https://image.tmdb.org/t/p/w200/svmXbfXxKULfojfE78bZnoKmCpo.jpg",
+      "number": 1,
+      "titulo": "Episodio 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriekobethemakingofalegendt1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriekobethemakingofalegendt1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 28324001002,
+      "imagen": "https://image.tmdb.org/t/p/w200/svmXbfXxKULfojfE78bZnoKmCpo.jpg",
+      "number": 2,
+      "titulo": "Episodio 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriekobethemakingofalegendt1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriekobethemakingofalegendt1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 28324001003,
+      "imagen": "https://image.tmdb.org/t/p/w200/svmXbfXxKULfojfE78bZnoKmCpo.jpg",
+      "number": 3,
+      "titulo": "Episodio 3",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriekobethemakingofalegendt1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriekobethemakingofalegendt1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

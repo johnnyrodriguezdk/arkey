@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 314916,
+  "episodios": [
+    {
+      "id": 31491601001,
+      "imagen": "https://image.tmdb.org/t/p/w300/4UHFBEyDuxngINvm8TGxJfOtKXm.jpg",
+      "number": 1,
+      "titulo": "Una niña afortunada",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieamorincondicionalt1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieamorincondicionalt1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31491601002,
+      "imagen": "https://image.tmdb.org/t/p/w300/9QmtRMKMBObgsQjjNtiZF8YFTvV.jpg",
+      "number": 2,
+      "titulo": "La hija de todos",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieamorincondicionalt1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieamorincondicionalt1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31491601003,
+      "imagen": "https://image.tmdb.org/t/p/w300/bkNPsyYdboHD9SZ0Oklwm3vmwS3.jpg",
+      "number": 3,
+      "titulo": "Los que se manchan las manos",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieamorincondicionalt1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieamorincondicionalt1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

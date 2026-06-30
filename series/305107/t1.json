@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 305107,
+  "episodios": [
+    {
+      "id": 30510701001,
+      "imagen": "https://image.tmdb.org/t/p/w300/bX2igLjLvhwCAs8FNpg3fJtN7c5.jpg",
+      "number": 1,
+      "titulo": "Miedo",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieocasovallecast1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieocasovallecast1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 30510701002,
+      "imagen": "https://image.tmdb.org/t/p/w300/bLIFBj3YkajuvPu7qRXjKENgO3z.jpg",
+      "number": 2,
+      "titulo": "Vértigo",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieocasovallecast1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieocasovallecast1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 30510701003,
+      "imagen": "https://image.tmdb.org/t/p/w300/nvwYHua5kU04OOu0J3LWpFa9iHq.jpg",
+      "number": 3,
+      "titulo": "Episodio 3",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieocasovallecast1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieocasovallecast1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

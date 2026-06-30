@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 26992,
+  "episodios": [
+    {
+      "id": 2699201001,
+      "imagen": "https://image.tmdb.org/t/p/w200/j4Ns1AoYHkMJfFhH0wqYnipu3uI.jpg",
+      "number": 1,
+      "titulo": "Episodio 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriemaigrett1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriemaigrett1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 2699201002,
+      "imagen": "https://image.tmdb.org/t/p/w200/j4Ns1AoYHkMJfFhH0wqYnipu3uI.jpg",
+      "number": 2,
+      "titulo": "Episodio 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriemaigrett1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriemaigrett1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 2699201003,
+      "imagen": "https://image.tmdb.org/t/p/w200/j4Ns1AoYHkMJfFhH0wqYnipu3uI.jpg",
+      "number": 3,
+      "titulo": "Episodio 3",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriemaigrett1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriemaigrett1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

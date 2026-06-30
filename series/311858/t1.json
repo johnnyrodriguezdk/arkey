@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 311858,
+  "episodios": [
+    {
+      "id": 31185801001,
+      "imagen": "https://image.tmdb.org/t/p/w300/g6U3NXdzTaezE3sZxTS0eKfsawW.jpg",
+      "number": 1,
+      "titulo": "Emboscada",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieprisonert1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieprisonert1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31185801002,
+      "imagen": "https://image.tmdb.org/t/p/w300/kvR6pCe73UbCAGkwJqMvpi5Qe4Q.jpg",
+      "number": 2,
+      "titulo": "A la fuga",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieprisonert1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieprisonert1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31185801003,
+      "imagen": "https://image.tmdb.org/t/p/w300/q5XkIzLr75Mrm9lt4WrrCJ1e74C.jpg",
+      "number": 3,
+      "titulo": "El gato y el ratón",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieprisonert1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieprisonert1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

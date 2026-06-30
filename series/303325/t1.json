@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 303325,
+  "episodios": [
+    {
+      "id": 30332501001,
+      "imagen": "https://image.tmdb.org/t/p/w200/zgGqbcATsb1Rkpol8qgYPOcZcUg.jpg",
+      "number": 1,
+      "titulo": "Felipe Gonzalez",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serielaltimallamadat1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serielaltimallamadat1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 30332501002,
+      "imagen": "https://image.tmdb.org/t/p/w200/zgGqbcATsb1Rkpol8qgYPOcZcUg.jpg",
+      "number": 2,
+      "titulo": "Jose maria anzar",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serielaltimallamadat1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serielaltimallamadat1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 30332501003,
+      "imagen": "https://image.tmdb.org/t/p/w200/zgGqbcATsb1Rkpol8qgYPOcZcUg.jpg",
+      "number": 3,
+      "titulo": "Jose luis rodriguez zapatero",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serielaltimallamadat1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serielaltimallamadat1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

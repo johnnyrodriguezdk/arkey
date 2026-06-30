@@ -1,0 +1,40 @@
+{
+  "number": 1,
+  "serie_id": 303143,
+  "episodios": [
+    {
+      "id": 30314301001,
+      "imagen": "https://image.tmdb.org/t/p/w300/hS06K1qQypNx651xB0gPa1key6j.jpg",
+      "number": 1,
+      "titulo": "La encantadora y la bestia",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieminmesisconairesderealezat1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieminmesisconairesderealezat1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 30314301002,
+      "imagen": "https://image.tmdb.org/t/p/w300/dpU7sdcrVxDhZ93KxroviL7m55Y.jpg",
+      "number": 2,
+      "titulo": "Guía para optimizar tu destino",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieminmesisconairesderealezat1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieminmesisconairesderealezat1/capitulo2.m3u8"
+        }
+      ]
+    }
+  ]
+}

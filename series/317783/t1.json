@@ -1,0 +1,40 @@
+{
+  "number": 1,
+  "serie_id": 317783,
+  "episodios": [
+    {
+      "id": 31778301001,
+      "imagen": "https://image.tmdb.org/t/p/w200/mUJwMXuRwt8tQXhdRrA0jZiHOch.jpg",
+      "number": 1,
+      "titulo": "Capitulo 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriebenitat1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriebenitat1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31778301002,
+      "imagen": "https://image.tmdb.org/t/p/w200/mUJwMXuRwt8tQXhdRrA0jZiHOch.jpg",
+      "number": 2,
+      "titulo": "Capitulo 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriebenitat1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriebenitat1/capitulo2.m3u8"
+        }
+      ]
+    }
+  ]
+}

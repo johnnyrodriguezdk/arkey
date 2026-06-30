@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 291034,
+  "episodios": [
+    {
+      "id": 29103401001,
+      "imagen": "https://image.tmdb.org/t/p/w300/gLjo5v4pHbWfWRMvzw2nPt66uyl.jpg",
+      "number": 1,
+      "titulo": "Zaragoza",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieporcienmillonest1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieporcienmillonest1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 29103401002,
+      "imagen": "https://image.tmdb.org/t/p/w300/y5z7n1yRGIVTnr3uOIoTeiE9Aaq.jpg",
+      "number": 2,
+      "titulo": "Barcelona",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieporcienmillonest1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieporcienmillonest1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 29103401003,
+      "imagen": "https://image.tmdb.org/t/p/w300/leSIO63v90L2oqkCdgdiiz9jnM6.jpg",
+      "number": 3,
+      "titulo": "Ginebra",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieporcienmillonest1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieporcienmillonest1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

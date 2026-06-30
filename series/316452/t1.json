@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 316452,
+  "episodios": [
+    {
+      "id": 31645201001,
+      "imagen": "https://image.tmdb.org/t/p/w300/f6WBPQOCrzyQ6VxVjDWzB0Oy6mx.jpg",
+      "number": 1,
+      "titulo": "Episodio 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieginalollobrigidadivacontesat1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieginalollobrigidadivacontesat1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31645201002,
+      "imagen": "https://image.tmdb.org/t/p/w300/qcH6y8v7HDGqHOpIxPrJ10FsJFX.jpg",
+      "number": 2,
+      "titulo": "Episodio 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieginalollobrigidadivacontesat1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieginalollobrigidadivacontesat1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31645201003,
+      "imagen": "https://image.tmdb.org/t/p/w300/zzL5QZbWJeIqrpCaUSxegLhCPWs.jpg",
+      "number": 3,
+      "titulo": "Episodio 3",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieginalollobrigidadivacontesat1/capitulo3.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieginalollobrigidadivacontesat1/capitulo3.m3u8"
+        }
+      ]
+    }
+  ]
+}

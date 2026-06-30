@@ -1,0 +1,40 @@
+{
+  "number": 1,
+  "serie_id": 305576,
+  "episodios": [
+    {
+      "id": 30557601001,
+      "imagen": "https://image.tmdb.org/t/p/w300/hvhYDY0jbJ4XSABMnubCm3V82GA.jpg",
+      "number": 1,
+      "titulo": "Ingrid, la serpiente",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieamoralobestiat1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieamoralobestiat1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 30557601005,
+      "imagen": "https://image.tmdb.org/t/p/w300/uswreoY7ogovvTRJfUn8N08yLTF.jpg",
+      "number": 5,
+      "titulo": "Judit, la gata egipcia",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieamoralobestiat1/capitulo5.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieamoralobestiat1/capitulo5.m3u8"
+        }
+      ]
+    }
+  ]
+}

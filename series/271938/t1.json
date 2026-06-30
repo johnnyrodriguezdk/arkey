@@ -1,0 +1,40 @@
+{
+  "number": 1,
+  "serie_id": 271938,
+  "episodios": [
+    {
+      "id": 27193801001,
+      "imagen": "https://image.tmdb.org/t/p/w300/xTFCpSq4cCeedHLSJMrdRvlo2aF.jpg",
+      "number": 1,
+      "titulo": "Episodio 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieriotwoment1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieriotwoment1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 27193801002,
+      "imagen": "https://image.tmdb.org/t/p/w300/9qdZNIn8eOHBRnnNZrK2dB3cgpw.jpg",
+      "number": 2,
+      "titulo": "Episodio 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieriotwoment1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieriotwoment1/capitulo2.m3u8"
+        }
+      ]
+    }
+  ]
+}

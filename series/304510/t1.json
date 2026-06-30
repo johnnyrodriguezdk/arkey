@@ -1,0 +1,40 @@
+{
+  "number": 1,
+  "serie_id": 304510,
+  "episodios": [
+    {
+      "id": 30451001001,
+      "imagen": "https://image.tmdb.org/t/p/w300/qO64r6moojlvL4TXi05mzUUGnBQ.jpg",
+      "number": 1,
+      "titulo": "Sólo uno",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriereykjavkfusiont1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriereykjavkfusiont1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 30451001002,
+      "imagen": "https://image.tmdb.org/t/p/w300/jch8VKKe7BXvS0j3bNM7FGmW4o9.jpg",
+      "number": 2,
+      "titulo": "Fundamento",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriereykjavkfusiont1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriereykjavkfusiont1/capitulo2.m3u8"
+        }
+      ]
+    }
+  ]
+}

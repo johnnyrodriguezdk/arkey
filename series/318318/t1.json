@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "serie_id": 318318,
+  "episodios": [
+    {
+      "id": 31831801001,
+      "imagen": "https://image.tmdb.org/t/p/w300/al1uIvxgAsDAhZf6P8ypPiICb0k.jpg",
+      "number": 1,
+      "titulo": "ZM isla del ciervo",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieserviciosecretot1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieserviciosecretot1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31831801002,
+      "imagen": "https://image.tmdb.org/t/p/w300/xvmaQcfGdQ9yJDGINLjEc8U3Oic.jpg",
+      "number": 2,
+      "titulo": "La Colina",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieserviciosecretot1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieserviciosecretot1/capitulo2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 31831801004,
+      "imagen": "https://image.tmdb.org/t/p/w300/2z8kEHwlYfkv3nZvV36T6HHt6kx.jpg",
+      "number": 4,
+      "titulo": "El Texu",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieserviciosecretot1/capitulo4.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieserviciosecretot1/capitulo4.m3u8"
+        }
+      ]
+    }
+  ]
+}

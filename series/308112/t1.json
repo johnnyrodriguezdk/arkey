@@ -1,0 +1,40 @@
+{
+  "number": 1,
+  "serie_id": 308112,
+  "episodios": [
+    {
+      "id": 30811201001,
+      "imagen": "https://image.tmdb.org/t/p/w300/iXt1ljIilyF7cIFtPQOoeCQRkPc.jpg",
+      "number": 1,
+      "titulo": "Parte 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriemelbrooksthe99yearoldmant1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriemelbrooksthe99yearoldmant1/capitulo1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 30811201002,
+      "imagen": "https://image.tmdb.org/t/p/w300/t3AG4NQ6iPl2VUGWqPfzCwX1BI4.jpg",
+      "number": 2,
+      "titulo": "Parte 2",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/seriemelbrooksthe99yearoldmant1/capitulo2.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/seriemelbrooksthe99yearoldmant1/capitulo2.m3u8"
+        }
+      ]
+    }
+  ]
+}

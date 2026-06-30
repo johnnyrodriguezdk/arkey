@@ -1,0 +1,23 @@
+{
+  "number": 1,
+  "serie_id": 315949,
+  "episodios": [
+    {
+      "id": 31594901001,
+      "imagen": "https://image.tmdb.org/t/p/w200/t7TDLnjvVH8cSxZA1MdMu0kmEcS.jpg",
+      "number": 1,
+      "titulo": "Programa 1",
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://moviluz.neocities.org/series/serieexlavidadespust1/capitulo1.m3u8",
+          "idioma": "latino",
+          "nombre": "Caelum Direct",
+          "calidad": "HD",
+          "embed_id": "",
+          "player_url": "https://moviluz.neocities.org/series/serieexlavidadespust1/capitulo1.m3u8"
+        }
+      ]
+    }
+  ]
+}
