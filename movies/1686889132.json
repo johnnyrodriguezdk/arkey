@@ -1,0 +1,58 @@
+{
+  "id": 1686889132,
+  "titulo": "Citizen Vigilante",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/7a9693015c73ae1d46ea1e8fd0c7a1fb.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "crimen",
+    "suspenso"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un hombre decide impartir justicia por su cuenta. Su cruzada lo convierte en un fenómeno de las redes sociales, pero también lo enfrenta al jefe de policía ",
+  "trailer": "",
+  "runtime": "",
+  "slug": "citizen-vigilante",
+  "iframe_url": "https://lacloud.live/89e5295d9ef4024e",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/89e5295d9ef4024e/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/89e5295d9ef4024e/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "89e5295d9ef4024e"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hfac8bd703cfd71f3ff834dd17631468853a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfac8bd703cfd71f3ff834dd17631468853a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfac8bd703cfd71f3ff834dd17631468853a"
+    },
+    {
+      "id": 3,
+      "url": "https://lalafilecdn.space/hfd785ed36764e0a9cebbf05761b49ed7c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfd785ed36764e0a9cebbf05761b49ed7c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfd785ed36764e0a9cebbf05761b49ed7c3a"
+    },
+    {
+      "url": "https://vidnova.online/embed/4op5on8ool1o",
+      "player_url": "https://vidnova.online/embed/4op5on8ool1o",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4op5on8ool1o",
+      "id": 4
+    }
+  ]
+}

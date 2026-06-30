@@ -10,7 +10,7 @@
   ],
   "rating": "8.5",
   "backdrop": "https://image.tmdb.org/t/p/original/lGZavJahqfBhaopeeiI4samtqyt.jpg",
-  "overview": "",
+  "overview": "Desde 1994, México ha quedado eliminado una y otra vez antes del ansiado quinto partido. Para El Abuelo, esto no es casualidad: es un maleficio. Cuando afir",
   "trailer": "",
   "runtime": "",
   "slug": "la-familia-del-barrio-la-maldi-WvUivT",
@@ -104,6 +104,33 @@
       "idioma": "latino",
       "calidad": "HD",
       "embed_id": "yklbsqiaep5d"
+    },
+    {
+      "id": 11,
+      "url": "https://lacloud.live/public/stream/d060b8e24074a534/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/d060b8e24074a534/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d060b8e24074a534"
+    },
+    {
+      "id": 12,
+      "url": "https://lalafilecdn.space/hf850db8e8934a852a79cb1c39f148b0b73a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf850db8e8934a852a79cb1c39f148b0b73a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf850db8e8934a852a79cb1c39f148b0b73a"
+    },
+    {
+      "url": "https://streamfort.online/e/l3hkqdfwl4h2",
+      "player_url": "https://streamfort.online/e/l3hkqdfwl4h2",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l3hkqdfwl4h2",
+      "id": 13
     }
   ]
 }

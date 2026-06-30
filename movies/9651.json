@@ -1,1 +1,173 @@
-{"id":9651,"titulo":"Supergirl","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/9ZSS0Gc5fwcu8apglDGoK6zlarL.jpg","release_date":"1984-07-01","genres":[],"rating":"5.3","backdrop":"https://image.tmdb.org/t/p/original/qpH0hLbDiYwCQOOS4Od9ZEEaGTc.jpg","overview":"Supergirl, una extraterrestre que llega accidentalmente a la Tierra, tiene unos superpoderes que usará para hacer el bien","trailer":"","runtime":"105","slug":"supergirl","servidores":[{"id":1,"url":"https://streamwish.to/e/lapcn5byx3d4","idioma":"latino","nombre":"Streamwish","calidad":"HD","embed_id":"lapcn5byx3d4","player_url":"https://streamwish.to/e/lapcn5byx3d4"},{"id":2,"url":"https://bysejikuar.com/e/388mtb68nm2x","idioma":"latino","nombre":"Filemoon","calidad":"HD","embed_id":"388mtb68nm2x","player_url":"https://bysejikuar.com/e/388mtb68nm2x"},{"id":3,"url":"https://voe.sx/e/ziaglyuwtnqx","idioma":"latino","nombre":"Voesx","calidad":"HD","embed_id":"ziaglyuwtnqx","player_url":"https://voe.sx/e/ziaglyuwtnqx"},{"id":4,"url":"https://doodstream.com/e/at0mvx55aj69","idioma":"latino","nombre":"Doodstream","calidad":"HD","embed_id":"at0mvx55aj69","player_url":"https://doodstream.com/e/at0mvx55aj69"},{"id":5,"url":"https://streamwish.to/e/28aocb8bttnz","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"28aocb8bttnz","player_url":"https://streamwish.to/e/28aocb8bttnz"},{"id":6,"url":"https://bysejikuar.com/e/1t9vp3o8t74j","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"1t9vp3o8t74j","player_url":"https://bysejikuar.com/e/1t9vp3o8t74j"},{"id":7,"url":"https://doodstream.com/e/4a9u6ybpy8tz","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"4a9u6ybpy8tz","player_url":"https://doodstream.com/e/4a9u6ybpy8tz"},{"id":8,"url":"https://streamwish.to/e/fryr6w6l6rcl","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"fryr6w6l6rcl","player_url":"https://streamwish.to/e/fryr6w6l6rcl"},{"id":9,"url":"https://bysejikuar.com/e/z9iao43igl4m","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"z9iao43igl4m","player_url":"https://bysejikuar.com/e/z9iao43igl4m"},{"id":10,"url":"https://voe.sx/e/y5yordyfypga","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"y5yordyfypga","player_url":"https://voe.sx/e/y5yordyfypga"}]}
+{
+  "id": 9651,
+  "titulo": "Supergirl",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/9ZSS0Gc5fwcu8apglDGoK6zlarL.jpg",
+  "release_date": "1984-07-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "ciencia-ficcion"
+  ],
+  "rating": "5.3",
+  "backdrop": "https://image.tmdb.org/t/p/original/qpH0hLbDiYwCQOOS4Od9ZEEaGTc.jpg",
+  "overview": "Mientras celebra su cumpleaños número 21, Kara Zor-El viaja por la galaxia con su perro Krypto, durante el cual conoce a la joven Ruthye Marye Knoll y empre",
+  "trailer": "",
+  "runtime": "105",
+  "slug": "supergirl",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/lapcn5byx3d4",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "lapcn5byx3d4",
+      "player_url": "https://streamwish.to/e/lapcn5byx3d4"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/388mtb68nm2x",
+      "idioma": "latino",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "388mtb68nm2x",
+      "player_url": "https://bysejikuar.com/e/388mtb68nm2x"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/ziaglyuwtnqx",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ziaglyuwtnqx",
+      "player_url": "https://voe.sx/e/ziaglyuwtnqx"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/at0mvx55aj69",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "at0mvx55aj69",
+      "player_url": "https://doodstream.com/e/at0mvx55aj69"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/28aocb8bttnz",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "28aocb8bttnz",
+      "player_url": "https://streamwish.to/e/28aocb8bttnz"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/1t9vp3o8t74j",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "1t9vp3o8t74j",
+      "player_url": "https://bysejikuar.com/e/1t9vp3o8t74j"
+    },
+    {
+      "id": 7,
+      "url": "https://doodstream.com/e/4a9u6ybpy8tz",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "4a9u6ybpy8tz",
+      "player_url": "https://doodstream.com/e/4a9u6ybpy8tz"
+    },
+    {
+      "id": 8,
+      "url": "https://streamwish.to/e/fryr6w6l6rcl",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "fryr6w6l6rcl",
+      "player_url": "https://streamwish.to/e/fryr6w6l6rcl"
+    },
+    {
+      "id": 9,
+      "url": "https://bysejikuar.com/e/z9iao43igl4m",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "z9iao43igl4m",
+      "player_url": "https://bysejikuar.com/e/z9iao43igl4m"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/y5yordyfypga",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "y5yordyfypga",
+      "player_url": "https://voe.sx/e/y5yordyfypga"
+    },
+    {
+      "id": 11,
+      "url": "https://lacloud.live/public/stream/0d37d28c5313cc63/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/0d37d28c5313cc63/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0d37d28c5313cc63"
+    },
+    {
+      "id": 12,
+      "url": "https://lalafilecdn.space/hfe433ec6df8b7b06414f90503bb1e6e353a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hfe433ec6df8b7b06414f90503bb1e6e353a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hfe433ec6df8b7b06414f90503bb1e6e353a"
+    },
+    {
+      "id": 13,
+      "url": "https://lalafilecdn.space/hf0d46cbc6d5c42def14acda4d51a5d3693a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf0d46cbc6d5c42def14acda4d51a5d3693a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf0d46cbc6d5c42def14acda4d51a5d3693a"
+    },
+    {
+      "url": "https://streamfort.online/e/bwy4v86jm7ht",
+      "player_url": "https://streamfort.online/e/bwy4v86jm7ht",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "bwy4v86jm7ht",
+      "id": 14
+    },
+    {
+      "url": "https://vidnova.online/embed/yi2834adeqy8",
+      "player_url": "https://vidnova.online/embed/yi2834adeqy8",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yi2834adeqy8",
+      "id": 15
+    },
+    {
+      "url": "https://dsvplay.com/e/7hcj2s0v5711",
+      "player_url": "https://dsvplay.com/e/7hcj2s0v5711",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "7hcj2s0v5711",
+      "id": 16
+    },
+    {
+      "url": "https://voe.sx/e/yd2un3emsdon",
+      "player_url": "https://voe.sx/e/yd2un3emsdon",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "yd2un3emsdon",
+      "id": 17
+    }
+  ]
+}

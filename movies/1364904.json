@@ -1,1 +1,198 @@
-{"id":1364904,"titulo":"Un fantasma para servirte","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/t1TwPiXtkE3WlkU5r7cqKwTth0C.jpg","release_date":"2025-08-27","genres":["drama"],"rating":"6.5","backdrop":"https://image.tmdb.org/t/p/original/5IfH9Itm2WAlfZTuXj5Q9lAS1jV.jpg","overview":"Tras la trágica muerte de Nat a causa de la contaminación por polvo, March se ve consumido por el dolor. Pero su vida cotidiana da un vuelco cuando descubre que el espíritu de su mujer se ha reencarnado en una aspiradora. Por absurdo que parezca, su vínculo se reaviva, haciéndose más fuerte que nunca...","trailer":"","runtime":"130","slug":"un-fantasma-para-servirte","servidores":[{"id":1,"url":"https://streamwish.to/e/bcwbvv2jcr26","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"bcwbvv2jcr26","player_url":"https://streamwish.to/e/bcwbvv2jcr26"},{"id":2,"url":"https://bysejikuar.com/e/gb0ngjdpg5ny","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"gb0ngjdpg5ny","player_url":"https://bysejikuar.com/e/gb0ngjdpg5ny"},{"id":3,"url":"https://vidhidepro.com/v/ewi6ai69g680","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"ewi6ai69g680","player_url":"https://vidhidepro.com/v/ewi6ai69g680"},{"id":4,"url":"https://voe.sx/e/nbpmzmpuqtit","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"nbpmzmpuqtit","player_url":"https://voe.sx/e/nbpmzmpuqtit"},{"id":5,"url":"https://doodstream.com/e/mdgjj71va90h","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"mdgjj71va90h","player_url":"https://doodstream.com/e/mdgjj71va90h"},{"id":6,"url":"https://streamwish.to/e/q6fck4qbfvag","idioma":"spanish","nombre":"Streamwish","calidad":"HD","embed_id":"q6fck4qbfvag","player_url":"https://streamwish.to/e/q6fck4qbfvag"},{"id":7,"url":"https://bysejikuar.com/e/wlbeqzz4wjcy","idioma":"spanish","nombre":"Filemoon","calidad":"HD","embed_id":"wlbeqzz4wjcy","player_url":"https://bysejikuar.com/e/wlbeqzz4wjcy"},{"id":8,"url":"https://vidhidepro.com/v/48otsmk0p1ec","idioma":"spanish","nombre":"Vidhide","calidad":"HD","embed_id":"48otsmk0p1ec","player_url":"https://vidhidepro.com/v/48otsmk0p1ec"},{"id":9,"url":"https://voe.sx/e/l0msatfgsegn","idioma":"spanish","nombre":"Voesx","calidad":"HD","embed_id":"l0msatfgsegn","player_url":"https://voe.sx/e/l0msatfgsegn"},{"id":10,"url":"https://doodstream.com/e/7g4ks1726c7e","idioma":"spanish","nombre":"Doodstream","calidad":"HD","embed_id":"7g4ks1726c7e","player_url":"https://doodstream.com/e/7g4ks1726c7e"}]}
+{
+  "id": 1364904,
+  "titulo": "Un fantasma para servirte",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/t1TwPiXtkE3WlkU5r7cqKwTth0C.jpg",
+  "release_date": "2025-08-27",
+  "genres": [
+    "drama"
+  ],
+  "rating": "6.5",
+  "backdrop": "https://image.tmdb.org/t/p/original/5IfH9Itm2WAlfZTuXj5Q9lAS1jV.jpg",
+  "overview": "Tras la trágica muerte de Nat a causa de la contaminación por polvo, March se ve consumido por el dolor. Pero su vida cotidiana da un vuelco cuando descubre que el espíritu de su mujer se ha reencarnado en una aspiradora. Por absurdo que parezca, su vínculo se reaviva, haciéndose más fuerte que nunca...",
+  "trailer": "",
+  "runtime": "130",
+  "slug": "un-fantasma-para-servirte",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/bcwbvv2jcr26",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "bcwbvv2jcr26",
+      "player_url": "https://streamwish.to/e/bcwbvv2jcr26"
+    },
+    {
+      "id": 2,
+      "url": "https://bysejikuar.com/e/gb0ngjdpg5ny",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "gb0ngjdpg5ny",
+      "player_url": "https://bysejikuar.com/e/gb0ngjdpg5ny"
+    },
+    {
+      "id": 3,
+      "url": "https://vidhidepro.com/v/ewi6ai69g680",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "ewi6ai69g680",
+      "player_url": "https://vidhidepro.com/v/ewi6ai69g680"
+    },
+    {
+      "id": 4,
+      "url": "https://voe.sx/e/nbpmzmpuqtit",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "nbpmzmpuqtit",
+      "player_url": "https://voe.sx/e/nbpmzmpuqtit"
+    },
+    {
+      "id": 5,
+      "url": "https://doodstream.com/e/mdgjj71va90h",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "mdgjj71va90h",
+      "player_url": "https://doodstream.com/e/mdgjj71va90h"
+    },
+    {
+      "id": 6,
+      "url": "https://streamwish.to/e/q6fck4qbfvag",
+      "idioma": "spanish",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "q6fck4qbfvag",
+      "player_url": "https://streamwish.to/e/q6fck4qbfvag"
+    },
+    {
+      "id": 7,
+      "url": "https://bysejikuar.com/e/wlbeqzz4wjcy",
+      "idioma": "spanish",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "wlbeqzz4wjcy",
+      "player_url": "https://bysejikuar.com/e/wlbeqzz4wjcy"
+    },
+    {
+      "id": 8,
+      "url": "https://vidhidepro.com/v/48otsmk0p1ec",
+      "idioma": "spanish",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "48otsmk0p1ec",
+      "player_url": "https://vidhidepro.com/v/48otsmk0p1ec"
+    },
+    {
+      "id": 9,
+      "url": "https://voe.sx/e/l0msatfgsegn",
+      "idioma": "spanish",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "l0msatfgsegn",
+      "player_url": "https://voe.sx/e/l0msatfgsegn"
+    },
+    {
+      "id": 10,
+      "url": "https://doodstream.com/e/7g4ks1726c7e",
+      "idioma": "spanish",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "7g4ks1726c7e",
+      "player_url": "https://doodstream.com/e/7g4ks1726c7e"
+    },
+    {
+      "id": 11,
+      "url": "https://lacloud.live/public/stream/6b27402d0b5b2a1a/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/6b27402d0b5b2a1a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6b27402d0b5b2a1a"
+    },
+    {
+      "id": 12,
+      "url": "https://lalafilecdn.space/hf931d813788b30d14c219ab801d938b263a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf931d813788b30d14c219ab801d938b263a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf931d813788b30d14c219ab801d938b263a"
+    },
+    {
+      "id": 13,
+      "url": "https://lacloud.live/public/stream/41f3fb3c0841b60d/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/41f3fb3c0841b60d/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "41f3fb3c0841b60d"
+    },
+    {
+      "id": 14,
+      "url": "https://lalafilecdn.space/hf5a227ec11c3b73793f4f06148fb757bd3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf5a227ec11c3b73793f4f06148fb757bd3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf5a227ec11c3b73793f4f06148fb757bd3a"
+    },
+    {
+      "url": "https://dsvplay.com/e/ekaulo6q7546",
+      "player_url": "https://dsvplay.com/e/ekaulo6q7546",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kaulo6q7546",
+      "id": 15
+    },
+    {
+      "url": "https://voe.sx/e/l0msatfgsegn",
+      "player_url": "https://voe.sx/e/l0msatfgsegn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l0msatfgsegn",
+      "id": 16
+    },
+    {
+      "url": "https://voe.sx/e/ilkirbbjaajf",
+      "player_url": "https://voe.sx/e/ilkirbbjaajf",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ilkirbbjaajf",
+      "id": 17
+    },
+    {
+      "url": "https://dsvplay.com/e/i3gn4lv2x6h7",
+      "player_url": "https://dsvplay.com/e/i3gn4lv2x6h7",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "i3gn4lv2x6h7",
+      "id": 18
+    },
+    {
+      "url": "https://voe.sx/e/nbpmzmpuqtit",
+      "player_url": "https://voe.sx/e/nbpmzmpuqtit",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nbpmzmpuqtit",
+      "id": 19
+    },
+    {
+      "url": "https://voe.sx/e/g0flq6o5obl9",
+      "player_url": "https://voe.sx/e/g0flq6o5obl9",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "g0flq6o5obl9",
+      "id": 20
+    }
+  ]
+}

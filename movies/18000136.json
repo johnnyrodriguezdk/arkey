@@ -7,8 +7,8 @@
   "genres": [
     "terror"
   ],
-  "rating": "",
-  "backdrop": "",
+  "rating": "5.4",
+  "backdrop": "https://image.tmdb.org/t/p/original/a2EdW8sk22fNCvrpOiaHbR2hOuZ.jpg",
   "overview": "Pedro recibe un mensaje desesperado de una exnovia pidiéndole que cuide de su senil madre, Alicia. Lo que parece una misión sencilla pronto se convierte en su peor pesadilla. Pedro necesita escapar; pero Alicia no lo deja...",
   "trailer": "",
   "runtime": "1h 31m",
@@ -24,6 +24,105 @@
       "nombre": "Caelum Proxy",
       "idioma": "latino",
       "calidad": "HD"
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/c1f4c374e47f2c65/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/c1f4c374e47f2c65/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c1f4c374e47f2c65"
+    },
+    {
+      "id": 3,
+      "url": "https://lalafilecdn.space/hf76c308379901caa3100aced5f8fbb7d83a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf76c308379901caa3100aced5f8fbb7d83a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf76c308379901caa3100aced5f8fbb7d83a"
+    },
+    {
+      "url": "https://streamfort.online/e/ydtlokbyigrv",
+      "player_url": "https://streamfort.online/e/ydtlokbyigrv",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ydtlokbyigrv",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/8lxmh548bx4b",
+      "player_url": "https://voe.sx/e/8lxmh548bx4b",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "8lxmh548bx4b",
+      "id": 5
+    },
+    {
+      "url": "https://voe.sx/e/f6qzreqyt1w3",
+      "player_url": "https://voe.sx/e/f6qzreqyt1w3",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f6qzreqyt1w3",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "url": "https://minochinos.com/download/5n6jq6uftqjn",
+      "player_url": "https://minochinos.com/download/5n6jq6uftqjn",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5n6jq6uftqjn"
+    },
+    {
+      "id": 8,
+      "url": "https://ghbrisk.com/d/pbik9jrpy1vz",
+      "player_url": "https://ghbrisk.com/d/pbik9jrpy1vz",
+      "nombre": "Ghbrisk",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "pbik9jrpy1vz"
+    },
+    {
+      "id": 9,
+      "url": "https://bysedikamoum.com/download/91atu2yju6sv",
+      "player_url": "https://bysedikamoum.com/download/91atu2yju6sv",
+      "nombre": "Filemoon",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "91atu2yju6sv"
+    },
+    {
+      "id": 10,
+      "url": "https://voe.sx/e/kdw10nsp9acc",
+      "player_url": "https://voe.sx/e/kdw10nsp9acc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kdw10nsp9acc"
+    },
+    {
+      "id": 11,
+      "url": "https://voe.sx/kdw10nsp9acc/download",
+      "player_url": "https://voe.sx/kdw10nsp9acc/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 12,
+      "url": "https://rapidvideo.link/e/ktuvh34xai8r",
+      "player_url": "https://rapidvideo.link/e/ktuvh34xai8r",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ktuvh34xai8r"
     }
   ],
   "_caelum_merged": true

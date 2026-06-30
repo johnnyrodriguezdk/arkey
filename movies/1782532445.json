@@ -1,0 +1,50 @@
+{
+  "id": 1782532445,
+  "titulo": "Toy Story 5",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/7c1bc13be224c2dc020fdcdc6604a49c.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "animacion",
+    "aventura",
+    "comedia",
+    "familia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+  "trailer": "",
+  "runtime": "",
+  "slug": "toy-story-5",
+  "iframe_url": "https://lacloud.live/c7c6e2bdaa5c2b7f",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/c7c6e2bdaa5c2b7f/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/c7c6e2bdaa5c2b7f/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c7c6e2bdaa5c2b7f"
+    },
+    {
+      "id": 2,
+      "url": "https://lalafilecdn.space/hf6eadb0da72086f0b5cd4eb50e52d655c3a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf6eadb0da72086f0b5cd4eb50e52d655c3a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf6eadb0da72086f0b5cd4eb50e52d655c3a"
+    },
+    {
+      "url": "https://streamfort.online/e/macbpevrlb2u",
+      "player_url": "https://streamfort.online/e/macbpevrlb2u",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "macbpevrlb2u",
+      "id": 3
+    }
+  ]
+}

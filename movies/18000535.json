@@ -4,7 +4,13 @@
   "titulo_orig": "",
   "poster": "https://image.tmdb.org/t/p/w500/fJdnp5OO2wh07tdy6noACNyaqMJ.jpg",
   "release_date": "2025-01-01",
-  "genres": [],
+  "genres": [
+    "accion",
+    "animacion",
+    "aventura",
+    "ciencia-ficcion",
+    "fantasia"
+  ],
   "rating": "",
   "backdrop": "",
   "overview": "Denji trabajaba como cazador de demonios para la yakuza, tratando de saldar la deuda que había heredado de sus padres, pero la yakuza lo traicionó y lo mató. Antes de perder el conocimiento, Pochita, el perro-demonio motosierra de Denji, hizo un trato con él y le salvó la vida. Así se fusionaron, creando al imparable Chainsaw Man. Ahora, en medio de una brutal guerra entre demonios, cazadores y enemigos secretos, una misteriosa chica llamada Reze irrumpe en su mundo y Denji se enfrenta a su batalla más mortífera, impulsado por el amor, en un mundo donde la supervivencia no conoce reglas.",
@@ -22,6 +28,87 @@
       "nombre": "Caelum Proxy",
       "idioma": "latino",
       "calidad": "HD"
+    },
+    {
+      "url": "https://voe.sx/e/1c6xxn71zm60",
+      "player_url": "https://voe.sx/e/1c6xxn71zm60",
+      "nombre": "Voe",
+      "idioma": "japones",
+      "calidad": "HD",
+      "embed_id": "1c6xxn71zm60",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "url": "https://lalafilecdn.space/hf9d51f6548283f5c8b55275e85e27c9033a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hf9d51f6548283f5c8b55275e85e27c9033a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hf9d51f6548283f5c8b55275e85e27c9033a"
+    },
+    {
+      "url": "https://streamfort.online/e/o999uxhf5io6",
+      "player_url": "https://streamfort.online/e/o999uxhf5io6",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "o999uxhf5io6",
+      "id": 4
+    },
+    {
+      "url": "https://streamfort.online/e/0c08b5scl8mu",
+      "player_url": "https://streamfort.online/e/0c08b5scl8mu",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "0c08b5scl8mu",
+      "id": 5
+    },
+    {
+      "url": "https://vidnova.online/embed/ivqthxr5rrag",
+      "player_url": "https://vidnova.online/embed/ivqthxr5rrag",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "ivqthxr5rrag",
+      "id": 6
+    },
+    {
+      "url": "https://vidnova.online/embed/vlc3bk6zq1y0",
+      "player_url": "https://vidnova.online/embed/vlc3bk6zq1y0",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "vlc3bk6zq1y0",
+      "id": 7
+    },
+    {
+      "url": "https://dsvplay.com/e/apumilg3vyqd",
+      "player_url": "https://dsvplay.com/e/apumilg3vyqd",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "apumilg3vyqd",
+      "id": 8
+    },
+    {
+      "url": "https://dsvplay.com/e/3nq7mi8ofzfb",
+      "player_url": "https://dsvplay.com/e/3nq7mi8ofzfb",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "3nq7mi8ofzfb",
+      "id": 9
+    },
+    {
+      "url": "https://voe.sx/e/f601a75lowax",
+      "player_url": "https://voe.sx/e/f601a75lowax",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f601a75lowax",
+      "id": 10
     }
   ],
   "_caelum_merged": true

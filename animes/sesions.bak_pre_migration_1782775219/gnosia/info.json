@@ -1,47 +1,25 @@
 {
-  "id": 105894671,
+  "id": 1550314748,
   "titulo": "Gnosia",
   "titulo_orig": "",
-  "poster": "https://image.tmdb.org/t/p/w500/2D4j3VlE2ZzNroic5imNLBQXGi.jpg",
-  "release_date": "2025-01-01",
-  "genres": [
-    "animacion",
-    "misterio",
-    "sci-fi-fantasy"
-  ],
+  "poster": "https://hj.animejara.com/api-web/img/hgYLAH8F54gRbS4fEew7koDN2lYjpg.webp",
+  "release_date": "",
+  "genres": [],
   "rating": "",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/4QwxPBOohSQX3nPFN6pb6uBosMd.jpg",
-  "overview": "En una nave a la deriva, la tripulación enfrenta a los Gnosia, seres que se camuflan como humanos para aniquilarlos. Cada día, deben elegir a alguien para el “sueño frío”, esperando detener la amenaza. Pero la incertidumbre persiste: ¿están eliminando al enemigo o a un inocente?",
+  "backdrop": "",
+  "overview": "Vamos a caminar y hablar. ¿Puedes levantarte? La Gnosia miente. Fingiendo ser humanos, se acercan, engañan y decepcionan, y luego erradican a cada persona en...",
   "slug": "gnosia",
-  "source": "caelum",
-  "type": "serie",
-  "tmdb_id": 278604,
-  "total_episodes": 18,
+  "source": "animejara",
+  "type": "anime",
+  "anime_id": "4468",
+  "anime_id_wp": "23263",
+  "total_episodes": 21,
   "total_temporadas": 1,
   "temporadas": [
     {
       "numero": 1,
-      "poster": "https://image.tmdb.org/t/p/w500/2D4j3VlE2ZzNroic5imNLBQXGi.jpg",
-      "episodios_count": 18
+      "poster": "https://hj.animejara.com/api-web/img/hgYLAH8F54gRbS4fEew7koDN2lYjpg.webp",
+      "episodios_count": 21
     }
-  ],
-  "servidores": [
-    {
-      "id": 1,
-      "server": "Caelum Direct",
-      "url": "",
-      "player_url": "",
-      "nombre": "Caelum Direct",
-      "idioma": "latino",
-      "calidad": "HD"
-    }
-  ],
-  "caelum_sources": [
-    {
-      "caelum_id": 278604,
-      "matched_by": "slug"
-    }
-  ],
-  "_caelum_merged": true,
-  "caelum_tmdb_id": 278604
+  ]
 }
