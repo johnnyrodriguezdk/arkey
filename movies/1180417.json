@@ -1,1 +1,189 @@
-{"id":1180417,"titulo":"The Dutchman","titulo_orig":"","poster":"https://image.tmdb.org/t/p/original/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg","release_date":"2026-01-02","genres":["drama"],"rating":"4.6","backdrop":"https://image.tmdb.org/t/p/original/bUktSJyiZIs4qPpMopjz2NMY0s9.jpg","overview":"Un exitoso empresario negro, atormentado por su infeliz matrimonio y una crisis de identidad, se ve inmerso en un juego sexualizado del gato y el ratón con una misteriosa mujer blanca que les deparará consecuencias imprevisibles.","trailer":"","runtime":"95","slug":"the-dutchman","servidores":[{"id":1,"url":"https://streamwish.to/e/sfh8hgi00knl","idioma":"latino","nombre":"Streamwish","calidad":"SCR","embed_id":"sfh8hgi00knl","player_url":"https://streamwish.to/e/sfh8hgi00knl"},{"id":2,"url":"https://vidhidepro.com/v/twox47fdykfl","idioma":"latino","nombre":"Vidhide","calidad":"SCR","embed_id":"twox47fdykfl","player_url":"https://vidhidepro.com/v/twox47fdykfl"},{"id":3,"url":"https://voe.sx/e/eepycows1otf","idioma":"latino","nombre":"Voesx","calidad":"SCR","embed_id":"eepycows1otf","player_url":"https://voe.sx/e/eepycows1otf"},{"id":4,"url":"https://doodstream.com/e/8e7ynvyxfpht","idioma":"latino","nombre":"Doodstream","calidad":"SCR","embed_id":"8e7ynvyxfpht","player_url":"https://doodstream.com/e/8e7ynvyxfpht"},{"id":5,"url":"https://streamwish.to/e/5vskkws2xvrb","idioma":"english","nombre":"Streamwish","calidad":"HD","embed_id":"5vskkws2xvrb","player_url":"https://streamwish.to/e/5vskkws2xvrb"},{"id":6,"url":"https://bysejikuar.com/e/35f8dyxgxos9","idioma":"english","nombre":"Filemoon","calidad":"HD","embed_id":"35f8dyxgxos9","player_url":"https://bysejikuar.com/e/35f8dyxgxos9"},{"id":7,"url":"https://vidhidepro.com/v/hgzny7wgdeg3","idioma":"english","nombre":"Vidhide","calidad":"HD","embed_id":"hgzny7wgdeg3","player_url":"https://vidhidepro.com/v/hgzny7wgdeg3"},{"id":8,"url":"https://voe.sx/e/ysoyuhbbekv0","idioma":"english","nombre":"Voesx","calidad":"HD","embed_id":"ysoyuhbbekv0","player_url":"https://voe.sx/e/ysoyuhbbekv0"},{"id":9,"url":"https://doodstream.com/e/ygtcq7o883dc","idioma":"english","nombre":"Doodstream","calidad":"HD","embed_id":"ygtcq7o883dc","player_url":"https://doodstream.com/e/ygtcq7o883dc"}]}
+{
+  "id": 1180417,
+  "titulo": "The Dutchman",
+  "titulo_orig": "",
+  "poster": "https://image.tmdb.org/t/p/original/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg",
+  "release_date": "2026-01-02",
+  "genres": [
+    "drama"
+  ],
+  "rating": "4.6",
+  "backdrop": "https://image.tmdb.org/t/p/original/bUktSJyiZIs4qPpMopjz2NMY0s9.jpg",
+  "overview": "Un exitoso empresario negro, atormentado por su infeliz matrimonio y una crisis de identidad, se ve inmerso en un juego sexualizado del gato y el ratón con una misteriosa mujer blanca que les deparará consecuencias imprevisibles.",
+  "trailer": "",
+  "runtime": "95",
+  "slug": "the-dutchman",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://streamwish.to/e/sfh8hgi00knl",
+      "idioma": "latino",
+      "nombre": "Streamwish",
+      "calidad": "SCR",
+      "embed_id": "sfh8hgi00knl",
+      "player_url": "https://streamwish.to/e/sfh8hgi00knl"
+    },
+    {
+      "id": 2,
+      "url": "https://vidhidepro.com/v/twox47fdykfl",
+      "idioma": "latino",
+      "nombre": "Vidhide",
+      "calidad": "SCR",
+      "embed_id": "twox47fdykfl",
+      "player_url": "https://vidhidepro.com/v/twox47fdykfl"
+    },
+    {
+      "id": 3,
+      "url": "https://voe.sx/e/eepycows1otf",
+      "idioma": "latino",
+      "nombre": "Voesx",
+      "calidad": "SCR",
+      "embed_id": "eepycows1otf",
+      "player_url": "https://voe.sx/e/eepycows1otf"
+    },
+    {
+      "id": 4,
+      "url": "https://doodstream.com/e/8e7ynvyxfpht",
+      "idioma": "latino",
+      "nombre": "Doodstream",
+      "calidad": "SCR",
+      "embed_id": "8e7ynvyxfpht",
+      "player_url": "https://doodstream.com/e/8e7ynvyxfpht"
+    },
+    {
+      "id": 5,
+      "url": "https://streamwish.to/e/5vskkws2xvrb",
+      "idioma": "english",
+      "nombre": "Streamwish",
+      "calidad": "HD",
+      "embed_id": "5vskkws2xvrb",
+      "player_url": "https://streamwish.to/e/5vskkws2xvrb"
+    },
+    {
+      "id": 6,
+      "url": "https://bysejikuar.com/e/35f8dyxgxos9",
+      "idioma": "english",
+      "nombre": "Filemoon",
+      "calidad": "HD",
+      "embed_id": "35f8dyxgxos9",
+      "player_url": "https://bysejikuar.com/e/35f8dyxgxos9"
+    },
+    {
+      "id": 7,
+      "url": "https://vidhidepro.com/v/hgzny7wgdeg3",
+      "idioma": "english",
+      "nombre": "Vidhide",
+      "calidad": "HD",
+      "embed_id": "hgzny7wgdeg3",
+      "player_url": "https://vidhidepro.com/v/hgzny7wgdeg3"
+    },
+    {
+      "id": 8,
+      "url": "https://voe.sx/e/ysoyuhbbekv0",
+      "idioma": "english",
+      "nombre": "Voesx",
+      "calidad": "HD",
+      "embed_id": "ysoyuhbbekv0",
+      "player_url": "https://voe.sx/e/ysoyuhbbekv0"
+    },
+    {
+      "id": 9,
+      "url": "https://doodstream.com/e/ygtcq7o883dc",
+      "idioma": "english",
+      "nombre": "Doodstream",
+      "calidad": "HD",
+      "embed_id": "ygtcq7o883dc",
+      "player_url": "https://doodstream.com/e/ygtcq7o883dc"
+    },
+    {
+      "id": 10,
+      "url": "https://minochinos.com/download/okmlpouc4879",
+      "player_url": "https://minochinos.com/download/okmlpouc4879",
+      "nombre": "Vidhide",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "okmlpouc4879"
+    },
+    {
+      "id": 11,
+      "url": "https://ghbrisk.com/d/nfs4b3qwwtrw",
+      "player_url": "https://ghbrisk.com/d/nfs4b3qwwtrw",
+      "nombre": "Ghbrisk",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "nfs4b3qwwtrw"
+    },
+    {
+      "id": 12,
+      "url": "https://voe.sx/e/c6ta9kwguizn",
+      "player_url": "https://voe.sx/e/c6ta9kwguizn",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c6ta9kwguizn"
+    },
+    {
+      "id": 13,
+      "url": "https://voe.sx/c6ta9kwguizn/download",
+      "player_url": "https://voe.sx/c6ta9kwguizn/download",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 14,
+      "url": "https://rapidvideo.link/e/5ndmteu7klhs",
+      "player_url": "https://rapidvideo.link/e/5ndmteu7klhs",
+      "nombre": "Rapidvideo",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "5ndmteu7klhs"
+    },
+    {
+      "id": 15,
+      "url": "https://minochinos.com/download/72fz1f3qtcfv",
+      "player_url": "https://minochinos.com/download/72fz1f3qtcfv",
+      "nombre": "Vidhide",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "72fz1f3qtcfv"
+    },
+    {
+      "id": 16,
+      "url": "https://ghbrisk.com/d/fxkxwuachoog",
+      "player_url": "https://ghbrisk.com/d/fxkxwuachoog",
+      "nombre": "Ghbrisk",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "fxkxwuachoog"
+    },
+    {
+      "id": 17,
+      "url": "https://voe.sx/e/4ywoyqaehran",
+      "player_url": "https://voe.sx/e/4ywoyqaehran",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "4ywoyqaehran"
+    },
+    {
+      "id": 18,
+      "url": "https://voe.sx/4ywoyqaehran/download",
+      "player_url": "https://voe.sx/4ywoyqaehran/download",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "download"
+    },
+    {
+      "id": 19,
+      "url": "https://rapidvideo.link/e/y6b81zewqf3x",
+      "player_url": "https://rapidvideo.link/e/y6b81zewqf3x",
+      "nombre": "Rapidvideo",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "y6b81zewqf3x"
+    }
+  ]
+}
