@@ -14,7 +14,44 @@
   "slug": "jitsu-wa-watashi-wa",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lalafilecdn.space/hffe3f8f917b402ecab6ca903669e29ec33a/master.m3u8",
+      "player_url": "https://lalafilecdn.space/hffe3f8f917b402ecab6ca903669e29ec33a/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hffe3f8f917b402ecab6ca903669e29ec33a"
+    },
+    {
+      "url": "https://streamfort.online/e/algrm4772fm4",
+      "player_url": "https://streamfort.online/e/algrm4772fm4",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "algrm4772fm4",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/hkmtedv9z29k",
+      "player_url": "https://dsvplay.com/e/hkmtedv9z29k",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "hkmtedv9z29k",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/l7cfdfz718rc",
+      "player_url": "https://voe.sx/e/l7cfdfz718rc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "l7cfdfz718rc",
+      "id": 4
+    }
+  ],
   "episodes": [
     {
       "season": 1,
