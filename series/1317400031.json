@@ -15,7 +15,53 @@
   "slug": "passenger",
   "iframe_url": "",
   "source": "lamovie",
-  "servidores": [],
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/wym3siu2pkda",
+      "player_url": "https://streamfort.online/e/wym3siu2pkda",
+      "nombre": "StreamFort",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "wym3siu2pkda",
+      "id": 1
+    },
+    {
+      "url": "https://streamfort.online/e/dzvuwdhdd64c",
+      "player_url": "https://streamfort.online/e/dzvuwdhdd64c",
+      "nombre": "StreamFort",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "dzvuwdhdd64c",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/st3lbb5zydj2",
+      "player_url": "https://dsvplay.com/e/st3lbb5zydj2",
+      "nombre": "Server",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "st3lbb5zydj2",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/6u4mc50sz9ij",
+      "player_url": "https://dsvplay.com/e/6u4mc50sz9ij",
+      "nombre": "Server",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "6u4mc50sz9ij",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/l492wtjafho4",
+      "player_url": "https://voe.sx/e/l492wtjafho4",
+      "nombre": "Voe",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "l492wtjafho4",
+      "id": 5
+    }
+  ],
   "episodes": [
     {
       "season": 1,
