@@ -78,6 +78,24 @@
       "calidad": "HD",
       "embed_id": "kezhtvmumixb",
       "id": 7
+    },
+    {
+      "id": 8,
+      "url": "https://lacloud.live/public/stream/592778897032ec6c/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/592778897032ec6c/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "592778897032ec6c"
+    },
+    {
+      "id": 9,
+      "url": "https://lacloud.live/public/stream/194554e3b807ce63/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/194554e3b807ce63/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "194554e3b807ce63"
     }
   ],
   "episodes": [
