@@ -1,0 +1,124 @@
+{
+  "id": 248290286,
+  "titulo": "Shikimori&#039;s Not Just a Cutie",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/37e82b59af48f2014f73b0a869ebac36.webp",
+  "release_date": "2022-01-01",
+  "genres": [
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Shikimori parece ser la novia perfecta: linda, divertida y dulce como nadie... pero en realidad tiene cierto lado más oscuro que sale a la luz bajo ciertas ",
+  "slug": "shikimoris-not-just-a-cutie",
+  "iframe_url": "https://voe.sx/e/huufcr6h0hjb",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "url": "https://voe.sx/e/huufcr6h0hjb",
+      "player_url": "https://voe.sx/e/huufcr6h0hjb",
+      "nombre": "Voe",
+      "idioma": "japones",
+      "calidad": "HD",
+      "embed_id": "huufcr6h0hjb",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "url": "https://lacloud.live/public/stream/6e172bb6f720f2d3/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/6e172bb6f720f2d3/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "6e172bb6f720f2d3"
+    },
+    {
+      "url": "https://streamfort.online/e/kvl5sr3xlw4b",
+      "player_url": "https://streamfort.online/e/kvl5sr3xlw4b",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kvl5sr3xlw4b",
+      "id": 3
+    },
+    {
+      "url": "https://streamfort.online/e/atdj3a3jt8l1",
+      "player_url": "https://streamfort.online/e/atdj3a3jt8l1",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "atdj3a3jt8l1",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/kvrxez7acfpc",
+      "player_url": "https://voe.sx/e/kvrxez7acfpc",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "kvrxez7acfpc",
+      "id": 5
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/shikimoris-not-just-a-cutie?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "url": "https://voe.sx/e/huufcr6h0hjb",
+          "player_url": "https://voe.sx/e/huufcr6h0hjb",
+          "nombre": "Voe",
+          "idioma": "japones",
+          "calidad": "HD",
+          "embed_id": "huufcr6h0hjb",
+          "id": 1
+        },
+        {
+          "id": 2,
+          "url": "https://lacloud.live/public/stream/6e172bb6f720f2d3/master.m3u8",
+          "player_url": "https://lacloud.live/public/stream/6e172bb6f720f2d3/master.m3u8",
+          "nombre": "LaCloud",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "6e172bb6f720f2d3"
+        },
+        {
+          "url": "https://streamfort.online/e/kvl5sr3xlw4b",
+          "player_url": "https://streamfort.online/e/kvl5sr3xlw4b",
+          "nombre": "StreamFort",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "kvl5sr3xlw4b",
+          "id": 3
+        },
+        {
+          "url": "https://streamfort.online/e/atdj3a3jt8l1",
+          "player_url": "https://streamfort.online/e/atdj3a3jt8l1",
+          "nombre": "StreamFort",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "atdj3a3jt8l1",
+          "id": 4
+        },
+        {
+          "url": "https://voe.sx/e/kvrxez7acfpc",
+          "player_url": "https://voe.sx/e/kvrxez7acfpc",
+          "nombre": "Voe",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "kvrxez7acfpc",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
