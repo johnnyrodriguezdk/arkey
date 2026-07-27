@@ -1,0 +1,88 @@
+{
+  "id": 1389718164,
+  "titulo": "Una venida de altura",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/f4901fe9f7579de134a23723831738ac.webp",
+  "release_date": "2018-01-01",
+  "genres": [
+    "animacion",
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Aikawa Sousuke es una trabajador de medio tiempo que vive en un apartamento deteriorado. Un día oye un crujido en el techo y, de repente, la residente del d",
+  "slug": "una-venida-de-altura",
+  "iframe_url": "https://streamfort.online/e/z7060w7uta3v",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "url": "https://streamfort.online/e/z7060w7uta3v",
+      "player_url": "https://streamfort.online/e/z7060w7uta3v",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "z7060w7uta3v",
+      "id": 1
+    },
+    {
+      "url": "https://vidnova.online/embed/",
+      "player_url": "https://vidnova.online/embed/",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "mbed",
+      "id": 2
+    },
+    {
+      "url": "https://voe.sx/e/cb6mztsarrwo",
+      "player_url": "https://voe.sx/e/cb6mztsarrwo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "cb6mztsarrwo",
+      "id": 3
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/una-venida-de-altura?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "url": "https://streamfort.online/e/z7060w7uta3v",
+          "player_url": "https://streamfort.online/e/z7060w7uta3v",
+          "nombre": "StreamFort",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "z7060w7uta3v",
+          "id": 1
+        },
+        {
+          "url": "https://vidnova.online/embed/",
+          "player_url": "https://vidnova.online/embed/",
+          "nombre": "Vidnova",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "mbed",
+          "id": 2
+        },
+        {
+          "url": "https://voe.sx/e/cb6mztsarrwo",
+          "player_url": "https://voe.sx/e/cb6mztsarrwo",
+          "nombre": "Voe",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "cb6mztsarrwo",
+          "id": 3
+        }
+      ]
+    }
+  ]
+}
