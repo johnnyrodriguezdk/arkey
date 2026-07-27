@@ -79,6 +79,24 @@
       "calidad": "HD",
       "embed_id": "jejb9q0dk5wl",
       "id": 7
+    },
+    {
+      "id": 8,
+      "url": "https://lacloud.live/public/stream/c1e962d43c259e5e/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/c1e962d43c259e5e/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c1e962d43c259e5e"
+    },
+    {
+      "id": 9,
+      "url": "https://lacloud.live/public/stream/f4d031fed721074d/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/f4d031fed721074d/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "subtitulado",
+      "calidad": "HD",
+      "embed_id": "f4d031fed721074d"
     }
   ],
   "episodes": [
