@@ -1,0 +1,106 @@
+{
+  "id": 1514741926,
+  "titulo": "Locker Diaries: Phineas And Ferb",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/533b878d8231617eeaad0b9543a206d1.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "animacion",
+    "familia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Class is back in session for Phineas And Ferb! But that doesn&#039;t mean the fun has to end. From inside school lockers, we follow the stepbrothers on new adven",
+  "slug": "locker-diaries-phineas-and-ferb",
+  "iframe_url": "https://lacloud.live/111dc1bee2eec0c7",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/111dc1bee2eec0c7/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/111dc1bee2eec0c7/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "111dc1bee2eec0c7"
+    },
+    {
+      "url": "https://streamfort.online/e/4mbsnc3fp28t",
+      "player_url": "https://streamfort.online/e/4mbsnc3fp28t",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "4mbsnc3fp28t",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/c103ambiv07i",
+      "player_url": "https://dsvplay.com/e/c103ambiv07i",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c103ambiv07i",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/f1awqk8wsypo",
+      "player_url": "https://voe.sx/e/f1awqk8wsypo",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "f1awqk8wsypo",
+      "id": 4
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/locker-diaries-phineas-and-ferb?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://lacloud.live/public/stream/111dc1bee2eec0c7/master.m3u8",
+          "player_url": "https://lacloud.live/public/stream/111dc1bee2eec0c7/master.m3u8",
+          "nombre": "LaCloud",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "111dc1bee2eec0c7"
+        },
+        {
+          "url": "https://streamfort.online/e/4mbsnc3fp28t",
+          "player_url": "https://streamfort.online/e/4mbsnc3fp28t",
+          "nombre": "StreamFort",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "4mbsnc3fp28t",
+          "id": 2
+        },
+        {
+          "url": "https://dsvplay.com/e/c103ambiv07i",
+          "player_url": "https://dsvplay.com/e/c103ambiv07i",
+          "nombre": "Server",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "c103ambiv07i",
+          "id": 3
+        },
+        {
+          "url": "https://voe.sx/e/f1awqk8wsypo",
+          "player_url": "https://voe.sx/e/f1awqk8wsypo",
+          "nombre": "Voe",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "f1awqk8wsypo",
+          "id": 4
+        }
+      ]
+    }
+  ]
+}
