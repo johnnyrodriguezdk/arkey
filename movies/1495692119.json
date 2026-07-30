@@ -1,0 +1,65 @@
+{
+  "id": 1495692119,
+  "titulo": "Speed Demon",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/0900b2e546cb5e01119939dfde9f2025.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "terror"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "A bordo de un tren de alta velocidad, una monja que perdió la fe debe realizar su primer exorcismo a un pasajero poseído empeñado en estrellar el tren desbo",
+  "trailer": "",
+  "runtime": "",
+  "slug": "speed-demon",
+  "iframe_url": "https://lacloud.live/aef5afc47cb4a856",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/aef5afc47cb4a856/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/aef5afc47cb4a856/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "aef5afc47cb4a856"
+    },
+    {
+      "url": "https://streamfort.online/e/tvez8x87g9xs",
+      "player_url": "https://streamfort.online/e/tvez8x87g9xs",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tvez8x87g9xs",
+      "id": 2
+    },
+    {
+      "url": "https://vidnova.online/embed/x5kr740vj0tf",
+      "player_url": "https://vidnova.online/embed/x5kr740vj0tf",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "x5kr740vj0tf",
+      "id": 3
+    },
+    {
+      "url": "https://dsvplay.com/e/wplotp4651bn",
+      "player_url": "https://dsvplay.com/e/wplotp4651bn",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wplotp4651bn",
+      "id": 4
+    },
+    {
+      "url": "https://voe.sx/e/exruvpbcw9ja",
+      "player_url": "https://voe.sx/e/exruvpbcw9ja",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xruvpbcw9ja",
+      "id": 5
+    }
+  ]
+}
