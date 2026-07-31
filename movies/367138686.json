@@ -1,0 +1,58 @@
+{
+  "id": 367138686,
+  "titulo": "Spider-Man: Un nuevo día",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/1d44a1f32c916debdadfa721ebbd864d.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "accion",
+    "aventura",
+    "ciencia-ficcion"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misteri",
+  "trailer": "",
+  "runtime": "",
+  "slug": "spider-man-un-nuevo-dia",
+  "iframe_url": "https://lacloud.live/2ec683fa192e21c4",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/2ec683fa192e21c4/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/2ec683fa192e21c4/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "2ec683fa192e21c4"
+    },
+    {
+      "url": "https://streamfort.online/e/xymttuqtdk13",
+      "player_url": "https://streamfort.online/e/xymttuqtdk13",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xymttuqtdk13",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/u0t8l1aj1upn",
+      "player_url": "https://dsvplay.com/e/u0t8l1aj1upn",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "u0t8l1aj1upn",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/rcpzj8deddzu",
+      "player_url": "https://voe.sx/e/rcpzj8deddzu",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rcpzj8deddzu",
+      "id": 4
+    }
+  ]
+}
