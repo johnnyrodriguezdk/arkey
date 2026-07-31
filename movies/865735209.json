@@ -1,0 +1,58 @@
+{
+  "id": 865735209,
+  "titulo": "Pinocho: Sin cuerdas",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/75f5a325280e4f8d8402d0300e9da4f7.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "fantasia",
+    "misterio",
+    "terror"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Un niño llamado James visita a su abuelo, Geppetto, quien le presenta a Pinocho, una marioneta de madera aparentemente mágica, para convertirse en su mejor ",
+  "trailer": "",
+  "runtime": "",
+  "slug": "pinocho-sin-cuerdas",
+  "iframe_url": "https://lacloud.live/d0624310e7d31c5f",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/d0624310e7d31c5f/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/d0624310e7d31c5f/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "d0624310e7d31c5f"
+    },
+    {
+      "url": "https://vidnova.online/embed/rgpkbwrx5vtg",
+      "player_url": "https://vidnova.online/embed/rgpkbwrx5vtg",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "rgpkbwrx5vtg",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/lhg4ticxlotp",
+      "player_url": "https://dsvplay.com/e/lhg4ticxlotp",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "lhg4ticxlotp",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/r8hjfcjpjtrd",
+      "player_url": "https://voe.sx/e/r8hjfcjpjtrd",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "r8hjfcjpjtrd",
+      "id": 4
+    }
+  ]
+}
