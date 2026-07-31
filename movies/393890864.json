@@ -1,0 +1,58 @@
+{
+  "id": 393890864,
+  "titulo": "Solo por una noche",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/da0276616a3e13b74f457ac86c15c3e8.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "ciencia-ficcion",
+    "comedia",
+    "romance"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Dos desconocidos, ávidos de amor, se topan por casualidad en la única noche del año en que las personas solteras tienen permitido tener relaciones sexuales.",
+  "trailer": "",
+  "runtime": "",
+  "slug": "solo-por-una-noche",
+  "iframe_url": "https://lacloud.live/c4bf36c1fb42bbb9",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/c4bf36c1fb42bbb9/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/c4bf36c1fb42bbb9/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "c4bf36c1fb42bbb9"
+    },
+    {
+      "url": "https://vidnova.online/embed/tfrhbxh0v0pf",
+      "player_url": "https://vidnova.online/embed/tfrhbxh0v0pf",
+      "nombre": "Vidnova",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "tfrhbxh0v0pf",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/wffi38odx6io",
+      "player_url": "https://dsvplay.com/e/wffi38odx6io",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "wffi38odx6io",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/amssyzpfytuz",
+      "player_url": "https://voe.sx/e/amssyzpfytuz",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "amssyzpfytuz",
+      "id": 4
+    }
+  ]
+}
