@@ -1,0 +1,105 @@
+{
+  "id": 284758,
+  "titulo": "La banda",
+  "titulo_orig": "",
+  "poster": "https://cuevacdn.store/cover/thumb/ad0ca0bad566bac4acce21e459b10e16.webp",
+  "release_date": "2026-01-01",
+  "genres": [
+    "comedia"
+  ],
+  "rating": "",
+  "backdrop": "",
+  "overview": "Víctor le confía a Rafael sus intenciones de dejarle la empresa y muere repentinamente. Andy, su hijo, reclama la herencia. Andy está decidido a vender la f",
+  "slug": "la-banda-284758",
+  "iframe_url": "https://lacloud.live/69175697ff7f2a67",
+  "source": "lamovie",
+  "servidores": [
+    {
+      "id": 1,
+      "url": "https://lacloud.live/public/stream/69175697ff7f2a67/master.m3u8",
+      "player_url": "https://lacloud.live/public/stream/69175697ff7f2a67/master.m3u8",
+      "nombre": "LaCloud",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "69175697ff7f2a67"
+    },
+    {
+      "url": "https://streamfort.online/e/jsp58jkgfj7c",
+      "player_url": "https://streamfort.online/e/jsp58jkgfj7c",
+      "nombre": "StreamFort",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jsp58jkgfj7c",
+      "id": 2
+    },
+    {
+      "url": "https://dsvplay.com/e/xjrgscjkp5w7",
+      "player_url": "https://dsvplay.com/e/xjrgscjkp5w7",
+      "nombre": "Server",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "xjrgscjkp5w7",
+      "id": 3
+    },
+    {
+      "url": "https://voe.sx/e/jm8o1tconirj",
+      "player_url": "https://voe.sx/e/jm8o1tconirj",
+      "nombre": "Voe",
+      "idioma": "latino",
+      "calidad": "HD",
+      "embed_id": "jm8o1tconirj",
+      "id": 4
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "embed_url": "/series/la-banda-284758?season=1&ep=1"
+    }
+  ],
+  "episode_servers": [
+    {
+      "season": 1,
+      "episode": 1,
+      "servidores": [
+        {
+          "id": 1,
+          "url": "https://lacloud.live/public/stream/69175697ff7f2a67/master.m3u8",
+          "player_url": "https://lacloud.live/public/stream/69175697ff7f2a67/master.m3u8",
+          "nombre": "LaCloud",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "69175697ff7f2a67"
+        },
+        {
+          "url": "https://streamfort.online/e/jsp58jkgfj7c",
+          "player_url": "https://streamfort.online/e/jsp58jkgfj7c",
+          "nombre": "StreamFort",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "jsp58jkgfj7c",
+          "id": 2
+        },
+        {
+          "url": "https://dsvplay.com/e/xjrgscjkp5w7",
+          "player_url": "https://dsvplay.com/e/xjrgscjkp5w7",
+          "nombre": "Server",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "xjrgscjkp5w7",
+          "id": 3
+        },
+        {
+          "url": "https://voe.sx/e/jm8o1tconirj",
+          "player_url": "https://voe.sx/e/jm8o1tconirj",
+          "nombre": "Voe",
+          "idioma": "latino",
+          "calidad": "HD",
+          "embed_id": "jm8o1tconirj",
+          "id": 4
+        }
+      ]
+    }
+  ]
+}
